@@ -3,7 +3,7 @@
 > **포켓몬 독립 복제본 우선 규칙 (2026-11-09)**: 작업 대상은 이 저장소
 > `Phonics Hero Pokemon`뿐이다. 원본 `Phonics Hero` 수정·커밋·푸시·배포 금지.
 > 원본 origin 재연결 및 원본 GitHub Pages 덮어쓰기 금지. 아래/다른 문서의
-> main 푸시·기존 배포 지시는 이 복제본에는 적용하지 않는다. 별도 배포 대상 미정.
+> 배포 대상은 사용자 승인한 `yum-sy/phonics-poke`와 `/phonics-poke/`뿐이다.
 > 포켓몬 구현은 승인되었다. 확정 배치는 `design/pokemon-phonics/`에 있으며 학습/음성 계약을 보존한다.
 
 **먼저 읽을 순서**: `HANDOFF.md`(지금 중단된 지점 + 다음 할 일) →
@@ -32,7 +32,7 @@
 ## 개발
 - `npm install && npm run dev -- --host` (포트는 `.claude/launch.json` 기준 5174; 5173은 다른 프로젝트가 점유할 수 있다)
 - 검증 하네스: `public/_probe.html`(화면), `public/_probe-fs.html`(로직·오디오), `_art.html`/`_audio.html`(갤러리)
-- 배포: `main` 푸시 → GitHub Actions → https://yum-sy.github.io/phonics-hero/
+- 배포: `main` 푸시 → GitHub Actions → https://yum-sy.github.io/phonics-poke/
 
 ## 작업을 마칠 때
 1. `HANDOFF.md` 맨 위 섹션에 **무엇을 왜 바꿨고, 실기기에서 확인됐는지**를 추가한다

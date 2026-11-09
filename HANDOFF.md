@@ -1,5 +1,11 @@
 # 세션 인계 문서 (카봇 파닉스 대작전)
 
+## 2026-11-09 — phonics-poke 신규 GitHub Pages 배포 준비
+
+- 사용자 명시승인: 새저장소 `yum-sy/phonics-poke` 생성 및 Pages배포. 기존 `phonics-hero` 저장소/Pages 변경금지는 유지.
+- workflow base `/phonics-poke/`,포켓몬계약·언어정책검사 후빌드/배포. 원본과동일GitHub Pages origin이므로 localStorage/sessionStorage 키를 phonics-poke 전용으로분리. 기존진도미이관/원본진도불변검사 PASS.
+- `/phonics-poke/` 프로덕션빌드 및 포켓몬계약검사 PASS. 저장소푸시/Pages완료상태는후속결과참조.
+
 ## 2026-11-09 — 포켓몬 4+1 런타임 구현 / 합체 대기 GIF
 
 - 사용자 구현 승인. 독립복제본만 변경. 일반히어로132자리(도우미1 포함),합체33종,보스33종 적용. 일반빌런132자리는 악·독·고스트에서 모든히어로/예약11종/보스를 제외해 챕터내4종으로 자동배정,챕터간재사용허용.

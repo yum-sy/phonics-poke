@@ -96,7 +96,7 @@ const httpsConfig =
     ? { key: readFileSync(certDir + 'dev.key'), cert: readFileSync(certDir + 'dev.crt') }
     : undefined
 
-// GitHub Pages serves this at /phonics-hero/, so the production build needs
+// GitHub Pages serves this at /phonics-poke/, so the production build needs
 // that base for every asset URL (sounds/, the hashed bundle). Only the Pages
 // workflow sets it; local dev/build keep '/'. audio.js already derives
 // SOUND_BASE from import.meta.env.BASE_URL, so no other code depends on it.

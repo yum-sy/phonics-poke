@@ -1,6 +1,7 @@
-# Phonics Hero (카봇 파닉스 대작전)
+# Phonics Poke
 
 > **Pokémon 독립 복제본**: 원본 수정·푸시·배포 금지. 포켓몬 4+1 배치와 합체 대기 GIF를 적용했습니다.
+> 배포: https://yum-sy.github.io/phonics-poke/ · 저장소: https://github.com/yum-sy/phonics-poke
 > 개발: `npm run dev -- --host 127.0.0.1 --port 5175 --strictPort`
 > 검증: `node scripts/check-pokemon-roster.mjs`, `node scripts/check-pokemon-browser.mjs http://127.0.0.1:5175`, `npm run build`
 > 기존 `check-hero-rotation` / `check-world-characters`는 이전 로봇·아틀라스 배치 전용이며 이 복제본의 포켓몬 배치는 위 검사로 검증합니다.
