@@ -1,5 +1,12 @@
 # 세션 인계 문서 (카봇 파닉스 대작전)
 
+## 2026-11-09 — phonics-poke GitHub Pages 게시 및 실제사이트 검증 완료
+
+- 신규공개저장소 https://github.com/yum-sy/phonics-poke ,배포 https://yum-sy.github.io/phonics-poke/ .복제본origin만연결,main추적설정. 기존저장소/배포/진도키 변경없음.
+- 배포코드 d9ef77d. Actions run42635485972 첫시도는GitHub syncing_files 10분시간초과;실패한게시작업재시도로성공(conclusion=success,Pages=succeed).
+- 실제공개사이트Chrome검증:5월드첫화면,review33챕터→개굴닌자658/무한다이노890/4마리합체,658.gif실제공개경로로드,깨진이미지0,세로스크롤0. GIF/원음sss.wav/내레이션manifest HTTP200. iPad실기기검증은아님.
+- 향후 main푸시→포켓몬계약/언어정책검사→Pages자동배포. 배포후기록만수정하는이번커밋은[skip ci]로중복게시생략(게임코드는배포된d9ef77d와동일).
+
 ## 2026-11-09 — phonics-poke 신규 GitHub Pages 배포 준비
 
 - 사용자 명시승인: 새저장소 `yum-sy/phonics-poke` 생성 및 Pages배포. 기존 `phonics-hero` 저장소/Pages 변경금지는 유지.
