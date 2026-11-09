@@ -4,7 +4,7 @@
 
 - 사용자 루카리오1안 확정. 승인된상반신이미지를재생성/재디자인하지않고 그대로사이즈별내보내기. 원본은design/branding/lucario-master.png.
 - public/icons/lucario-{16,32,48,180,192,512}.png 및16/32/48 PNG프레임ICO. 게임/검수페이지 favicon과Apple touch icon 연결. manifest앱이름Phonics Poke,192/512아이콘연결. 새파일명으로기존아이콘캐시분리,maskable로과장표시하지않음.
-- PNG실제치수/ICO컨테이너검증, /phonics-poke/ 프로덕션빌드 및포켓몬계약검사 PASS. 게임캐릭터/학습/음원변경없음. iPad설치아이콘실기기검증아님. main푸시후Pages배포확인예정.
+- PNG실제치수/ICO컨테이너검증, /phonics-poke/ 프로덕션빌드 및포켓몬계약검사 PASS. 게임캐릭터/학습/음원변경없음. iPad설치아이콘실기기검증아님. Pages run42643062363 성공(f2a68d1). 실제공개사이트게임/검수HTML아이콘링크,manifest,ICO/PNG6종을조회하고로컬내보내기와SHA256일치확인.
 
 ## 2026-11-09 — 슈퍼히어로 마스코트/아이콘 시안 검토 (미적용)
 
