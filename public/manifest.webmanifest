@@ -1,6 +1,6 @@
 {
-  "name": "Phonics Hero",
-  "short_name": "Phonics",
+  "name": "Phonics Poke",
+  "short_name": "Phonics Poke",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
@@ -8,7 +8,17 @@
   "background_color": "#c4dce6",
   "theme_color": "#c4dce6",
   "icons": [
-    { "src": "icon-180.png", "sizes": "180x180", "type": "image/png" },
-    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+    {
+      "src": "icons/lucario-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/lucario-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
   ]
 }
