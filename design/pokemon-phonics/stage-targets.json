@@ -1,0 +1,7639 @@
+{
+  "soundTable": [
+    {
+      "g": 1,
+      "letterform": "S",
+      "ipa": "/s/",
+      "say": "sss",
+      "ms": [
+        922,
+        1179
+      ],
+      "proof": "clean",
+      "broken": "두 음성 모두 \"ess ess ess\"(낱자 이름 S 세 번)와 바이트 동일 -- 교체 필요",
+      "alt": [
+        "sse"
+      ],
+      "rejected": [
+        [
+          "ssss",
+          [
+            689,
+            1551
+          ],
+          "Samantha 에서 `ss`(\"ess ess\")와 바이트 동일 -- s 는 2개에서 포화한다. Alex 는 포화하지 않는다(ss 889 vs ssss 1551) -- 기존 블랙리스트 주석이 이 포화를 음성 구분 없이 적어두고 있었다"
+        ],
+        [
+          "ssuh",
+          [
+            578,
+            455
+          ],
+          "Alex 에서 단어 `sir` 와 바이트 동일"
+        ],
+        [
+          "ssih",
+          [
+            578,
+            365
+          ],
+          "Alex 에서 단어 `see` 와 바이트 동일"
+        ],
+        [
+          "ssu",
+          [
+            863,
+            1005
+          ],
+          "Samantha 에서 \"ess ess you\" 와 바이트 동일"
+        ],
+        [
+          "sso",
+          [
+            887,
+            970
+          ],
+          "Alex 에서 \"ess ess oh\" 와 바이트 동일"
+        ],
+        [
+          "sssh",
+          [
+            1258,
+            1655
+          ],
+          "\"ess ess ess aitch\" 와 바이트 동일"
+        ],
+        [
+          "sssu",
+          [
+            543,
+            420
+          ],
+          "두 음성 모두 단어 `sue`/`soo`/`sew` 와 바이트 동일"
+        ]
+      ]
+    },
+    {
+      "g": 1,
+      "letterform": "A",
+      "ipa": "/ei/",
+      "say": "aaa",
+      "ms": [
+        841,
+        1075
+      ],
+      "proof": "clean",
+      "broken": "Alex 에서 \"ay ay ay\"(낱자 이름 A 세 번)와 바이트 동일",
+      "alt": [
+        "aae"
+      ],
+      "note": "A 의 목표음은 /ae/(apple)인데 이 표기는 /ei/ 를 낸다 -- 선재 미해결(HANDOFF §3)",
+      "rejected": [
+        [
+          "aaaa",
+          [
+            644,
+            1400
+          ],
+          "Samantha 에서 `aa` 와 바이트 동일(포화). Alex 는 포화하지 않는다"
+        ],
+        [
+          "aah",
+          [
+            419,
+            1318
+          ],
+          "Alex 에서 \"ay ay aitch\" 와 바이트 동일"
+        ],
+        [
+          "aauh",
+          [
+            477,
+            413
+          ],
+          "Alex 에서 `or`(OR, 챕터 8 채택 표기)와 바이트 동일"
+        ],
+        [
+          "aaeh",
+          [
+            396,
+            413
+          ],
+          "두 음성 모두 400ms 대로 짧다"
+        ]
+      ]
+    },
+    {
+      "g": 1,
+      "letterform": "T",
+      "ipa": "/t/",
+      "say": "tuh",
+      "ms": [
+        534,
+        328
+      ],
+      "proof": "clean"
+    },
+    {
+      "g": 1,
+      "letterform": "I",
+      "ipa": "/i/",
+      "say": "ihh",
+      "ms": [
+        1049,
+        1504
+      ],
+      "proof": "clean",
+      "broken": "두 음성 모두 \"eye aitch aitch\"(낱자 이름 I·H·H)와 바이트 동일 -- `iii`==\"three\" 를 고치려고 도입한 표기가 다른 오독으로 옮겨간 것이다",
+      "alt": [
+        "ieh",
+        "ihu"
+      ],
+      "rejected": [
+        [
+          "ihe",
+          [
+            445,
+            412
+          ],
+          "두 음성 모두 글자 이름 I(`eye`/`i`)와 바이트 동일"
+        ],
+        [
+          "ihhe",
+          [
+            445,
+            412
+          ],
+          "위와 같음"
+        ],
+        [
+          "iih",
+          [
+            480,
+            703
+          ],
+          "`iihh` 와 동일. 깨끗하지만 Samantha 480ms"
+        ]
+      ]
+    },
+    {
+      "g": 1,
+      "letterform": "P",
+      "ipa": "/p/",
+      "say": "puh",
+      "ms": [
+        491,
+        362
+      ],
+      "proof": "clean"
+    },
+    {
+      "g": 1,
+      "letterform": "N",
+      "ipa": "/n/",
+      "say": "nnn",
+      "ms": [
+        748,
+        610
+      ],
+      "proof": "clean"
+    },
+    {
+      "g": 2,
+      "letterform": "C",
+      "ipa": "/k/",
+      "say": "kuh",
+      "ms": [
+        499,
+        363
+      ],
+      "proof": "clean",
+      "note": "Jolly 는 c 를 /k/ 로 가르치므로 C 와 K 가 **같은 표기**를 쓴다"
+    },
+    {
+      "g": 2,
+      "letterform": "K",
+      "ipa": "/k/",
+      "say": "kuh",
+      "ms": [
+        499,
+        363
+      ],
+      "proof": "clean"
+    },
+    {
+      "g": 2,
+      "letterform": "E",
+      "ipa": "/e/",
+      "say": "eh",
+      "ms": [
+        399,
+        413
+      ],
+      "proof": "clean",
+      "note": "확정 충돌쌍 a==eh (두 음성 바이트 동일). 엔진이 `eh` 를 글자 이름 A 로 정규화한다"
+    },
+    {
+      "g": 2,
+      "letterform": "H",
+      "ipa": "/h/",
+      "say": "huh",
+      "ms": [
+        489,
+        363
+      ],
+      "proof": "clean"
+    },
+    {
+      "g": 2,
+      "letterform": "R",
+      "ipa": "/r/",
+      "say": "rrr",
+      "ms": [
+        875,
+        749
+      ],
+      "proof": "clean",
+      "broken": "Samantha 에서 \"ar ar ar\"(낱자 이름 R 세 번)와 바이트 동일",
+      "alt": [
+        "rruh"
+      ],
+      "rejected": [
+        [
+          "rrh",
+          [
+            1014,
+            1074
+          ],
+          "Samantha 에서 \"ar ar aitch\" 와 바이트 동일"
+        ]
+      ]
+    },
+    {
+      "g": 2,
+      "letterform": "M",
+      "ipa": "/m/",
+      "say": "mmm",
+      "ms": [
+        736,
+        633
+      ],
+      "proof": "clean",
+      "broken": "Samantha 에서 \"em em em\"(낱자 이름 M 세 번)와 바이트 동일",
+      "alt": [
+        "mmh",
+        "mmo"
+      ],
+      "rejected": [
+        [
+          "mmmm",
+          [
+            562,
+            784
+          ],
+          "Samantha 에서 `mm` 와 바이트 동일(포화). Alex 는 포화하지 않는다"
+        ],
+        [
+          "mhh",
+          [
+            1084,
+            1376
+          ],
+          "Samantha 에서 \"em aitch aitch\" 와 바이트 동일"
+        ],
+        [
+          "mmmh",
+          [
+            1084,
+            366
+          ],
+          "Samantha 에서 \"em em em aitch\" 와 바이트 동일"
+        ],
+        [
+          "mmhh",
+          [
+            1258,
+            1527
+          ],
+          "Samantha 에서 \"em em aitch aitch\" 와 바이트 동일"
+        ],
+        [
+          "mmu",
+          [
+            759,
+            703
+          ],
+          "Samantha 에서 \"em em you\" 와 바이트 동일"
+        ]
+      ]
+    },
+    {
+      "g": 2,
+      "letterform": "D",
+      "ipa": "/d/",
+      "say": "duh",
+      "ms": [
+        446,
+        326
+      ],
+      "proof": "clean",
+      "note": "확정 충돌쌍 buh/duh -- 같은 문항의 letterTile 로 함께 두지 마라"
+    },
+    {
+      "g": 3,
+      "letterform": "G",
+      "ipa": "/g/",
+      "say": "guh",
+      "ms": [
+        446,
+        329
+      ],
+      "proof": "clean"
+    },
+    {
+      "g": 3,
+      "letterform": "O",
+      "ipa": "/o/",
+      "say": "awh",
+      "ms": [
+        1329,
+        1620
+      ],
+      "proof": "clean",
+      "note": "낱자 이름 나열 검사도 통과했다. 다만 음소 미증명이라 실기기 청취 1순위(`4027bb3`)"
+    },
+    {
+      "g": 3,
+      "letterform": "U",
+      "ipa": "/uh/",
+      "say": "uh",
+      "ms": [
+        419,
+        354
+      ],
+      "proof": "clean"
+    },
+    {
+      "g": 3,
+      "letterform": "L",
+      "ipa": "/l/",
+      "say": "lll",
+      "ms": [
+        863,
+        587
+      ],
+      "proof": "clean",
+      "broken": "Samantha 에서 \"el el el\"(낱자 이름 L 세 번)와 바이트 동일",
+      "alt": [
+        "lleh",
+        "lluh"
+      ],
+      "note": "L 은 깨끗한 후보가 전부 Alex 343ms 다 -- 안전대 안에 있는 대체 표기가 없다",
+      "rejected": [
+        [
+          "llll",
+          [
+            666,
+            738
+          ],
+          "Samantha 에서 `ll` 와 바이트 동일(포화). Alex 는 포화하지 않는다"
+        ],
+        [
+          "llh",
+          [
+            956,
+            1016
+          ],
+          "Samantha 에서 \"el el aitch\" 와 바이트 동일"
+        ],
+        [
+          "lllh",
+          [
+            1142,
+            1167
+          ],
+          "Samantha 에서 \"el el el aitch\" 와 바이트 동일"
+        ],
+        [
+          "lhh",
+          [
+            1119,
+            1365
+          ],
+          "Samantha 에서 \"el aitch aitch\" 와 바이트 동일"
+        ],
+        [
+          "llhh",
+          [
+            1305,
+            1527
+          ],
+          "Samantha 에서 \"el el aitch aitch\" 와 바이트 동일"
+        ],
+        [
+          "llu",
+          [
+            805,
+            715
+          ],
+          "Samantha 에서 \"el el you\" 와 바이트 동일"
+        ]
+      ]
+    },
+    {
+      "g": 3,
+      "letterform": "F",
+      "ipa": "/f/",
+      "say": "fff",
+      "ms": [
+        864,
+        1307
+      ],
+      "proof": "clean",
+      "broken": "Alex 에서 \"eff eff eff\"(낱자 이름 F 세 번)와 바이트 동일",
+      "alt": [
+        "ffe",
+        "ffeh"
+      ],
+      "rejected": [
+        [
+          "ffuh",
+          [
+            553,
+            362
+          ],
+          "Alex 에서 `puh`(P, 챕터 2 채택 표기)와 바이트 동일 -- CV 관례가 무성 마찰음에서도 무너진다(`zzuh`==`juh` · `vvuh`==`buh` 와 같은 축)"
+        ],
+        [
+          "ffh",
+          [
+            1003,
+            1376
+          ],
+          "Samantha 에서 \"eff eff aitch\" 와 바이트 동일"
+        ],
+        [
+          "ffu",
+          [
+            852,
+            1028
+          ],
+          "두 음성 모두 \"eff eff you\" 와 바이트 동일"
+        ]
+      ]
+    },
+    {
+      "g": 3,
+      "letterform": "B",
+      "ipa": "/b/",
+      "say": "buh",
+      "ms": [
+        480,
+        324
+      ],
+      "proof": "clean"
+    },
+    {
+      "g": 4,
+      "letterform": "AI",
+      "ipa": "/ei/",
+      "say": "a",
+      "ms": [
+        399,
+        413
+      ],
+      "proof": "phoneme",
+      "note": "글자 이름 A. LETTER_NAME_ONLY 의 의도적 예외 두 개 중 하나"
+    },
+    {
+      "g": 4,
+      "letterform": "J",
+      "ipa": "/j/",
+      "say": "juh",
+      "ms": [
+        505,
+        359
+      ],
+      "proof": "clean"
+    },
+    {
+      "g": 4,
+      "letterform": "OA",
+      "ipa": "/ou/",
+      "say": "oh",
+      "ms": [
+        419,
+        355
+      ],
+      "proof": "phoneme",
+      "note": "글자 이름 O 와 바이트 동일 -- OA 의 목표음이 그것이다"
+    },
+    {
+      "g": 4,
+      "letterform": "IE",
+      "ipa": "/ai/",
+      "say": "eye",
+      "ms": [
+        445,
+        412
+      ],
+      "proof": "phoneme",
+      "note": "글자 이름 I 와 두 음성 바이트 동일"
+    },
+    {
+      "g": 4,
+      "letterform": "EE",
+      "ipa": "/i:/",
+      "say": "ee",
+      "ms": [
+        482,
+        575
+      ],
+      "proof": "clean",
+      "note": "낱자 이름 나열(\"ee ee\"/\"double e\")도 통과. 음소 미증명은 그대로다(챕터 8 헤더)"
+    },
+    {
+      "g": 4,
+      "letterform": "OR",
+      "ipa": "/o:/",
+      "say": "or",
+      "ms": [
+        384,
+        413
+      ],
+      "proof": "phoneme",
+      "note": "or==ore==oar 가 두 음성에서 수렴 -- 독립 철자 셋이 한 음소로 모이는 것이 증거다"
+    },
+    {
+      "g": 5,
+      "letterform": "Z",
+      "ipa": "/z/",
+      "say": "zze",
+      "ms": [
+        770,
+        1230
+      ],
+      "proof": "clean",
+      "alt": [
+        "zzeh"
+      ],
+      "rejected": [
+        [
+          "zz",
+          [
+            759,
+            1068
+          ],
+          "Samantha 에서 \"zee zee\"(낱자 이름 Z 두 번)와 바이트 동일"
+        ],
+        [
+          "zzz",
+          [
+            212,
+            1555
+          ],
+          "Samantha 212ms \"잠자기\" 어휘 항목 (`4027bb3` 이 이미 잡았다)"
+        ],
+        [
+          "zzzz",
+          [
+            759,
+            2031
+          ],
+          "Samantha 는 `zz` 에서 포화(= \"zee zee\"), Alex 는 2031ms"
+        ],
+        [
+          "zuh",
+          [
+            585,
+            359
+          ],
+          "Alex 에서 `juh`(J, 챕터 7 채택 표기)와 바이트 동일"
+        ],
+        [
+          "zzuh",
+          [
+            585,
+            359
+          ],
+          "Alex 에서 `juh` 와 바이트 동일 -- CV 관례가 유성 마찰음에서 무너진다"
+        ],
+        [
+          "zhh",
+          [
+            1130,
+            1532
+          ],
+          "Samantha 에서 \"zee aitch aitch\" 와 바이트 동일"
+        ],
+        [
+          "zzhh",
+          [
+            1386,
+            2066
+          ],
+          "Samantha 에서 \"zee zee aitch aitch\" 와 바이트 동일"
+        ],
+        [
+          "zzu",
+          [
+            875,
+            1219
+          ],
+          "Samantha 에서 \"zee zee you\" 와 바이트 동일"
+        ],
+        [
+          "zzo",
+          [
+            909,
+            1230
+          ],
+          "Samantha 에서 \"zee zee oh\" 와 바이트 동일"
+        ],
+        [
+          "zih",
+          [
+            585,
+            336
+          ],
+          "`zzih` 와 동일이고 Alex 336ms -- 짧고 /i/ 가 섞인다"
+        ]
+      ]
+    },
+    {
+      "g": 5,
+      "letterform": "W",
+      "ipa": "/w/",
+      "say": "weh",
+      "ms": [
+        521,
+        331
+      ],
+      "proof": "clean",
+      "alt": [
+        "wah",
+        "waa"
+      ],
+      "note": "/w/ 는 활음이라 홀로 늘릴 수 없다. Alex 331ms 는 tuh(328)/buh(324) 와 같은 등급이다",
+      "rejected": [
+        [
+          "wuh",
+          [
+            358,
+            331
+          ],
+          "Samantha 에서 `woo`, Alex 에서 `whoa` 와 바이트 동일"
+        ],
+        [
+          "wu",
+          [
+            358,
+            354
+          ],
+          "Samantha `woo` · Alex `ew`/`ugh`/`woo` 와 바이트 동일"
+        ],
+        [
+          "wih",
+          [
+            521,
+            308
+          ],
+          "Alex 에서 단어 `we` 와 바이트 동일"
+        ],
+        [
+          "wuhh",
+          [
+            521,
+            331
+          ],
+          "Alex 에서 `whoa`/`were` 와 바이트 동일"
+        ],
+        [
+          "wwuh",
+          [
+            521,
+            331
+          ],
+          "Alex 에서 `whoa` 와 바이트 동일"
+        ],
+        [
+          "whuh",
+          [
+            521,
+            331
+          ],
+          "Alex 에서 `were`/`whoa` 와 바이트 동일"
+        ],
+        [
+          "whh",
+          [
+            1382,
+            1752
+          ],
+          "안전대 상단을 두 음성 모두 크게 초과"
+        ]
+      ]
+    },
+    {
+      "g": 5,
+      "letterform": "NG",
+      "ipa": "/ng/",
+      "say": "ngh",
+      "ms": [
+        968,
+        1098
+      ],
+      "proof": "clean",
+      "alt": [
+        "ngg",
+        "nng"
+      ],
+      "note": "뒤에 h 를 붙이는 이 앱의 관례(ihh/awh/erh/arh)와 같은 형태이고, 낱자 이름 나열(\"en gee aitch\")과도 다르다",
+      "rejected": [
+        [
+          "ng",
+          [
+            412,
+            552
+          ],
+          "Samantha 412ms -- 파열음보다도 짧다"
+        ],
+        [
+          "ung",
+          [
+            474,
+            517
+          ],
+          "앞에 /u/ 가 붙어 들린다"
+        ],
+        [
+          "nghh",
+          [
+            1316,
+            1608
+          ],
+          "안전대 상단 초과"
+        ],
+        [
+          "unng",
+          [
+            376,
+            471
+          ],
+          "두 음성 모두 짧다"
+        ]
+      ]
+    },
+    {
+      "g": 5,
+      "letterform": "V",
+      "ipa": "/v/",
+      "say": "vve",
+      "ms": [
+        697,
+        979
+      ],
+      "proof": "clean",
+      "alt": [
+        "vvu",
+        "vvhu"
+      ],
+      "rejected": [
+        [
+          "vvv",
+          [
+            848,
+            1072
+          ],
+          "Samantha 에서 \"vee vee vee\"(낱자 이름 V 세 번)와 바이트 동일"
+        ],
+        [
+          "vuh",
+          [
+            502,
+            324
+          ],
+          "Alex 에서 `buh`(B, 챕터 6 채택 표기)와 바이트 동일"
+        ],
+        [
+          "vvuh",
+          [
+            502,
+            324
+          ],
+          "Alex 에서 `buh` 와 바이트 동일 -- CV 관례가 유성 마찰음에서 무너진다"
+        ],
+        [
+          "vv",
+          [
+            569,
+            735
+          ],
+          "Samantha 에서 `vvvv` 와 동일(포화)"
+        ],
+        [
+          "vvh",
+          [
+            964,
+            1339
+          ],
+          "Samantha 에서 \"vee vee aitch\" 와 바이트 동일"
+        ],
+        [
+          "vhh",
+          [
+            1103,
+            1513
+          ],
+          "Samantha 에서 \"vee aitch aitch\" 와 바이트 동일"
+        ],
+        [
+          "vvu",
+          [
+            813,
+            944
+          ],
+          "깨끗하다. `vve` 와 동급이라 차점자로 남긴다"
+        ],
+        [
+          "vvo",
+          [
+            848,
+            956
+          ],
+          "Samantha 에서 \"vee vee oh\" 와 바이트 동일"
+        ],
+        [
+          "vih",
+          [
+            502,
+            334
+          ],
+          "`vvih` 와 동일이고 /i/ 가 섞인다"
+        ]
+      ]
+    },
+    {
+      "g": 5,
+      "letterform": "OO",
+      "ipa": "/u:/",
+      "say": "uuu",
+      "ms": [
+        685,
+        795
+      ],
+      "proof": "clean",
+      "alt": [
+        "uu",
+        "oouu"
+      ],
+      "note": "OO 는 **한 글자꼴에 소리가 둘**이다 -- 아래 multiSoundLetterforms() 규칙 참조",
+      "rejected": [
+        [
+          "oo",
+          [
+            654,
+            575
+          ],
+          "Samantha 에서 \"oh oh\"(낱자 이름 O 두 번)와 바이트 동일"
+        ],
+        [
+          "oooo",
+          [
+            654,
+            982
+          ],
+          "Samantha 에서 `oo` 와 동일(포화) = \"oh oh\""
+        ],
+        [
+          "ooo",
+          [
+            384,
+            761
+          ],
+          "Samantha 에서 `ooh`/`oohh`/`ew` 와 바이트 동일"
+        ],
+        [
+          "ooh",
+          [
+            384,
+            354
+          ],
+          "Samantha 에서 `ooo`/`oohh`/`ew` 와 바이트 동일"
+        ],
+        [
+          "ooou",
+          [
+            1046,
+            912
+          ],
+          "Samantha 에서 \"oh oh oh you\" 와 바이트 동일"
+        ],
+        [
+          "oooh",
+          [
+            477,
+            378
+          ],
+          "두 음성 모두 짧고 `oh`(OA) 와 눈으로 헷갈린다"
+        ]
+      ]
+    },
+    {
+      "g": 5,
+      "letterform": "OO",
+      "ipa": "/u/",
+      "say": "uuh",
+      "ms": [
+        1033,
+        1132
+      ],
+      "proof": "clean",
+      "alt": [
+        "ooe",
+        "oohu"
+      ],
+      "note": "Jolly 의 짧은 oo(book). 음소 미증명이고 **실기기 청취 1순위**다 -- 긴 oo(`uuu`)와 짧은 oo(`uuh`)를 아이가 실제로 구별하는지가 이 챕터의 성패다. 구별되지 않으면 낱소리 드릴을 긴 oo 하나로 줄이고 짧은 oo 는 단어(book/foot)로만 가르쳐라",
+      "rejected": [
+        [
+          "oou",
+          [
+            837,
+            691
+          ],
+          "Samantha 에서 \"oh oh you\" 와 바이트 동일"
+        ],
+        [
+          "oohh",
+          [
+            384,
+            354
+          ],
+          "Samantha `ooh`/`ooo`/`ew` · Alex `ugh`/`woo`/`wu` 와 바이트 동일"
+        ],
+        [
+          "uhh",
+          [
+            388,
+            1399
+          ],
+          "Samantha 에서 `ugh` 와 바이트 동일 + 음성 간 3.6배"
+        ],
+        [
+          "ouh",
+          [
+            419,
+            435
+          ],
+          "두 음성 모두 감탄사 `ow` 와 바이트 동일"
+        ],
+        [
+          "uuhh",
+          [
+            477,
+            413
+          ],
+          "두 음성 모두 짧다"
+        ]
+      ]
+    },
+    {
+      "g": 6,
+      "letterform": "Y",
+      "ipa": "/y/",
+      "say": "yyuh",
+      "ms": [
+        627,
+        621
+      ],
+      "proof": "clean",
+      "rejected": [
+        [
+          "yuh",
+          [
+            546,
+            331
+          ],
+          "Alex 에서 글자 이름 U(`u`)와 바이트 동일 -- Y 자리에서 UE 소리가 난다"
+        ],
+        [
+          "yu",
+          [
+            384,
+            331
+          ],
+          "두 음성 모두 `you`/`yoo`/`yew`/`ewe` 군집과 동일 = /ju:/ (UE 의 소리다)"
+        ],
+        [
+          "yih",
+          [
+            546,
+            308
+          ],
+          "Alex 308ms"
+        ],
+        [
+          "yuhh",
+          [
+            546,
+            296
+          ],
+          "Samantha 에서 `yuh` 와 동일"
+        ]
+      ]
+    },
+    {
+      "g": 6,
+      "letterform": "X",
+      "ipa": "/ks/",
+      "say": "ksuh",
+      "ms": [
+        667,
+        642
+      ],
+      "proof": "clean",
+      "note": "/ks/ 계열 후보 9종 중 **유일한 생존자**다. 나머지는 전부 낱자 이름 나열로 접힌다",
+      "rejected": [
+        [
+          "ks",
+          [
+            689,
+            903
+          ],
+          "두 음성 모두 \"kay ess\" 와 바이트 동일"
+        ],
+        [
+          "kss",
+          [
+            922,
+            1205
+          ],
+          "두 음성 모두 \"kay ess ess\" 와 바이트 동일"
+        ],
+        [
+          "ksss",
+          [
+            1165,
+            1542
+          ],
+          "\"kay ess ess ess\" 와 바이트 동일"
+        ],
+        [
+          "cks",
+          [
+            1020,
+            1212
+          ],
+          "Samantha 에서 \"see kay ess\" 와 바이트 동일"
+        ],
+        [
+          "kks",
+          [
+            956,
+            1275
+          ],
+          "\"kay kay ess\" 와 바이트 동일"
+        ],
+        [
+          "ksh",
+          [
+            1015,
+            1298
+          ],
+          "\"kay ess aitch\" 와 바이트 동일"
+        ],
+        [
+          "kx",
+          [
+            736,
+            857
+          ],
+          "Alex 에서 \"kay ex\" 와 바이트 동일"
+        ],
+        [
+          "xx",
+          [
+            817,
+            854
+          ],
+          "Alex 에서 \"ex ex\" 와 바이트 동일"
+        ],
+        [
+          "ekss",
+          [
+            528,
+            517
+          ],
+          "두 음성 모두 글자 이름 X(`ex`/`eks`)와 바이트 동일"
+        ]
+      ]
+    },
+    {
+      "g": 6,
+      "letterform": "CH",
+      "ipa": "/ch/",
+      "say": "ch",
+      "ms": [
+        729,
+        887
+      ],
+      "proof": "clean",
+      "note": "두 글자인데 낱자 이름 나열(\"see aitch\")로 접히지 **않는** 드문 경우다. 같은 형태의 `sh` 는 Alex 에서 접힌다 -- 그래서 CH 와 SH 의 표기 모양이 다르다",
+      "rejected": [
+        [
+          "chh",
+          [
+            1171,
+            1398
+          ],
+          "Samantha 에서 \"see aitch aitch\" 와 바이트 동일"
+        ],
+        [
+          "chuh",
+          [
+            532,
+            373
+          ],
+          "`tchuh` 와 동일이고 Alex 373ms"
+        ],
+        [
+          "chhh",
+          [
+            1519,
+            1897
+          ],
+          "두 음성 모두 안전대 크게 초과"
+        ],
+        [
+          "chch",
+          [
+            1414,
+            1595
+          ],
+          "한 발화에서 소리가 두 번 난다"
+        ]
+      ]
+    },
+    {
+      "g": 6,
+      "letterform": "SH",
+      "ipa": "/sh/",
+      "say": "shhu",
+      "ms": [
+        647,
+        655
+      ],
+      "proof": "clean",
+      "alt": [
+        "shhe"
+      ],
+      "rejected": [
+        [
+          "sh",
+          [
+            701,
+            993
+          ],
+          "Alex 에서 \"ess aitch\" 와 바이트 동일"
+        ],
+        [
+          "shh",
+          [
+            235,
+            1527
+          ],
+          "Samantha 235ms 어휘 항목(쉿) vs Alex 1527ms = **음성 간 6.5배**. `shhh` 가 Samantha 에서 `shh` 와 바이트 동일(235ms 포화)인데 Alex 는 2038ms 로 단조 증가한다 -- 즉 Samantha 는 사전 항목을, Alex 는 철자 그대로를 읽는다. `ough` 가 음성마다 다른 유령 음소였던 것과 같은 실패 모드다"
+        ],
+        [
+          "shhh",
+          [
+            235,
+            2038
+          ],
+          "위와 같은 이유 (Samantha 포화가 그 증거다)"
+        ],
+        [
+          "shuh",
+          [
+            543,
+            400
+          ],
+          "Samantha 에서 단어 `shoe` 와 바이트 동일"
+        ],
+        [
+          "shs",
+          [
+            1038,
+            1353
+          ],
+          "두 음성 모두 \"ess aitch ess\" 와 바이트 동일"
+        ],
+        [
+          "ssh",
+          [
+            922,
+            1283
+          ],
+          "Alex 에서 \"ess ess aitch\" 와 바이트 동일"
+        ],
+        [
+          "sshh",
+          [
+            1363,
+            1841
+          ],
+          "\"ess ess aitch aitch\" 와 바이트 동일"
+        ],
+        [
+          "shsh",
+          [
+            1363,
+            1794
+          ],
+          "\"ess aitch ess aitch\" 와 바이트 동일"
+        ],
+        [
+          "shhs",
+          [
+            1398,
+            1887
+          ],
+          "\"ess aitch aitch ess\" 와 바이트 동일"
+        ],
+        [
+          "shuhh",
+          [
+            566,
+            400
+          ],
+          "Alex 에서 `shuh`(= Samantha 의 `shoe`) 와 바이트 동일"
+        ]
+      ]
+    },
+    {
+      "g": 6,
+      "letterform": "TH",
+      "ipa": "/th/",
+      "say": "thhu",
+      "ms": [
+        593,
+        563
+      ],
+      "proof": "clean",
+      "alt": [
+        "thhe"
+      ],
+      "note": "무성 /th/(thin). **유성 /th/(this)는 아래 행이고 표기가 없다**",
+      "rejected": [
+        [
+          "thh",
+          [
+            1107,
+            1414
+          ],
+          "Samantha 에서 \"tee aitch aitch\" 와 바이트 동일"
+        ],
+        [
+          "thuh",
+          [
+            512,
+            455
+          ],
+          "Alex 에서 단어 `sir` 와 바이트 동일"
+        ],
+        [
+          "thih",
+          [
+            512,
+            365
+          ],
+          "Alex 에서 단어 `see` 와 바이트 동일"
+        ],
+        [
+          "th",
+          [
+            759,
+            352
+          ],
+          "Alex 352ms + 음성 간 2.2배"
+        ],
+        [
+          "thhh",
+          [
+            1467,
+            1913
+          ],
+          "두 음성 모두 안전대 크게 초과"
+        ],
+        [
+          "ths",
+          [
+            922,
+            1263
+          ],
+          "어말에 /s/ 가 붙어 없는 음소를 가르친다"
+        ]
+      ]
+    },
+    {
+      "g": 6,
+      "letterform": "TH",
+      "ipa": "/dh/",
+      "say": null,
+      "proof": "none",
+      "note": "**안전한 표기를 찾지 못했다. 억지로 채우지 않았다.** 후보 7종이 전부 탈락이고 탈락 사유가 두 종류다: (1) 낱자 이름 나열로 접힌다 (2) 표기에 넣은 d 가 실제로 /d/ 로 들리는데 **D 는 이미 가르친 글자**다 -- 그건 \"TH 는 duh 소리\" 를 가르치는 것이고, /s/ 를 ㅅ 으로 가르치지 말라는 이 파일의 규칙과 같은 종류의 오류다. 권고: TH 챕터는 무성 /th/(`thhu`) 하나만 낱소리로 드릴하고, 유성 /th/ 는 **단어로만** 가르쳐라(this/that/them 을 listen-repeat/finale 의 words[] 로). 단어는 엔진 사전에 있으므로 증명된 발화다. Jolly 자체가 둘을 한 글자꼴의 유성/무성 쌍으로 가르치므로 커리큘럼상으로도 벗어나지 않는다",
+      "rejected": [
+        [
+          "thth",
+          [
+            1363,
+            1693
+          ],
+          "Samantha 에서 \"tee aitch tee aitch\" 와 바이트 동일"
+        ],
+        [
+          "dhuh",
+          [
+            446,
+            326
+          ],
+          "Samantha·Alex 모두 `duh`(D) 와 바이트 동일. Alex 는 `the` 까지 같다"
+        ],
+        [
+          "thd",
+          [
+            980,
+            1112
+          ],
+          "Samantha 에서 \"tee aitch dee\" 와 바이트 동일"
+        ],
+        [
+          "dth",
+          [
+            975,
+            1151
+          ],
+          "Samantha 에서 \"dee tee aitch\" 와 바이트 동일"
+        ],
+        [
+          "dhh",
+          [
+            1056,
+            1395
+          ],
+          "Samantha 에서 \"dee aitch aitch\" 와 바이트 동일 (`zhh`==\"zee aitch aitch\" · `vhh`==\"vee aitch aitch\" 와 같은 축이다)"
+        ],
+        [
+          "thv",
+          [
+            991,
+            1170
+          ],
+          "어말에 /v/ 가 붙는다. V 는 group 5 에서 가르치는 글자다"
+        ],
+        [
+          "thu",
+          [
+            764,
+            420
+          ],
+          "Alex 420ms + 무성 `thhu` 와 눈으로 구별되지 않는다"
+        ]
+      ]
+    },
+    {
+      "g": 7,
+      "letterform": "QU",
+      "ipa": "/kw/",
+      "say": "kw",
+      "ms": [
+        922,
+        1112
+      ],
+      "proof": "clean",
+      "note": "낱자 이름 나열(\"kay double u\")과 다르다",
+      "rejected": [
+        [
+          "kwuh",
+          [
+            581,
+            364
+          ],
+          "`quuh` 와 동일이고 Alex 364ms"
+        ],
+        [
+          "quh",
+          [
+            528,
+            306
+          ],
+          "Alex 306ms"
+        ],
+        [
+          "kwu",
+          [
+            418,
+            363
+          ],
+          "Alex 에서 단어 `queue` 와 바이트 동일"
+        ]
+      ]
+    },
+    {
+      "g": 7,
+      "letterform": "OU",
+      "ipa": "/ou/",
+      "say": "ou",
+      "ms": [
+        617,
+        506
+      ],
+      "proof": "clean",
+      "alt": [
+        "owww"
+      ],
+      "rejected": [
+        [
+          "owh",
+          [
+            1324,
+            1539
+          ],
+          "두 음성 모두 안전대 상단 초과"
+        ],
+        [
+          "ouh",
+          [
+            419,
+            435
+          ],
+          "두 음성 모두 감탄사 `ow` 와 바이트 동일"
+        ]
+      ]
+    },
+    {
+      "g": 7,
+      "letterform": "OI",
+      "ipa": "/oi/",
+      "say": "oi",
+      "ms": [
+        442,
+        622
+      ],
+      "proof": "phoneme",
+      "alt": [
+        "oyy",
+        "oyuh"
+      ],
+      "note": "`oi`==`oih`==`oyh` 이고 `oyhh`==`oy`(감탄사, /oi/) 다 -- 즉 oi/oy 철자 군집 전체가 /oi/ 로 렌더된다는 것이 증명된다. **`oy` 와의 일치는 결함이 아니다**: Jolly 가 oi 와 oy 를 같은 소리의 두 철자로 가르치므로 일치하는 것이 맞다. **정정(이번 재검증)**: 이 등가는 **Samantha 에서만** 확인된다 -- Alex 는 `oi`(622ms)와 `oih`/`oyh`(390ms)가 md5 도 다르고(diff bytes 16958/~18000) 바이트도 크게 다르다. 이 파일이 이전에 \"두 음성\" 검증을 표방한 다른 phoneme 항목들과 달리 여기서는 실제로 한 음성만 확인된 채로 적혀 있었다. `oi` 자체의 채택은 안전하다(글자 이름·숫자·어휘 미끼 어디와도 안 겹친다는 별도 스윕 결과는 유효), 다만 \"oi/oy 군집 전체가 /oi/ 로 수렴한다\"는 추가 증명은 Alex 로 확장되지 않는다 -- proof 등급 자체는 유지하되 실기기 청취 시 Alex 보이스로도 들어볼 것",
+      "rejected": [
+        [
+          "oyh",
+          [
+            442,
+            390
+          ],
+          "같은 음소이고 Alex 390ms 로 `oi`(622) 보다 짧다"
+        ],
+        [
+          "oyeh",
+          [
+            396,
+            575
+          ],
+          "Samantha 396ms"
+        ]
+      ]
+    },
+    {
+      "g": 7,
+      "letterform": "UE",
+      "ipa": "/yu:/",
+      "say": "u",
+      "ms": [
+        384,
+        331
+      ],
+      "proof": "phoneme",
+      "alt": [
+        "ueh",
+        "uue"
+      ],
+      "note": "**/ju:/ 는 정확히 글자 이름 U 다.** `u`==`you`==`ewe`==`yew`==`yoo`==`yooh`==`yu` 가 두 음성에서 바이트 동일이고, 그 소리가 UE 의 목표음이다 -- AI 가 `a`(글자 이름 A), IE 가 `eye`(글자 이름 I)를 쓰는 것과 같은 Jolly 의 교육 장치다. 그래서 LETTER_NAME_ONLY 의 예외를 `a` 와 `u` 두 개로 늘렸다. 리더의 발주는 \"`yoo`/`yooh`/`yu` 가 전부 `you` 와 동일이므로 UE 후보 셋이 전부 탈락\" 이라고 봤는데, **그 일치가 곧 증명이다** -- 탈락 사유가 아니다. 길이(384/331)가 짧은 것이 유일한 약점이고 그건 `a`(399/413)·`oh`(419/355)· `or`(384/413) 와 같은 등급이다. **정정(이번 재검증, md5 재스윕으로 발견) -- \"두 음성 바이트 동일\" 은 틀렸다.** Samantha 는 맞다(`u`==`you`==`ewe`==`yew`==`yoo`==`yooh`==`yu`, md5 7개 전부 동일, 재확인됨). **Alex 는 다르다**: `u` 는 `you`/`yew`/`yoo`/`yooh`/`yu` 군집과 md5 가 다르고(diff bytes 13180/18682, 약 70%), 대신 바로 아래 `rejected` 의 `yuh` 와 **정확히 같다**(md5 동일, diff 0) -- 그런데 `yuh` 는 Y 항목에서 \"Y 자리에서 UE 소리가 난다\" 며 이미 탈락시킨 후보다. 즉 Alex 에서 이 앱이 내는 `u` 는 `you` 계열이 아니라 그 탈락 후보와 같은 소리이고, 그게 실제로 /ju:/ 인지는 확인되지 않았다 -- **proof 등급의 근거 절반(Alex)이 무너진다.** 표기 자체(`u`)는 그대로 두되(Samantha 증거와 짧은 길이 등급은 여전히 유효), UE 를 실제로 가르치는 챕터에서는 Alex 기기로 반드시 귀로 재확인해라 -- 필요하면 Alex 전용 대체 표기를 새로 스윕해야 할 수 있다",
+      "rejected": [
+        [
+          "yuh",
+          [
+            546,
+            331
+          ],
+          "Alex 에서 `u` 와 동일인데 Y 의 표기 후보였다 -- Y 와 UE 가 겹친다"
+        ],
+        [
+          "uueh",
+          [
+            477,
+            413
+          ],
+          "두 음성 모두 짧고 음소 미증명"
+        ],
+        [
+          "yuue",
+          [
+            499,
+            412
+          ],
+          "`yoou` 와 동일이고 음소 미증명"
+        ]
+      ]
+    },
+    {
+      "g": 7,
+      "letterform": "ER",
+      "ipa": "/er/",
+      "say": "erh",
+      "ms": [
+        911,
+        1039
+      ],
+      "proof": "clean",
+      "alt": [
+        "urh"
+      ],
+      "note": "리더의 발주는 `er`==`air`(Alex) 로 탈락을 확정했고 그건 맞다. **Samantha 에서는 더 나쁘다** -- `err`/`ehr` 이 `air`·`arr`·`arrr` 과 한 군집이라 ER 과 AR 이 같은 소리가 된다. 뒤에 h 를 붙이면 그 군집에서 빠져나온다",
+      "rejected": [
+        [
+          "er",
+          [
+            341,
+            436
+          ],
+          "Alex 에서 `air`/`arrr` 와 바이트 동일 -- /er/ 이 /air/ 로 읽힌다"
+        ],
+        [
+          "err",
+          [
+            387,
+            436
+          ],
+          "두 음성 모두 `air` 와 바이트 동일. Samantha 는 `arr`/`arrr` 까지 같다"
+        ],
+        [
+          "errr",
+          [
+            341,
+            436
+          ],
+          "Alex 에서 `air`/`er`/`err` 와 바이트 동일"
+        ],
+        [
+          "ur",
+          [
+            382,
+            354
+          ],
+          "Alex 에서 `uh`(U, 챕터 5 채택 표기)와 바이트 동일"
+        ],
+        [
+          "urr",
+          [
+            341,
+            354
+          ],
+          "Alex 에서 `uh` 와 바이트 동일"
+        ],
+        [
+          "urrr",
+          [
+            341,
+            354
+          ],
+          "Alex 에서 `uh` 와 바이트 동일"
+        ],
+        [
+          "ehr",
+          [
+            387,
+            1004
+          ],
+          "Samantha 에서 `air`/`arr`/`arrr` 와 바이트 동일"
+        ],
+        [
+          "uhr",
+          [
+            382,
+            1004
+          ],
+          "Samantha 382ms + 음성 간 2.6배"
+        ],
+        [
+          "erhh",
+          [
+            341,
+            354
+          ],
+          "Alex 에서 `uh` 와 바이트 동일"
+        ],
+        [
+          "urhh",
+          [
+            341,
+            354
+          ],
+          "Alex 에서 `uh` 와 바이트 동일"
+        ]
+      ]
+    },
+    {
+      "g": 7,
+      "letterform": "AR",
+      "ipa": "/ar/",
+      "say": "arh",
+      "ms": [
+        1015,
+        1121
+      ],
+      "proof": "clean",
+      "note": "AR 후보 14종 중 **유일한 생존자**다. 나머지는 두 군집으로 접힌다 -- `are`/`our`/**글자 이름 R** 군집과 `air`/`heir` 군집. 즉 AR 은 자칫하면 글자 R 의 이름이나 /air/ 를 가르친다",
+      "rejected": [
+        [
+          "ar",
+          [
+            387,
+            355
+          ],
+          "두 음성 모두 단어 `are` 와, Samantha 는 **글자 이름 R** 과도 바이트 동일"
+        ],
+        [
+          "arr",
+          [
+            387,
+            1005
+          ],
+          "Samantha 에서 `air`/`ehr`/`err` 와 바이트 동일 -- ER 과 겹친다"
+        ],
+        [
+          "ahr",
+          [
+            387,
+            1109
+          ],
+          "Samantha 에서 `are`/`our`/글자 이름 R 과 바이트 동일"
+        ],
+        [
+          "arrr",
+          [
+            387,
+            436
+          ],
+          "두 음성 모두 `air` 와 바이트 동일"
+        ],
+        [
+          "aar",
+          [
+            387,
+            889
+          ],
+          "Samantha 에서 `are`/`our`/글자 이름 R 과 바이트 동일"
+        ],
+        [
+          "arhh",
+          [
+            387,
+            355
+          ],
+          "Samantha `are`/`our`/R · Alex `are` 와 바이트 동일"
+        ],
+        [
+          "aarh",
+          [
+            387,
+            355
+          ],
+          "위와 같음"
+        ],
+        [
+          "aahr",
+          [
+            387,
+            355
+          ],
+          "위와 같음"
+        ],
+        [
+          "aarr",
+          [
+            387,
+            355
+          ],
+          "위와 같음"
+        ],
+        [
+          "ahrh",
+          [
+            387,
+            355
+          ],
+          "위와 같음"
+        ],
+        [
+          "ahrr",
+          [
+            387,
+            436
+          ],
+          "Samantha `air`/`heir` · Alex `air` 와 바이트 동일"
+        ],
+        [
+          "arrh",
+          [
+            387,
+            436
+          ],
+          "위와 같음"
+        ],
+        [
+          "ahh",
+          [
+            481,
+            1504
+          ],
+          "음성 간 3.1배 (`4027bb3` 이 O 의 차점자로 남긴 표기다)"
+        ]
+      ]
+    }
+  ],
+  "rows": [
+    {
+      "chapter": 1,
+      "id": "stage-1",
+      "order": 1,
+      "title": "A Strange Sound",
+      "boss": false,
+      "emblem": "S",
+      "teach": [
+        {
+          "audio": [
+            "sss"
+          ],
+          "instruction": "히어로가 소리를 들려줘요. 잘 들어보세요!"
+        }
+      ],
+      "introWords": [
+        [
+          "star",
+          "sock",
+          "sun"
+        ]
+      ]
+    },
+    {
+      "chapter": 1,
+      "id": "stage-2",
+      "order": 2,
+      "title": "Power of S",
+      "boss": false,
+      "emblem": "S",
+      "teach": [
+        {
+          "letter": "S",
+          "audio": [
+            "S",
+            "sss"
+          ],
+          "instruction": "S는 이런 소리를 내요!"
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "S",
+            "say": "sss"
+          }
+        ],
+        [
+          "sun",
+          "sock",
+          "star"
+        ]
+      ]
+    },
+    {
+      "chapter": 1,
+      "id": "stage-3",
+      "order": 3,
+      "title": "Power of A",
+      "boss": false,
+      "emblem": "A",
+      "teach": [
+        {
+          "letter": "A",
+          "audio": [
+            "A",
+            "aaa"
+          ],
+          "instruction": "A는 이런 소리를 내요!"
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "A",
+            "say": "aaa"
+          }
+        ],
+        [
+          "ant",
+          "apple"
+        ]
+      ]
+    },
+    {
+      "chapter": 1,
+      "id": "stage-4",
+      "order": 4,
+      "title": "Power of T",
+      "boss": false,
+      "emblem": "T",
+      "teach": [
+        {
+          "letter": "T",
+          "audio": [
+            "T",
+            "tuh"
+          ],
+          "instruction": "T는 엔진 소리처럼 T 소리를 내요!"
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "T",
+            "say": "tuh"
+          }
+        ],
+        [
+          "top",
+          "tap"
+        ]
+      ]
+    },
+    {
+      "chapter": 1,
+      "id": "stage-5",
+      "order": 5,
+      "title": "Boss: SAT Combine!",
+      "boss": true,
+      "emblem": "★",
+      "teach": [
+        {
+          "audio": [
+            "sss",
+            "aaa",
+            "tuh",
+            "sat"
+          ],
+          "instruction": "세 히어로가 합체해요! 천천히 들어보세요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "S",
+            "say": "sss"
+          },
+          {
+            "text": "A",
+            "say": "aaa"
+          },
+          {
+            "text": "T",
+            "say": "tuh"
+          },
+          "sat"
+        ],
+        [
+          "sat"
+        ]
+      ]
+    },
+    {
+      "chapter": 2,
+      "id": "c2-stage-1",
+      "order": 1,
+      "title": "The Hidden Sound",
+      "boss": false,
+      "emblem": "I",
+      "teach": [
+        {
+          "audio": [
+            "ihh"
+          ],
+          "instruction": "히어로가 새로운 소리를 들려줘요. 잘 들어보세요!"
+        }
+      ],
+      "introWords": [
+        [
+          "ink",
+          "igloo",
+          "insect"
+        ]
+      ]
+    },
+    {
+      "chapter": 2,
+      "id": "c2-stage-2",
+      "order": 2,
+      "title": "Power of I",
+      "boss": false,
+      "emblem": "I",
+      "teach": [
+        {
+          "letter": "I",
+          "audio": [
+            "I",
+            "ihh"
+          ],
+          "instruction": "I는 이런 소리를 내요!"
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "I",
+            "say": "ihh"
+          }
+        ],
+        [
+          "ink",
+          "igloo",
+          "insect"
+        ]
+      ]
+    },
+    {
+      "chapter": 2,
+      "id": "c2-stage-3",
+      "order": 3,
+      "title": "Power of P",
+      "boss": false,
+      "emblem": "P",
+      "teach": [
+        {
+          "letter": "P",
+          "audio": [
+            "P",
+            "puh"
+          ],
+          "instruction": "P는 힘을 쏠 때처럼 P 소리를 내요!"
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "P",
+            "say": "puh"
+          }
+        ],
+        [
+          "pig",
+          "pen",
+          "pot"
+        ]
+      ]
+    },
+    {
+      "chapter": 2,
+      "id": "c2-stage-4",
+      "order": 4,
+      "title": "Power of N",
+      "boss": false,
+      "emblem": "N",
+      "teach": [
+        {
+          "letter": "N",
+          "audio": [
+            "N",
+            "nnn"
+          ],
+          "instruction": "N은 그물을 던질 때처럼 N 소리를 내요!"
+        }
+      ],
+      "introWords": [
+        [
+          "net",
+          "nut",
+          "nose"
+        ]
+      ]
+    },
+    {
+      "chapter": 2,
+      "id": "c2-stage-5",
+      "order": 5,
+      "title": "Boss: PIN Combine!",
+      "boss": true,
+      "emblem": "★",
+      "teach": [
+        {
+          "audio": [
+            "puh",
+            "ihh",
+            "nnn",
+            "pin"
+          ],
+          "instruction": "세 히어로가 합체해요! 천천히 들어보세요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "P",
+            "say": "puh"
+          },
+          {
+            "text": "I",
+            "say": "ihh"
+          },
+          {
+            "text": "N",
+            "say": "nnn"
+          },
+          "pin"
+        ],
+        [
+          "pin"
+        ]
+      ]
+    },
+    {
+      "chapter": 3,
+      "id": "c3-stage-1",
+      "order": 1,
+      "title": "The Valley Roar",
+      "boss": false,
+      "emblem": "C",
+      "teach": [
+        {
+          "audio": [
+            "kuh"
+          ],
+          "instruction": "히어로가 골짜기에서 나는 소리를 들려줘요. 잘 들어보세요!"
+        }
+      ],
+      "introWords": [
+        [
+          "cat",
+          "key",
+          "cake"
+        ]
+      ]
+    },
+    {
+      "chapter": 3,
+      "id": "c3-stage-2",
+      "order": 2,
+      "title": "Power of C",
+      "boss": false,
+      "emblem": "C",
+      "teach": [
+        {
+          "letter": "C",
+          "audio": [
+            "C",
+            "kuh"
+          ],
+          "instruction": "C는 발톱을 세울 때처럼 C 소리를 내요!"
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "C",
+            "say": "kuh"
+          }
+        ],
+        [
+          "cat",
+          "cake"
+        ]
+      ]
+    },
+    {
+      "chapter": 3,
+      "id": "c3-stage-3",
+      "order": 3,
+      "title": "Power of E",
+      "boss": false,
+      "emblem": "E",
+      "teach": [
+        {
+          "letter": "E",
+          "audio": [
+            "E",
+            "eh"
+          ],
+          "instruction": "E는 알에서 나올 때처럼 E 소리를 내요!"
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "E",
+            "say": "eh"
+          }
+        ],
+        [
+          "egg",
+          "elephant",
+          "ten"
+        ]
+      ]
+    },
+    {
+      "chapter": 3,
+      "id": "c3-stage-4",
+      "order": 4,
+      "title": "Power of H",
+      "boss": false,
+      "emblem": "H",
+      "teach": [
+        {
+          "letter": "H",
+          "audio": [
+            "H",
+            "huh"
+          ],
+          "instruction": "H는 숨을 헉헉 내쉬듯 H 소리를 내요!"
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "H",
+            "say": "huh"
+          }
+        ],
+        [
+          "hen",
+          "hat",
+          "hand"
+        ]
+      ]
+    },
+    {
+      "chapter": 3,
+      "id": "c3-stage-5",
+      "order": 5,
+      "title": "Boss: CAT and HEN!",
+      "boss": true,
+      "emblem": "★",
+      "teach": [
+        {
+          "audio": [
+            "kuh",
+            "aaa",
+            "tuh",
+            "cat"
+          ],
+          "instruction": "세 히어로가 합체해요! 먼저 cat을 만들어요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "C",
+            "say": "kuh"
+          },
+          {
+            "text": "A",
+            "say": "aaa"
+          },
+          {
+            "text": "T",
+            "say": "tuh"
+          },
+          "cat"
+        ],
+        [
+          {
+            "text": "H",
+            "say": "huh"
+          },
+          {
+            "text": "E",
+            "say": "eh"
+          },
+          {
+            "text": "N",
+            "say": "nnn"
+          },
+          "hen"
+        ]
+      ]
+    },
+    {
+      "chapter": 4,
+      "id": "c4-stage-1",
+      "order": 1,
+      "title": "The Running Sound",
+      "boss": false,
+      "emblem": "R",
+      "teach": [
+        {
+          "audio": [
+            "rrr"
+          ],
+          "instruction": "히어로가 달릴 때 나는 소리예요. 잘 들어보세요!"
+        }
+      ],
+      "introWords": [
+        [
+          "rat",
+          "ring"
+        ],
+        [
+          "red",
+          "run"
+        ]
+      ]
+    },
+    {
+      "chapter": 4,
+      "id": "c4-stage-2",
+      "order": 2,
+      "title": "Power of R",
+      "boss": false,
+      "emblem": "R",
+      "teach": [
+        {
+          "letter": "R",
+          "audio": [
+            "R",
+            "rrr"
+          ],
+          "instruction": "R은 로켓 엔진처럼 R 소리를 내요!"
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "R",
+            "say": "rrr"
+          }
+        ],
+        [
+          "rat",
+          "ring",
+          "red"
+        ]
+      ]
+    },
+    {
+      "chapter": 4,
+      "id": "c4-stage-3",
+      "order": 3,
+      "title": "Power of M",
+      "boss": false,
+      "emblem": "M",
+      "teach": [
+        {
+          "letter": "M",
+          "audio": [
+            "M",
+            "mmm"
+          ],
+          "instruction": "M은 자석이 붙을 때처럼 M 소리를 내요!"
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "M",
+            "say": "mmm"
+          }
+        ],
+        [
+          "moon",
+          "man",
+          "mat"
+        ]
+      ]
+    },
+    {
+      "chapter": 4,
+      "id": "c4-stage-4",
+      "order": 4,
+      "title": "Power of D",
+      "boss": false,
+      "emblem": "D",
+      "teach": [
+        {
+          "letter": "D",
+          "audio": [
+            "D",
+            "duh"
+          ],
+          "instruction": "D는 드릴로 땅을 파듯 D 소리를 내요!"
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "D",
+            "say": "duh"
+          }
+        ],
+        [
+          "dog",
+          "dad",
+          "red"
+        ]
+      ]
+    },
+    {
+      "chapter": 4,
+      "id": "c4-stage-5",
+      "order": 5,
+      "title": "Boss: MAT and RED!",
+      "boss": true,
+      "emblem": "★",
+      "teach": [
+        {
+          "audio": [
+            "mmm",
+            "aaa",
+            "tuh",
+            "mat"
+          ],
+          "instruction": "세 히어로가 합체해요! 먼저 mat을 만들어요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "M",
+            "say": "mmm"
+          },
+          {
+            "text": "A",
+            "say": "aaa"
+          },
+          {
+            "text": "T",
+            "say": "tuh"
+          },
+          "mat"
+        ],
+        [
+          {
+            "text": "R",
+            "say": "rrr"
+          },
+          {
+            "text": "E",
+            "say": "eh"
+          },
+          {
+            "text": "D",
+            "say": "duh"
+          },
+          "red"
+        ]
+      ]
+    },
+    {
+      "chapter": 5,
+      "id": "c5-stage-1",
+      "order": 1,
+      "title": "A Rumbling Sound",
+      "boss": false,
+      "emblem": "G",
+      "teach": [
+        {
+          "audio": [
+            "guh"
+          ],
+          "instruction": "히어로가 새로운 소리를 들려줘요. 잘 들어보세요!"
+        }
+      ],
+      "introWords": [
+        [
+          "gap",
+          "gum"
+        ],
+        [
+          "gum",
+          "gap"
+        ]
+      ]
+    },
+    {
+      "chapter": 5,
+      "id": "c5-stage-2",
+      "order": 2,
+      "title": "Power of G",
+      "boss": false,
+      "emblem": "G",
+      "teach": [
+        {
+          "letter": "G",
+          "audio": [
+            "G",
+            "guh"
+          ],
+          "instruction": "G는 뛰어오를 때처럼 G 소리를 내요!"
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "G",
+            "say": "guh"
+          }
+        ],
+        [
+          "gum",
+          "gap"
+        ]
+      ]
+    },
+    {
+      "chapter": 5,
+      "id": "c5-stage-3",
+      "order": 3,
+      "title": "Power of O",
+      "boss": false,
+      "emblem": "O",
+      "teach": [
+        {
+          "letter": "O",
+          "audio": [
+            "O",
+            "awh"
+          ],
+          "instruction": "O는 튕겨 오를 때처럼 O 소리를 내요!"
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "O",
+            "say": "awh"
+          }
+        ],
+        [
+          "got",
+          "on"
+        ]
+      ]
+    },
+    {
+      "chapter": 5,
+      "id": "c5-stage-4",
+      "order": 4,
+      "title": "Power of U",
+      "boss": false,
+      "emblem": "U",
+      "teach": [
+        {
+          "letter": "U",
+          "audio": [
+            "U",
+            "uh"
+          ],
+          "instruction": "U는 힘을 낼 때처럼 U 소리를 내요!"
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "U",
+            "say": "uh"
+          }
+        ],
+        [
+          "sun",
+          "nut"
+        ]
+      ]
+    },
+    {
+      "chapter": 5,
+      "id": "c5-stage-5",
+      "order": 5,
+      "title": "Boss: DOG and GUM!",
+      "boss": true,
+      "emblem": "★",
+      "teach": [
+        {
+          "audio": [
+            "duh",
+            "awh",
+            "guh",
+            "dog"
+          ],
+          "instruction": "세 히어로가 합체해요! 먼저 dog을 만들어요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "D",
+            "say": "duh"
+          },
+          {
+            "text": "O",
+            "say": "awh"
+          },
+          {
+            "text": "G",
+            "say": "guh"
+          },
+          "dog"
+        ],
+        [
+          {
+            "text": "G",
+            "say": "guh"
+          },
+          {
+            "text": "U",
+            "say": "uh"
+          },
+          {
+            "text": "M",
+            "say": "mmm"
+          },
+          "gum"
+        ]
+      ]
+    },
+    {
+      "chapter": 6,
+      "id": "c6-stage-1",
+      "order": 1,
+      "title": "A Wobbly Sound",
+      "boss": false,
+      "emblem": "L",
+      "teach": [
+        {
+          "audio": [
+            "lll"
+          ],
+          "instruction": "히어로가 새로운 소리를 들려줘요. 잘 들어보세요!"
+        }
+      ],
+      "introWords": [
+        [
+          "lap",
+          "lid"
+        ],
+        [
+          "lid",
+          "lap"
+        ]
+      ]
+    },
+    {
+      "chapter": 6,
+      "id": "c6-stage-2",
+      "order": 2,
+      "title": "Power of L",
+      "boss": false,
+      "emblem": "L",
+      "teach": [
+        {
+          "letter": "L",
+          "audio": [
+            "L",
+            "lll"
+          ],
+          "instruction": "L은 씩씩하게 행진할 때처럼 L 소리를 내요!"
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "L",
+            "say": "lll"
+          }
+        ],
+        [
+          "lap",
+          "lid"
+        ]
+      ]
+    },
+    {
+      "chapter": 6,
+      "id": "c6-stage-3",
+      "order": 3,
+      "title": "Power of F",
+      "boss": false,
+      "emblem": "F",
+      "teach": [
+        {
+          "letter": "F",
+          "audio": [
+            "F",
+            "fff"
+          ],
+          "instruction": "F는 바람을 내뿜을 때처럼 F 소리를 내요!"
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "F",
+            "say": "fff"
+          }
+        ],
+        [
+          "fit",
+          "fan"
+        ]
+      ]
+    },
+    {
+      "chapter": 6,
+      "id": "c6-stage-4",
+      "order": 4,
+      "title": "Power of B",
+      "boss": false,
+      "emblem": "B",
+      "teach": [
+        {
+          "letter": "B",
+          "audio": [
+            "B",
+            "buh"
+          ],
+          "instruction": "B는 블록을 쌓을 때처럼 B 소리를 내요!"
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "B",
+            "say": "buh"
+          }
+        ],
+        [
+          "bag",
+          "bed"
+        ]
+      ]
+    },
+    {
+      "chapter": 6,
+      "id": "c6-stage-5",
+      "order": 5,
+      "title": "Boss: FIT and BIG!",
+      "boss": true,
+      "emblem": "★",
+      "teach": [
+        {
+          "audio": [
+            "fff",
+            "ihh",
+            "tuh",
+            "fit"
+          ],
+          "instruction": "세 히어로가 합체해요! 먼저 fit을 만들어요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "F",
+            "say": "fff"
+          },
+          {
+            "text": "I",
+            "say": "ihh"
+          },
+          {
+            "text": "T",
+            "say": "tuh"
+          },
+          "fit"
+        ],
+        [
+          {
+            "text": "B",
+            "say": "buh"
+          },
+          {
+            "text": "I",
+            "say": "ihh"
+          },
+          {
+            "text": "G",
+            "say": "guh"
+          },
+          "big"
+        ]
+      ]
+    },
+    {
+      "chapter": 7,
+      "id": "c7-stage-1",
+      "order": 1,
+      "title": "A Gleaming Sound",
+      "boss": false,
+      "emblem": "AI",
+      "teach": [
+        {
+          "audio": [
+            "a"
+          ],
+          "instruction": "히어로가 새로운 소리를 들려줘요. 잘 들어보세요!"
+        }
+      ],
+      "introWords": [
+        [
+          "rain",
+          "aim"
+        ],
+        [
+          "aim",
+          "rain"
+        ]
+      ]
+    },
+    {
+      "chapter": 7,
+      "id": "c7-stage-2",
+      "order": 2,
+      "title": "Power of AI",
+      "boss": false,
+      "emblem": "AI",
+      "teach": [
+        {
+          "letter": "AI",
+          "audio": [
+            "a"
+          ],
+          "instruction": "AI는 A가 자기 이름을 말할 때처럼 소리를 내요!"
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "AI",
+            "say": "a"
+          }
+        ],
+        [
+          "rain",
+          "aim"
+        ]
+      ]
+    },
+    {
+      "chapter": 7,
+      "id": "c7-stage-3",
+      "order": 3,
+      "title": "Power of J",
+      "boss": false,
+      "emblem": "J",
+      "teach": [
+        {
+          "letter": "J",
+          "audio": [
+            "J",
+            "juh"
+          ],
+          "instruction": "J는 하늘을 가를 때처럼 J 소리를 내요!"
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "J",
+            "say": "juh"
+          }
+        ],
+        [
+          "jam",
+          "jog"
+        ]
+      ]
+    },
+    {
+      "chapter": 7,
+      "id": "c7-stage-4",
+      "order": 4,
+      "title": "Power of OA",
+      "boss": false,
+      "emblem": "OA",
+      "teach": [
+        {
+          "letter": "OA",
+          "audio": [
+            "oh"
+          ],
+          "instruction": "OA는 O가 자기 이름을 말할 때처럼 소리를 내요!"
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "OA",
+            "say": "oh"
+          }
+        ],
+        [
+          "boat",
+          "coat"
+        ]
+      ]
+    },
+    {
+      "chapter": 7,
+      "id": "c7-stage-5",
+      "order": 5,
+      "title": "Boss: RAIN and BOAT!",
+      "boss": true,
+      "emblem": "★",
+      "teach": [
+        {
+          "audio": [
+            "rrr",
+            "a",
+            "nnn",
+            "rain"
+          ],
+          "instruction": "세 히어로가 합체해요! 먼저 rain을 만들어요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "R",
+            "say": "rrr"
+          },
+          {
+            "text": "AI",
+            "say": "a"
+          },
+          {
+            "text": "N",
+            "say": "nnn"
+          },
+          "rain"
+        ],
+        [
+          {
+            "text": "B",
+            "say": "buh"
+          },
+          {
+            "text": "OA",
+            "say": "oh"
+          },
+          {
+            "text": "T",
+            "say": "tuh"
+          },
+          "boat"
+        ]
+      ]
+    },
+    {
+      "chapter": 8,
+      "id": "c8-stage-1",
+      "order": 1,
+      "title": "A Rising Sound",
+      "boss": false,
+      "emblem": "IE",
+      "teach": [
+        {
+          "audio": [
+            "eye"
+          ],
+          "instruction": "히어로가 새로운 소리를 들려줘요. 잘 들어보세요!"
+        }
+      ],
+      "introWords": [
+        [
+          "tie",
+          "pie"
+        ],
+        [
+          "pie",
+          "tie"
+        ]
+      ]
+    },
+    {
+      "chapter": 8,
+      "id": "c8-stage-2",
+      "order": 2,
+      "title": "Power of IE",
+      "boss": false,
+      "emblem": "IE",
+      "teach": [
+        {
+          "letter": "IE",
+          "audio": [
+            "eye"
+          ],
+          "instruction": "IE는 I가 자기 이름을 말할 때처럼 소리를 내요!"
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "IE",
+            "say": "eye"
+          }
+        ],
+        [
+          "tie",
+          "pie"
+        ]
+      ]
+    },
+    {
+      "chapter": 8,
+      "id": "c8-stage-3",
+      "order": 3,
+      "title": "Power of EE",
+      "boss": false,
+      "emblem": "EE",
+      "teach": [
+        {
+          "letter": "EE",
+          "audio": [
+            "ee"
+          ],
+          "instruction": "EE는 E가 자기 이름을 말할 때처럼 소리를 내요!"
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "EE",
+            "say": "ee"
+          }
+        ],
+        [
+          "bee",
+          "tree"
+        ]
+      ]
+    },
+    {
+      "chapter": 8,
+      "id": "c8-stage-4",
+      "order": 4,
+      "title": "Power of OR",
+      "boss": false,
+      "emblem": "OR",
+      "teach": [
+        {
+          "letter": "OR",
+          "audio": [
+            "or"
+          ],
+          "instruction": "OR은 회전력이 몰아칠 때처럼 소리를 내요!"
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "OR",
+            "say": "or"
+          }
+        ],
+        [
+          "fork",
+          "corn"
+        ]
+      ]
+    },
+    {
+      "chapter": 8,
+      "id": "c8-stage-5",
+      "order": 5,
+      "title": "Boss: TIE and CORN!",
+      "boss": true,
+      "emblem": "★",
+      "teach": [
+        {
+          "audio": [
+            "tuh",
+            "eye",
+            "tie"
+          ],
+          "instruction": "세 히어로가 합체해요! 먼저 tie를 만들어요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "T",
+            "say": "tuh"
+          },
+          {
+            "text": "IE",
+            "say": "eye"
+          },
+          "tie"
+        ],
+        [
+          {
+            "text": "C",
+            "say": "kuh"
+          },
+          {
+            "text": "OR",
+            "say": "or"
+          },
+          {
+            "text": "N",
+            "say": "nnn"
+          },
+          "corn"
+        ]
+      ]
+    },
+    {
+      "chapter": 9,
+      "id": "c9-stage-1",
+      "order": 1,
+      "title": "A Buzzing Sound",
+      "boss": false,
+      "emblem": "Z",
+      "teach": [
+        {
+          "audio": [
+            "zze"
+          ],
+          "instruction": "히어로가 새로운 소리를 들려줘요. 잘 들어보세요!"
+        }
+      ],
+      "introWords": [
+        [
+          "zip",
+          "zoo"
+        ],
+        [
+          "zoo",
+          "zip"
+        ]
+      ]
+    },
+    {
+      "chapter": 9,
+      "id": "c9-stage-2",
+      "order": 2,
+      "title": "Power of Z",
+      "boss": false,
+      "emblem": "Z",
+      "teach": [
+        {
+          "letter": "Z",
+          "audio": [
+            "zze"
+          ],
+          "instruction": "꼬리가 흔들리는 소리처럼 Z 소리를 내요!"
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "Z",
+            "say": "zze"
+          }
+        ],
+        [
+          "zip",
+          "zoo"
+        ]
+      ]
+    },
+    {
+      "chapter": 9,
+      "id": "c9-stage-3",
+      "order": 3,
+      "title": "Power of W",
+      "boss": false,
+      "emblem": "W",
+      "teach": [
+        {
+          "letter": "W",
+          "audio": [
+            "weh"
+          ],
+          "instruction": "히어로가 바람을 가르며 W 소리를 내요!"
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "W",
+            "say": "weh"
+          }
+        ],
+        [
+          "web",
+          "wig"
+        ]
+      ]
+    },
+    {
+      "chapter": 9,
+      "id": "c9-stage-4",
+      "order": 4,
+      "title": "Power of NG",
+      "boss": false,
+      "emblem": "NG",
+      "teach": [
+        {
+          "letter": "NG",
+          "audio": [
+            "ngh"
+          ],
+          "instruction": "히어로가 날개를 펼치며 NG 소리로 크게 울어요!"
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "NG",
+            "say": "ngh"
+          }
+        ],
+        [
+          "king",
+          "ring"
+        ]
+      ]
+    },
+    {
+      "chapter": 9,
+      "id": "c9-stage-5",
+      "order": 5,
+      "title": "Boss: ZIP and RING!",
+      "boss": true,
+      "emblem": "★",
+      "teach": [
+        {
+          "audio": [
+            "zze",
+            "ihh",
+            "puh",
+            "zip"
+          ],
+          "instruction": "세 히어로가 합체해요! 먼저 zip을 만들어요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "Z",
+            "say": "zze"
+          },
+          {
+            "text": "I",
+            "say": "ihh"
+          },
+          {
+            "text": "P",
+            "say": "puh"
+          },
+          "zip"
+        ],
+        [
+          {
+            "text": "R",
+            "say": "rrr"
+          },
+          {
+            "text": "I",
+            "say": "ihh"
+          },
+          {
+            "text": "NG",
+            "say": "ngh"
+          },
+          "ring"
+        ]
+      ]
+    },
+    {
+      "chapter": 10,
+      "id": "c10-stage-1",
+      "order": 1,
+      "title": "A Humming Sound",
+      "boss": false,
+      "emblem": "V",
+      "teach": [
+        {
+          "audio": [
+            "vve"
+          ],
+          "instruction": "히어로가 새로운 소리를 들려줘요. 잘 들어보세요!"
+        }
+      ],
+      "introWords": [
+        [
+          "van",
+          "vet"
+        ],
+        [
+          "vet",
+          "van"
+        ]
+      ]
+    },
+    {
+      "chapter": 10,
+      "id": "c10-stage-2",
+      "order": 2,
+      "title": "Power of V",
+      "boss": false,
+      "emblem": "V",
+      "teach": [
+        {
+          "letter": "V",
+          "audio": [
+            "vve"
+          ],
+          "instruction": "엔진이 붕붕거리며 V 소리를 내요!"
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "V",
+            "say": "vve"
+          }
+        ],
+        [
+          "van",
+          "vet"
+        ]
+      ]
+    },
+    {
+      "chapter": 10,
+      "id": "c10-stage-3",
+      "order": 3,
+      "title": "Power of OO",
+      "boss": false,
+      "emblem": "OO",
+      "teach": [
+        {
+          "letter": "OO",
+          "audio": [
+            "uuu"
+          ],
+          "instruction": "히어로가 달을 향해 뛰어오르며 OO 소리를 길게 내요!"
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "OO",
+            "say": "uuu"
+          }
+        ],
+        [
+          "moon",
+          "book"
+        ]
+      ]
+    },
+    {
+      "chapter": 10,
+      "id": "c10-stage-4",
+      "order": 4,
+      "title": "Power of Y",
+      "boss": false,
+      "emblem": "Y",
+      "teach": [
+        {
+          "letter": "Y",
+          "audio": [
+            "yyuh"
+          ],
+          "instruction": "히어로가 벽돌을 옮기며 Y 소리를 내요!"
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "Y",
+            "say": "yyuh"
+          }
+        ],
+        [
+          "yam",
+          "yes"
+        ]
+      ]
+    },
+    {
+      "chapter": 10,
+      "id": "c10-stage-5",
+      "order": 5,
+      "title": "Boss: VAN and YAM!",
+      "boss": true,
+      "emblem": "★",
+      "teach": [
+        {
+          "audio": [
+            "vve",
+            "aaa",
+            "nnn",
+            "van"
+          ],
+          "instruction": "세 히어로가 합체해요! 먼저 van을 만들어요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "V",
+            "say": "vve"
+          },
+          {
+            "text": "A",
+            "say": "aaa"
+          },
+          {
+            "text": "N",
+            "say": "nnn"
+          },
+          "van"
+        ],
+        [
+          {
+            "text": "Y",
+            "say": "yyuh"
+          },
+          {
+            "text": "A",
+            "say": "aaa"
+          },
+          {
+            "text": "M",
+            "say": "mmm"
+          },
+          "yam"
+        ]
+      ]
+    },
+    {
+      "chapter": 11,
+      "id": "c11-stage-1",
+      "order": 1,
+      "title": "A Clicking Sound",
+      "boss": false,
+      "emblem": "X",
+      "teach": [
+        {
+          "audio": [
+            "ksuh"
+          ],
+          "instruction": "히어로가 새로운 소리를 들려줘요. 잘 들어보세요!"
+        }
+      ],
+      "introWords": [
+        [
+          "box",
+          "six"
+        ],
+        [
+          "six",
+          "box"
+        ]
+      ]
+    },
+    {
+      "chapter": 11,
+      "id": "c11-stage-2",
+      "order": 2,
+      "title": "Power of X",
+      "boss": false,
+      "emblem": "X",
+      "teach": [
+        {
+          "letter": "X",
+          "audio": [
+            "ksuh"
+          ],
+          "instruction": "상자를 잠그는 소리처럼 X 소리를 내요!"
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "X",
+            "say": "ksuh"
+          }
+        ],
+        [
+          "box",
+          "six"
+        ]
+      ]
+    },
+    {
+      "chapter": 11,
+      "id": "c11-stage-3",
+      "order": 3,
+      "title": "Power of CH",
+      "boss": false,
+      "emblem": "CH",
+      "teach": [
+        {
+          "letter": "CH",
+          "audio": [
+            "ch"
+          ],
+          "instruction": "히어로가 기차처럼 칙칙 CH 소리를 내요!"
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "CH",
+            "say": "ch"
+          }
+        ],
+        [
+          "chip",
+          "chin"
+        ]
+      ]
+    },
+    {
+      "chapter": 11,
+      "id": "c11-stage-4",
+      "order": 4,
+      "title": "Power of SH",
+      "boss": false,
+      "emblem": "SH",
+      "teach": [
+        {
+          "letter": "SH",
+          "audio": [
+            "shhu"
+          ],
+          "instruction": "히어로가 조용히 하라는 듯 SH 소리를 내요!"
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "SH",
+            "say": "shhu"
+          }
+        ],
+        [
+          "ship",
+          "shed"
+        ]
+      ]
+    },
+    {
+      "chapter": 11,
+      "id": "c11-stage-5",
+      "order": 5,
+      "title": "Boss: BOX and SHIP!",
+      "boss": true,
+      "emblem": "★",
+      "teach": [
+        {
+          "audio": [
+            "buh",
+            "awh",
+            "ksuh",
+            "box"
+          ],
+          "instruction": "세 히어로가 합체해요! 먼저 box를 만들어요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "B",
+            "say": "buh"
+          },
+          {
+            "text": "O",
+            "say": "awh"
+          },
+          {
+            "text": "X",
+            "say": "ksuh"
+          },
+          "box"
+        ],
+        [
+          {
+            "text": "SH",
+            "say": "shhu"
+          },
+          {
+            "text": "I",
+            "say": "ihh"
+          },
+          {
+            "text": "P",
+            "say": "puh"
+          },
+          "ship"
+        ]
+      ]
+    },
+    {
+      "chapter": 12,
+      "id": "c12-stage-1",
+      "order": 1,
+      "title": "A Rasping Sound",
+      "boss": false,
+      "emblem": "TH",
+      "teach": [
+        {
+          "audio": [
+            "thhu"
+          ],
+          "instruction": "히어로가 새로운 소리를 들려줘요. 잘 들어보세요!"
+        }
+      ],
+      "introWords": [
+        [
+          "thin",
+          "thud"
+        ],
+        [
+          "thud",
+          "thin"
+        ]
+      ]
+    },
+    {
+      "chapter": 12,
+      "id": "c12-stage-2",
+      "order": 2,
+      "title": "Power of TH",
+      "boss": false,
+      "emblem": "TH",
+      "teach": [
+        {
+          "letter": "TH",
+          "audio": [
+            "thhu"
+          ],
+          "instruction": "엔진이 식는 소리처럼 TH 소리를 내요!"
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "TH",
+            "say": "thhu"
+          }
+        ],
+        [
+          "this",
+          "that"
+        ]
+      ]
+    },
+    {
+      "chapter": 12,
+      "id": "c12-stage-3",
+      "order": 3,
+      "title": "Power of QU",
+      "boss": false,
+      "emblem": "QU",
+      "teach": [
+        {
+          "letter": "QU",
+          "audio": [
+            "kw"
+          ],
+          "instruction": "히어로가 바퀴를 굴리며 QU 소리를 내요!"
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "QU",
+            "say": "kw"
+          }
+        ],
+        [
+          "quiz",
+          "quack"
+        ]
+      ]
+    },
+    {
+      "chapter": 12,
+      "id": "c12-stage-4",
+      "order": 4,
+      "title": "Power of OU",
+      "boss": false,
+      "emblem": "OU",
+      "teach": [
+        {
+          "letter": "OU",
+          "audio": [
+            "ou"
+          ],
+          "instruction": "히어로가 연기를 뿜으며 OU 소리를 크게 내요!"
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "OU",
+            "say": "ou"
+          }
+        ],
+        [
+          "out",
+          "loud"
+        ]
+      ]
+    },
+    {
+      "chapter": 12,
+      "id": "c12-stage-5",
+      "order": 5,
+      "title": "Boss: THIN and OUT!",
+      "boss": true,
+      "emblem": "★",
+      "teach": [
+        {
+          "audio": [
+            "thhu",
+            "ihh",
+            "nnn",
+            "thin"
+          ],
+          "instruction": "세 히어로가 합체해요! 먼저 thin을 만들어요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "TH",
+            "say": "thhu"
+          },
+          {
+            "text": "I",
+            "say": "ihh"
+          },
+          {
+            "text": "N",
+            "say": "nnn"
+          },
+          "thin"
+        ],
+        [
+          {
+            "text": "OU",
+            "say": "ou"
+          },
+          {
+            "text": "T",
+            "say": "tuh"
+          },
+          "out"
+        ]
+      ]
+    },
+    {
+      "chapter": 13,
+      "id": "c13-stage-1",
+      "order": 1,
+      "title": "A Coiling Sound",
+      "boss": false,
+      "emblem": "OI",
+      "teach": [
+        {
+          "audio": [
+            "oi"
+          ],
+          "instruction": "히어로가 새로운 소리를 들려줘요. 잘 들어보세요!"
+        }
+      ],
+      "introWords": [
+        [
+          "coin",
+          "boy"
+        ],
+        [
+          "boy",
+          "coin"
+        ]
+      ]
+    },
+    {
+      "chapter": 13,
+      "id": "c13-stage-2",
+      "order": 2,
+      "title": "Power of OI",
+      "boss": false,
+      "emblem": "OI",
+      "teach": [
+        {
+          "letter": "OI",
+          "audio": [
+            "oi"
+          ],
+          "instruction": "신호가 튀어오르는 것처럼 OI 소리를 내요!"
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "OI",
+            "say": "oi"
+          }
+        ],
+        [
+          "coin",
+          "boy"
+        ]
+      ]
+    },
+    {
+      "chapter": 13,
+      "id": "c13-stage-3",
+      "order": 3,
+      "title": "Power of UE",
+      "boss": false,
+      "emblem": "UE",
+      "teach": [
+        {
+          "letter": "UE",
+          "audio": [
+            "u"
+          ],
+          "instruction": "UE는 U가 자기 이름을 말할 때처럼 소리를 내요!"
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "UE",
+            "say": "u"
+          }
+        ],
+        [
+          "cue",
+          "glue"
+        ]
+      ]
+    },
+    {
+      "chapter": 13,
+      "id": "c13-stage-4",
+      "order": 4,
+      "title": "Signal Overload",
+      "boss": false,
+      "emblem": "OI",
+      "teach": [],
+      "introWords": [
+        [
+          "coin",
+          "cue"
+        ]
+      ]
+    },
+    {
+      "chapter": 13,
+      "id": "c13-stage-5",
+      "order": 5,
+      "title": "Boss: COIN and CUE!",
+      "boss": true,
+      "emblem": "★",
+      "teach": [
+        {
+          "audio": [
+            "kuh",
+            "oi",
+            "nnn",
+            "coin"
+          ],
+          "instruction": "두 히어로가 합체해요! 먼저 coin을 만들어요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "C",
+            "say": "kuh"
+          },
+          {
+            "text": "OI",
+            "say": "oi"
+          },
+          {
+            "text": "N",
+            "say": "nnn"
+          },
+          "coin"
+        ],
+        [
+          {
+            "text": "C",
+            "say": "kuh"
+          },
+          {
+            "text": "UE",
+            "say": "u"
+          },
+          "cue"
+        ]
+      ]
+    },
+    {
+      "chapter": 14,
+      "id": "c14-stage-1",
+      "order": 1,
+      "title": "A Roaring Sound",
+      "boss": false,
+      "emblem": "AR",
+      "teach": [
+        {
+          "audio": [
+            "arh"
+          ],
+          "instruction": "히어로가 새로운 소리를 들려줘요. 잘 들어보세요!"
+        }
+      ],
+      "introWords": [
+        [
+          "car",
+          "star"
+        ],
+        [
+          "star",
+          "car"
+        ]
+      ]
+    },
+    {
+      "chapter": 14,
+      "id": "c14-stage-2",
+      "order": 2,
+      "title": "Power of AR",
+      "boss": false,
+      "emblem": "AR",
+      "teach": [
+        {
+          "letter": "AR",
+          "audio": [
+            "arh"
+          ],
+          "instruction": "히어로가 엔진을 부릉거리며 AR 소리를 내요!"
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "AR",
+            "say": "arh"
+          }
+        ],
+        [
+          "car",
+          "star"
+        ]
+      ]
+    },
+    {
+      "chapter": 14,
+      "id": "c14-stage-3",
+      "order": 3,
+      "title": "Power of ER",
+      "boss": false,
+      "emblem": "ER",
+      "teach": [
+        {
+          "letter": "ER",
+          "audio": [
+            "erh"
+          ],
+          "instruction": "히어로가 자석을 당기며 ER 소리를 내요!"
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "ER",
+            "say": "erh"
+          }
+        ],
+        [
+          "her",
+          "fern"
+        ]
+      ]
+    },
+    {
+      "chapter": 14,
+      "id": "c14-stage-4",
+      "order": 4,
+      "title": "Dragon Roar Practice",
+      "boss": false,
+      "emblem": "★",
+      "teach": [],
+      "introWords": [
+        [
+          "car",
+          "her"
+        ]
+      ]
+    },
+    {
+      "chapter": 14,
+      "id": "c14-stage-5",
+      "order": 5,
+      "title": "Boss: CAR and HER!",
+      "boss": true,
+      "emblem": "★",
+      "teach": [
+        {
+          "audio": [
+            "kuh",
+            "arh",
+            "car"
+          ],
+          "instruction": "두 히어로가 합체해요! 먼저 car를 만들어요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "C",
+            "say": "kuh"
+          },
+          {
+            "text": "AR",
+            "say": "arh"
+          },
+          "car"
+        ],
+        [
+          {
+            "text": "H",
+            "say": "huh"
+          },
+          {
+            "text": "ER",
+            "say": "erh"
+          },
+          "her"
+        ]
+      ]
+    },
+    {
+      "chapter": 15,
+      "id": "c15-stage-1",
+      "order": 1,
+      "title": "S and T Together",
+      "boss": false,
+      "emblem": "ST",
+      "teach": [
+        {
+          "audio": [
+            "sss"
+          ],
+          "instruction": "히어로가 S와 T 소리를 나란히 들려줘요! 잘 들어보세요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "T",
+            "say": "tuh"
+          }
+        ],
+        [
+          {
+            "text": "S",
+            "say": "sss"
+          },
+          {
+            "text": "T",
+            "say": "tuh"
+          },
+          "star"
+        ]
+      ]
+    },
+    {
+      "chapter": 15,
+      "id": "c15-stage-2",
+      "order": 2,
+      "title": "Power of ST",
+      "boss": false,
+      "emblem": "ST",
+      "teach": [],
+      "introWords": [
+        [
+          {
+            "text": "T",
+            "say": "tuh"
+          }
+        ],
+        [
+          "star",
+          "umbrella"
+        ]
+      ]
+    },
+    {
+      "chapter": 15,
+      "id": "c15-stage-3",
+      "order": 3,
+      "title": "S and N Together",
+      "boss": false,
+      "emblem": "SN",
+      "teach": [
+        {
+          "audio": [
+            "sss"
+          ],
+          "instruction": "히어로가 S와 N 소리를 나란히 들려줘요! 잘 들어보세요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "N",
+            "say": "nnn"
+          }
+        ],
+        [
+          {
+            "text": "S",
+            "say": "sss"
+          },
+          {
+            "text": "N",
+            "say": "nnn"
+          },
+          "snake"
+        ]
+      ]
+    },
+    {
+      "chapter": 15,
+      "id": "c15-stage-4",
+      "order": 4,
+      "title": "Power of SN",
+      "boss": false,
+      "emblem": "SN",
+      "teach": [],
+      "introWords": [
+        [
+          {
+            "text": "N",
+            "say": "nnn"
+          }
+        ],
+        [
+          "snake",
+          "apple"
+        ]
+      ]
+    },
+    {
+      "chapter": 15,
+      "id": "c15-stage-5",
+      "order": 5,
+      "title": "Boss: STAR and SNAP!",
+      "boss": true,
+      "emblem": "★",
+      "teach": [
+        {
+          "audio": [
+            "sss",
+            "tuh",
+            "arh",
+            "star"
+          ],
+          "instruction": "히어로가 합체해요! 먼저 star를 만들어요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "S",
+            "say": "sss"
+          },
+          {
+            "text": "T",
+            "say": "tuh"
+          },
+          {
+            "text": "AR",
+            "say": "arh"
+          },
+          "star"
+        ],
+        [
+          {
+            "text": "S",
+            "say": "sss"
+          },
+          {
+            "text": "N",
+            "say": "nnn"
+          },
+          {
+            "text": "A",
+            "say": "aaa"
+          },
+          {
+            "text": "P",
+            "say": "puh"
+          },
+          "snap"
+        ]
+      ]
+    },
+    {
+      "chapter": 16,
+      "id": "c16-stage-1",
+      "order": 1,
+      "title": "T and R Together",
+      "boss": false,
+      "emblem": "TR",
+      "teach": [
+        {
+          "audio": [
+            "tuh"
+          ],
+          "instruction": "히어로가 T와 R 소리를 나란히 들려줘요! 잘 들어보세요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "R",
+            "say": "rrr"
+          }
+        ],
+        [
+          {
+            "text": "T",
+            "say": "tuh"
+          },
+          {
+            "text": "R",
+            "say": "rrr"
+          },
+          "train"
+        ]
+      ]
+    },
+    {
+      "chapter": 16,
+      "id": "c16-stage-2",
+      "order": 2,
+      "title": "Power of TR",
+      "boss": false,
+      "emblem": "TR",
+      "teach": [],
+      "introWords": [
+        [
+          {
+            "text": "R",
+            "say": "rrr"
+          }
+        ],
+        [
+          "train",
+          "fan"
+        ]
+      ]
+    },
+    {
+      "chapter": 16,
+      "id": "c16-stage-3",
+      "order": 3,
+      "title": "F and R Together",
+      "boss": false,
+      "emblem": "FR",
+      "teach": [
+        {
+          "audio": [
+            "fff"
+          ],
+          "instruction": "히어로가 F와 R 소리를 나란히 들려줘요! 잘 들어보세요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "R",
+            "say": "rrr"
+          }
+        ],
+        [
+          {
+            "text": "F",
+            "say": "fff"
+          },
+          {
+            "text": "R",
+            "say": "rrr"
+          },
+          "fries"
+        ]
+      ]
+    },
+    {
+      "chapter": 16,
+      "id": "c16-stage-4",
+      "order": 4,
+      "title": "Power of FR",
+      "boss": false,
+      "emblem": "FR",
+      "teach": [],
+      "introWords": [
+        [
+          {
+            "text": "R",
+            "say": "rrr"
+          }
+        ],
+        [
+          "fries",
+          "tie"
+        ]
+      ]
+    },
+    {
+      "chapter": 16,
+      "id": "c16-stage-5",
+      "order": 5,
+      "title": "Boss: TRAP and FROG!",
+      "boss": true,
+      "emblem": "★",
+      "teach": [
+        {
+          "audio": [
+            "tuh",
+            "rrr",
+            "aaa",
+            "puh",
+            "trap"
+          ],
+          "instruction": "히어로가 합체해요! 먼저 trap을 만들어요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "T",
+            "say": "tuh"
+          },
+          {
+            "text": "R",
+            "say": "rrr"
+          },
+          {
+            "text": "A",
+            "say": "aaa"
+          },
+          {
+            "text": "P",
+            "say": "puh"
+          },
+          "trap"
+        ],
+        [
+          {
+            "text": "F",
+            "say": "fff"
+          },
+          {
+            "text": "R",
+            "say": "rrr"
+          },
+          {
+            "text": "O",
+            "say": "awh"
+          },
+          {
+            "text": "G",
+            "say": "guh"
+          },
+          "frog"
+        ]
+      ]
+    },
+    {
+      "chapter": 17,
+      "id": "c17-stage-1",
+      "order": 1,
+      "title": "C and L Together",
+      "boss": false,
+      "emblem": "CL",
+      "teach": [
+        {
+          "audio": [
+            "kuh"
+          ],
+          "instruction": "히어로가 C와 L 소리를 나란히 들려줘요! 잘 들어보세요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "L",
+            "say": "lll"
+          }
+        ],
+        [
+          {
+            "text": "C",
+            "say": "kuh"
+          },
+          {
+            "text": "L",
+            "say": "lll"
+          },
+          "cloud"
+        ]
+      ]
+    },
+    {
+      "chapter": 17,
+      "id": "c17-stage-2",
+      "order": 2,
+      "title": "Power of CL",
+      "boss": false,
+      "emblem": "CL",
+      "teach": [],
+      "introWords": [
+        [
+          {
+            "text": "L",
+            "say": "lll"
+          }
+        ],
+        [
+          "cloud",
+          "aim"
+        ]
+      ]
+    },
+    {
+      "chapter": 17,
+      "id": "c17-stage-3",
+      "order": 3,
+      "title": "G and L Together",
+      "boss": false,
+      "emblem": "GL",
+      "teach": [
+        {
+          "audio": [
+            "guh"
+          ],
+          "instruction": "히어로가 G와 L 소리를 나란히 들려줘요! 잘 들어보세요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "L",
+            "say": "lll"
+          }
+        ],
+        [
+          {
+            "text": "G",
+            "say": "guh"
+          },
+          {
+            "text": "L",
+            "say": "lll"
+          },
+          "glue"
+        ]
+      ]
+    },
+    {
+      "chapter": 17,
+      "id": "c17-stage-4",
+      "order": 4,
+      "title": "Power of GL",
+      "boss": false,
+      "emblem": "GL",
+      "teach": [],
+      "introWords": [
+        [
+          {
+            "text": "L",
+            "say": "lll"
+          }
+        ],
+        [
+          "glue",
+          "pie"
+        ]
+      ]
+    },
+    {
+      "chapter": 17,
+      "id": "c17-stage-5",
+      "order": 5,
+      "title": "Boss: CLAP and GLUE!",
+      "boss": true,
+      "emblem": "★",
+      "teach": [
+        {
+          "audio": [
+            "kuh",
+            "lll",
+            "aaa",
+            "puh",
+            "clap"
+          ],
+          "instruction": "히어로가 합체해요! 먼저 clap을 만들어요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "C",
+            "say": "kuh"
+          },
+          {
+            "text": "L",
+            "say": "lll"
+          },
+          {
+            "text": "A",
+            "say": "aaa"
+          },
+          {
+            "text": "P",
+            "say": "puh"
+          },
+          "clap"
+        ],
+        [
+          {
+            "text": "G",
+            "say": "guh"
+          },
+          {
+            "text": "L",
+            "say": "lll"
+          },
+          {
+            "text": "UE",
+            "say": "u"
+          },
+          "glue"
+        ]
+      ]
+    },
+    {
+      "chapter": 18,
+      "id": "c18-stage-1",
+      "order": 1,
+      "title": "N and D Together",
+      "boss": false,
+      "emblem": "ND",
+      "teach": [
+        {
+          "audio": [
+            "nnn"
+          ],
+          "instruction": "히어로가 N과 D 소리를 나란히 들려줘요! 이번엔 단어 끝에서 나요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "D",
+            "say": "duh"
+          }
+        ],
+        [
+          {
+            "text": "N",
+            "say": "nnn"
+          },
+          {
+            "text": "D",
+            "say": "duh"
+          },
+          "hand"
+        ]
+      ]
+    },
+    {
+      "chapter": 18,
+      "id": "c18-stage-2",
+      "order": 2,
+      "title": "Power of ND",
+      "boss": false,
+      "emblem": "ND",
+      "teach": [],
+      "introWords": [
+        [
+          {
+            "text": "D",
+            "say": "duh"
+          }
+        ],
+        [
+          "hand",
+          "boat"
+        ]
+      ]
+    },
+    {
+      "chapter": 18,
+      "id": "c18-stage-3",
+      "order": 3,
+      "title": "N and T Together",
+      "boss": false,
+      "emblem": "NT",
+      "teach": [
+        {
+          "audio": [
+            "nnn"
+          ],
+          "instruction": "히어로가 N과 T 소리를 나란히 들려줘요! 이번에도 단어 끝에서 나요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "T",
+            "say": "tuh"
+          }
+        ],
+        [
+          {
+            "text": "N",
+            "say": "nnn"
+          },
+          {
+            "text": "T",
+            "say": "tuh"
+          },
+          "ant"
+        ]
+      ]
+    },
+    {
+      "chapter": 18,
+      "id": "c18-stage-4",
+      "order": 4,
+      "title": "Power of NT",
+      "boss": false,
+      "emblem": "NT",
+      "teach": [],
+      "introWords": [
+        [
+          {
+            "text": "T",
+            "say": "tuh"
+          }
+        ],
+        [
+          "ant",
+          "elephant"
+        ]
+      ]
+    },
+    {
+      "chapter": 18,
+      "id": "c18-stage-5",
+      "order": 5,
+      "title": "Boss: SAND and ANT!",
+      "boss": true,
+      "emblem": "★",
+      "teach": [
+        {
+          "audio": [
+            "sss",
+            "aaa",
+            "nnn",
+            "duh",
+            "sand"
+          ],
+          "instruction": "히어로가 합체해요! 먼저 sand를 만들어요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "S",
+            "say": "sss"
+          },
+          {
+            "text": "A",
+            "say": "aaa"
+          },
+          {
+            "text": "N",
+            "say": "nnn"
+          },
+          {
+            "text": "D",
+            "say": "duh"
+          },
+          "sand"
+        ],
+        [
+          {
+            "text": "A",
+            "say": "aaa"
+          },
+          {
+            "text": "N",
+            "say": "nnn"
+          },
+          {
+            "text": "T",
+            "say": "tuh"
+          },
+          "ant"
+        ]
+      ]
+    },
+    {
+      "chapter": 19,
+      "id": "c19-stage-1",
+      "order": 1,
+      "title": "N and K Together",
+      "boss": false,
+      "emblem": "NK",
+      "teach": [
+        {
+          "audio": [
+            "nnn"
+          ],
+          "instruction": "히어로가 N과 K 소리를 나란히 들려줘요! 단어 끝에서 나요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "K",
+            "say": "kuh"
+          }
+        ],
+        [
+          {
+            "text": "N",
+            "say": "nnn"
+          },
+          {
+            "text": "K",
+            "say": "kuh"
+          },
+          "ink"
+        ]
+      ]
+    },
+    {
+      "chapter": 19,
+      "id": "c19-stage-2",
+      "order": 2,
+      "title": "Power of NK",
+      "boss": false,
+      "emblem": "NK",
+      "teach": [],
+      "introWords": [
+        [
+          {
+            "text": "K",
+            "say": "kuh"
+          }
+        ],
+        [
+          "ink",
+          "bee"
+        ]
+      ]
+    },
+    {
+      "chapter": 19,
+      "id": "c19-stage-3",
+      "order": 3,
+      "title": "F and T Together",
+      "boss": false,
+      "emblem": "FT",
+      "teach": [
+        {
+          "audio": [
+            "fff"
+          ],
+          "instruction": "히어로가 F와 T 소리를 나란히 들려줘요! 단어 끝에서 나요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "T",
+            "say": "tuh"
+          }
+        ],
+        [
+          {
+            "text": "F",
+            "say": "fff"
+          },
+          {
+            "text": "T",
+            "say": "tuh"
+          },
+          "gift"
+        ]
+      ]
+    },
+    {
+      "chapter": 19,
+      "id": "c19-stage-4",
+      "order": 4,
+      "title": "Power of FT",
+      "boss": false,
+      "emblem": "FT",
+      "teach": [],
+      "introWords": [
+        [
+          {
+            "text": "T",
+            "say": "tuh"
+          }
+        ],
+        [
+          "gift",
+          "rain"
+        ]
+      ]
+    },
+    {
+      "chapter": 19,
+      "id": "c19-stage-5",
+      "order": 5,
+      "title": "Boss: PINK and GIFT!",
+      "boss": true,
+      "emblem": "★",
+      "teach": [
+        {
+          "audio": [
+            "puh",
+            "ihh",
+            "nnn",
+            "kuh",
+            "pink"
+          ],
+          "instruction": "히어로가 합체해요! 먼저 pink를 만들어요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "P",
+            "say": "puh"
+          },
+          {
+            "text": "I",
+            "say": "ihh"
+          },
+          {
+            "text": "N",
+            "say": "nnn"
+          },
+          {
+            "text": "K",
+            "say": "kuh"
+          },
+          "pink"
+        ],
+        [
+          {
+            "text": "G",
+            "say": "guh"
+          },
+          {
+            "text": "I",
+            "say": "ihh"
+          },
+          {
+            "text": "F",
+            "say": "fff"
+          },
+          {
+            "text": "T",
+            "say": "tuh"
+          },
+          "gift"
+        ]
+      ]
+    },
+    {
+      "chapter": 20,
+      "id": "c20-stage-1",
+      "order": 1,
+      "title": "S and P Together",
+      "boss": false,
+      "emblem": "SP",
+      "teach": [
+        {
+          "audio": [
+            "sss"
+          ],
+          "instruction": "히어로가 S와 P 소리를 나란히 들려줘요! 잘 들어보세요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "P",
+            "say": "puh"
+          }
+        ],
+        [
+          {
+            "text": "S",
+            "say": "sss"
+          },
+          {
+            "text": "P",
+            "say": "puh"
+          },
+          "spin"
+        ]
+      ]
+    },
+    {
+      "chapter": 20,
+      "id": "c20-stage-2",
+      "order": 2,
+      "title": "Power of SP",
+      "boss": false,
+      "emblem": "SP",
+      "teach": [],
+      "introWords": [
+        [
+          {
+            "text": "P",
+            "say": "puh"
+          }
+        ],
+        [
+          "spin",
+          "coat"
+        ]
+      ]
+    },
+    {
+      "chapter": 20,
+      "id": "c20-stage-3",
+      "order": 3,
+      "title": "S and K Together",
+      "boss": false,
+      "emblem": "SK",
+      "teach": [
+        {
+          "audio": [
+            "sss"
+          ],
+          "instruction": "히어로가 S와 K 소리를 나란히 들려줘요! 잘 들어보세요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "K",
+            "say": "kuh"
+          }
+        ],
+        [
+          {
+            "text": "S",
+            "say": "sss"
+          },
+          {
+            "text": "K",
+            "say": "kuh"
+          },
+          "skip"
+        ]
+      ]
+    },
+    {
+      "chapter": 20,
+      "id": "c20-stage-4",
+      "order": 4,
+      "title": "Power of SK",
+      "boss": false,
+      "emblem": "SK",
+      "teach": [],
+      "introWords": [
+        [
+          {
+            "text": "K",
+            "say": "kuh"
+          }
+        ],
+        [
+          "skip",
+          "insect"
+        ]
+      ]
+    },
+    {
+      "chapter": 20,
+      "id": "c20-stage-5",
+      "order": 5,
+      "title": "Boss: SPIN and SKIP!",
+      "boss": true,
+      "emblem": "★",
+      "teach": [
+        {
+          "audio": [
+            "sss",
+            "puh",
+            "ihh",
+            "nnn",
+            "spin"
+          ],
+          "instruction": "히어로가 합체해요! 먼저 spin을 만들어요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "S",
+            "say": "sss"
+          },
+          {
+            "text": "P",
+            "say": "puh"
+          },
+          {
+            "text": "I",
+            "say": "ihh"
+          },
+          {
+            "text": "N",
+            "say": "nnn"
+          },
+          "spin"
+        ],
+        [
+          {
+            "text": "S",
+            "say": "sss"
+          },
+          {
+            "text": "K",
+            "say": "kuh"
+          },
+          {
+            "text": "I",
+            "say": "ihh"
+          },
+          {
+            "text": "P",
+            "say": "puh"
+          },
+          "skip"
+        ]
+      ]
+    },
+    {
+      "chapter": 21,
+      "id": "c21-stage-1",
+      "order": 1,
+      "title": "P and L Together",
+      "boss": false,
+      "emblem": "PL",
+      "teach": [
+        {
+          "audio": [
+            "puh"
+          ],
+          "instruction": "히어로가 P와 L 소리를 나란히 들려줘요! 잘 들어보세요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "L",
+            "say": "lll"
+          }
+        ],
+        [
+          {
+            "text": "P",
+            "say": "puh"
+          },
+          {
+            "text": "L",
+            "say": "lll"
+          },
+          "plum"
+        ]
+      ]
+    },
+    {
+      "chapter": 21,
+      "id": "c21-stage-2",
+      "order": 2,
+      "title": "Power of PL",
+      "boss": false,
+      "emblem": "PL",
+      "teach": [],
+      "introWords": [
+        [
+          {
+            "text": "L",
+            "say": "lll"
+          }
+        ],
+        [
+          "plum",
+          "bed"
+        ]
+      ]
+    },
+    {
+      "chapter": 21,
+      "id": "c21-stage-3",
+      "order": 3,
+      "title": "D and R Together",
+      "boss": false,
+      "emblem": "DR",
+      "teach": [
+        {
+          "audio": [
+            "duh"
+          ],
+          "instruction": "히어로가 D와 R 소리를 나란히 들려줘요! 잘 들어보세요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "R",
+            "say": "rrr"
+          }
+        ],
+        [
+          {
+            "text": "D",
+            "say": "duh"
+          },
+          {
+            "text": "R",
+            "say": "rrr"
+          },
+          "drum"
+        ]
+      ]
+    },
+    {
+      "chapter": 21,
+      "id": "c21-stage-4",
+      "order": 4,
+      "title": "Power of DR",
+      "boss": false,
+      "emblem": "DR",
+      "teach": [],
+      "introWords": [
+        [
+          {
+            "text": "R",
+            "say": "rrr"
+          }
+        ],
+        [
+          "drum",
+          "sun"
+        ]
+      ]
+    },
+    {
+      "chapter": 21,
+      "id": "c21-stage-5",
+      "order": 5,
+      "title": "Boss: PLUM and DRUM!",
+      "boss": true,
+      "emblem": "★",
+      "teach": [
+        {
+          "audio": [
+            "puh",
+            "lll",
+            "uh",
+            "mmm",
+            "plum"
+          ],
+          "instruction": "히어로가 합체해요! 먼저 plum을 만들어요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "P",
+            "say": "puh"
+          },
+          {
+            "text": "L",
+            "say": "lll"
+          },
+          {
+            "text": "U",
+            "say": "uh"
+          },
+          {
+            "text": "M",
+            "say": "mmm"
+          },
+          "plum"
+        ],
+        [
+          {
+            "text": "D",
+            "say": "duh"
+          },
+          {
+            "text": "R",
+            "say": "rrr"
+          },
+          {
+            "text": "U",
+            "say": "uh"
+          },
+          {
+            "text": "M",
+            "say": "mmm"
+          },
+          "drum"
+        ]
+      ]
+    },
+    {
+      "chapter": 22,
+      "id": "c22-stage-1",
+      "order": 1,
+      "title": "A Twin Sound",
+      "boss": false,
+      "emblem": "TW",
+      "teach": [
+        {
+          "audio": [
+            "tuh"
+          ],
+          "instruction": "히어로가 \"twin\"에 숨어있는 소리들을 들려줘요! 소리를 빠르게 이어서 말해보세요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "T",
+            "say": "tuh"
+          },
+          {
+            "text": "W",
+            "say": "weh"
+          },
+          {
+            "text": "I",
+            "say": "ihh"
+          },
+          {
+            "text": "N",
+            "say": "nnn"
+          },
+          "twin"
+        ],
+        [
+          "twin",
+          "twig"
+        ]
+      ]
+    },
+    {
+      "chapter": 22,
+      "id": "c22-stage-2",
+      "order": 2,
+      "title": "Power of TW",
+      "boss": false,
+      "emblem": "TW",
+      "teach": [
+        {
+          "audio": [
+            "tuh"
+          ],
+          "instruction": "히어로가 \"twin\"에 숨어있는 소리들을 들려줘요! 소리를 빠르게 이어서 말해보세요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "T",
+            "say": "tuh"
+          },
+          {
+            "text": "W",
+            "say": "weh"
+          },
+          {
+            "text": "I",
+            "say": "ihh"
+          },
+          {
+            "text": "N",
+            "say": "nnn"
+          },
+          "twin"
+        ],
+        [
+          "twin",
+          "twig"
+        ]
+      ]
+    },
+    {
+      "chapter": 22,
+      "id": "c22-stage-3",
+      "order": 3,
+      "title": "Power of CT",
+      "boss": false,
+      "emblem": "CT",
+      "teach": [
+        {
+          "audio": [
+            "kuh"
+          ],
+          "instruction": "히어로가 \"act\"에 숨어있는 소리들을 들려줘요! 소리를 빠르게 이어서 말해보세요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "A",
+            "say": "aaa"
+          },
+          {
+            "text": "C",
+            "say": "kuh"
+          },
+          {
+            "text": "T",
+            "say": "tuh"
+          },
+          "act"
+        ],
+        [
+          "act",
+          "duct"
+        ]
+      ]
+    },
+    {
+      "chapter": 22,
+      "id": "c22-stage-4",
+      "order": 4,
+      "title": "Power of GL",
+      "boss": false,
+      "emblem": "GL",
+      "teach": [
+        {
+          "audio": [
+            "guh"
+          ],
+          "instruction": "히어로가 \"glue\"에 숨어있는 소리들을 들려줘요! 소리를 빠르게 이어서 말해보세요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "G",
+            "say": "guh"
+          },
+          {
+            "text": "L",
+            "say": "lll"
+          },
+          {
+            "text": "UE",
+            "say": "u"
+          },
+          "glue"
+        ],
+        [
+          "glue",
+          "glad"
+        ]
+      ]
+    },
+    {
+      "chapter": 22,
+      "id": "c22-stage-5",
+      "order": 5,
+      "title": "Boss: TWIN and GLUE!",
+      "boss": true,
+      "emblem": "★",
+      "teach": [
+        {
+          "audio": [
+            "tuh",
+            "weh",
+            "ihh",
+            "nnn",
+            "twin"
+          ],
+          "instruction": "히어로가 합체해요! 먼저 twin을 만들어요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "T",
+            "say": "tuh"
+          },
+          {
+            "text": "W",
+            "say": "weh"
+          },
+          {
+            "text": "I",
+            "say": "ihh"
+          },
+          {
+            "text": "N",
+            "say": "nnn"
+          },
+          "twin"
+        ],
+        [
+          {
+            "text": "G",
+            "say": "guh"
+          },
+          {
+            "text": "L",
+            "say": "lll"
+          },
+          {
+            "text": "UE",
+            "say": "u"
+          },
+          "glue"
+        ]
+      ]
+    },
+    {
+      "chapter": 23,
+      "id": "c23-stage-1",
+      "order": 1,
+      "title": "An Ant Sound",
+      "boss": false,
+      "emblem": "NT",
+      "teach": [
+        {
+          "audio": [
+            "nnn"
+          ],
+          "instruction": "히어로가 \"ant\"에 숨어있는 소리들을 들려줘요! 소리를 빠르게 이어서 말해보세요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "A",
+            "say": "aaa"
+          },
+          {
+            "text": "N",
+            "say": "nnn"
+          },
+          {
+            "text": "T",
+            "say": "tuh"
+          },
+          "ant"
+        ],
+        [
+          "ant",
+          "tent"
+        ]
+      ]
+    },
+    {
+      "chapter": 23,
+      "id": "c23-stage-2",
+      "order": 2,
+      "title": "Power of NT",
+      "boss": false,
+      "emblem": "NT",
+      "teach": [
+        {
+          "audio": [
+            "nnn"
+          ],
+          "instruction": "히어로가 \"ant\"에 숨어있는 소리들을 들려줘요! 소리를 빠르게 이어서 말해보세요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "A",
+            "say": "aaa"
+          },
+          {
+            "text": "N",
+            "say": "nnn"
+          },
+          {
+            "text": "T",
+            "say": "tuh"
+          },
+          "ant"
+        ],
+        [
+          "ant",
+          "tent"
+        ]
+      ]
+    },
+    {
+      "chapter": 23,
+      "id": "c23-stage-3",
+      "order": 3,
+      "title": "A Gift Sound",
+      "boss": false,
+      "emblem": "FT",
+      "teach": [
+        {
+          "audio": [
+            "fff"
+          ],
+          "instruction": "히어로가 \"gift\"에 숨어있는 소리들을 들려줘요! 소리를 빠르게 이어서 말해보세요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "G",
+            "say": "guh"
+          },
+          {
+            "text": "I",
+            "say": "ihh"
+          },
+          {
+            "text": "F",
+            "say": "fff"
+          },
+          {
+            "text": "T",
+            "say": "tuh"
+          },
+          "gift"
+        ],
+        [
+          "gift",
+          "raft"
+        ]
+      ]
+    },
+    {
+      "chapter": 23,
+      "id": "c23-stage-4",
+      "order": 4,
+      "title": "Power of FT",
+      "boss": false,
+      "emblem": "FT",
+      "teach": [
+        {
+          "audio": [
+            "fff"
+          ],
+          "instruction": "히어로가 \"gift\"에 숨어있는 소리들을 들려줘요! 소리를 빠르게 이어서 말해보세요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "G",
+            "say": "guh"
+          },
+          {
+            "text": "I",
+            "say": "ihh"
+          },
+          {
+            "text": "F",
+            "say": "fff"
+          },
+          {
+            "text": "T",
+            "say": "tuh"
+          },
+          "gift"
+        ],
+        [
+          "gift",
+          "raft"
+        ]
+      ]
+    },
+    {
+      "chapter": 23,
+      "id": "c23-stage-5",
+      "order": 5,
+      "title": "Boss: TENT and GIFT!",
+      "boss": true,
+      "emblem": "★",
+      "teach": [
+        {
+          "audio": [
+            "tuh",
+            "eh",
+            "nnn",
+            "tuh",
+            "tent"
+          ],
+          "instruction": "히어로가 합체해요! 먼저 tent를 만들어요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "T",
+            "say": "tuh"
+          },
+          {
+            "text": "E",
+            "say": "eh"
+          },
+          {
+            "text": "N",
+            "say": "nnn"
+          },
+          {
+            "text": "T",
+            "say": "tuh"
+          },
+          "tent"
+        ],
+        [
+          {
+            "text": "G",
+            "say": "guh"
+          },
+          {
+            "text": "I",
+            "say": "ihh"
+          },
+          {
+            "text": "F",
+            "say": "fff"
+          },
+          {
+            "text": "T",
+            "say": "tuh"
+          },
+          "gift"
+        ]
+      ]
+    },
+    {
+      "chapter": 24,
+      "id": "c24-stage-1",
+      "order": 1,
+      "title": "A Bench Sound",
+      "boss": false,
+      "emblem": "NCH",
+      "teach": [
+        {
+          "audio": [
+            "nnn"
+          ],
+          "instruction": "히어로가 \"bench\"에 숨어있는 소리들을 들려줘요! 소리를 빠르게 이어서 말해보세요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "B",
+            "say": "buh"
+          },
+          {
+            "text": "E",
+            "say": "eh"
+          },
+          {
+            "text": "N",
+            "say": "nnn"
+          },
+          {
+            "text": "CH",
+            "say": "ch"
+          },
+          "bench"
+        ],
+        [
+          "bench",
+          "lunch"
+        ]
+      ]
+    },
+    {
+      "chapter": 24,
+      "id": "c24-stage-2",
+      "order": 2,
+      "title": "Power of NCH",
+      "boss": false,
+      "emblem": "NCH",
+      "teach": [
+        {
+          "audio": [
+            "nnn"
+          ],
+          "instruction": "히어로가 \"bench\"에 숨어있는 소리들을 들려줘요! 소리를 빠르게 이어서 말해보세요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "B",
+            "say": "buh"
+          },
+          {
+            "text": "E",
+            "say": "eh"
+          },
+          {
+            "text": "N",
+            "say": "nnn"
+          },
+          {
+            "text": "CH",
+            "say": "ch"
+          },
+          "bench"
+        ],
+        [
+          "bench",
+          "lunch"
+        ]
+      ]
+    },
+    {
+      "chapter": 24,
+      "id": "c24-stage-3",
+      "order": 3,
+      "title": "A Strap Sound",
+      "boss": false,
+      "emblem": "STR",
+      "teach": [
+        {
+          "audio": [
+            "sss"
+          ],
+          "instruction": "히어로가 \"strap\"에 숨어있는 소리들을 들려줘요! 소리를 빠르게 이어서 말해보세요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "S",
+            "say": "sss"
+          },
+          {
+            "text": "T",
+            "say": "tuh"
+          },
+          {
+            "text": "R",
+            "say": "rrr"
+          },
+          {
+            "text": "A",
+            "say": "aaa"
+          },
+          {
+            "text": "P",
+            "say": "puh"
+          },
+          "strap"
+        ],
+        [
+          "strap",
+          "strong"
+        ]
+      ]
+    },
+    {
+      "chapter": 24,
+      "id": "c24-stage-4",
+      "order": 4,
+      "title": "Power of STR",
+      "boss": false,
+      "emblem": "STR",
+      "teach": [
+        {
+          "audio": [
+            "sss"
+          ],
+          "instruction": "히어로가 \"strap\"에 숨어있는 소리들을 들려줘요! 소리를 빠르게 이어서 말해보세요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "S",
+            "say": "sss"
+          },
+          {
+            "text": "T",
+            "say": "tuh"
+          },
+          {
+            "text": "R",
+            "say": "rrr"
+          },
+          {
+            "text": "A",
+            "say": "aaa"
+          },
+          {
+            "text": "P",
+            "say": "puh"
+          },
+          "strap"
+        ],
+        [
+          "strap",
+          "strong"
+        ]
+      ]
+    },
+    {
+      "chapter": 24,
+      "id": "c24-stage-5",
+      "order": 5,
+      "title": "Boss: BENCH and STRAP!",
+      "boss": true,
+      "emblem": "★",
+      "teach": [
+        {
+          "audio": [
+            "buh",
+            "eh",
+            "nnn",
+            "ch",
+            "bench"
+          ],
+          "instruction": "히어로가 합체해요! 먼저 bench를 만들어요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "B",
+            "say": "buh"
+          },
+          {
+            "text": "E",
+            "say": "eh"
+          },
+          {
+            "text": "N",
+            "say": "nnn"
+          },
+          {
+            "text": "CH",
+            "say": "ch"
+          },
+          "bench"
+        ],
+        [
+          {
+            "text": "S",
+            "say": "sss"
+          },
+          {
+            "text": "T",
+            "say": "tuh"
+          },
+          {
+            "text": "R",
+            "say": "rrr"
+          },
+          {
+            "text": "A",
+            "say": "aaa"
+          },
+          {
+            "text": "P",
+            "say": "puh"
+          },
+          "strap"
+        ]
+      ]
+    },
+    {
+      "chapter": 25,
+      "id": "c25-stage-1",
+      "order": 1,
+      "title": "A Scrub Sound",
+      "boss": false,
+      "emblem": "SCR",
+      "teach": [
+        {
+          "audio": [
+            "sss"
+          ],
+          "instruction": "히어로가 \"scrub\"에 숨어있는 소리들을 들려줘요! 소리를 빠르게 이어서 말해보세요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "S",
+            "say": "sss"
+          },
+          {
+            "text": "C",
+            "say": "kuh"
+          },
+          {
+            "text": "R",
+            "say": "rrr"
+          },
+          {
+            "text": "U",
+            "say": "uh"
+          },
+          {
+            "text": "B",
+            "say": "buh"
+          },
+          "scrub"
+        ],
+        [
+          "scrub",
+          "scrap"
+        ]
+      ]
+    },
+    {
+      "chapter": 25,
+      "id": "c25-stage-2",
+      "order": 2,
+      "title": "Power of SCR",
+      "boss": false,
+      "emblem": "SCR",
+      "teach": [
+        {
+          "audio": [
+            "sss"
+          ],
+          "instruction": "히어로가 \"scrub\"에 숨어있는 소리들을 들려줘요! 소리를 빠르게 이어서 말해보세요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "S",
+            "say": "sss"
+          },
+          {
+            "text": "C",
+            "say": "kuh"
+          },
+          {
+            "text": "R",
+            "say": "rrr"
+          },
+          {
+            "text": "U",
+            "say": "uh"
+          },
+          {
+            "text": "B",
+            "say": "buh"
+          },
+          "scrub"
+        ],
+        [
+          "scrub",
+          "scrap"
+        ]
+      ]
+    },
+    {
+      "chapter": 25,
+      "id": "c25-stage-3",
+      "order": 3,
+      "title": "A Sink Sound",
+      "boss": false,
+      "emblem": "NK",
+      "teach": [
+        {
+          "audio": [
+            "nnn"
+          ],
+          "instruction": "히어로가 \"sink\"에 숨어있는 소리들을 들려줘요! 소리를 빠르게 이어서 말해보세요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "S",
+            "say": "sss"
+          },
+          {
+            "text": "I",
+            "say": "ihh"
+          },
+          {
+            "text": "N",
+            "say": "nnn"
+          },
+          {
+            "text": "K",
+            "say": "kuh"
+          },
+          "sink"
+        ],
+        [
+          "sink",
+          "pink"
+        ]
+      ]
+    },
+    {
+      "chapter": 25,
+      "id": "c25-stage-4",
+      "order": 4,
+      "title": "Power of NK",
+      "boss": false,
+      "emblem": "NK",
+      "teach": [
+        {
+          "audio": [
+            "nnn"
+          ],
+          "instruction": "히어로가 \"sink\"에 숨어있는 소리들을 들려줘요! 소리를 빠르게 이어서 말해보세요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "S",
+            "say": "sss"
+          },
+          {
+            "text": "I",
+            "say": "ihh"
+          },
+          {
+            "text": "N",
+            "say": "nnn"
+          },
+          {
+            "text": "K",
+            "say": "kuh"
+          },
+          "sink"
+        ],
+        [
+          "sink",
+          "pink"
+        ]
+      ]
+    },
+    {
+      "chapter": 25,
+      "id": "c25-stage-5",
+      "order": 5,
+      "title": "Boss: SCRUB and SINK!",
+      "boss": true,
+      "emblem": "★",
+      "teach": [
+        {
+          "audio": [
+            "sss",
+            "kuh",
+            "rrr",
+            "uh",
+            "buh",
+            "scrub"
+          ],
+          "instruction": "히어로가 합체해요! 먼저 scrub을 만들어요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "S",
+            "say": "sss"
+          },
+          {
+            "text": "C",
+            "say": "kuh"
+          },
+          {
+            "text": "R",
+            "say": "rrr"
+          },
+          {
+            "text": "U",
+            "say": "uh"
+          },
+          {
+            "text": "B",
+            "say": "buh"
+          },
+          "scrub"
+        ],
+        [
+          {
+            "text": "S",
+            "say": "sss"
+          },
+          {
+            "text": "I",
+            "say": "ihh"
+          },
+          {
+            "text": "N",
+            "say": "nnn"
+          },
+          {
+            "text": "K",
+            "say": "kuh"
+          },
+          "sink"
+        ]
+      ]
+    },
+    {
+      "chapter": 26,
+      "id": "c26-stage-1",
+      "order": 1,
+      "title": "A Belt Sound",
+      "boss": false,
+      "emblem": "LT",
+      "teach": [
+        {
+          "audio": [
+            "lll"
+          ],
+          "instruction": "히어로가 \"belt\"에 숨어있는 소리들을 들려줘요! 소리를 빠르게 이어서 말해보세요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "B",
+            "say": "buh"
+          },
+          {
+            "text": "E",
+            "say": "eh"
+          },
+          {
+            "text": "L",
+            "say": "lll"
+          },
+          {
+            "text": "T",
+            "say": "tuh"
+          },
+          "belt"
+        ],
+        [
+          "belt",
+          "melt"
+        ]
+      ]
+    },
+    {
+      "chapter": 26,
+      "id": "c26-stage-2",
+      "order": 2,
+      "title": "Power of LT",
+      "boss": false,
+      "emblem": "LT",
+      "teach": [
+        {
+          "audio": [
+            "lll"
+          ],
+          "instruction": "히어로가 \"belt\"에 숨어있는 소리들을 들려줘요! 소리를 빠르게 이어서 말해보세요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "B",
+            "say": "buh"
+          },
+          {
+            "text": "E",
+            "say": "eh"
+          },
+          {
+            "text": "L",
+            "say": "lll"
+          },
+          {
+            "text": "T",
+            "say": "tuh"
+          },
+          "belt"
+        ],
+        [
+          "belt",
+          "melt"
+        ]
+      ]
+    },
+    {
+      "chapter": 26,
+      "id": "c26-stage-3",
+      "order": 3,
+      "title": "A Self Sound",
+      "boss": false,
+      "emblem": "LF",
+      "teach": [
+        {
+          "audio": [
+            "lll"
+          ],
+          "instruction": "히어로가 \"self\"에 숨어있는 소리들을 들려줘요! 소리를 빠르게 이어서 말해보세요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "S",
+            "say": "sss"
+          },
+          {
+            "text": "E",
+            "say": "eh"
+          },
+          {
+            "text": "L",
+            "say": "lll"
+          },
+          {
+            "text": "F",
+            "say": "fff"
+          },
+          "self"
+        ],
+        [
+          "self",
+          "golf"
+        ]
+      ]
+    },
+    {
+      "chapter": 26,
+      "id": "c26-stage-4",
+      "order": 4,
+      "title": "Power of LF",
+      "boss": false,
+      "emblem": "LF",
+      "teach": [
+        {
+          "audio": [
+            "lll"
+          ],
+          "instruction": "히어로가 \"self\"에 숨어있는 소리들을 들려줘요! 소리를 빠르게 이어서 말해보세요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "S",
+            "say": "sss"
+          },
+          {
+            "text": "E",
+            "say": "eh"
+          },
+          {
+            "text": "L",
+            "say": "lll"
+          },
+          {
+            "text": "F",
+            "say": "fff"
+          },
+          "self"
+        ],
+        [
+          "self",
+          "golf"
+        ]
+      ]
+    },
+    {
+      "chapter": 26,
+      "id": "c26-stage-5",
+      "order": 5,
+      "title": "Boss: BELT and SELF!",
+      "boss": true,
+      "emblem": "★",
+      "teach": [
+        {
+          "audio": [
+            "buh",
+            "eh",
+            "lll",
+            "tuh",
+            "belt"
+          ],
+          "instruction": "히어로가 합체해요! 먼저 belt를 만들어요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "B",
+            "say": "buh"
+          },
+          {
+            "text": "E",
+            "say": "eh"
+          },
+          {
+            "text": "L",
+            "say": "lll"
+          },
+          {
+            "text": "T",
+            "say": "tuh"
+          },
+          "belt"
+        ],
+        [
+          {
+            "text": "S",
+            "say": "sss"
+          },
+          {
+            "text": "E",
+            "say": "eh"
+          },
+          {
+            "text": "L",
+            "say": "lll"
+          },
+          {
+            "text": "F",
+            "say": "fff"
+          },
+          "self"
+        ]
+      ]
+    },
+    {
+      "chapter": 27,
+      "id": "c27-stage-1",
+      "order": 1,
+      "title": "A Milk Sound",
+      "boss": false,
+      "emblem": "LK",
+      "teach": [
+        {
+          "audio": [
+            "lll"
+          ],
+          "instruction": "히어로가 \"milk\"에 숨어있는 소리들을 들려줘요! 소리를 빠르게 이어서 말해보세요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "M",
+            "say": "mmm"
+          },
+          {
+            "text": "I",
+            "say": "ihh"
+          },
+          {
+            "text": "L",
+            "say": "lll"
+          },
+          {
+            "text": "K",
+            "say": "kuh"
+          },
+          "milk"
+        ],
+        [
+          "milk",
+          "silk"
+        ]
+      ]
+    },
+    {
+      "chapter": 27,
+      "id": "c27-stage-2",
+      "order": 2,
+      "title": "Power of LK",
+      "boss": false,
+      "emblem": "LK",
+      "teach": [
+        {
+          "audio": [
+            "lll"
+          ],
+          "instruction": "히어로가 \"milk\"에 숨어있는 소리들을 들려줘요! 소리를 빠르게 이어서 말해보세요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "M",
+            "say": "mmm"
+          },
+          {
+            "text": "I",
+            "say": "ihh"
+          },
+          {
+            "text": "L",
+            "say": "lll"
+          },
+          {
+            "text": "K",
+            "say": "kuh"
+          },
+          "milk"
+        ],
+        [
+          "milk",
+          "silk"
+        ]
+      ]
+    },
+    {
+      "chapter": 27,
+      "id": "c27-stage-3",
+      "order": 3,
+      "title": "A Next Sound",
+      "boss": false,
+      "emblem": "XT",
+      "teach": [
+        {
+          "audio": [
+            "ksuh"
+          ],
+          "instruction": "히어로가 \"next\"에 숨어있는 소리들을 들려줘요! 소리를 빠르게 이어서 말해보세요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "N",
+            "say": "nnn"
+          },
+          {
+            "text": "E",
+            "say": "eh"
+          },
+          {
+            "text": "X",
+            "say": "ksuh"
+          },
+          {
+            "text": "T",
+            "say": "tuh"
+          },
+          "next"
+        ],
+        [
+          "next",
+          "text"
+        ]
+      ]
+    },
+    {
+      "chapter": 27,
+      "id": "c27-stage-4",
+      "order": 4,
+      "title": "Power of XT",
+      "boss": false,
+      "emblem": "XT",
+      "teach": [
+        {
+          "audio": [
+            "ksuh"
+          ],
+          "instruction": "히어로가 \"next\"에 숨어있는 소리들을 들려줘요! 소리를 빠르게 이어서 말해보세요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "N",
+            "say": "nnn"
+          },
+          {
+            "text": "E",
+            "say": "eh"
+          },
+          {
+            "text": "X",
+            "say": "ksuh"
+          },
+          {
+            "text": "T",
+            "say": "tuh"
+          },
+          "next"
+        ],
+        [
+          "next",
+          "text"
+        ]
+      ]
+    },
+    {
+      "chapter": 27,
+      "id": "c27-stage-5",
+      "order": 5,
+      "title": "Boss: MILK and NEXT!",
+      "boss": true,
+      "emblem": "★",
+      "teach": [
+        {
+          "audio": [
+            "mmm",
+            "ihh",
+            "lll",
+            "kuh",
+            "milk"
+          ],
+          "instruction": "히어로가 합체해요! 먼저 milk를 만들어요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "M",
+            "say": "mmm"
+          },
+          {
+            "text": "I",
+            "say": "ihh"
+          },
+          {
+            "text": "L",
+            "say": "lll"
+          },
+          {
+            "text": "K",
+            "say": "kuh"
+          },
+          "milk"
+        ],
+        [
+          {
+            "text": "N",
+            "say": "nnn"
+          },
+          {
+            "text": "E",
+            "say": "eh"
+          },
+          {
+            "text": "X",
+            "say": "ksuh"
+          },
+          {
+            "text": "T",
+            "say": "tuh"
+          },
+          "next"
+        ]
+      ]
+    },
+    {
+      "chapter": 28,
+      "id": "c28-stage-1",
+      "order": 1,
+      "title": "A Scan Sound",
+      "boss": false,
+      "emblem": "SC",
+      "teach": [
+        {
+          "audio": [
+            "sss"
+          ],
+          "instruction": "히어로가 \"scan\"에 숨어있는 소리들을 들려줘요! 소리를 빠르게 이어서 말해보세요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "S",
+            "say": "sss"
+          },
+          {
+            "text": "C",
+            "say": "kuh"
+          },
+          {
+            "text": "A",
+            "say": "aaa"
+          },
+          {
+            "text": "N",
+            "say": "nnn"
+          },
+          "scan"
+        ],
+        [
+          "scan",
+          "scat"
+        ]
+      ]
+    },
+    {
+      "chapter": 28,
+      "id": "c28-stage-2",
+      "order": 2,
+      "title": "Power of SC",
+      "boss": false,
+      "emblem": "SC",
+      "teach": [
+        {
+          "audio": [
+            "sss"
+          ],
+          "instruction": "히어로가 \"scan\"에 숨어있는 소리들을 들려줘요! 소리를 빠르게 이어서 말해보세요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "S",
+            "say": "sss"
+          },
+          {
+            "text": "C",
+            "say": "kuh"
+          },
+          {
+            "text": "A",
+            "say": "aaa"
+          },
+          {
+            "text": "N",
+            "say": "nnn"
+          },
+          "scan"
+        ],
+        [
+          "scan",
+          "scat"
+        ]
+      ]
+    },
+    {
+      "chapter": 28,
+      "id": "c28-stage-3",
+      "order": 3,
+      "title": "A Jump Sound",
+      "boss": false,
+      "emblem": "MP",
+      "teach": [
+        {
+          "audio": [
+            "mmm"
+          ],
+          "instruction": "히어로가 \"jump\"에 숨어있는 소리들을 들려줘요! 소리를 빠르게 이어서 말해보세요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "J",
+            "say": "juh"
+          },
+          {
+            "text": "U",
+            "say": "uh"
+          },
+          {
+            "text": "M",
+            "say": "mmm"
+          },
+          {
+            "text": "P",
+            "say": "puh"
+          },
+          "jump"
+        ],
+        [
+          "jump",
+          "lamp"
+        ]
+      ]
+    },
+    {
+      "chapter": 28,
+      "id": "c28-stage-4",
+      "order": 4,
+      "title": "Power of MP",
+      "boss": false,
+      "emblem": "MP",
+      "teach": [
+        {
+          "audio": [
+            "mmm"
+          ],
+          "instruction": "히어로가 \"jump\"에 숨어있는 소리들을 들려줘요! 소리를 빠르게 이어서 말해보세요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "J",
+            "say": "juh"
+          },
+          {
+            "text": "U",
+            "say": "uh"
+          },
+          {
+            "text": "M",
+            "say": "mmm"
+          },
+          {
+            "text": "P",
+            "say": "puh"
+          },
+          "jump"
+        ],
+        [
+          "jump",
+          "lamp"
+        ]
+      ]
+    },
+    {
+      "chapter": 28,
+      "id": "c28-stage-5",
+      "order": 5,
+      "title": "Boss: SCAN and JUMP!",
+      "boss": true,
+      "emblem": "★",
+      "teach": [
+        {
+          "audio": [
+            "sss",
+            "kuh",
+            "aaa",
+            "nnn",
+            "scan"
+          ],
+          "instruction": "히어로가 합체해요! 먼저 scan을 만들어요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "S",
+            "say": "sss"
+          },
+          {
+            "text": "C",
+            "say": "kuh"
+          },
+          {
+            "text": "A",
+            "say": "aaa"
+          },
+          {
+            "text": "N",
+            "say": "nnn"
+          },
+          "scan"
+        ],
+        [
+          {
+            "text": "J",
+            "say": "juh"
+          },
+          {
+            "text": "U",
+            "say": "uh"
+          },
+          {
+            "text": "M",
+            "say": "mmm"
+          },
+          {
+            "text": "P",
+            "say": "puh"
+          },
+          "jump"
+        ]
+      ]
+    },
+    {
+      "chapter": 29,
+      "id": "c29s1",
+      "order": 1,
+      "title": "Blend ST",
+      "boss": false,
+      "emblem": "ST",
+      "teach": [
+        {
+          "letter": "S",
+          "audio": [
+            "sss"
+          ],
+          "instruction": "히어로가 두 소리를 이어서 내는 법을 보여줘요! 먼저 이 소리를 들어보세요."
+        }
+      ],
+      "introWords": [
+        [
+          "sun",
+          "sock"
+        ],
+        [
+          {
+            "text": "S",
+            "say": "sss"
+          },
+          {
+            "text": "T",
+            "say": "tuh"
+          },
+          {
+            "text": "AR",
+            "say": "arh"
+          },
+          "star"
+        ]
+      ]
+    },
+    {
+      "chapter": 29,
+      "id": "c29s2",
+      "order": 2,
+      "title": "ST Power-Up",
+      "boss": false,
+      "emblem": "ST",
+      "teach": [],
+      "introWords": [
+        [
+          {
+            "text": "S",
+            "say": "sss"
+          },
+          {
+            "text": "T",
+            "say": "tuh"
+          }
+        ]
+      ]
+    },
+    {
+      "chapter": 29,
+      "id": "c29s3",
+      "order": 3,
+      "title": "Blend TR",
+      "boss": false,
+      "emblem": "TR",
+      "teach": [
+        {
+          "letter": "T",
+          "audio": [
+            "tuh"
+          ],
+          "instruction": "히어로가 또 다른 두 소리를 보여줘요! 먼저 이 소리를 들어보세요."
+        }
+      ],
+      "introWords": [
+        [
+          "top",
+          "ten"
+        ],
+        [
+          {
+            "text": "T",
+            "say": "tuh"
+          },
+          {
+            "text": "R",
+            "say": "rrr"
+          },
+          {
+            "text": "EE",
+            "say": "ee"
+          },
+          "tree"
+        ]
+      ]
+    },
+    {
+      "chapter": 29,
+      "id": "c29s4",
+      "order": 4,
+      "title": "Hero Training",
+      "boss": false,
+      "emblem": "★",
+      "teach": [],
+      "introWords": [
+        [
+          "star",
+          "tree"
+        ]
+      ]
+    },
+    {
+      "chapter": 29,
+      "id": "c29s5",
+      "order": 5,
+      "title": "Boss: STAR and TREE!",
+      "boss": true,
+      "emblem": "★",
+      "teach": [
+        {
+          "audio": [
+            "sss",
+            "tuh",
+            "arh",
+            "star"
+          ],
+          "instruction": "세 히어로가 합체해요! 먼저 STAR를 만들어요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "S",
+            "say": "sss"
+          },
+          {
+            "text": "T",
+            "say": "tuh"
+          },
+          {
+            "text": "AR",
+            "say": "arh"
+          },
+          "star"
+        ],
+        [
+          {
+            "text": "T",
+            "say": "tuh"
+          },
+          {
+            "text": "R",
+            "say": "rrr"
+          },
+          {
+            "text": "EE",
+            "say": "ee"
+          },
+          "tree"
+        ]
+      ]
+    },
+    {
+      "chapter": 30,
+      "id": "c30s1",
+      "order": 1,
+      "title": "Blend CL",
+      "boss": false,
+      "emblem": "CL",
+      "teach": [
+        {
+          "letter": "C",
+          "audio": [
+            "kuh"
+          ],
+          "instruction": "히어로가 두 소리를 이어서 내는 법을 보여줘요! 먼저 이 소리를 들어보세요."
+        }
+      ],
+      "introWords": [
+        [
+          "cat",
+          "cup"
+        ],
+        [
+          {
+            "text": "C",
+            "say": "kuh"
+          },
+          {
+            "text": "L",
+            "say": "lll"
+          },
+          {
+            "text": "OU",
+            "say": "ou"
+          },
+          {
+            "text": "D",
+            "say": "duh"
+          },
+          "cloud"
+        ]
+      ]
+    },
+    {
+      "chapter": 30,
+      "id": "c30s2",
+      "order": 2,
+      "title": "CL Power-Up",
+      "boss": false,
+      "emblem": "CL",
+      "teach": [],
+      "introWords": [
+        [
+          {
+            "text": "C",
+            "say": "kuh"
+          },
+          {
+            "text": "L",
+            "say": "lll"
+          }
+        ]
+      ]
+    },
+    {
+      "chapter": 30,
+      "id": "c30s3",
+      "order": 3,
+      "title": "Blend FR",
+      "boss": false,
+      "emblem": "FR",
+      "teach": [
+        {
+          "letter": "F",
+          "audio": [
+            "fff"
+          ],
+          "instruction": "히어로가 또 다른 두 소리를 보여줘요! 먼저 이 소리를 들어보세요."
+        }
+      ],
+      "introWords": [
+        [
+          "fish",
+          "fox"
+        ],
+        [
+          {
+            "text": "F",
+            "say": "fff"
+          },
+          {
+            "text": "R",
+            "say": "rrr"
+          },
+          {
+            "text": "O",
+            "say": "awh"
+          },
+          {
+            "text": "G",
+            "say": "guh"
+          },
+          "frog"
+        ]
+      ]
+    },
+    {
+      "chapter": 30,
+      "id": "c30s4",
+      "order": 4,
+      "title": "Brick Training",
+      "boss": false,
+      "emblem": "★",
+      "teach": [],
+      "introWords": [
+        [
+          "cloud",
+          "frog"
+        ]
+      ]
+    },
+    {
+      "chapter": 30,
+      "id": "c30s5",
+      "order": 5,
+      "title": "Boss: CLOUD and FROG!",
+      "boss": true,
+      "emblem": "★",
+      "teach": [
+        {
+          "audio": [
+            "kuh",
+            "lll",
+            "ou",
+            "duh",
+            "cloud"
+          ],
+          "instruction": "세 히어로가 합체해요! 먼저 CLOUD를 만들어요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "C",
+            "say": "kuh"
+          },
+          {
+            "text": "L",
+            "say": "lll"
+          },
+          {
+            "text": "OU",
+            "say": "ou"
+          },
+          {
+            "text": "D",
+            "say": "duh"
+          },
+          "cloud"
+        ],
+        [
+          {
+            "text": "F",
+            "say": "fff"
+          },
+          {
+            "text": "R",
+            "say": "rrr"
+          },
+          {
+            "text": "O",
+            "say": "awh"
+          },
+          {
+            "text": "G",
+            "say": "guh"
+          },
+          "frog"
+        ]
+      ]
+    },
+    {
+      "chapter": 31,
+      "id": "c31s1",
+      "order": 1,
+      "title": "Blend TW",
+      "boss": false,
+      "emblem": "TW",
+      "teach": [
+        {
+          "letter": "T",
+          "audio": [
+            "tuh"
+          ],
+          "instruction": "히어로가 두 소리를 이어서 내는 법을 보여줘요! 먼저 이 소리를 들어보세요."
+        }
+      ],
+      "introWords": [
+        [
+          "top",
+          "ten"
+        ],
+        [
+          {
+            "text": "T",
+            "say": "tuh"
+          },
+          {
+            "text": "W",
+            "say": "weh"
+          },
+          {
+            "text": "I",
+            "say": "ihh"
+          },
+          {
+            "text": "G",
+            "say": "guh"
+          },
+          "twig"
+        ]
+      ]
+    },
+    {
+      "chapter": 31,
+      "id": "c31s2",
+      "order": 2,
+      "title": "TW Power-Up",
+      "boss": false,
+      "emblem": "TW",
+      "teach": [],
+      "introWords": [
+        [
+          {
+            "text": "T",
+            "say": "tuh"
+          },
+          {
+            "text": "W",
+            "say": "weh"
+          }
+        ]
+      ]
+    },
+    {
+      "chapter": 31,
+      "id": "c31s3",
+      "order": 3,
+      "title": "Blend SN",
+      "boss": false,
+      "emblem": "SN",
+      "teach": [
+        {
+          "letter": "S",
+          "audio": [
+            "sss"
+          ],
+          "instruction": "히어로가 또 다른 두 소리를 보여줘요! 먼저 이 소리를 들어보세요."
+        }
+      ],
+      "introWords": [
+        [
+          "sun",
+          "sock"
+        ],
+        [
+          {
+            "text": "S",
+            "say": "sss"
+          },
+          {
+            "text": "N",
+            "say": "nnn"
+          },
+          {
+            "text": "A",
+            "say": "aaa"
+          },
+          {
+            "text": "P",
+            "say": "puh"
+          },
+          "snap"
+        ]
+      ]
+    },
+    {
+      "chapter": 31,
+      "id": "c31s4",
+      "order": 4,
+      "title": "Carbot Training",
+      "boss": false,
+      "emblem": "★",
+      "teach": [],
+      "introWords": [
+        [
+          "twig",
+          "snap"
+        ]
+      ]
+    },
+    {
+      "chapter": 31,
+      "id": "c31s5",
+      "order": 5,
+      "title": "Boss: TWIG and SNAP!",
+      "boss": true,
+      "emblem": "★",
+      "teach": [
+        {
+          "audio": [
+            "tuh",
+            "weh",
+            "ihh",
+            "guh",
+            "twig"
+          ],
+          "instruction": "세 히어로가 합체해요! 먼저 TWIG을 만들어요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "T",
+            "say": "tuh"
+          },
+          {
+            "text": "W",
+            "say": "weh"
+          },
+          {
+            "text": "I",
+            "say": "ihh"
+          },
+          {
+            "text": "G",
+            "say": "guh"
+          },
+          "twig"
+        ],
+        [
+          {
+            "text": "S",
+            "say": "sss"
+          },
+          {
+            "text": "N",
+            "say": "nnn"
+          },
+          {
+            "text": "A",
+            "say": "aaa"
+          },
+          {
+            "text": "P",
+            "say": "puh"
+          },
+          "snap"
+        ]
+      ]
+    },
+    {
+      "chapter": 32,
+      "id": "c32s1",
+      "order": 1,
+      "title": "Blend STR",
+      "boss": false,
+      "emblem": "STR",
+      "teach": [
+        {
+          "letter": "S",
+          "audio": [
+            "sss"
+          ],
+          "instruction": "히어로가 세 소리를 이어서 내는 법을 보여줘요! 먼저 이 소리를 들어보세요."
+        }
+      ],
+      "introWords": [
+        [
+          "sun",
+          "sock"
+        ],
+        [
+          "rat",
+          "rain"
+        ]
+      ]
+    },
+    {
+      "chapter": 32,
+      "id": "c32s2",
+      "order": 2,
+      "title": "STR Power-Up",
+      "boss": false,
+      "emblem": "STR",
+      "teach": [],
+      "introWords": [
+        [
+          {
+            "text": "S",
+            "say": "sss"
+          },
+          {
+            "text": "T",
+            "say": "tuh"
+          }
+        ]
+      ]
+    },
+    {
+      "chapter": 32,
+      "id": "c32s3",
+      "order": 3,
+      "title": "Blend NCH",
+      "boss": false,
+      "emblem": "NCH",
+      "teach": [
+        {
+          "letter": "N",
+          "audio": [
+            "nnn"
+          ],
+          "instruction": "히어로가 또 다른 두 소리를 보여줘요! 먼저 이 소리를 들어보세요."
+        }
+      ],
+      "introWords": [
+        [
+          "net",
+          "nose"
+        ],
+        [
+          {
+            "text": "B",
+            "say": "buh"
+          },
+          {
+            "text": "E",
+            "say": "eh"
+          },
+          {
+            "text": "N",
+            "say": "nnn"
+          },
+          {
+            "text": "CH",
+            "say": "ch"
+          },
+          "bench"
+        ]
+      ]
+    },
+    {
+      "chapter": 32,
+      "id": "c32s4",
+      "order": 4,
+      "title": "Hero Training",
+      "boss": false,
+      "emblem": "★",
+      "teach": [],
+      "introWords": [
+        [
+          "string",
+          "bench"
+        ]
+      ]
+    },
+    {
+      "chapter": 32,
+      "id": "c32s5",
+      "order": 5,
+      "title": "Boss: STRING and BENCH!",
+      "boss": true,
+      "emblem": "★",
+      "teach": [
+        {
+          "audio": [
+            "sss",
+            "tuh",
+            "rrr",
+            "ihh",
+            "ngh",
+            "string"
+          ],
+          "instruction": "세 히어로가 합체해요! 먼저 STRING을 만들어요."
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "S",
+            "say": "sss"
+          },
+          {
+            "text": "T",
+            "say": "tuh"
+          },
+          {
+            "text": "R",
+            "say": "rrr"
+          },
+          {
+            "text": "I",
+            "say": "ihh"
+          },
+          {
+            "text": "NG",
+            "say": "ngh"
+          },
+          "string"
+        ],
+        [
+          {
+            "text": "B",
+            "say": "buh"
+          },
+          {
+            "text": "E",
+            "say": "eh"
+          },
+          {
+            "text": "N",
+            "say": "nnn"
+          },
+          {
+            "text": "CH",
+            "say": "ch"
+          },
+          "bench"
+        ]
+      ]
+    },
+    {
+      "chapter": 33,
+      "id": "c33s1",
+      "order": 1,
+      "title": "Blend THR",
+      "boss": false,
+      "emblem": "THR",
+      "teach": [
+        {
+          "letter": "TH",
+          "audio": [
+            "thhu"
+          ],
+          "instruction": "히어로가 두 소리를 이어서 내는 법을 보여줘요! 먼저 이 소리를 들어보세요."
+        }
+      ],
+      "introWords": [
+        [
+          "thumb",
+          "think"
+        ],
+        [
+          {
+            "text": "TH",
+            "say": "thhu"
+          },
+          {
+            "text": "R",
+            "say": "rrr"
+          },
+          {
+            "text": "EE",
+            "say": "ee"
+          },
+          "three"
+        ]
+      ]
+    },
+    {
+      "chapter": 33,
+      "id": "c33s2",
+      "order": 2,
+      "title": "THR Power-Up",
+      "boss": false,
+      "emblem": "THR",
+      "teach": [],
+      "introWords": [
+        [
+          {
+            "text": "TH",
+            "say": "thhu"
+          },
+          {
+            "text": "R",
+            "say": "rrr"
+          }
+        ]
+      ]
+    },
+    {
+      "chapter": 33,
+      "id": "c33s3",
+      "order": 3,
+      "title": "Blend SHR",
+      "boss": false,
+      "emblem": "SHR",
+      "teach": [
+        {
+          "letter": "SH",
+          "audio": [
+            "shhu"
+          ],
+          "instruction": "히어로가 또 다른 두 소리를 보여줘요! 먼저 이 소리를 들어보세요."
+        }
+      ],
+      "introWords": [
+        [
+          "shoe",
+          "ship"
+        ],
+        [
+          {
+            "text": "SH",
+            "say": "shhu"
+          },
+          {
+            "text": "R",
+            "say": "rrr"
+          },
+          {
+            "text": "I",
+            "say": "ihh"
+          },
+          {
+            "text": "M",
+            "say": "mmm"
+          },
+          {
+            "text": "P",
+            "say": "puh"
+          },
+          "shrimp"
+        ]
+      ]
+    },
+    {
+      "chapter": 33,
+      "id": "c33s4",
+      "order": 4,
+      "title": "Dino Training",
+      "boss": false,
+      "emblem": "★",
+      "teach": [],
+      "introWords": [
+        [
+          "three",
+          "shrimp"
+        ]
+      ]
+    },
+    {
+      "chapter": 33,
+      "id": "c33s5",
+      "order": 5,
+      "title": "Final Boss: THREE and SHRIMP!",
+      "boss": true,
+      "emblem": "★",
+      "teach": [
+        {
+          "audio": [
+            "thhu",
+            "rrr",
+            "ee",
+            "three"
+          ],
+          "instruction": "세 히어로가 최후의 합체를 해요! 지금까지 배운 모든 소리의 힘을 모아 THREE를 만들어요!"
+        }
+      ],
+      "introWords": [
+        [
+          {
+            "text": "TH",
+            "say": "thhu"
+          },
+          {
+            "text": "R",
+            "say": "rrr"
+          },
+          {
+            "text": "EE",
+            "say": "ee"
+          },
+          "three"
+        ],
+        [
+          {
+            "text": "SH",
+            "say": "shhu"
+          },
+          {
+            "text": "R",
+            "say": "rrr"
+          },
+          {
+            "text": "I",
+            "say": "ihh"
+          },
+          {
+            "text": "M",
+            "say": "mmm"
+          },
+          {
+            "text": "P",
+            "say": "puh"
+          },
+          "shrimp"
+        ]
+      ]
+    }
+  ]
+}

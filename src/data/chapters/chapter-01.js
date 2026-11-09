@@ -620,7 +620,7 @@ export const chapter1 = {
         {
           id: 's5-teach',
           kind: 'teach',
-          instructionKo: '세 히어로가 합체해요! 천천히 들어보세요.',
+          instructionKo: '천천히 따라 말해보세요.',
           repeatAudio: ['sss', 'aaa', 'tuh', 'sat'],
         },
         {

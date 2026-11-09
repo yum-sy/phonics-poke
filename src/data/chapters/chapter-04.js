@@ -605,7 +605,7 @@ export const chapter4 = {
         {
           id: 'c4s5-teach',
           kind: 'teach',
-          instructionKo: '세 히어로가 합체해요! 먼저 mat을 만들어요.',
+          instructionKo: '히어로가 합체해요! 먼저 mat을 만들어요.',
           repeatAudio: ['mmm', 'aaa', 'tuh', 'mat'],
         },
         {

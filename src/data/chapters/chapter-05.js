@@ -642,7 +642,7 @@ export const chapter5 = {
         {
           id: 'c5s5-teach',
           kind: 'teach',
-          instructionKo: '세 히어로가 합체해요! 먼저 dog을 만들어요.',
+          instructionKo: '히어로가 합체해요! 먼저 dog을 만들어요.',
           repeatAudio: ['duh', 'awh', 'guh', 'dog'],
         },
         {

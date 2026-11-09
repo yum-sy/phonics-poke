@@ -1,0 +1,28 @@
+{
+  "confirmed": [
+    "4 ordinary heroes + strong hero; 4 villains + boss per chapter",
+    "ordinary hero candidates: all Pokemon species, popularity restriction removed",
+    "name phonics relationship takes priority; shared type requirement removed",
+    "ordinary villains: dark/poison/ghost, no phonics/name requirement",
+    "global hero/villain species separation",
+    "Greninja strong hero, Gengar boss",
+    "Name-internal/final target sounds allowed",
+    "Ordinary hero species reuse allowed",
+    "Boss popularity restriction removed; user will pick 33 distinct species from BST-ranked dark/poison/ghost candidates",
+    "Strong hero popularity rule retained",
+    "Bosses ordered ascending BST; Eternatus is chapter33 stage5 final boss",
+    "11 user-excluded boss species reserved for hero pronunciation review: 다크라이, 로즈레이드, 마샤도, 마스카나, 모크나이퍼, 블래키, 어흥염, 우라오스, 이상해꽃, 타부자고, 파라블레이즈",
+    "When no suitable name-pronunciation candidate exists, use a familiar learning-helper Pokemon without claiming a phonics match; reuse a small pool.",
+    "Prioritize Venusaur, Darkrai, Urshifu, Marshadow, Decidueye, Incineroar, Meowscarada only when pronunciation naturally fits."
+  ],
+  "pending": [
+    "pronunciation and grapheme position evidence for each accepted hero",
+    "form eligibility and repeated strong/boss appearances"
+  ],
+  "research_limit": "English orthographic search is NOT a pronunciation dictionary. No full phonetic coverage or learning benefit claimed.",
+  "helper_pool_proposal": [
+    "Pikachu",
+    "Snorlax",
+    "Pachirisu"
+  ]
+}

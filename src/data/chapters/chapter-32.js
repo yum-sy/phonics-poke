@@ -1284,7 +1284,7 @@ export const chapter32 = {
         {
           "id": "c32s5-teach",
           "kind": "teach",
-          "instructionKo": "세 히어로가 합체해요! 먼저 STRING을 만들어요.",
+          "instructionKo": "히어로가 합체해요! 먼저 STRING을 만들어요.",
           "repeatAudio": [
             "sss",
             "tuh",

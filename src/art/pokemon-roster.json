@@ -1,0 +1,3324 @@
+{
+  "assignments": {
+    "stage-1": {
+      "hero": 816,
+      "heroRole": "phonics_match",
+      "villain": 261
+    },
+    "stage-2": {
+      "hero": 86,
+      "heroRole": "phonics_match",
+      "villain": 13
+    },
+    "stage-3": {
+      "hero": 63,
+      "heroRole": "phonics_match",
+      "villain": 292
+    },
+    "stage-4": {
+      "hero": 175,
+      "heroRole": "phonics_match",
+      "villain": 14
+    },
+    "c2-stage-1": {
+      "hero": 686,
+      "heroRole": "phonics_match",
+      "villain": 859
+    },
+    "c2-stage-2": {
+      "hero": 727,
+      "heroRole": "phonics_match",
+      "villain": 14
+    },
+    "c2-stage-3": {
+      "hero": 25,
+      "heroRole": "phonics_match",
+      "villain": 885
+    },
+    "c2-stage-4": {
+      "hero": 827,
+      "heroRole": "phonics_match",
+      "villain": 848
+    },
+    "c3-stage-1": {
+      "hero": 10,
+      "heroRole": "phonics_match",
+      "villain": 509
+    },
+    "c3-stage-2": {
+      "hero": 104,
+      "heroRole": "phonics_match",
+      "villain": 41
+    },
+    "c3-stage-3": {
+      "hero": 23,
+      "heroRole": "phonics_match",
+      "villain": 946
+    },
+    "c3-stage-4": {
+      "hero": 187,
+      "heroRole": "phonics_match",
+      "villain": 859
+    },
+    "c4-stage-1": {
+      "hero": 280,
+      "heroRole": "phonics_match",
+      "villain": 633
+    },
+    "c4-stage-2": {
+      "hero": 447,
+      "heroRole": "phonics_match",
+      "villain": 543
+    },
+    "c4-stage-3": {
+      "hero": 66,
+      "heroRole": "phonics_match",
+      "villain": 353
+    },
+    "c4-stage-4": {
+      "hero": 147,
+      "heroRole": "phonics_match",
+      "villain": 946
+    },
+    "c5-stage-1": {
+      "hero": 704,
+      "heroRole": "phonics_match",
+      "villain": 434
+    },
+    "c5-stage-2": {
+      "hero": 1000,
+      "heroRole": "phonics_match",
+      "villain": 29
+    },
+    "c5-stage-3": {
+      "hero": 43,
+      "heroRole": "phonics_match",
+      "villain": 355
+    },
+    "c5-stage-4": {
+      "hero": 197,
+      "heroRole": "phonics_match",
+      "villain": 590
+    },
+    "c6-stage-1": {
+      "hero": 448,
+      "heroRole": "phonics_match",
+      "villain": 228
+    },
+    "c6-stage-2": {
+      "hero": 725,
+      "heroRole": "phonics_match",
+      "villain": 590
+    },
+    "c6-stage-3": {
+      "hero": 653,
+      "heroRole": "phonics_match",
+      "villain": 999
+    },
+    "c6-stage-4": {
+      "hero": 1,
+      "heroRole": "phonics_match",
+      "villain": 633
+    },
+    "c7-stage-1": {
+      "hero": 190,
+      "heroRole": "phonics_match",
+      "villain": 274
+    },
+    "c7-stage-2": {
+      "hero": 276,
+      "heroRole": "phonics_match",
+      "villain": 453
+    },
+    "c7-stage-3": {
+      "hero": 39,
+      "heroRole": "phonics_match",
+      "villain": 622
+    },
+    "c7-stage-4": {
+      "hero": 673,
+      "heroRole": "phonics_match",
+      "villain": 562
+    },
+    "c8-stage-1": {
+      "hero": 510,
+      "heroRole": "phonics_match",
+      "villain": 624
+    },
+    "c8-stage-2": {
+      "hero": 724,
+      "heroRole": "phonics_match",
+      "villain": 316
+    },
+    "c8-stage-3": {
+      "hero": 133,
+      "heroRole": "phonics_match",
+      "villain": 854
+    },
+    "c8-stage-4": {
+      "hero": 8,
+      "heroRole": "phonics_match",
+      "villain": 747
+    },
+    "c9-stage-1": {
+      "hero": 570,
+      "heroRole": "phonics_match",
+      "villain": 552
+    },
+    "c9-stage-2": {
+      "hero": 335,
+      "heroRole": "phonics_match",
+      "villain": 747
+    },
+    "c9-stage-3": {
+      "hero": 831,
+      "heroRole": "phonics_match",
+      "villain": 1012
+    },
+    "c9-stage-4": {
+      "hero": 109,
+      "heroRole": "phonics_match",
+      "villain": 92
+    },
+    "c10-stage-1": {
+      "hero": 37,
+      "heroRole": "phonics_match",
+      "villain": 629
+    },
+    "c10-stage-2": {
+      "hero": 3,
+      "heroRole": "phonics_match",
+      "villain": 92
+    },
+    "c10-stage-3": {
+      "hero": 831,
+      "heroRole": "phonics_match",
+      "villain": 769
+    },
+    "c10-stage-4": {
+      "hero": 835,
+      "heroRole": "phonics_match",
+      "villain": 679
+    },
+    "c11-stage-1": {
+      "hero": 403,
+      "heroRole": "phonics_match",
+      "villain": 860
+    },
+    "c11-stage-2": {
+      "hero": 404,
+      "heroRole": "phonics_match",
+      "villain": 757
+    },
+    "c11-stage-3": {
+      "hero": 152,
+      "heroRole": "phonics_match",
+      "villain": 769
+    },
+    "c11-stage-4": {
+      "hero": 802,
+      "heroRole": "phonics_match",
+      "villain": 451
+    },
+    "c12-stage-1": {
+      "hero": 538,
+      "heroRole": "phonics_match",
+      "villain": 198
+    },
+    "c12-stage-2": {
+      "hero": 988,
+      "heroRole": "phonics_match",
+      "villain": 434
+    },
+    "c12-stage-3": {
+      "hero": 912,
+      "heroRole": "phonics_match",
+      "villain": 679
+    },
+    "c12-stage-4": {
+      "hero": 908,
+      "heroRole": "phonics_match",
+      "villain": 624
+    },
+    "c13-stage-1": {
+      "hero": 91,
+      "heroRole": "phonics_match",
+      "villain": 262
+    },
+    "c13-stage-2": {
+      "hero": 343,
+      "heroRole": "phonics_match",
+      "villain": 451
+    },
+    "c13-stage-3": {
+      "hero": 151,
+      "heroRole": "phonics_match",
+      "villain": 425
+    },
+    "c13-stage-4": {
+      "hero": 325,
+      "heroRole": "phonics_match",
+      "villain": 552
+    },
+    "c14-stage-1": {
+      "hero": 59,
+      "heroRole": "phonics_match",
+      "villain": 634
+    },
+    "c14-stage-2": {
+      "hero": 491,
+      "heroRole": "phonics_match",
+      "villain": 969
+    },
+    "c14-stage-3": {
+      "hero": 892,
+      "heroRole": "phonics_match",
+      "villain": 608
+    },
+    "c14-stage-4": {
+      "hero": 53,
+      "heroRole": "phonics_match",
+      "villain": 629
+    },
+    "c15-stage-1": {
+      "hero": 120,
+      "heroRole": "phonics_match",
+      "villain": 215
+    },
+    "c15-stage-2": {
+      "hero": 234,
+      "heroRole": "phonics_match",
+      "villain": 30
+    },
+    "c15-stage-3": {
+      "hero": 495,
+      "heroRole": "phonics_match",
+      "villain": 302
+    },
+    "c15-stage-4": {
+      "hero": 872,
+      "heroRole": "phonics_match",
+      "villain": 70
+    },
+    "c16-stage-1": {
+      "hero": 252,
+      "heroRole": "phonics_match",
+      "villain": 920
+    },
+    "c16-stage-2": {
+      "hero": 328,
+      "heroRole": "phonics_match",
+      "villain": 269
+    },
+    "c16-stage-3": {
+      "hero": 656,
+      "heroRole": "phonics_match",
+      "villain": 886
+    },
+    "c16-stage-4": {
+      "hero": 592,
+      "heroRole": "phonics_match",
+      "villain": 2
+    },
+    "c17-stage-1": {
+      "hero": 35,
+      "heroRole": "phonics_match",
+      "villain": 828
+    },
+    "c17-stage-2": {
+      "hero": 852,
+      "heroRole": "phonics_match",
+      "villain": 15
+    },
+    "c17-stage-3": {
+      "hero": 471,
+      "heroRole": "phonics_match",
+      "villain": 200
+    },
+    "c17-stage-4": {
+      "hero": 207,
+      "heroRole": "phonics_match",
+      "villain": 262
+    },
+    "c18-stage-1": {
+      "hero": 27,
+      "heroRole": "phonics_match",
+      "villain": 319
+    },
+    "c18-stage-2": {
+      "hero": 551,
+      "heroRole": "phonics_match",
+      "villain": 168
+    },
+    "c18-stage-3": {
+      "hero": 632,
+      "heroRole": "phonics_match",
+      "villain": 479
+    },
+    "c18-stage-4": {
+      "hero": 709,
+      "heroRole": "phonics_match",
+      "villain": 200
+    },
+    "c19-stage-1": {
+      "hero": 403,
+      "heroRole": "phonics_match",
+      "villain": 359
+    },
+    "c19-stage-2": {
+      "hero": 957,
+      "heroRole": "phonics_match",
+      "villain": 2
+    },
+    "c19-stage-3": {
+      "hero": 275,
+      "heroRole": "phonics_match",
+      "villain": 354
+    },
+    "c19-stage-4": {
+      "hero": 560,
+      "heroRole": "phonics_match",
+      "villain": 680
+    },
+    "c20-stage-1": {
+      "hero": 327,
+      "heroRole": "phonics_match",
+      "villain": 332
+    },
+    "c20-stage-2": {
+      "hero": 325,
+      "heroRole": "phonics_match",
+      "villain": 803
+    },
+    "c20-stage-3": {
+      "hero": 300,
+      "heroRole": "phonics_match",
+      "villain": 356
+    },
+    "c20-stage-4": {
+      "hero": 227,
+      "heroRole": "phonics_match",
+      "villain": 354
+    },
+    "c21-stage-1": {
+      "hero": 311,
+      "heroRole": "phonics_match",
+      "villain": 435
+    },
+    "c21-stage-2": {
+      "hero": 393,
+      "heroRole": "phonics_match",
+      "villain": 24
+    },
+    "c21-stage-3": {
+      "hero": 147,
+      "heroRole": "phonics_match",
+      "villain": 778
+    },
+    "c21-stage-4": {
+      "hero": 96,
+      "heroRole": "phonics_match",
+      "villain": 319
+    },
+    "c22-stage-1": {
+      "hero": 387,
+      "heroRole": "phonics_match",
+      "villain": 687
+    },
+    "c22-stage-2": {
+      "hero": 607,
+      "heroRole": "phonics_match",
+      "villain": 42
+    },
+    "c22-stage-3": {
+      "hero": 309,
+      "heroRole": "phonics_match",
+      "villain": 770
+    },
+    "c22-stage-4": {
+      "hero": 44,
+      "heroRole": "phonics_match",
+      "villain": 569
+    },
+    "c23-stage-1": {
+      "hero": 820,
+      "heroRole": "phonics_match",
+      "villain": 962
+    },
+    "c23-stage-2": {
+      "hero": 878,
+      "heroRole": "phonics_match",
+      "villain": 591
+    },
+    "c23-stage-3": {
+      "hero": 275,
+      "heroRole": "phonics_match",
+      "villain": 947
+    },
+    "c23-stage-4": {
+      "hero": 560,
+      "heroRole": "phonics_match",
+      "villain": 593
+    },
+    "c24-stage-1": {
+      "hero": 674,
+      "heroRole": "phonics_match",
+      "villain": 625
+    },
+    "c24-stage-2": {
+      "hero": 328,
+      "heroRole": "phonics_match",
+      "villain": 569
+    },
+    "c24-stage-3": {
+      "hero": 523,
+      "heroRole": "phonics_match",
+      "villain": 563
+    },
+    "c24-stage-4": {
+      "hero": 423,
+      "heroRole": "phonics_match",
+      "villain": 687
+    },
+    "c25-stage-1": {
+      "hero": 559,
+      "heroRole": "phonics_match",
+      "villain": 675
+    },
+    "c25-stage-2": {
+      "hero": 985,
+      "heroRole": "phonics_match",
+      "villain": 758
+    },
+    "c25-stage-3": {
+      "hero": 957,
+      "heroRole": "phonics_match",
+      "villain": 867
+    },
+    "c25-stage-4": {
+      "hero": 56,
+      "heroRole": "phonics_match",
+      "villain": 442
+    },
+    "c26-stage-1": {
+      "hero": 280,
+      "heroRole": "phonics_match",
+      "villain": 229
+    },
+    "c26-stage-2": {
+      "hero": 135,
+      "heroRole": "phonics_match",
+      "villain": 545
+    },
+    "c26-stage-3": {
+      "hero": 482,
+      "heroRole": "phonics_match",
+      "villain": 442
+    },
+    "c26-stage-4": {
+      "hero": 211,
+      "heroRole": "phonics_match",
+      "villain": 45
+    },
+    "c27-stage-1": {
+      "hero": 484,
+      "heroRole": "phonics_match",
+      "villain": 430
+    },
+    "c27-stage-2": {
+      "hero": 266,
+      "heroRole": "phonics_match",
+      "villain": 45
+    },
+    "c27-stage-3": {
+      "hero": 849,
+      "heroRole": "phonics_match",
+      "villain": 972
+    },
+    "c27-stage-4": {
+      "hero": 25,
+      "heroRole": "learning_helper",
+      "villain": 625
+    },
+    "c28-stage-1": {
+      "hero": 813,
+      "heroRole": "phonics_match",
+      "villain": 943
+    },
+    "c28-stage-2": {
+      "hero": 560,
+      "heroRole": "phonics_match",
+      "villain": 110
+    },
+    "c28-stage-3": {
+      "hero": 68,
+      "heroRole": "phonics_match",
+      "villain": 429
+    },
+    "c28-stage-4": {
+      "hero": 260,
+      "heroRole": "phonics_match",
+      "villain": 675
+    },
+    "c29s1": {
+      "hero": 120,
+      "heroRole": "phonics_match",
+      "villain": 461
+    },
+    "c29s2": {
+      "hero": 234,
+      "heroRole": "phonics_match",
+      "villain": 691
+    },
+    "c29s3": {
+      "hero": 252,
+      "heroRole": "phonics_match",
+      "villain": 426
+    },
+    "c29s4": {
+      "hero": 328,
+      "heroRole": "phonics_match",
+      "villain": 229
+    },
+    "c30s1": {
+      "hero": 366,
+      "heroRole": "phonics_match",
+      "villain": 630
+    },
+    "c30s2": {
+      "hero": 35,
+      "heroRole": "phonics_match",
+      "villain": 89
+    },
+    "c30s3": {
+      "hero": 656,
+      "heroRole": "phonics_match",
+      "villain": 681
+    },
+    "c30s4": {
+      "hero": 478,
+      "heroRole": "phonics_match",
+      "villain": 34
+    },
+    "c31s1": {
+      "hero": 387,
+      "heroRole": "phonics_match",
+      "villain": 904
+    },
+    "c31s2": {
+      "hero": 607,
+      "heroRole": "phonics_match",
+      "villain": 966
+    },
+    "c31s3": {
+      "hero": 143,
+      "heroRole": "phonics_match",
+      "villain": 1013
+    },
+    "c31s4": {
+      "hero": 495,
+      "heroRole": "phonics_match",
+      "villain": 461
+    },
+    "c32s1": {
+      "hero": 523,
+      "heroRole": "phonics_match",
+      "villain": 862
+    },
+    "c32s2": {
+      "hero": 896,
+      "heroRole": "phonics_match",
+      "villain": 34
+    },
+    "c32s3": {
+      "hero": 674,
+      "heroRole": "phonics_match",
+      "villain": 864
+    },
+    "c32s4": {
+      "hero": 328,
+      "heroRole": "phonics_match",
+      "villain": 903
+    },
+    "c33s1": {
+      "hero": 538,
+      "heroRole": "phonics_match",
+      "villain": 986
+    },
+    "c33s2": {
+      "hero": 956,
+      "heroRole": "phonics_match",
+      "villain": 904
+    },
+    "c33s3": {
+      "hero": 285,
+      "heroRole": "phonics_match",
+      "villain": 902
+    },
+    "c33s4": {
+      "hero": 944,
+      "heroRole": "phonics_match",
+      "villain": 804
+    },
+    "stage-5": {
+      "hero": 254,
+      "heroRole": "fusion",
+      "villain": 94
+    },
+    "c2-stage-5": {
+      "hero": 768,
+      "heroRole": "fusion",
+      "villain": 73
+    },
+    "c3-stage-5": {
+      "hero": 497,
+      "heroRole": "fusion",
+      "villain": 781
+    },
+    "c4-stage-5": {
+      "hero": 706,
+      "heroRole": "fusion",
+      "villain": 553
+    },
+    "c5-stage-5": {
+      "hero": 196,
+      "heroRole": "fusion",
+      "villain": 609
+    },
+    "c6-stage-5": {
+      "hero": 376,
+      "heroRole": "fusion",
+      "villain": 970
+    },
+    "c7-stage-5": {
+      "hero": 134,
+      "heroRole": "fusion",
+      "villain": 477
+    },
+    "c8-stage-5": {
+      "hero": 245,
+      "heroRole": "fusion",
+      "villain": 911
+    },
+    "c9-stage-5": {
+      "hero": 212,
+      "heroRole": "fusion",
+      "villain": 979
+    },
+    "c10-stage-5": {
+      "hero": 257,
+      "heroRole": "fusion",
+      "villain": 169
+    },
+    "c11-stage-5": {
+      "hero": 869,
+      "heroRole": "fusion",
+      "villain": 983
+    },
+    "c12-stage-5": {
+      "hero": 887,
+      "heroRole": "fusion",
+      "villain": 1016
+    },
+    "c13-stage-5": {
+      "hero": 571,
+      "heroRole": "fusion",
+      "villain": 1015
+    },
+    "c14-stage-5": {
+      "hero": 494,
+      "heroRole": "fusion",
+      "villain": 1014
+    },
+    "c15-stage-5": {
+      "hero": 730,
+      "heroRole": "fusion",
+      "villain": 1004
+    },
+    "c16-stage-5": {
+      "hero": 815,
+      "heroRole": "fusion",
+      "villain": 1003
+    },
+    "c17-stage-5": {
+      "hero": 385,
+      "heroRole": "fusion",
+      "villain": 1001
+    },
+    "c18-stage-5": {
+      "hero": 392,
+      "heroRole": "fusion",
+      "villain": 994
+    },
+    "c19-stage-5": {
+      "hero": 249,
+      "heroRole": "fusion",
+      "villain": 993
+    },
+    "c20-stage-5": {
+      "hero": 149,
+      "heroRole": "fusion",
+      "villain": 987
+    },
+    "c21-stage-5": {
+      "hero": 745,
+      "heroRole": "fusion",
+      "villain": 806
+    },
+    "c22-stage-5": {
+      "hero": 282,
+      "heroRole": "fusion",
+      "villain": 799
+    },
+    "c23-stage-5": {
+      "hero": 807,
+      "heroRole": "fusion",
+      "villain": 793
+    },
+    "c24-stage-5": {
+      "hero": 445,
+      "heroRole": "fusion",
+      "villain": 1005
+    },
+    "c25-stage-5": {
+      "hero": 700,
+      "heroRole": "fusion",
+      "villain": 1025
+    },
+    "c26-stage-5": {
+      "hero": 150,
+      "heroRole": "fusion",
+      "villain": 893
+    },
+    "c27-stage-5": {
+      "hero": 644,
+      "heroRole": "fusion",
+      "villain": 720
+    },
+    "c28-stage-5": {
+      "hero": 643,
+      "heroRole": "fusion",
+      "villain": 635
+    },
+    "c29s5": {
+      "hero": 6,
+      "heroRole": "fusion",
+      "villain": 248
+    },
+    "c30s5": {
+      "hero": 888,
+      "heroRole": "fusion",
+      "villain": 792
+    },
+    "c31s5": {
+      "hero": 384,
+      "heroRole": "fusion",
+      "villain": 717
+    },
+    "c32s5": {
+      "hero": 493,
+      "heroRole": "fusion",
+      "villain": 487
+    },
+    "c33s5": {
+      "hero": 658,
+      "heroRole": "fusion",
+      "villain": 890
+    }
+  },
+  "assets": {
+    "1": {
+      "name": "Bulbasaur",
+      "nameKo": "이상해씨",
+      "static": "1.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/1.png",
+      "idleSource": null,
+      "sha256": "c7cb8e9545e13ab399506fb5fb1f68112be9fff2b68d0ac3ff3b1f531b9c5c38"
+    },
+    "2": {
+      "name": "Ivysaur",
+      "nameKo": "이상해풀",
+      "static": "2.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/2.png",
+      "idleSource": null,
+      "sha256": "d8600af0fe844be4e6641cee780aacc40adab5c93b40bf187d08b58f590a1a98"
+    },
+    "3": {
+      "name": "Venusaur",
+      "nameKo": "이상해꽃",
+      "static": "3.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/3.png",
+      "idleSource": null,
+      "sha256": "988fab8eaea3dfa16b7ec9dff74d7b9177a59fa56e0339ec42af69d95355064a"
+    },
+    "6": {
+      "name": "Charizard",
+      "nameKo": "리자몽",
+      "static": "6.png",
+      "idle": "6.gif",
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/6.png",
+      "idleSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/6.gif",
+      "sha256": "ffe2db1065f91feda24f21c81c461e4ca6b863cf31afb4e4918aba79fb31ee70"
+    },
+    "8": {
+      "name": "Wartortle",
+      "nameKo": "어니부기",
+      "static": "8.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/8.png",
+      "idleSource": null,
+      "sha256": "8ddb79651e411410fe1e91031bacb53155019404430f30e48576cba8f2deeddf"
+    },
+    "10": {
+      "name": "Caterpie",
+      "nameKo": "캐터피",
+      "static": "10.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10.png",
+      "idleSource": null,
+      "sha256": "452212fb99df6b96dfa51401388deedb1220956acacd89ca5147e4af7ddbf65a"
+    },
+    "13": {
+      "name": "Weedle",
+      "nameKo": "뿔충이",
+      "static": "13.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/13.png",
+      "idleSource": null,
+      "sha256": "fc9004a147b2bc551eb5d5f0e00c6c61ca514b2f888e7a1ac4f434fb264127e4"
+    },
+    "14": {
+      "name": "Kakuna",
+      "nameKo": "딱충이",
+      "static": "14.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/14.png",
+      "idleSource": null,
+      "sha256": "5e45bad27ff679793811e49b87ef7f6e1e518b78e99d90e769b4bb7fa19cd27f"
+    },
+    "15": {
+      "name": "Beedrill",
+      "nameKo": "독침붕",
+      "static": "15.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/15.png",
+      "idleSource": null,
+      "sha256": "3bff9daf54f7e34358afb72b1e4446d7d21e9ec977c8a9e52564115222d15f5d"
+    },
+    "23": {
+      "name": "Ekans",
+      "nameKo": "아보",
+      "static": "23.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/23.png",
+      "idleSource": null,
+      "sha256": "cceec7b1dcd620322fc744eb3d03add82ff9df682671d0b27a520a052a5b43c8"
+    },
+    "24": {
+      "name": "Arbok",
+      "nameKo": "아보크",
+      "static": "24.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/24.png",
+      "idleSource": null,
+      "sha256": "853770aa56f527a12cb152fd253ddf3851a33562cdf2dc2b364d0f838fa2ed6f"
+    },
+    "25": {
+      "name": "Pikachu",
+      "nameKo": "피카츄",
+      "static": "25.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/25.png",
+      "idleSource": null,
+      "sha256": "6a9305fbd6f02345153567f4142faf019380b1a1c839cfa3f2349cc36d536a40"
+    },
+    "27": {
+      "name": "Sandshrew",
+      "nameKo": "모래두지",
+      "static": "27.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/27.png",
+      "idleSource": null,
+      "sha256": "ec21d4a1f1778bc6344591b838fc60ed1c14b9fcff0a814b8fccb2fb01ea83b7"
+    },
+    "29": {
+      "name": "Nidoran♀",
+      "nameKo": "니드런♀",
+      "static": "29.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/29.png",
+      "idleSource": null,
+      "sha256": "4f8e5f44cccad9164e1dcea538b0b949f9f29548a42123db0444b6f6a46b32e2"
+    },
+    "30": {
+      "name": "Nidorina",
+      "nameKo": "니드리나",
+      "static": "30.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/30.png",
+      "idleSource": null,
+      "sha256": "fb6ebd83ac9dab6a7df43d22698283fd9b3ddebd0cd8a5eb53cc230687a4bf0f"
+    },
+    "34": {
+      "name": "Nidoking",
+      "nameKo": "니드킹",
+      "static": "34.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/34.png",
+      "idleSource": null,
+      "sha256": "3a34c3c637abb8e80f9cd30ba9d723634962e66ddbe5dbb7983eecf0097cf138"
+    },
+    "35": {
+      "name": "Clefairy",
+      "nameKo": "삐삐",
+      "static": "35.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/35.png",
+      "idleSource": null,
+      "sha256": "1a16f1de86f574dc1eb8dc5f189abfd9196e9e6790e7e4ed8514d43189bedfcf"
+    },
+    "37": {
+      "name": "Vulpix",
+      "nameKo": "식스테일",
+      "static": "37.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/37.png",
+      "idleSource": null,
+      "sha256": "0b2aea058c11e12415e9731d4d4f7286979122d812898225aa428ac8ac1cdec4"
+    },
+    "39": {
+      "name": "Jigglypuff",
+      "nameKo": "푸린",
+      "static": "39.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/39.png",
+      "idleSource": null,
+      "sha256": "8514f906e321d304f785429716983a83c40d7a1cd39a10fcb324ba146816cd04"
+    },
+    "41": {
+      "name": "Zubat",
+      "nameKo": "주뱃",
+      "static": "41.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/41.png",
+      "idleSource": null,
+      "sha256": "954c4b2e30950706b3c2879003742d28723bcf54b1e13f4024e4f656d4e164d3"
+    },
+    "42": {
+      "name": "Golbat",
+      "nameKo": "골뱃",
+      "static": "42.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/42.png",
+      "idleSource": null,
+      "sha256": "d82c0991993ce21240487e0eb3cc1575665300d55a2f9c291040f75d6c87fc35"
+    },
+    "43": {
+      "name": "Oddish",
+      "nameKo": "뚜벅쵸",
+      "static": "43.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/43.png",
+      "idleSource": null,
+      "sha256": "1c02c396a02758cf10185e82dd26684bfa9ff11c55e8af403957b161a9d3cb85"
+    },
+    "44": {
+      "name": "Gloom",
+      "nameKo": "냄새꼬",
+      "static": "44.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/44.png",
+      "idleSource": null,
+      "sha256": "bc60e461f91712423c13b9ee2dbbc625397c01429e8688548681200de9dd50a4"
+    },
+    "45": {
+      "name": "Vileplume",
+      "nameKo": "라플레시아",
+      "static": "45.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/45.png",
+      "idleSource": null,
+      "sha256": "679a0dc498b403fb80ae7949ccb8e5911d6164d6319cea926960ddaf0f311144"
+    },
+    "53": {
+      "name": "Persian",
+      "nameKo": "페르시온",
+      "static": "53.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/53.png",
+      "idleSource": null,
+      "sha256": "af5bbda097ef00c2e342a95ed79bcb4f6d128715021099d6cb9575133e7a2486"
+    },
+    "56": {
+      "name": "Mankey",
+      "nameKo": "망키",
+      "static": "56.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/56.png",
+      "idleSource": null,
+      "sha256": "cea28d279487208e5e3dfcff58756957ac1e631dc891dd0eaf355dce2a651dce"
+    },
+    "59": {
+      "name": "Arcanine",
+      "nameKo": "윈디",
+      "static": "59.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/59.png",
+      "idleSource": null,
+      "sha256": "551cf008b80ca6d1ef9b9687106b1307b4d88a1e510e5a337ff5bac2e7116bec"
+    },
+    "63": {
+      "name": "Abra",
+      "nameKo": "캐이시",
+      "static": "63.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/63.png",
+      "idleSource": null,
+      "sha256": "cee7e3dc3d7bd3f0c3a8245726b9da35b14231327650b3e1eb9c77441d1cebe8"
+    },
+    "66": {
+      "name": "Machop",
+      "nameKo": "알통몬",
+      "static": "66.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/66.png",
+      "idleSource": null,
+      "sha256": "36ec58bdad40513ada2920b674aa30ba82f00bc150992cc5eadf8d29403e5a45"
+    },
+    "68": {
+      "name": "Machamp",
+      "nameKo": "괴력몬",
+      "static": "68.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/68.png",
+      "idleSource": null,
+      "sha256": "c535a81d675bb0ef9184e44b33da04bac5894dde32ca80713b4bb0b328063f9b"
+    },
+    "70": {
+      "name": "Weepinbell",
+      "nameKo": "우츠동",
+      "static": "70.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/70.png",
+      "idleSource": null,
+      "sha256": "6256b8e1ec0904ada6fd11fe048f696fbdcaae7c31b473e0ae9067e8a242c3b6"
+    },
+    "73": {
+      "name": "Tentacruel",
+      "nameKo": "독파리",
+      "static": "73.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/73.png",
+      "idleSource": null,
+      "sha256": "9557ec5b6abf52190a3a9c3957ad44f057ce600c014a4c4a0dc3999bf1d2c633"
+    },
+    "86": {
+      "name": "Seel",
+      "nameKo": "쥬쥬",
+      "static": "86.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/86.png",
+      "idleSource": null,
+      "sha256": "bcc650ec977045b8e16b248dcc9e763ed1e0a9ea43b3305814d8aad967210a37"
+    },
+    "89": {
+      "name": "Muk",
+      "nameKo": "질뻐기",
+      "static": "89.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/89.png",
+      "idleSource": null,
+      "sha256": "15fac973527bbffa98a16d6f0854e7e927026f29e3b5d9ea90daa99c44e8c7e1"
+    },
+    "91": {
+      "name": "Cloyster",
+      "nameKo": "파르셀",
+      "static": "91.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/91.png",
+      "idleSource": null,
+      "sha256": "88333c44bcf759e6025691ebf047f9731f633bb311fb1568905785cd595342c5"
+    },
+    "92": {
+      "name": "Gastly",
+      "nameKo": "고오스",
+      "static": "92.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/92.png",
+      "idleSource": null,
+      "sha256": "3cb7929e58e509dd036ab0b81cdd8dacae62ca3d1ef87be89404f7bc876bbc1c"
+    },
+    "94": {
+      "name": "Gengar",
+      "nameKo": "팬텀",
+      "static": "94.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/94.png",
+      "idleSource": null,
+      "sha256": "33c68a1f380d80d89c4ea1505a7d6d2a10358665a18acb3fd3e069a091659744"
+    },
+    "96": {
+      "name": "Drowzee",
+      "nameKo": "슬리프",
+      "static": "96.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/96.png",
+      "idleSource": null,
+      "sha256": "cbbe3133a098c3b3f40a6703d757b150c4ae4b3309d298787535af6eeaa4172d"
+    },
+    "104": {
+      "name": "Cubone",
+      "nameKo": "탕구리",
+      "static": "104.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/104.png",
+      "idleSource": null,
+      "sha256": "f96411fafb80acdba748ca272a9456e7a2847813d5460076c24b65f2c1b4b9d9"
+    },
+    "109": {
+      "name": "Koffing",
+      "nameKo": "또가스",
+      "static": "109.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/109.png",
+      "idleSource": null,
+      "sha256": "a7f3ec162cca5f47c911457914d5ab34cc472292aaa07150063887a62fcbfe4e"
+    },
+    "110": {
+      "name": "Weezing",
+      "nameKo": "또도가스",
+      "static": "110.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/110.png",
+      "idleSource": null,
+      "sha256": "534d3b8e4a709fb488c3907892a218de1bc9f4ace73ad54f73a9cab16cdc22d8"
+    },
+    "120": {
+      "name": "Staryu",
+      "nameKo": "별가사리",
+      "static": "120.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/120.png",
+      "idleSource": null,
+      "sha256": "cc7ce976970f7084a9680a3b30797f3d90c6ea9da6594e0df81af247df5cea32"
+    },
+    "133": {
+      "name": "Eevee",
+      "nameKo": "이브이",
+      "static": "133.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/133.png",
+      "idleSource": null,
+      "sha256": "78febefb2aba3614b96528455e9c90242cc025d0eb392ee3a43256671962655f"
+    },
+    "134": {
+      "name": "Vaporeon",
+      "nameKo": "샤미드",
+      "static": "134.png",
+      "idle": "134.gif",
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/134.png",
+      "idleSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/134.gif",
+      "sha256": "7f5fe01da014ce9adb3efe1a75675a364db17250cc155b2a1939f325bc9d2504"
+    },
+    "135": {
+      "name": "Jolteon",
+      "nameKo": "쥬피썬더",
+      "static": "135.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/135.png",
+      "idleSource": null,
+      "sha256": "f7ba4d22ea6c7a5ab3b5ec3990b0dbea4afa940038b468b1f174c8c6d09fd8e8"
+    },
+    "143": {
+      "name": "Snorlax",
+      "nameKo": "잠만보",
+      "static": "143.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/143.png",
+      "idleSource": null,
+      "sha256": "40ae73f6fd804026ae8e6a61e931cfd5c8b4594d81e492e9dbf445c8d2e497eb"
+    },
+    "147": {
+      "name": "Dratini",
+      "nameKo": "미뇽",
+      "static": "147.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/147.png",
+      "idleSource": null,
+      "sha256": "ea3ce3c89878be58df63f32bb501bbfcc8554fbe8fe2ac1ecee71bd16d175f99"
+    },
+    "149": {
+      "name": "Dragonite",
+      "nameKo": "망나뇽",
+      "static": "149.png",
+      "idle": "149.gif",
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/149.png",
+      "idleSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/149.gif",
+      "sha256": "1594662fcb0cfbf7a0d2928b8e1fc680a0deff1cb0b2b4db0372a6f4835b6b31"
+    },
+    "150": {
+      "name": "Mewtwo",
+      "nameKo": "뮤츠",
+      "static": "150.png",
+      "idle": "150.gif",
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/150.png",
+      "idleSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/150.gif",
+      "sha256": "e9dc9acae7c82b705fb06460b0a51c7c28ec2bf8ef4854482b0befbb73f5c97c"
+    },
+    "151": {
+      "name": "Mew",
+      "nameKo": "뮤",
+      "static": "151.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/151.png",
+      "idleSource": null,
+      "sha256": "73429b41c859df02c2d8cf5313150e908b42e29fe327e0554aa3e190f85d3f8c"
+    },
+    "152": {
+      "name": "Chikorita",
+      "nameKo": "치코리타",
+      "static": "152.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/152.png",
+      "idleSource": null,
+      "sha256": "3c747221af108c098495d26d0e3755f6461ab8aac1e2e3ece3aaca9b83628142"
+    },
+    "168": {
+      "name": "Ariados",
+      "nameKo": "아리아도스",
+      "static": "168.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/168.png",
+      "idleSource": null,
+      "sha256": "753fa72f7b1bfb92fe5f1f88cb8a79f4b617e86ecfc68acf77a84e13421d6313"
+    },
+    "169": {
+      "name": "Crobat",
+      "nameKo": "크로뱃",
+      "static": "169.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/169.png",
+      "idleSource": null,
+      "sha256": "f9fae55b5042f9744282b4638053cf34275a3b79ef8b0db4cf04e056d74bd7ae"
+    },
+    "175": {
+      "name": "Togepi",
+      "nameKo": "토게피",
+      "static": "175.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/175.png",
+      "idleSource": null,
+      "sha256": "31366852e67c99c4f479c8f9d051dba19f8ea298f4001c592daabcbb9e6c6af0"
+    },
+    "187": {
+      "name": "Hoppip",
+      "nameKo": "통통코",
+      "static": "187.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/187.png",
+      "idleSource": null,
+      "sha256": "88860acf724869ac4a55cb24d461f6045ce3037aa4c4964cd4303fadee286f35"
+    },
+    "190": {
+      "name": "Aipom",
+      "nameKo": "에이팜",
+      "static": "190.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/190.png",
+      "idleSource": null,
+      "sha256": "35a55c97f535c975490b609040e59d9ca28bd7d9c036fed94c85d383a154c4f0"
+    },
+    "196": {
+      "name": "Espeon",
+      "nameKo": "에브이",
+      "static": "196.png",
+      "idle": "196.gif",
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/196.png",
+      "idleSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/196.gif",
+      "sha256": "d9d66ad88b063e1ee2f89371e229df0f4ab1e018ab1e1d5122c3079adbf9872c"
+    },
+    "197": {
+      "name": "Umbreon",
+      "nameKo": "블래키",
+      "static": "197.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/197.png",
+      "idleSource": null,
+      "sha256": "263c504663419d5b87170e608fb0e5cf01887bd1c2bc65d35a77aee1f5da78dd"
+    },
+    "198": {
+      "name": "Murkrow",
+      "nameKo": "니로우",
+      "static": "198.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/198.png",
+      "idleSource": null,
+      "sha256": "a22686c76c043299e361afc9b8ec67b9c3135677f5d4a9635d3970eb767dc033"
+    },
+    "200": {
+      "name": "Misdreavus",
+      "nameKo": "무우마",
+      "static": "200.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/200.png",
+      "idleSource": null,
+      "sha256": "c28388e6cb0bbaf024ae27e979696dc1f2b157af882050e99903541a19470065"
+    },
+    "207": {
+      "name": "Gligar",
+      "nameKo": "글라이거",
+      "static": "207.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/207.png",
+      "idleSource": null,
+      "sha256": "160f1d409f898b5d66337226788d2448c23b6a7fa97120f854108f091a209533"
+    },
+    "211": {
+      "name": "Qwilfish",
+      "nameKo": "침바루",
+      "static": "211.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/211.png",
+      "idleSource": null,
+      "sha256": "f4f6db62e4ae21636373e0c1259996535eb7d02630a1cc63195633f1561ed131"
+    },
+    "212": {
+      "name": "Scizor",
+      "nameKo": "핫삼",
+      "static": "212.png",
+      "idle": "212.gif",
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/212.png",
+      "idleSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/212.gif",
+      "sha256": "048bf71c7de507484a9f1c49073745123d7aab6d51da78c921161f30c21c2b55"
+    },
+    "215": {
+      "name": "Sneasel",
+      "nameKo": "포푸니",
+      "static": "215.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/215.png",
+      "idleSource": null,
+      "sha256": "649ac78ec5132860d45505bda3f9ca7155aea3578427657c2ef4dc933cc59728"
+    },
+    "227": {
+      "name": "Skarmory",
+      "nameKo": "무장조",
+      "static": "227.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/227.png",
+      "idleSource": null,
+      "sha256": "032cd5619f755dafa730277e90ee86e6e8ec696ead8b1c648dd8e1d028f80ebd"
+    },
+    "228": {
+      "name": "Houndour",
+      "nameKo": "델빌",
+      "static": "228.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/228.png",
+      "idleSource": null,
+      "sha256": "21eb782af48bfa6ee900cc9ee517a04efe6e36b57a58bc4b47487efc40cb11c7"
+    },
+    "229": {
+      "name": "Houndoom",
+      "nameKo": "헬가",
+      "static": "229.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/229.png",
+      "idleSource": null,
+      "sha256": "bd0f8c525096a960a7c3fe0b7efe491808d117856837e50f41e76812bf35bfb7"
+    },
+    "234": {
+      "name": "Stantler",
+      "nameKo": "노라키",
+      "static": "234.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/234.png",
+      "idleSource": null,
+      "sha256": "909be7b483a14e9b25ac0db1c96990ade175ab894fd2c8b73880989427835f21"
+    },
+    "245": {
+      "name": "Suicune",
+      "nameKo": "스이쿤",
+      "static": "245.png",
+      "idle": "245.gif",
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/245.png",
+      "idleSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/245.gif",
+      "sha256": "497ea60c3e5e3e27a14ebec7473f802d1d4d9479b263f10f8f7f428433dbaf77"
+    },
+    "248": {
+      "name": "Tyranitar",
+      "nameKo": "마기라스",
+      "static": "248.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/248.png",
+      "idleSource": null,
+      "sha256": "771eddd5177c3328a4b71768332d7523cc0df8d24fc837924255acafda94d7ed"
+    },
+    "249": {
+      "name": "Lugia",
+      "nameKo": "루기아",
+      "static": "249.png",
+      "idle": "249.gif",
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/249.png",
+      "idleSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/249.gif",
+      "sha256": "bfc61527b4ca2775fc6df6ce46b942027607f272421a4c8266c0a1ef743e937f"
+    },
+    "252": {
+      "name": "Treecko",
+      "nameKo": "나무지기",
+      "static": "252.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/252.png",
+      "idleSource": null,
+      "sha256": "c212e26aae817f7ee0a1a138906729c74f722b650990c0b0f253988f13ed2d8f"
+    },
+    "254": {
+      "name": "Sceptile",
+      "nameKo": "나무킹",
+      "static": "254.png",
+      "idle": "254.gif",
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/254.png",
+      "idleSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/254.gif",
+      "sha256": "27eb3c6ee4b4955dc68fc2527b00572efb4c58995b4694b9bb863b60d371b011"
+    },
+    "257": {
+      "name": "Blaziken",
+      "nameKo": "번치코",
+      "static": "257.png",
+      "idle": "257.gif",
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/257.png",
+      "idleSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/257.gif",
+      "sha256": "905dfc4fd9bf0a4fb14779c8977b7ba0dc8304dd0c39aab86fd5a17010d9a4d9"
+    },
+    "260": {
+      "name": "Swampert",
+      "nameKo": "대짱이",
+      "static": "260.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/260.png",
+      "idleSource": null,
+      "sha256": "ed9b372d99cf9fc4af728c6a89d0eaf3ac08f679a4aea9e357f4f5ad70ad38f1"
+    },
+    "261": {
+      "name": "Poochyena",
+      "nameKo": "포챠나",
+      "static": "261.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/261.png",
+      "idleSource": null,
+      "sha256": "724c16f719859b2c22c2dbf6a8666afa48fa2f6585775c1c1fec80103d2c1fc7"
+    },
+    "262": {
+      "name": "Mightyena",
+      "nameKo": "그라에나",
+      "static": "262.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/262.png",
+      "idleSource": null,
+      "sha256": "ff2177838dbccd4a970af39628608f07aed983f71cf34b2e306c2e63ec0b9958"
+    },
+    "266": {
+      "name": "Silcoon",
+      "nameKo": "실쿤",
+      "static": "266.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/266.png",
+      "idleSource": null,
+      "sha256": "cc503e5a01b93002a95b7c92ae06df1d8e1e97030c92ded6edc2346514f305da"
+    },
+    "269": {
+      "name": "Dustox",
+      "nameKo": "독케일",
+      "static": "269.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/269.png",
+      "idleSource": null,
+      "sha256": "38322c6d0156a3babd6a384dff03902f1ea8c98710bd53d1a3309ccf0754afad"
+    },
+    "274": {
+      "name": "Nuzleaf",
+      "nameKo": "잎새코",
+      "static": "274.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/274.png",
+      "idleSource": null,
+      "sha256": "d132812673a1afe7fdfe6a533c758dc4056319732a8ac62a5cd87481e8a4bc61"
+    },
+    "275": {
+      "name": "Shiftry",
+      "nameKo": "다탱구",
+      "static": "275.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/275.png",
+      "idleSource": null,
+      "sha256": "a7f468ca391a79b2d023cbe64672c97f0318a0073e522985654bdf9dac0c50fd"
+    },
+    "276": {
+      "name": "Taillow",
+      "nameKo": "테일로",
+      "static": "276.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/276.png",
+      "idleSource": null,
+      "sha256": "337f6f6a09bbc7fa14178d2cc627e596324c8624fe6eab3e39214560ec53b939"
+    },
+    "280": {
+      "name": "Ralts",
+      "nameKo": "랄토스",
+      "static": "280.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/280.png",
+      "idleSource": null,
+      "sha256": "e27328a4aae1a66e40dadd6fc0e3423129ca67f53e3515c6f87abacb2b75e9ee"
+    },
+    "282": {
+      "name": "Gardevoir",
+      "nameKo": "가디안",
+      "static": "282.png",
+      "idle": "282.gif",
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/282.png",
+      "idleSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/282.gif",
+      "sha256": "b6867e956b8c2b95a4e489fa077b8a0c29d38601379c91d18859a6efab93c5b0"
+    },
+    "285": {
+      "name": "Shroomish",
+      "nameKo": "버섯꼬",
+      "static": "285.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/285.png",
+      "idleSource": null,
+      "sha256": "79b936a0c82176ec24ecc4fdc90ac5ad3c1d84dc0a1cad4205be847b22de6a0f"
+    },
+    "292": {
+      "name": "Shedinja",
+      "nameKo": "껍질몬",
+      "static": "292.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/292.png",
+      "idleSource": null,
+      "sha256": "9bde40a0cb2312c374f9d92fdf5889b229af3dd01e54662dfeaa1221c72b24a1"
+    },
+    "300": {
+      "name": "Skitty",
+      "nameKo": "에나비",
+      "static": "300.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/300.png",
+      "idleSource": null,
+      "sha256": "a4fd3237bdff7688856b956bfa00a86048a2a2be0644489ef6b63773656692ad"
+    },
+    "302": {
+      "name": "Sableye",
+      "nameKo": "깜까미",
+      "static": "302.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/302.png",
+      "idleSource": null,
+      "sha256": "cf65ad6dbc33ba199d236d6a745c5d647239e058a0a619881734c2f5da202e47"
+    },
+    "309": {
+      "name": "Electrike",
+      "nameKo": "썬더라이",
+      "static": "309.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/309.png",
+      "idleSource": null,
+      "sha256": "ed791b3b15d85f46d64a1a4ebe9947afec450138807694967316431a7c90f06f"
+    },
+    "311": {
+      "name": "Plusle",
+      "nameKo": "플러시",
+      "static": "311.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/311.png",
+      "idleSource": null,
+      "sha256": "d61e55180c8e651fe38fd2e8d5f410fc1b8f5d257f1d9c371d6185d4080a68d7"
+    },
+    "316": {
+      "name": "Gulpin",
+      "nameKo": "꼴깍몬",
+      "static": "316.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/316.png",
+      "idleSource": null,
+      "sha256": "201086e69fee09ca8ee6b4e467b1dd4e08070b067c54eac4efe6307ea3b63ce1"
+    },
+    "319": {
+      "name": "Sharpedo",
+      "nameKo": "샤크니아",
+      "static": "319.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/319.png",
+      "idleSource": null,
+      "sha256": "668432007c2d8251875ed106bd0ea9de341a5f768cbbdcdbff57f63858636eb3"
+    },
+    "325": {
+      "name": "Spoink",
+      "nameKo": "피그점프",
+      "static": "325.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/325.png",
+      "idleSource": null,
+      "sha256": "28e2286df9749acf2418c492870ca076cd288b091d93520c2a6fa172ec52c5b1"
+    },
+    "327": {
+      "name": "Spinda",
+      "nameKo": "얼루기",
+      "static": "327.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/327.png",
+      "idleSource": null,
+      "sha256": "02bc19a73665f4aa42d02bc30e463f18a6673352d185fdb7e75ef0b242319ae0"
+    },
+    "328": {
+      "name": "Trapinch",
+      "nameKo": "톱치",
+      "static": "328.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/328.png",
+      "idleSource": null,
+      "sha256": "406b23ce77e1f48035b8384dafe11290cc7e1afd582fa6476ba22fbaba507e48"
+    },
+    "332": {
+      "name": "Cacturne",
+      "nameKo": "밤선인",
+      "static": "332.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/332.png",
+      "idleSource": null,
+      "sha256": "b7650abd4e3859a4f13eba1428aff70a307a8c031763a4225bb1befbf464ee80"
+    },
+    "335": {
+      "name": "Zangoose",
+      "nameKo": "쟝고",
+      "static": "335.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/335.png",
+      "idleSource": null,
+      "sha256": "ac94d21de8f14c660be6134ab9eed0958ce60ea3143da890cd40516983b38f35"
+    },
+    "343": {
+      "name": "Baltoy",
+      "nameKo": "오뚝군",
+      "static": "343.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/343.png",
+      "idleSource": null,
+      "sha256": "febe7bb8a5e9e3cb5102193ae968e3d634ec7688247a70dca4a6f3eb53a3f245"
+    },
+    "353": {
+      "name": "Shuppet",
+      "nameKo": "어둠대신",
+      "static": "353.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/353.png",
+      "idleSource": null,
+      "sha256": "66015723075cc69f44560b66acf6704b906f9fe2017c7f737ff9734ba09d0b41"
+    },
+    "354": {
+      "name": "Banette",
+      "nameKo": "다크펫",
+      "static": "354.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/354.png",
+      "idleSource": null,
+      "sha256": "0018264cbe0477197fb830ac0b5ef09396998873028d6beada3227513f4d5222"
+    },
+    "355": {
+      "name": "Duskull",
+      "nameKo": "해골몽",
+      "static": "355.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/355.png",
+      "idleSource": null,
+      "sha256": "53f5dbac8984aaefd8377f9c22a79304358b72d5db394d9ef5b9c9df2b1e6a81"
+    },
+    "356": {
+      "name": "Dusclops",
+      "nameKo": "미라몽",
+      "static": "356.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/356.png",
+      "idleSource": null,
+      "sha256": "32944af995b7cf8209f5085925a6e444ef8bd0861160ceb45ed6ea11a352c9eb"
+    },
+    "359": {
+      "name": "Absol",
+      "nameKo": "앱솔",
+      "static": "359.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/359.png",
+      "idleSource": null,
+      "sha256": "d43a05e541c66debadc079f0ab1ff8f13320c777839f93a3a54f56873e584a9b"
+    },
+    "366": {
+      "name": "Clamperl",
+      "nameKo": "진주몽",
+      "static": "366.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/366.png",
+      "idleSource": null,
+      "sha256": "91a1c4352363d0739c3c830ec4c00b8795cc718b288fe10a7d8d671b3d4d3659"
+    },
+    "376": {
+      "name": "Metagross",
+      "nameKo": "메타그로스",
+      "static": "376.png",
+      "idle": "376.gif",
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/376.png",
+      "idleSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/376.gif",
+      "sha256": "ee30389a224fe243bc20ae8647d51b9e8d7b98cb0a0b320504d2de4d7bbdff8c"
+    },
+    "384": {
+      "name": "Rayquaza",
+      "nameKo": "레쿠쟈",
+      "static": "384.png",
+      "idle": "384.gif",
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/384.png",
+      "idleSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/384.gif",
+      "sha256": "d76391ef2e636f97285d9bff03574f0973ffe5e2d0b5ba819129dd887630fc58"
+    },
+    "385": {
+      "name": "Jirachi",
+      "nameKo": "지라치",
+      "static": "385.png",
+      "idle": "385.gif",
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/385.png",
+      "idleSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/385.gif",
+      "sha256": "122f738329ee5d2e770aa6f313ccf2c58610d216dd85284cb9986105d4755b7b"
+    },
+    "387": {
+      "name": "Turtwig",
+      "nameKo": "모부기",
+      "static": "387.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/387.png",
+      "idleSource": null,
+      "sha256": "eb77c6380a6730fe1073dc33f4f39ce62813f4d115cf343b8f91389e4eeedc21"
+    },
+    "392": {
+      "name": "Infernape",
+      "nameKo": "초염몽",
+      "static": "392.png",
+      "idle": "392.gif",
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/392.png",
+      "idleSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/392.gif",
+      "sha256": "75df856eb07327b99b03947abb3807e474e3bf9b5978fbcecabe2956abc847ed"
+    },
+    "393": {
+      "name": "Piplup",
+      "nameKo": "팽도리",
+      "static": "393.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/393.png",
+      "idleSource": null,
+      "sha256": "e8b21791e773171eb36ea36a64e1ad9058fe5726f20d29c02dc8e1bbd4ba388d"
+    },
+    "403": {
+      "name": "Shinx",
+      "nameKo": "꼬링크",
+      "static": "403.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/403.png",
+      "idleSource": null,
+      "sha256": "8dd9a2a150e2dbd924400efb57c49c48767af38d7d9cb5fd312f05d78bd8bc5b"
+    },
+    "404": {
+      "name": "Luxio",
+      "nameKo": "럭시오",
+      "static": "404.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/404.png",
+      "idleSource": null,
+      "sha256": "620bf09b6caf791bd6fff546da4cf63213c07897be31584155e0ea6a6d3345d8"
+    },
+    "423": {
+      "name": "Gastrodon",
+      "nameKo": "트리토돈",
+      "static": "423.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/423.png",
+      "idleSource": null,
+      "sha256": "38a85d0bd8a9e23a880624770c6ffa5f71424ed94fb8fc4cd640881f59c2a08e"
+    },
+    "425": {
+      "name": "Drifloon",
+      "nameKo": "흔들풍손",
+      "static": "425.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/425.png",
+      "idleSource": null,
+      "sha256": "b12cdaf12b0021d4dba7ae26d623b938fdf1fa5c82156aac72cf902dd97099c8"
+    },
+    "426": {
+      "name": "Drifblim",
+      "nameKo": "둥실라이드",
+      "static": "426.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/426.png",
+      "idleSource": null,
+      "sha256": "a3b14f52c52ad9bbbbfd1d02c97c16cb5c222090d5adb11fe70e8195d804286c"
+    },
+    "429": {
+      "name": "Mismagius",
+      "nameKo": "무우마직",
+      "static": "429.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/429.png",
+      "idleSource": null,
+      "sha256": "c878485a16d3cb37ccb892f082c1235fac46d4d347a96b6cb56f313c0f7ed71d"
+    },
+    "430": {
+      "name": "Honchkrow",
+      "nameKo": "돈크로우",
+      "static": "430.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/430.png",
+      "idleSource": null,
+      "sha256": "469a38d87e76a83109f03d89907ed933fbe1cbe11c5ee405cb0b5493b619e7e8"
+    },
+    "434": {
+      "name": "Stunky",
+      "nameKo": "스컹뿡",
+      "static": "434.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/434.png",
+      "idleSource": null,
+      "sha256": "c9ecec431544bee17c442cd5fe65d98dfc137fed9b73843a187dd4ba50339f07"
+    },
+    "435": {
+      "name": "Skuntank",
+      "nameKo": "스컹탱크",
+      "static": "435.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/435.png",
+      "idleSource": null,
+      "sha256": "fee9547754a092af331e47c731c1128e40a76b269e32a4eb454c9e52d99c13b0"
+    },
+    "442": {
+      "name": "Spiritomb",
+      "nameKo": "화강돌",
+      "static": "442.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/442.png",
+      "idleSource": null,
+      "sha256": "1d22dccb4d46b1591232a503407a53aa9023dce196b8e7b8d898c3e935d3065e"
+    },
+    "445": {
+      "name": "Garchomp",
+      "nameKo": "한카리아스",
+      "static": "445.png",
+      "idle": "445.gif",
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/445.png",
+      "idleSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/445.gif",
+      "sha256": "4f5491ca2cf8db922f1bc3e960f9b83c7034d6b8c574674a6a5b69339d114252"
+    },
+    "447": {
+      "name": "Riolu",
+      "nameKo": "리오르",
+      "static": "447.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/447.png",
+      "idleSource": null,
+      "sha256": "33b53a49e3ed4f818967532fcf55fc852c2fdcbf35e03675f9aff0c61d4006c2"
+    },
+    "448": {
+      "name": "Lucario",
+      "nameKo": "루카리오",
+      "static": "448.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/448.png",
+      "idleSource": null,
+      "sha256": "4c034a663b3110274605a3d3b8d212fe1380c1d147998e6c0e181382424454d3"
+    },
+    "451": {
+      "name": "Skorupi",
+      "nameKo": "스콜피",
+      "static": "451.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/451.png",
+      "idleSource": null,
+      "sha256": "2d34cf07262e23f798d812d9a619734026dc1d94d16d66143b885af71dd2dc08"
+    },
+    "453": {
+      "name": "Croagunk",
+      "nameKo": "삐딱구리",
+      "static": "453.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/453.png",
+      "idleSource": null,
+      "sha256": "706f10ef2832d706656545d81c18fc15c5a62cdc97eb701aec62a0ce9d61dfe7"
+    },
+    "461": {
+      "name": "Weavile",
+      "nameKo": "포푸니라",
+      "static": "461.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/461.png",
+      "idleSource": null,
+      "sha256": "7c1b433ee268932c1d7b7e6f9058a16d2eec3c2684b1c7573101eae3bc7a3b9d"
+    },
+    "471": {
+      "name": "Glaceon",
+      "nameKo": "글레이시아",
+      "static": "471.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/471.png",
+      "idleSource": null,
+      "sha256": "62519e474c7f54fbbfaaecae1a7f372f1d6335bb8ff586ad3790534af5fc6f88"
+    },
+    "477": {
+      "name": "Dusknoir",
+      "nameKo": "야느와르몽",
+      "static": "477.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/477.png",
+      "idleSource": null,
+      "sha256": "cb45c57b436b9e2606316e6bfabbea4343d941b49c9e579645e49ada562c1a87"
+    },
+    "478": {
+      "name": "Froslass",
+      "nameKo": "눈여아",
+      "static": "478.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/478.png",
+      "idleSource": null,
+      "sha256": "94ee9340bc58dc63324e50162525d058b4b0bf21194c1d33b40b87d5f0265821"
+    },
+    "479": {
+      "name": "Rotom",
+      "nameKo": "로토무",
+      "static": "479.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/479.png",
+      "idleSource": null,
+      "sha256": "26c7ffc15425f4ba1ffe927c934dd0057ec5a6b0d57152c7c3f44f9b2c15f376"
+    },
+    "482": {
+      "name": "Azelf",
+      "nameKo": "아그놈",
+      "static": "482.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/482.png",
+      "idleSource": null,
+      "sha256": "81d1e4de3215f10182f5b5c0aa331734e5f0c91e12a6e7dd9dd9db86983c97f4"
+    },
+    "484": {
+      "name": "Palkia",
+      "nameKo": "펄기아",
+      "static": "484.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/484.png",
+      "idleSource": null,
+      "sha256": "ce84502f3a66f35c713b608758cc2e8727dc78d3b9cbdc627738581f739aa3e4"
+    },
+    "487": {
+      "name": "Giratina",
+      "nameKo": "기라티나",
+      "static": "487.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/487.png",
+      "idleSource": null,
+      "sha256": "c1792faf96fe1f5abbc832522b17c18f4177534104bc9e427de10a08f247f825"
+    },
+    "491": {
+      "name": "Darkrai",
+      "nameKo": "다크라이",
+      "static": "491.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/491.png",
+      "idleSource": null,
+      "sha256": "8b489e079fea987344be86cd3781ae05f10d83bc083d4bcfb646a31e3f712779"
+    },
+    "493": {
+      "name": "Arceus",
+      "nameKo": "아르세우스",
+      "static": "493.png",
+      "idle": "493.gif",
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/493.png",
+      "idleSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/493.gif",
+      "sha256": "d9ecc302f5c77a5fed786d6a448d93526971aca80f19623d4b2b757921dae53f"
+    },
+    "494": {
+      "name": "Victini",
+      "nameKo": "비크티니",
+      "static": "494.png",
+      "idle": "494.gif",
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/494.png",
+      "idleSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/494.gif",
+      "sha256": "4783b955a912ca42e35c458a490fda36a523c2f29abd01b0784cf787df3afacd"
+    },
+    "495": {
+      "name": "Snivy",
+      "nameKo": "주리비얀",
+      "static": "495.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/495.png",
+      "idleSource": null,
+      "sha256": "0c1002d91ca4d25f584f75e908ed3eadd827972acb362e86656781997c146e59"
+    },
+    "497": {
+      "name": "Serperior",
+      "nameKo": "샤로다",
+      "static": "497.png",
+      "idle": "497.gif",
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/497.png",
+      "idleSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/497.gif",
+      "sha256": "4e8c47213c024c806a9ac747e797ccf4f95844a4906893418f5a68587706d1ca"
+    },
+    "509": {
+      "name": "Purrloin",
+      "nameKo": "쌔비냥",
+      "static": "509.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/509.png",
+      "idleSource": null,
+      "sha256": "f66a12ce8082c7055e5f959b6b31b03112de99c47e7fb4a2c50333ebd78cebb9"
+    },
+    "510": {
+      "name": "Liepard",
+      "nameKo": "레파르다스",
+      "static": "510.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/510.png",
+      "idleSource": null,
+      "sha256": "6c01dc5c9bc592db07dd79183107803020d31ad7b9f0d0a5b3c756f0817d6bc3"
+    },
+    "523": {
+      "name": "Zebstrika",
+      "nameKo": "제브라이카",
+      "static": "523.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/523.png",
+      "idleSource": null,
+      "sha256": "cbf28c2dfd7ff39ba522b9573a379c6742d7b8165cade5e2322d1a9bd6fb336d"
+    },
+    "538": {
+      "name": "Throh",
+      "nameKo": "던지미",
+      "static": "538.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/538.png",
+      "idleSource": null,
+      "sha256": "ba71811ce91bc5b4a19644f1c7c24b3bcd4e3cc3db9e5c737b8701813dcd9f84"
+    },
+    "543": {
+      "name": "Venipede",
+      "nameKo": "마디네",
+      "static": "543.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/543.png",
+      "idleSource": null,
+      "sha256": "fb9d31c3ace48b83369cb4678edd1ef64d47ff44f6d4e935a74676314efa2edc"
+    },
+    "545": {
+      "name": "Scolipede",
+      "nameKo": "펜드라",
+      "static": "545.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/545.png",
+      "idleSource": null,
+      "sha256": "861f99390e6ee0686b5ce5c5d3fb9fc1eee5bf8c455fe5db7ac5c1aae2a6f00d"
+    },
+    "551": {
+      "name": "Sandile",
+      "nameKo": "깜눈크",
+      "static": "551.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/551.png",
+      "idleSource": null,
+      "sha256": "73d2c8377ddfb3ae01c84e03268918774bbb1b1d77d63ea972fe2806f2c7d0ee"
+    },
+    "552": {
+      "name": "Krokorok",
+      "nameKo": "악비르",
+      "static": "552.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/552.png",
+      "idleSource": null,
+      "sha256": "e92d9212637b36a4e631c4e686d2fd1b22540aedf940329769238105b2736e91"
+    },
+    "553": {
+      "name": "Krookodile",
+      "nameKo": "악비아르",
+      "static": "553.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/553.png",
+      "idleSource": null,
+      "sha256": "09433b50c629eba740f0565582e7ed088710d58ae31607d1361e989e3b8c656c"
+    },
+    "559": {
+      "name": "Scraggy",
+      "nameKo": "곤율랭",
+      "static": "559.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/559.png",
+      "idleSource": null,
+      "sha256": "e4f829d3ee91f49637fc51125e47932bec6bc8db55193fb57dd544af6e66bb23"
+    },
+    "560": {
+      "name": "Scrafty",
+      "nameKo": "곤율거니",
+      "static": "560.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/560.png",
+      "idleSource": null,
+      "sha256": "80282548c965100cd57d3f3744ffbd6b2ca439be539f94af893c204c5701b2e8"
+    },
+    "562": {
+      "name": "Yamask",
+      "nameKo": "데스마스",
+      "static": "562.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/562.png",
+      "idleSource": null,
+      "sha256": "831a86282399c635930e0d7de9496988fca5cbd1085c4fd5ab762badcafde7d2"
+    },
+    "563": {
+      "name": "Cofagrigus",
+      "nameKo": "데스니칸",
+      "static": "563.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/563.png",
+      "idleSource": null,
+      "sha256": "afb590b2127b7b3b8ce4229bf949818d7c25f528c7bafb0408b24b65d2fe9e07"
+    },
+    "569": {
+      "name": "Garbodor",
+      "nameKo": "더스트나",
+      "static": "569.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/569.png",
+      "idleSource": null,
+      "sha256": "bc29734fe76c0efc624508dc74c9115aaaa601d3ded41ab5590afaff0f594203"
+    },
+    "570": {
+      "name": "Zorua",
+      "nameKo": "조로아",
+      "static": "570.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/570.png",
+      "idleSource": null,
+      "sha256": "6b8cab14058f494b1bd833aafd7f272e9662b46052bd33a286d6610bc372acc0"
+    },
+    "571": {
+      "name": "Zoroark",
+      "nameKo": "조로아크",
+      "static": "571.png",
+      "idle": "571.gif",
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/571.png",
+      "idleSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/571.gif",
+      "sha256": "5710367059e4ecaaf0a554e70cfc9bf9fe0def461767803c012e7cdf771ed7ca"
+    },
+    "590": {
+      "name": "Foongus",
+      "nameKo": "깜놀버슬",
+      "static": "590.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/590.png",
+      "idleSource": null,
+      "sha256": "2188631388026039c275801901c28de74fe9d67e85b981bf4682429c063ef8ab"
+    },
+    "591": {
+      "name": "Amoonguss",
+      "nameKo": "뽀록나",
+      "static": "591.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/591.png",
+      "idleSource": null,
+      "sha256": "d7d83891374147ba0f68a8fb5e79d9843dd211a965c31fcb057182ec540e2966"
+    },
+    "592": {
+      "name": "Frillish",
+      "nameKo": "탱그릴",
+      "static": "592.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/592.png",
+      "idleSource": null,
+      "sha256": "c995af264c4f377f99807e1a576516ed21fb4c4daf3f44fbf0163cc1f4b933e4"
+    },
+    "593": {
+      "name": "Jellicent",
+      "nameKo": "탱탱겔",
+      "static": "593.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/593.png",
+      "idleSource": null,
+      "sha256": "2e5eda13f2014cdae3111ca5a34c834eb6a1e874fa67d57ba8bfc006b020886a"
+    },
+    "607": {
+      "name": "Litwick",
+      "nameKo": "불켜미",
+      "static": "607.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/607.png",
+      "idleSource": null,
+      "sha256": "0b6b2fde34de5c45c05a834dbf861b8ea2b0225e95c3768ce02d3bb71ea56854"
+    },
+    "608": {
+      "name": "Lampent",
+      "nameKo": "램프라",
+      "static": "608.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/608.png",
+      "idleSource": null,
+      "sha256": "89a429af3aad6342f95014a433d86e8b04919e296f98e164d56726adb8b81a4c"
+    },
+    "609": {
+      "name": "Chandelure",
+      "nameKo": "샹델라",
+      "static": "609.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/609.png",
+      "idleSource": null,
+      "sha256": "f9c7fbe8eb540c40ae985c2520f9f75021d7f0a7af5ec4c330ee0611ec8bcfbb"
+    },
+    "622": {
+      "name": "Golett",
+      "nameKo": "골비람",
+      "static": "622.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/622.png",
+      "idleSource": null,
+      "sha256": "805b7db6ffecd279f1b11c876d6c4ce3cd1562e7217bc1854a991d921419557d"
+    },
+    "624": {
+      "name": "Pawniard",
+      "nameKo": "자망칼",
+      "static": "624.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/624.png",
+      "idleSource": null,
+      "sha256": "e1bfab07974f62533b802d2aad1ed988d1a5faa849e9273a16d3f308781677b3"
+    },
+    "625": {
+      "name": "Bisharp",
+      "nameKo": "절각참",
+      "static": "625.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/625.png",
+      "idleSource": null,
+      "sha256": "756be5b2f61edcfa6f5fbbed20cff1844549b103dcb0007eb1952e15c05d3264"
+    },
+    "629": {
+      "name": "Vullaby",
+      "nameKo": "벌차이",
+      "static": "629.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/629.png",
+      "idleSource": null,
+      "sha256": "e6d8a80e936eba1aaeddab5a272479d58c046bdffdd982598aac2394c10978a2"
+    },
+    "630": {
+      "name": "Mandibuzz",
+      "nameKo": "버랜지나",
+      "static": "630.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/630.png",
+      "idleSource": null,
+      "sha256": "ad354b084a216192560d2712b84275faca03298a9380e4b6aeaffb230397050b"
+    },
+    "632": {
+      "name": "Durant",
+      "nameKo": "아이앤트",
+      "static": "632.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/632.png",
+      "idleSource": null,
+      "sha256": "89cfd64a23741d7ae0c86b855bbed6152231a1937f36d6296c84872a80d5ae0c"
+    },
+    "633": {
+      "name": "Deino",
+      "nameKo": "모노두",
+      "static": "633.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/633.png",
+      "idleSource": null,
+      "sha256": "dbf7f9700c1b8815bf9c9426f3be5d7c51cc7b937b53c9f3e7f305553891937b"
+    },
+    "634": {
+      "name": "Zweilous",
+      "nameKo": "디헤드",
+      "static": "634.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/634.png",
+      "idleSource": null,
+      "sha256": "3df74faa079ff6b7445a601c57b2b0639fdc1fed5760e97204de22a5945d6d25"
+    },
+    "635": {
+      "name": "Hydreigon",
+      "nameKo": "삼삼드래",
+      "static": "635.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/635.png",
+      "idleSource": null,
+      "sha256": "ef251a0be90d1fd4266206f02d69b14b82152efef78daa8f37c1c2c138bc0b5c"
+    },
+    "643": {
+      "name": "Reshiram",
+      "nameKo": "레시라무",
+      "static": "643.png",
+      "idle": "643.gif",
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/643.png",
+      "idleSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/643.gif",
+      "sha256": "71460cd97c64f1e537dbc34cec825f70e274acffee916477a04db7e6ac0da72e"
+    },
+    "644": {
+      "name": "Zekrom",
+      "nameKo": "제크로무",
+      "static": "644.png",
+      "idle": "644.gif",
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/644.png",
+      "idleSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/644.gif",
+      "sha256": "ce330e42c9e934d6a51a48ac4919b7271976673af916c404d4b04c6c2e92059b"
+    },
+    "653": {
+      "name": "Fennekin",
+      "nameKo": "푸호꼬",
+      "static": "653.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/653.png",
+      "idleSource": null,
+      "sha256": "469744ae65f0868e9ad046637fdbeb9759267b706fa1ca8f65697cc3598c0050"
+    },
+    "656": {
+      "name": "Froakie",
+      "nameKo": "개구마르",
+      "static": "656.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/656.png",
+      "idleSource": null,
+      "sha256": "e64ca71d4ee83869de01f9c9e063425c330d5985150fd0bb8031028d12792639"
+    },
+    "658": {
+      "name": "Greninja",
+      "nameKo": "개굴닌자",
+      "static": "658.png",
+      "idle": "658.gif",
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/658.png",
+      "idleSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/658.gif",
+      "sha256": "8a360e99f0c4e493964883698065a913aea672a8267eaad5fc8954dbf57bbbf4"
+    },
+    "673": {
+      "name": "Gogoat",
+      "nameKo": "고고트",
+      "static": "673.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/673.png",
+      "idleSource": null,
+      "sha256": "0155d0ad98e882c3ef3a5239d0f4719a1e6873fc25649cc6933ed00a35f8afba"
+    },
+    "674": {
+      "name": "Pancham",
+      "nameKo": "판짱",
+      "static": "674.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/674.png",
+      "idleSource": null,
+      "sha256": "512c5058043188d9c445d64240c851189c05588789bc3558a4851e2031e13eae"
+    },
+    "675": {
+      "name": "Pangoro",
+      "nameKo": "부란다",
+      "static": "675.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/675.png",
+      "idleSource": null,
+      "sha256": "c22d7b5b73056caf826a2a7e77bae19153db6ad436a750766cf8ddf95349f458"
+    },
+    "679": {
+      "name": "Honedge",
+      "nameKo": "단칼빙",
+      "static": "679.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/679.png",
+      "idleSource": null,
+      "sha256": "98f77507fdef7b34bbd41dc9e17553edfedfe3137f513461dff807a2faebbdd4"
+    },
+    "680": {
+      "name": "Doublade",
+      "nameKo": "쌍검킬",
+      "static": "680.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/680.png",
+      "idleSource": null,
+      "sha256": "8d32c8887801476d8a42520b895194221544ceb28778225f44201b488a2e02f0"
+    },
+    "681": {
+      "name": "Aegislash",
+      "nameKo": "킬가르도",
+      "static": "681.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/681.png",
+      "idleSource": null,
+      "sha256": "dbf9f155a492e3894f6a8b41e47f2aef23f2bafb30ceff57a6cf17ad8d1d7b85"
+    },
+    "686": {
+      "name": "Inkay",
+      "nameKo": "오케이징",
+      "static": "686.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/686.png",
+      "idleSource": null,
+      "sha256": "16aa5bcc3333057c8eb52820289ad22dc6827b242bfd4b231b48492c7e2d362b"
+    },
+    "687": {
+      "name": "Malamar",
+      "nameKo": "칼라마네로",
+      "static": "687.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/687.png",
+      "idleSource": null,
+      "sha256": "26c6e0fb32a8931dc99033c916922cbd1acc91339f5ef1b8abb6232ca5878e7f"
+    },
+    "691": {
+      "name": "Dragalge",
+      "nameKo": "드래캄",
+      "static": "691.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/691.png",
+      "idleSource": null,
+      "sha256": "957b1da3aecad5198d001254504d5dcade5fd1f103a282d9486a8bc7503fe585"
+    },
+    "700": {
+      "name": "Sylveon",
+      "nameKo": "님피아",
+      "static": "700.png",
+      "idle": "700.gif",
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/700.png",
+      "idleSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/700.gif",
+      "sha256": "8aebdf0ee69b7ae0312836454e02a5a1cd7debfab31cd6b47be8eb095fd2fefe"
+    },
+    "704": {
+      "name": "Goomy",
+      "nameKo": "미끄메라",
+      "static": "704.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/704.png",
+      "idleSource": null,
+      "sha256": "5b2f1a9625f9d1d589c0689ef935b990079394a2ccf9239d221bdde20c62e075"
+    },
+    "706": {
+      "name": "Goodra",
+      "nameKo": "미끄래곤",
+      "static": "706.png",
+      "idle": "706.gif",
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/706.png",
+      "idleSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/706.gif",
+      "sha256": "258798c8392d2753caddc78e9ef1c9c78fb12180074381e90b3c9528d68ef96d"
+    },
+    "709": {
+      "name": "Trevenant",
+      "nameKo": "대로트",
+      "static": "709.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/709.png",
+      "idleSource": null,
+      "sha256": "3c49454570d5294741291ff946c80d2cbe82a03baebd1d23ad354b0eb5a1aef9"
+    },
+    "717": {
+      "name": "Yveltal",
+      "nameKo": "이벨타르",
+      "static": "717.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/717.png",
+      "idleSource": null,
+      "sha256": "686c4e67a20e2a1775ebf933da686df5fe3904422e8534e75d735c8debd62fd0"
+    },
+    "720": {
+      "name": "Hoopa",
+      "nameKo": "후파",
+      "static": "720.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/720.png",
+      "idleSource": null,
+      "sha256": "a35bd80a143828e92201ef9f15d3ec5fbf8b95cc3630ec8614cce6fa888ae3bc"
+    },
+    "724": {
+      "name": "Decidueye",
+      "nameKo": "모크나이퍼",
+      "static": "724.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/724.png",
+      "idleSource": null,
+      "sha256": "3d91c8a40d9f732de039c0a87b0eb29e78aa0a549354bde3cb39281fe8712532"
+    },
+    "725": {
+      "name": "Litten",
+      "nameKo": "냐오불",
+      "static": "725.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/725.png",
+      "idleSource": null,
+      "sha256": "44470618bb69a9c2a72538765a5c4773d0cb478336c7f067e769033d71e15003"
+    },
+    "727": {
+      "name": "Incineroar",
+      "nameKo": "어흥염",
+      "static": "727.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/727.png",
+      "idleSource": null,
+      "sha256": "3d048e810fb55d3e6bb1d1a480dfa77e629d518368290a910a0e4d424269d92c"
+    },
+    "730": {
+      "name": "Primarina",
+      "nameKo": "누리레느",
+      "static": "730.png",
+      "idle": "730.gif",
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/730.png",
+      "idleSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/730.gif",
+      "sha256": "3d154c23d5175270a607af0fe56bfd527806f92ec392e126a2c39c24cd38a1a4"
+    },
+    "745": {
+      "name": "Lycanroc",
+      "nameKo": "루가루암",
+      "static": "745.png",
+      "idle": "745.gif",
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/745.png",
+      "idleSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/745.gif",
+      "sha256": "b88464d28ad1142456719feaccd91d1de1ae284efebe697a5a9ebb645d929bd2"
+    },
+    "747": {
+      "name": "Mareanie",
+      "nameKo": "시마사리",
+      "static": "747.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/747.png",
+      "idleSource": null,
+      "sha256": "32a7a84a3f51e9280d59ebc9afe0dd749dd36cc8e9d98feeb89266f62f07dd28"
+    },
+    "757": {
+      "name": "Salandit",
+      "nameKo": "야도뇽",
+      "static": "757.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/757.png",
+      "idleSource": null,
+      "sha256": "fc9dea8b9bdd8ef65b457d5a76204f7f8b283fbc1e609c319362206b119ecbab"
+    },
+    "758": {
+      "name": "Salazzle",
+      "nameKo": "염뉴트",
+      "static": "758.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/758.png",
+      "idleSource": null,
+      "sha256": "4507c883a220fecbc2f5bb70a4bc1627b6a30e8a37b49888952f46a3d10e8e26"
+    },
+    "768": {
+      "name": "Golisopod",
+      "nameKo": "갑주무사",
+      "static": "768.png",
+      "idle": "768.gif",
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/768.png",
+      "idleSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/768.gif",
+      "sha256": "bcb73ef6282ded67a00788f269f8dd30f2bffb3c20740f08e8e159ceba0be6f4"
+    },
+    "769": {
+      "name": "Sandygast",
+      "nameKo": "모래꿍",
+      "static": "769.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/769.png",
+      "idleSource": null,
+      "sha256": "8209ba8fb786c9b73cd845d672211956abedb9d0504634747ed547b576a13811"
+    },
+    "770": {
+      "name": "Palossand",
+      "nameKo": "모래성이당",
+      "static": "770.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/770.png",
+      "idleSource": null,
+      "sha256": "67ae27033db0227da2dd54b5aae48baa06a2f9cb07b41e8d1c6a24aea77a9b9b"
+    },
+    "778": {
+      "name": "Mimikyu",
+      "nameKo": "따라큐",
+      "static": "778.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/778.png",
+      "idleSource": null,
+      "sha256": "af053bf501737fce44fac161a76cd41d5fd7cc444ef3340e6631051d4504df3b"
+    },
+    "781": {
+      "name": "Dhelmise",
+      "nameKo": "타타륜",
+      "static": "781.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/781.png",
+      "idleSource": null,
+      "sha256": "159bb2b0a620d0f13eb58234dfc1685a33f26e35d81e4a68be434f7ff4769041"
+    },
+    "792": {
+      "name": "Lunala",
+      "nameKo": "루나아라",
+      "static": "792.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/792.png",
+      "idleSource": null,
+      "sha256": "d6d0dd40fc208ac256787be0ed6aac8edfabd5f673d8f6036e9533ed70281150"
+    },
+    "793": {
+      "name": "Nihilego",
+      "nameKo": "텅비드",
+      "static": "793.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/793.png",
+      "idleSource": null,
+      "sha256": "c131fe287459c57fb40564fd5f5dc7b7dcb1c83fb1df0c6108a3f0f719e1d6a2"
+    },
+    "799": {
+      "name": "Guzzlord",
+      "nameKo": "악식킹",
+      "static": "799.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/799.png",
+      "idleSource": null,
+      "sha256": "1f02eee189a062be6ff349cf0ca4860f6de0b59d989a9f73ceda4b52da750092"
+    },
+    "802": {
+      "name": "Marshadow",
+      "nameKo": "마샤도",
+      "static": "802.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/802.png",
+      "idleSource": null,
+      "sha256": "8b307608e33b6a111e2d0b30b682777f547f217f5b198fdaf6bea416b8dee7ef"
+    },
+    "803": {
+      "name": "Poipole",
+      "nameKo": "베베놈",
+      "static": "803.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/803.png",
+      "idleSource": null,
+      "sha256": "b87027970e15ffc9d2508b9968d05914601667405da7cd790f8a51c5e5efcc70"
+    },
+    "804": {
+      "name": "Naganadel",
+      "nameKo": "아고용",
+      "static": "804.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/804.png",
+      "idleSource": null,
+      "sha256": "0601cc7e9135b5ed8166a37147e02d3eda4fe38270427fbea063c442c1ad4066"
+    },
+    "806": {
+      "name": "Blacephalon",
+      "nameKo": "두파팡",
+      "static": "806.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/806.png",
+      "idleSource": null,
+      "sha256": "0b7bf378cf4212d2dafd2595172e51d7fa516dbdfc18f8123762027b4c6a54af"
+    },
+    "807": {
+      "name": "Zeraora",
+      "nameKo": "제라오라",
+      "static": "807.png",
+      "idle": "807.gif",
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/807.png",
+      "idleSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/807.gif",
+      "sha256": "7d7ef8c8069652bc689e42fefec045254655bdafd2024dc396cd50a34e0f313f"
+    },
+    "813": {
+      "name": "Scorbunny",
+      "nameKo": "염버니",
+      "static": "813.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/813.png",
+      "idleSource": null,
+      "sha256": "9c21e6e5777f0bb4e0d0ac16340210bfb3a53a0751cf880653d0286568f9824d"
+    },
+    "815": {
+      "name": "Cinderace",
+      "nameKo": "에이스번",
+      "static": "815.png",
+      "idle": "815.gif",
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/815.png",
+      "idleSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/815.gif",
+      "sha256": "ec5dbe1e3c82f690c47bf039853ba132eb1b7ec854b78d0339abb55a9f70ffe3"
+    },
+    "816": {
+      "name": "Sobble",
+      "nameKo": "울머기",
+      "static": "816.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/816.png",
+      "idleSource": null,
+      "sha256": "d8674b5d561b75274ced9961dae51f2f4900f4ffa0cc1bb1caef000d66fde0cf"
+    },
+    "820": {
+      "name": "Greedent",
+      "nameKo": "요씽리스",
+      "static": "820.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/820.png",
+      "idleSource": null,
+      "sha256": "89466d8dd353343d4ea92afcff39f8930e4a499c405cbad601aebc50f178fb94"
+    },
+    "827": {
+      "name": "Nickit",
+      "nameKo": "훔처우",
+      "static": "827.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/827.png",
+      "idleSource": null,
+      "sha256": "c55c9968df37445fbe9590025a08c3942cbb7be7756eafb206d8ceff17381891"
+    },
+    "828": {
+      "name": "Thievul",
+      "nameKo": "폭슬라이",
+      "static": "828.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/828.png",
+      "idleSource": null,
+      "sha256": "9dc9248a1a38f15e84ba7b401e643a0cea4802da16d62e5e7377b012e912a984"
+    },
+    "831": {
+      "name": "Wooloo",
+      "nameKo": "우르",
+      "static": "831.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/831.png",
+      "idleSource": null,
+      "sha256": "651d8be698a4e21ca13af0f7faa5d5b20afbf01a8473db8c344248715228c4c8"
+    },
+    "835": {
+      "name": "Yamper",
+      "nameKo": "멍파치",
+      "static": "835.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/835.png",
+      "idleSource": null,
+      "sha256": "84b526443e77d1630827299ae7174ed1cd811676fc801f9b82d11933ef2b75d9"
+    },
+    "848": {
+      "name": "Toxel",
+      "nameKo": "일레즌",
+      "static": "848.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/848.png",
+      "idleSource": null,
+      "sha256": "2ee4945213709e658551d8e1d51d31cb968f67312964f38aa96a5d0bc9dbbc05"
+    },
+    "849": {
+      "name": "Toxtricity",
+      "nameKo": "스트린더",
+      "static": "849.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/849.png",
+      "idleSource": null,
+      "sha256": "875872dc21d17704c50b5560229a785cff6ce39adcb2b805c2a59eb21f6b68df"
+    },
+    "852": {
+      "name": "Clobbopus",
+      "nameKo": "때때무노",
+      "static": "852.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/852.png",
+      "idleSource": null,
+      "sha256": "ffa85f7466a0d7bedbb891410ae7a32eaa247089084f5a40a4601079cd917510"
+    },
+    "854": {
+      "name": "Sinistea",
+      "nameKo": "데인차",
+      "static": "854.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/854.png",
+      "idleSource": null,
+      "sha256": "49958c45b114c447cf75e495cccca245c8b715247c9e58b0864213aeb872e10f"
+    },
+    "859": {
+      "name": "Impidimp",
+      "nameKo": "메롱꿍",
+      "static": "859.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/859.png",
+      "idleSource": null,
+      "sha256": "53ea634ea373417007a065ff00888673de894d845726398c7388372e42aebf50"
+    },
+    "860": {
+      "name": "Morgrem",
+      "nameKo": "쏘겨모",
+      "static": "860.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/860.png",
+      "idleSource": null,
+      "sha256": "90fd7dbeac5bd500465fe280ef64199dabd26ce1a17fc05e8ec3b796d6d12765"
+    },
+    "862": {
+      "name": "Obstagoon",
+      "nameKo": "가로막구리",
+      "static": "862.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/862.png",
+      "idleSource": null,
+      "sha256": "110e9ebfd397c8058928cd29097a91874d9b8cfdf5e00c77fbb3be24b44a5b7a"
+    },
+    "864": {
+      "name": "Cursola",
+      "nameKo": "산호르곤",
+      "static": "864.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/864.png",
+      "idleSource": null,
+      "sha256": "872185f238ce93d629d401cb843f61adac5c6faa7720ce6082b2573281a68b9e"
+    },
+    "867": {
+      "name": "Runerigus",
+      "nameKo": "데스판",
+      "static": "867.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/867.png",
+      "idleSource": null,
+      "sha256": "9edfcbe619cd3476a9e2a7c8c264d822c7aab5abb92d8e5df0633117d26092da"
+    },
+    "869": {
+      "name": "Alcremie",
+      "nameKo": "마휘핑",
+      "static": "869.png",
+      "idle": "869.gif",
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/869.png",
+      "idleSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/869.gif",
+      "sha256": "40e37989fb3c106d76a25ba53c6063aee133d53b23592c9717d7f6ccbc9e79bd"
+    },
+    "872": {
+      "name": "Snom",
+      "nameKo": "누니머기",
+      "static": "872.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/872.png",
+      "idleSource": null,
+      "sha256": "c088094a5be6a2f805680f733792fce717beb58cd36e95c42de6676e827c8736"
+    },
+    "878": {
+      "name": "Cufant",
+      "nameKo": "끼리동",
+      "static": "878.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/878.png",
+      "idleSource": null,
+      "sha256": "767f25892eddebd340a1eb9c74fa0acc0d0079d5a01d292a65cc8223044dbee0"
+    },
+    "885": {
+      "name": "Dreepy",
+      "nameKo": "드라꼰",
+      "static": "885.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/885.png",
+      "idleSource": null,
+      "sha256": "8862a350d377b7e3b46ebf2c20f7052d14a87f9d336738ba1a620b69045b4cdb"
+    },
+    "886": {
+      "name": "Drakloak",
+      "nameKo": "드래런치",
+      "static": "886.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/886.png",
+      "idleSource": null,
+      "sha256": "70f44b6389f4af5f27a9242dcac623bed9470bd6971cc11e4ca4f7432777bd96"
+    },
+    "887": {
+      "name": "Dragapult",
+      "nameKo": "드래펄트",
+      "static": "887.png",
+      "idle": "887.gif",
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/887.png",
+      "idleSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/887.gif",
+      "sha256": "3c2fd74d355c40f6d77ab552d15d3fd28e183975e76a36fe3b78723dde21c80d"
+    },
+    "888": {
+      "name": "Zacian",
+      "nameKo": "자시안",
+      "static": "888.png",
+      "idle": "888.gif",
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/888.png",
+      "idleSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/888.gif",
+      "sha256": "05d8f468b24f85929b67970b0240b661dc9931f7d1cb6bf64410e2ec232beb17"
+    },
+    "890": {
+      "name": "Eternatus",
+      "nameKo": "무한다이노",
+      "static": "890.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/890.png",
+      "idleSource": null,
+      "sha256": "6fcce2337c3d456db675435a5d37ec09c11a4b62a9ff95d394eab0ee72b53e8b"
+    },
+    "892": {
+      "name": "Urshifu",
+      "nameKo": "우라오스",
+      "static": "892.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/892.png",
+      "idleSource": null,
+      "sha256": "9d75bc4edff47b59a1c3e938e6a45ff63492c2771aa93d0ce01bbc700b220e7e"
+    },
+    "893": {
+      "name": "Zarude",
+      "nameKo": "자루도",
+      "static": "893.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/893.png",
+      "idleSource": null,
+      "sha256": "f3bfb994d04477e42813d60406966a90fdf7ca369e662a49fce0be3259407961"
+    },
+    "896": {
+      "name": "Glastrier",
+      "nameKo": "블리자포스",
+      "static": "896.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/896.png",
+      "idleSource": null,
+      "sha256": "c6224bc47883f10d9d2d2f3c6a27c0aa15110589b3d12ca89f86b5ab74ea15ca"
+    },
+    "902": {
+      "name": "Basculegion",
+      "nameKo": "대쓰여너",
+      "static": "902.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/902.png",
+      "idleSource": null,
+      "sha256": "492e91e3f822a9a36792046cf7570766135931e1ef5b3c14147af277c089c577"
+    },
+    "903": {
+      "name": "Sneasler",
+      "nameKo": "포푸니크",
+      "static": "903.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/903.png",
+      "idleSource": null,
+      "sha256": "58c7f8bdaf798e42363c4d85b14437988e9d37d6c601eb97fd09194b19f4fee1"
+    },
+    "904": {
+      "name": "Overqwil",
+      "nameKo": "장침바루",
+      "static": "904.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/904.png",
+      "idleSource": null,
+      "sha256": "9a814da19c9e6b4bbd54e82824d6a949e262e3da255f8c3d30b414975e4221aa"
+    },
+    "908": {
+      "name": "Meowscarada",
+      "nameKo": "마스카나",
+      "static": "908.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/908.png",
+      "idleSource": null,
+      "sha256": "b1ce74f0ece5edd6abebdbb6ba8f9e7f577269edaa7ef95c03abf1c01054965e"
+    },
+    "911": {
+      "name": "Skeledirge",
+      "nameKo": "라우드본",
+      "static": "911.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/911.png",
+      "idleSource": null,
+      "sha256": "0168224408cd81e67385aa77b819cfbd65ffa054c71c8d6129847d86d7fa16e2"
+    },
+    "912": {
+      "name": "Quaxly",
+      "nameKo": "꾸왁스",
+      "static": "912.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/912.png",
+      "idleSource": null,
+      "sha256": "d88f489311eab50396fb58f37d4263b8afd58e54ac529580b23b9199f5794366"
+    },
+    "920": {
+      "name": "Lokix",
+      "nameKo": "엑스레그",
+      "static": "920.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/920.png",
+      "idleSource": null,
+      "sha256": "cca4d04c9254eabbe41e265f12c3baa515e71fc06928a8b2fee243a131fb1f53"
+    },
+    "943": {
+      "name": "Mabosstiff",
+      "nameKo": "마피티프",
+      "static": "943.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/943.png",
+      "idleSource": null,
+      "sha256": "8622ff1c74b4d05995cd1e3fb68da43fe6663bb0964f1142ffcbf530222eb16d"
+    },
+    "944": {
+      "name": "Shroodle",
+      "nameKo": "땃쭈르",
+      "static": "944.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/944.png",
+      "idleSource": null,
+      "sha256": "f8ba1576b9a932ead50b7674e86aff3cc6288b80c803d17c4dbbb9b917d061dd"
+    },
+    "946": {
+      "name": "Bramblin",
+      "nameKo": "그푸리",
+      "static": "946.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/946.png",
+      "idleSource": null,
+      "sha256": "f92c8e73111c1aff66ba37acd879c761f0fe74cd3bb067efef728b76afe54ebb"
+    },
+    "947": {
+      "name": "Brambleghast",
+      "nameKo": "공푸리",
+      "static": "947.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/947.png",
+      "idleSource": null,
+      "sha256": "7ae8fb21002f8abd428c5bb317f30bec5ea1bec34aa487bbd0ffd08b4f75903a"
+    },
+    "956": {
+      "name": "Espathra",
+      "nameKo": "클레스퍼트라",
+      "static": "956.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/956.png",
+      "idleSource": null,
+      "sha256": "49b569ce1062f573d94a8d580b647704ee11cb88286dcd22d4e10676fedcd53c"
+    },
+    "957": {
+      "name": "Tinkatink",
+      "nameKo": "어리짱",
+      "static": "957.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/957.png",
+      "idleSource": null,
+      "sha256": "c0fb0bf01fc5b1c7eb76e488304da98dd45f7c65689671f310c9be2b4d5932f4"
+    },
+    "962": {
+      "name": "Bombirdier",
+      "nameKo": "떨구새",
+      "static": "962.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/962.png",
+      "idleSource": null,
+      "sha256": "14b614cc7ff2b8ec790e64d29ec1ebbdb00b4570c9065d68b1e88a0c0752b293"
+    },
+    "966": {
+      "name": "Revavroom",
+      "nameKo": "부르르룸",
+      "static": "966.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/966.png",
+      "idleSource": null,
+      "sha256": "e8a5b45e98e27b70026915a9dfe5785c561001e4903874196de33c1f03200c6b"
+    },
+    "969": {
+      "name": "Glimmet",
+      "nameKo": "초롱순",
+      "static": "969.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/969.png",
+      "idleSource": null,
+      "sha256": "f2e9e01016e5eb5c580d66b870c962eb1ba52674a6305f0b56a084154e8b2394"
+    },
+    "970": {
+      "name": "Glimmora",
+      "nameKo": "킬라플로르",
+      "static": "970.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/970.png",
+      "idleSource": null,
+      "sha256": "27f62f1819663315b96228eb77da5d9a37af0806fd8df7b613e2800880b0d9d0"
+    },
+    "972": {
+      "name": "Houndstone",
+      "nameKo": "묘두기",
+      "static": "972.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/972.png",
+      "idleSource": null,
+      "sha256": "1dd0a98ca411aeb21767e7295b3be80f7986e622c63407fe832b9c25c06009b3"
+    },
+    "979": {
+      "name": "Annihilape",
+      "nameKo": "저승갓숭",
+      "static": "979.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/979.png",
+      "idleSource": null,
+      "sha256": "2317b7a0ba639f368dd059da55b80128350b09c3068403dddbcf9ffe0e9dc256"
+    },
+    "983": {
+      "name": "Kingambit",
+      "nameKo": "대도각참",
+      "static": "983.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/983.png",
+      "idleSource": null,
+      "sha256": "173d4ad9408517e13d7f5ea26c106586ecc79485d52c67b95e75d3ac0cfd643a"
+    },
+    "985": {
+      "name": "Scream Tail",
+      "nameKo": "우렁찬꼬리",
+      "static": "985.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/985.png",
+      "idleSource": null,
+      "sha256": "bc6f7d09c2414c48c7c60c8b13d84c9b223c3f42f24de781bdbb439ad50e0ba7"
+    },
+    "986": {
+      "name": "Brute Bonnet",
+      "nameKo": "사나운버섯",
+      "static": "986.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/986.png",
+      "idleSource": null,
+      "sha256": "4df6b427e9fe23c2f1507fa3e0d042ba685a33d50e624d943a020e324d6f4901"
+    },
+    "987": {
+      "name": "Flutter Mane",
+      "nameKo": "날개치는머리",
+      "static": "987.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/987.png",
+      "idleSource": null,
+      "sha256": "ab4cd7bda54ddb8a5a815e7b6cf048b1d46987d3b08e9b6465bf911ac74a227b"
+    },
+    "988": {
+      "name": "Slither Wing",
+      "nameKo": "땅을기는날개",
+      "static": "988.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/988.png",
+      "idleSource": null,
+      "sha256": "049e6b18e0f4b5ba2db27763d831b82468725074e35a62b9cb2905dcc156b3d1"
+    },
+    "993": {
+      "name": "Iron Jugulis",
+      "nameKo": "무쇠머리",
+      "static": "993.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/993.png",
+      "idleSource": null,
+      "sha256": "c237c0d2424668b3a29db7bc5d3a327aed5951dceb7b458838e120bb08adaf14"
+    },
+    "994": {
+      "name": "Iron Moth",
+      "nameKo": "무쇠독나방",
+      "static": "994.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/994.png",
+      "idleSource": null,
+      "sha256": "e03d7e35cfd84ebab9a92535ec04a1746dbd3e72baf23f93fbe5bf85172371fb"
+    },
+    "999": {
+      "name": "Gimmighoul",
+      "nameKo": "모으령",
+      "static": "999.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/999.png",
+      "idleSource": null,
+      "sha256": "ac22fc9db6d688000ce4526011b4728070b14cddae8a5e2b9d85216417eb6e92"
+    },
+    "1000": {
+      "name": "Gholdengo",
+      "nameKo": "타부자고",
+      "static": "1000.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/1000.png",
+      "idleSource": null,
+      "sha256": "c1d70056fd028f1200d208fb76170c836fcd5cb5dc0d8e61bf6d732d84da19bb"
+    },
+    "1001": {
+      "name": "Wo-Chien",
+      "nameKo": "총지엔",
+      "static": "1001.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/1001.png",
+      "idleSource": null,
+      "sha256": "d7dfcb980d4cd9e5bc3664433083212c754ce08f98208cf84402b8e350eb5263"
+    },
+    "1003": {
+      "name": "Ting-Lu",
+      "nameKo": "딩루",
+      "static": "1003.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/1003.png",
+      "idleSource": null,
+      "sha256": "c7f565852206c1158d630fa5130abba4fb85eed81ed7c424d66f94a5c400ac88"
+    },
+    "1004": {
+      "name": "Chi-Yu",
+      "nameKo": "위유이",
+      "static": "1004.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/1004.png",
+      "idleSource": null,
+      "sha256": "43ba04b0786626af47a05be63c2c0b3848ab7c76d0af052599f00a49ac66860c"
+    },
+    "1005": {
+      "name": "Roaring Moon",
+      "nameKo": "고동치는달",
+      "static": "1005.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/1005.png",
+      "idleSource": null,
+      "sha256": "a654dec1b15d64866a34cc43efc74a268014030e21dd4f3136c75fb89ca676b1"
+    },
+    "1012": {
+      "name": "Poltchageist",
+      "nameKo": "차데스",
+      "static": "1012.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/1012.png",
+      "idleSource": null,
+      "sha256": "17d39570582529cec9d8b688daa055db2ff4b3cfabeaff9671390f13d77fb096"
+    },
+    "1013": {
+      "name": "Sinistcha",
+      "nameKo": "그우린차",
+      "static": "1013.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/1013.png",
+      "idleSource": null,
+      "sha256": "9ca794515ba4370c8d396b4fbe6ac96cb60b0f4d9460aa965b09918ef699e6f7"
+    },
+    "1014": {
+      "name": "Okidogi",
+      "nameKo": "조타구",
+      "static": "1014.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/1014.png",
+      "idleSource": null,
+      "sha256": "b391ea14dbd3d1819b6ce3db883e383faa9b672640a591dfecc6e5a5d8ce5741"
+    },
+    "1015": {
+      "name": "Munkidori",
+      "nameKo": "이야후",
+      "static": "1015.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/1015.png",
+      "idleSource": null,
+      "sha256": "eab90818f937cd4a70f4d7c0c92d1cc51401a07b00d9e7e3056be7aeb8282cdd"
+    },
+    "1016": {
+      "name": "Fezandipiti",
+      "nameKo": "기로치",
+      "static": "1016.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/1016.png",
+      "idleSource": null,
+      "sha256": "d93a089a5adc03e5c7db8a0cd8925435dd851a13af9bafdeaacb3f2f3f56eda0"
+    },
+    "1025": {
+      "name": "Pecharunt",
+      "nameKo": "복숭악동",
+      "static": "1025.png",
+      "idle": null,
+      "staticSource": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/1025.png",
+      "idleSource": null,
+      "sha256": "97b9042d09e334941c5fbf1da0ef2bfeb5e0c42fc2776fe5de52c67cf0d6c3e4"
+    }
+  }
+}

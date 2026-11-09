@@ -742,7 +742,7 @@ export const chapter7 = {
         {
           id: 'c7s5-teach',
           kind: 'teach',
-          instructionKo: '세 히어로가 합체해요! 먼저 rain을 만들어요.',
+          instructionKo: '히어로가 합체해요! 먼저 rain을 만들어요.',
           repeatAudio: ['rrr', 'a', 'nnn', 'rain'],
         },
         {

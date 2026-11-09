@@ -860,7 +860,7 @@ export const chapter8 = {
           kind: 'teach',
           // 보스 인트로에는 emoji 를 달지 않는다 -- 이 자리에는
           // buildEquationsHtml() 의 글자 등식("T + IE = TIE")이 그려진다.
-          instructionKo: '세 히어로가 합체해요! 먼저 tie를 만들어요.',
+          instructionKo: '히어로가 합체해요! 먼저 tie를 만들어요.',
           repeatAudio: ['tuh', 'eye', 'tie'],
         },
         {

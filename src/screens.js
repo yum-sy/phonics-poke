@@ -1311,6 +1311,7 @@ function renderHealthShell(runtime) {
           <div class="hero-sprite" id="hero-sprite">${heroArt(
             stage.hero
           )}</div>
+          <div class="pokemon-hero-name">${stage.hero.name}</div>
         </div>
       </div>
       <div id="beat-area" class="beat-area"></div>
@@ -2200,7 +2201,7 @@ function renderNonScoredBeat(runtime, beat) {
     const soundsHtml = fusionSounds(chapter.stages)
       .map((sound) => `<span class="fusion-sound">${sound}</span>`)
       .join('<span class="fusion-sound-plus" aria-hidden="true">+</span>')
-    const dirs = ['from-left', 'from-right', 'from-left']
+    const dirs = ['from-left', 'from-right', 'from-left', 'from-right']
     const robotsHtml = lineup
       .map(
         (s, i) => `
@@ -2219,8 +2220,8 @@ function renderNonScoredBeat(runtime, beat) {
           <div class="boss-intro-robots">${robotsHtml}</div>
           <div class="fusion-sound-strip" aria-label="Sounds joining together">${soundsHtml}</div>
           <div class="boss-intro-flash"></div>
-          <div class="boss-intro-hero" id="boss-intro-hero">${heroArt(
-            runtime.stage.hero
+          <div class="boss-intro-hero pokemon-fusion" id="boss-intro-hero">${heroArt(
+            runtime.stage.hero, { idle: true }
           )}</div>
           <div class="boss-intro-skip" id="boss-intro-hint" style="visibility:hidden">탭하면 계속해요!</div>
         </div>
@@ -2236,11 +2237,9 @@ function renderNonScoredBeat(runtime, beat) {
     // time-critical, and holding it costs the child nothing: they end it when
     // they have looked at it.
     //
-    // The timer that used to advance the beat now only INVITES the tap:
-    // `.combine-invite` on the final form is layout's infinite wobble
-    // (contract), and it is removed here on the tap. It is added late, not at
-    // render, so the wobble cannot fight the emerge animation -- and so that
-    // "hold still, then wiggle" reads as the robot asking to be touched.
+    // After the entrance, combine-invite reveals the Pokémon idle GIF and
+    // the tap hint. The ring stays still; reduced motion uses its static PNG.
+    // The child controls when the introduction ends.
     //
     // The `revealed` guard is now the ONLY thing standing between a
     // 5-year-old's double tap and wireTeachButtons() running twice (which

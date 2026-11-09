@@ -1,3 +1,4 @@
+import { renderPokemon, POKEMON_CHARACTERS } from './art/pokemon.js'
 // Character SVG art. Each style family lives in its own module under
 // ./art/ once it grows past a couple of functions -- the robot family
 // already did (see ./art/robots.js). Everything below is the superhero
@@ -1375,8 +1376,10 @@ function resolveArt(input, palettes, styles) {
   return make(colors)
 }
 
-export function heroArt(heroOrName) {
+export function heroArt(heroOrName, options = {}) {
   const spec = typeof heroOrName === 'string' ? { name: heroOrName } : heroOrName || {}
+  const pokemon = renderPokemon(spec, options)
+  if (pokemon) return pokemon
   const asset = HERO_ROSTER[spec.art]?.asset || WORLD_CHARACTER_ASSETS[spec.art] || WORLD_CHARACTER_ASSETS[spec.name]
     || CHARACTER_ASSETS[spec.art] || CHARACTER_ASSETS[spec.name]
   if (asset) return renderCharacterAsset(asset)
@@ -1391,13 +1394,15 @@ export function heroArt(heroOrName) {
 // alone can't answer "how many distinct things does this chapter combine").
 export function heroEmblem(heroOrName) {
   const spec = typeof heroOrName === 'string' ? { name: heroOrName } : heroOrName || {}
-  const soundArt = HERO_ROSTER[spec.art]?.soundArt || spec.art
+  const soundArt = POKEMON_CHARACTERS[spec.art]?.soundArt || HERO_ROSTER[spec.art]?.soundArt || spec.art
   const entry = HERO_PALETTES[soundArt] || HERO_PALETTES[spec.name] || {}
   return entry.emblem ?? CHARACTER_DEFAULT_EMBLEMS[soundArt] ?? CHARACTER_DEFAULT_EMBLEMS[spec.name]
 }
 
 export function villainArt(heroOrName) {
   const spec = typeof heroOrName === 'string' ? { name: heroOrName } : heroOrName || {}
+  const pokemon = renderPokemon(spec)
+  if (pokemon) return pokemon
   const asset = WORLD_CHARACTER_ASSETS[spec.art] || WORLD_CHARACTER_ASSETS[spec.name]
     || CHARACTER_ASSETS[spec.art] || CHARACTER_ASSETS[spec.name]
   if (asset) return renderCharacterAsset(asset)

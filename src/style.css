@@ -2870,3 +2870,17 @@ button {
 }
 
 .beat-cue-line:focus-visible { outline: 3px solid var(--accent-dark); outline-offset: 3px; }
+
+/* Pokémon sprites keep the existing character layout and combat effects. */
+.pokemon-art { display: inline-block; position: relative; aspect-ratio: 120 / 140; }
+.pokemon-art > img, .pokemon-art > picture { position: absolute; inset: 0; width: 100%; height: 100%; }
+.pokemon-art img { object-fit: contain; }
+.pokemon-idle { display: none; }
+.pokemon-idle img { width: 100%; height: 100%; }
+.pokemon-fusion.combine-invite { animation: none; translate: none; scale: 1; }
+.pokemon-fusion.combine-invite .pokemon-art:has(.pokemon-idle) > .pokemon-still { visibility: hidden; }
+.pokemon-fusion.combine-invite .pokemon-idle { display: block; }
+.boss-intro-robots { max-width: 100%; gap: clamp(4px, 1vw, 14px); }
+.boss-intro-robots .mini-bot { flex: 0 1 120px; min-width: 0; }
+
+.pokemon-hero-name { max-width: 190px; font-size: clamp(16px, 2svh, 22px); font-weight: 700; text-align: center; line-height: 1.15; overflow-wrap: anywhere; }

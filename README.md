@@ -1,5 +1,10 @@
 # Phonics Hero (카봇 파닉스 대작전)
 
+> **Pokémon 독립 복제본**: 원본 수정·푸시·배포 금지. 포켓몬 4+1 배치와 합체 대기 GIF를 적용했습니다.
+> 개발: `npm run dev -- --host 127.0.0.1 --port 5175 --strictPort`
+> 검증: `node scripts/check-pokemon-roster.mjs`, `node scripts/check-pokemon-browser.mjs http://127.0.0.1:5175`, `npm run build`
+> 기존 `check-hero-rotation` / `check-world-characters`는 이전 로봇·아틀라스 배치 전용이며 이 복제본의 포켓몬 배치는 위 검사로 검증합니다.
+
 5세 한국 남아를 위한 iPad 영어 파닉스 학습 게임. Jolly Phonics 42개 소리 전체를
 변신 로봇·코믹북 히어로·클레이 공룡·픽셀 몬스터·조립 블록·직업 히어로·DC풍 7개 계열의
 히어로/빌런 전투로 가르친다. 프레임워크 없는 Vanilla JS + Vite 단일 페이지 앱.
@@ -371,3 +376,5 @@ public/
 `validateChapters` 0건, 프로덕션 빌드 통과, `DEV_UNLOCK_ALL=false`로 실기기 순차
 테스트 중. 남은 항목과 중단 지점은 [`HANDOFF.md`](HANDOFF.md) §-2 "다음 세션이
 먼저 할 일".
+
+포켓몬 이미지 출처: [PokeAPI sprites](https://github.com/PokeAPI/sprites). HOME PNG와 Showdown GIF를 로컬에 캐시하며, 종별 원본 URL은 `src/art/pokemon-roster.json`에 보존합니다.

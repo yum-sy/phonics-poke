@@ -286,7 +286,9 @@ for (const f of F) {
   }
   families[f[0]] = { en: f[4], field: f[1] }
 }
-const ranked = Object.keys(families).sort((a, b) => (counts.get(b) ?? 0) - (counts.get(a) ?? 0) || a.localeCompare(b))
+// Rank controls the language transition schedule; wording edits must not move it.
+const fixedRanks = JSON.parse(fs.readFileSync(path.join(ROOT, 'scripts/phrase-family-ranks.json'), 'utf8'))
+const ranked = Object.keys(families).sort((a, b) => (fixedRanks[a] ?? Infinity) - (fixedRanks[b] ?? Infinity) || a.localeCompare(b))
 ranked.forEach((k, i) => { families[k].rank = i + 1; families[k].n = counts.get(k) ?? 0 })
 const unusedFamilies = ranked.filter((k) => !counts.get(k))
 if (unusedFamilies.length) console.warn('warn: families with 0 occurrences:', unusedFamilies.join(', '))

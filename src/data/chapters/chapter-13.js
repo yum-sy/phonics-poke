@@ -480,7 +480,7 @@ export const chapter13 = {
           words: [{ text: 'C', say: 'kuh' }, { text: 'UE', say: 'u' }, 'cue'],
         },
       ],
-      recapKo: '이제 OI, UE를 모두 알아요! 두 히어로가 힘을 합쳐요!',
+      recapKo: '이제 OI, UE를 모두 알아요! 히어로들이 합체할 준비를 해요!',
       recapAudio: {
         ko: '이 글자는 이런 소리를 내요. 이제 두 소리를 모두 배웠어요.',
         en: ['cue', 'glue'],
@@ -650,7 +650,7 @@ export const chapter13 = {
         {
           id: 'c13s5-teach',
           kind: 'teach',
-          instructionKo: '두 히어로가 합체해요! 먼저 coin을 만들어요.',
+          instructionKo: '히어로가 합체해요! 먼저 coin을 만들어요.',
           repeatAudio: ['kuh', 'oi', 'nnn', 'coin'],
         },
         {

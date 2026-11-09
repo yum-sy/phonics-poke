@@ -1269,7 +1269,7 @@ export const chapter33 = {
         {
           "id": "c33s5-teach",
           "kind": "teach",
-          "instructionKo": "세 히어로가 최후의 합체를 해요! 지금까지 배운 모든 소리의 힘을 모아 THREE를 만들어요!",
+          "instructionKo": "천천히 따라 말해보세요.",
           "repeatAudio": [
             "thhu",
             "rrr",

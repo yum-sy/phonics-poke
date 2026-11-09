@@ -572,7 +572,7 @@ export const chapter2 = {
         {
           id: 'c2s5-teach',
           kind: 'teach',
-          instructionKo: '세 히어로가 합체해요! 천천히 들어보세요.',
+          instructionKo: '천천히 따라 말해보세요.',
           repeatAudio: ['puh', 'ihh', 'nnn', 'pin'],
         },
         {

@@ -13,7 +13,7 @@
 // stages.js, screens.js and state.js all consume `chapters`/`stages`/`worlds`
 // from here and don't care how many chapters exist.
 
-import { applyHeroRotation } from '../../art/hero-roster.js'
+import { applyPokemonRoster } from '../../art/pokemon.js'
 import { phraseFor, PHRASE_MAP, PHRASE_FAMILIES } from '../phrasebook.js'
 
 import { chapter1 } from './chapter-01.js'
@@ -50,7 +50,7 @@ import { chapter31 } from './chapter-31.js'
 import { chapter32 } from './chapter-32.js'
 import { chapter33 } from './chapter-33.js'
 
-export const chapters = applyHeroRotation([
+export const chapters = applyPokemonRoster([
   chapter1,
   chapter2,
   chapter3,

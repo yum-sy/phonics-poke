@@ -625,7 +625,7 @@ export const chapter3 = {
         {
           id: 'c3s5-teach',
           kind: 'teach',
-          instructionKo: '세 히어로가 합체해요! 먼저 cat을 만들어요.',
+          instructionKo: '히어로가 합체해요! 먼저 cat을 만들어요.',
           repeatAudio: ['kuh', 'aaa', 'tuh', 'cat'],
         },
         {

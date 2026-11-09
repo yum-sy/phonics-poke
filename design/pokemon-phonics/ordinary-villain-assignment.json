@@ -1,0 +1,1688 @@
+[
+  {
+    "chapter": 1,
+    "step": 1,
+    "species_id": 261,
+    "pokemon_id": 261,
+    "name_en": "Poochyena",
+    "name_ko": "포챠나",
+    "search": "poochyena",
+    "types": [
+      "dark"
+    ]
+  },
+  {
+    "chapter": 1,
+    "step": 2,
+    "species_id": 13,
+    "pokemon_id": 13,
+    "name_en": "Weedle",
+    "name_ko": "뿔충이",
+    "search": "weedle",
+    "types": [
+      "bug",
+      "poison"
+    ]
+  },
+  {
+    "chapter": 1,
+    "step": 3,
+    "species_id": 292,
+    "pokemon_id": 292,
+    "name_en": "Shedinja",
+    "name_ko": "껍질몬",
+    "search": "shedinja",
+    "types": [
+      "bug",
+      "ghost"
+    ]
+  },
+  {
+    "chapter": 1,
+    "step": 4,
+    "species_id": 14,
+    "pokemon_id": 14,
+    "name_en": "Kakuna",
+    "name_ko": "딱충이",
+    "search": "kakuna",
+    "types": [
+      "bug",
+      "poison"
+    ]
+  },
+  {
+    "chapter": 2,
+    "step": 1,
+    "species_id": 859,
+    "pokemon_id": 859,
+    "name_en": "Impidimp",
+    "name_ko": "메롱꿍",
+    "search": "impidimp",
+    "types": [
+      "dark",
+      "fairy"
+    ]
+  },
+  {
+    "chapter": 2,
+    "step": 2,
+    "species_id": 14,
+    "pokemon_id": 14,
+    "name_en": "Kakuna",
+    "name_ko": "딱충이",
+    "search": "kakuna",
+    "types": [
+      "bug",
+      "poison"
+    ]
+  },
+  {
+    "chapter": 2,
+    "step": 3,
+    "species_id": 885,
+    "pokemon_id": 885,
+    "name_en": "Dreepy",
+    "name_ko": "드라꼰",
+    "search": "dreepy",
+    "types": [
+      "dragon",
+      "ghost"
+    ]
+  },
+  {
+    "chapter": 2,
+    "step": 4,
+    "species_id": 848,
+    "pokemon_id": 848,
+    "name_en": "Toxel",
+    "name_ko": "일레즌",
+    "search": "toxel",
+    "types": [
+      "electric",
+      "poison"
+    ]
+  },
+  {
+    "chapter": 3,
+    "step": 1,
+    "species_id": 509,
+    "pokemon_id": 509,
+    "name_en": "Purrloin",
+    "name_ko": "쌔비냥",
+    "search": "purrloin",
+    "types": [
+      "dark"
+    ]
+  },
+  {
+    "chapter": 3,
+    "step": 2,
+    "species_id": 41,
+    "pokemon_id": 41,
+    "name_en": "Zubat",
+    "name_ko": "주뱃",
+    "search": "zubat",
+    "types": [
+      "poison",
+      "flying"
+    ]
+  },
+  {
+    "chapter": 3,
+    "step": 3,
+    "species_id": 946,
+    "pokemon_id": 946,
+    "name_en": "Bramblin",
+    "name_ko": "그푸리",
+    "search": "bramblin",
+    "types": [
+      "grass",
+      "ghost"
+    ]
+  },
+  {
+    "chapter": 3,
+    "step": 4,
+    "species_id": 859,
+    "pokemon_id": 859,
+    "name_en": "Impidimp",
+    "name_ko": "메롱꿍",
+    "search": "impidimp",
+    "types": [
+      "dark",
+      "fairy"
+    ]
+  },
+  {
+    "chapter": 4,
+    "step": 1,
+    "species_id": 633,
+    "pokemon_id": 633,
+    "name_en": "Deino",
+    "name_ko": "모노두",
+    "search": "deino",
+    "types": [
+      "dark",
+      "dragon"
+    ]
+  },
+  {
+    "chapter": 4,
+    "step": 2,
+    "species_id": 543,
+    "pokemon_id": 543,
+    "name_en": "Venipede",
+    "name_ko": "마디네",
+    "search": "venipede",
+    "types": [
+      "bug",
+      "poison"
+    ]
+  },
+  {
+    "chapter": 4,
+    "step": 3,
+    "species_id": 353,
+    "pokemon_id": 353,
+    "name_en": "Shuppet",
+    "name_ko": "어둠대신",
+    "search": "shuppet",
+    "types": [
+      "ghost"
+    ]
+  },
+  {
+    "chapter": 4,
+    "step": 4,
+    "species_id": 946,
+    "pokemon_id": 946,
+    "name_en": "Bramblin",
+    "name_ko": "그푸리",
+    "search": "bramblin",
+    "types": [
+      "grass",
+      "ghost"
+    ]
+  },
+  {
+    "chapter": 5,
+    "step": 1,
+    "species_id": 434,
+    "pokemon_id": 434,
+    "name_en": "Stunky",
+    "name_ko": "스컹뿡",
+    "search": "stunky",
+    "types": [
+      "poison",
+      "dark"
+    ]
+  },
+  {
+    "chapter": 5,
+    "step": 2,
+    "species_id": 29,
+    "pokemon_id": 29,
+    "name_en": "Nidoran♀",
+    "name_ko": "니드런♀",
+    "search": "nidoran♀",
+    "types": [
+      "poison"
+    ]
+  },
+  {
+    "chapter": 5,
+    "step": 3,
+    "species_id": 355,
+    "pokemon_id": 355,
+    "name_en": "Duskull",
+    "name_ko": "해골몽",
+    "search": "duskull",
+    "types": [
+      "ghost"
+    ]
+  },
+  {
+    "chapter": 5,
+    "step": 4,
+    "species_id": 590,
+    "pokemon_id": 590,
+    "name_en": "Foongus",
+    "name_ko": "깜놀버슬",
+    "search": "foongus",
+    "types": [
+      "grass",
+      "poison"
+    ]
+  },
+  {
+    "chapter": 6,
+    "step": 1,
+    "species_id": 228,
+    "pokemon_id": 228,
+    "name_en": "Houndour",
+    "name_ko": "델빌",
+    "search": "houndour",
+    "types": [
+      "dark",
+      "fire"
+    ]
+  },
+  {
+    "chapter": 6,
+    "step": 2,
+    "species_id": 590,
+    "pokemon_id": 590,
+    "name_en": "Foongus",
+    "name_ko": "깜놀버슬",
+    "search": "foongus",
+    "types": [
+      "grass",
+      "poison"
+    ]
+  },
+  {
+    "chapter": 6,
+    "step": 3,
+    "species_id": 999,
+    "pokemon_id": 999,
+    "name_en": "Gimmighoul",
+    "name_ko": "모으령",
+    "search": "gimmighoul",
+    "types": [
+      "ghost"
+    ]
+  },
+  {
+    "chapter": 6,
+    "step": 4,
+    "species_id": 633,
+    "pokemon_id": 633,
+    "name_en": "Deino",
+    "name_ko": "모노두",
+    "search": "deino",
+    "types": [
+      "dark",
+      "dragon"
+    ]
+  },
+  {
+    "chapter": 7,
+    "step": 1,
+    "species_id": 274,
+    "pokemon_id": 274,
+    "name_en": "Nuzleaf",
+    "name_ko": "잎새코",
+    "search": "nuzleaf",
+    "types": [
+      "grass",
+      "dark"
+    ]
+  },
+  {
+    "chapter": 7,
+    "step": 2,
+    "species_id": 453,
+    "pokemon_id": 453,
+    "name_en": "Croagunk",
+    "name_ko": "삐딱구리",
+    "search": "croagunk",
+    "types": [
+      "poison",
+      "fighting"
+    ]
+  },
+  {
+    "chapter": 7,
+    "step": 3,
+    "species_id": 622,
+    "pokemon_id": 622,
+    "name_en": "Golett",
+    "name_ko": "골비람",
+    "search": "golett",
+    "types": [
+      "ground",
+      "ghost"
+    ]
+  },
+  {
+    "chapter": 7,
+    "step": 4,
+    "species_id": 562,
+    "pokemon_id": 562,
+    "name_en": "Yamask",
+    "name_ko": "데스마스",
+    "search": "yamask",
+    "types": [
+      "ghost"
+    ]
+  },
+  {
+    "chapter": 8,
+    "step": 1,
+    "species_id": 624,
+    "pokemon_id": 624,
+    "name_en": "Pawniard",
+    "name_ko": "자망칼",
+    "search": "pawniard",
+    "types": [
+      "dark",
+      "steel"
+    ]
+  },
+  {
+    "chapter": 8,
+    "step": 2,
+    "species_id": 316,
+    "pokemon_id": 316,
+    "name_en": "Gulpin",
+    "name_ko": "꼴깍몬",
+    "search": "gulpin",
+    "types": [
+      "poison"
+    ]
+  },
+  {
+    "chapter": 8,
+    "step": 3,
+    "species_id": 854,
+    "pokemon_id": 854,
+    "name_en": "Sinistea",
+    "name_ko": "데인차",
+    "search": "sinistea",
+    "types": [
+      "ghost"
+    ]
+  },
+  {
+    "chapter": 8,
+    "step": 4,
+    "species_id": 747,
+    "pokemon_id": 747,
+    "name_en": "Mareanie",
+    "name_ko": "시마사리",
+    "search": "mareanie",
+    "types": [
+      "poison",
+      "water"
+    ]
+  },
+  {
+    "chapter": 9,
+    "step": 1,
+    "species_id": 552,
+    "pokemon_id": 552,
+    "name_en": "Krokorok",
+    "name_ko": "악비르",
+    "search": "krokorok",
+    "types": [
+      "ground",
+      "dark"
+    ]
+  },
+  {
+    "chapter": 9,
+    "step": 2,
+    "species_id": 747,
+    "pokemon_id": 747,
+    "name_en": "Mareanie",
+    "name_ko": "시마사리",
+    "search": "mareanie",
+    "types": [
+      "poison",
+      "water"
+    ]
+  },
+  {
+    "chapter": 9,
+    "step": 3,
+    "species_id": 1012,
+    "pokemon_id": 1012,
+    "name_en": "Poltchageist",
+    "name_ko": "차데스",
+    "search": "poltchageist",
+    "types": [
+      "grass",
+      "ghost"
+    ]
+  },
+  {
+    "chapter": 9,
+    "step": 4,
+    "species_id": 92,
+    "pokemon_id": 92,
+    "name_en": "Gastly",
+    "name_ko": "고오스",
+    "search": "gastly",
+    "types": [
+      "ghost",
+      "poison"
+    ]
+  },
+  {
+    "chapter": 10,
+    "step": 1,
+    "species_id": 629,
+    "pokemon_id": 629,
+    "name_en": "Vullaby",
+    "name_ko": "벌차이",
+    "search": "vullaby",
+    "types": [
+      "dark",
+      "flying"
+    ]
+  },
+  {
+    "chapter": 10,
+    "step": 2,
+    "species_id": 92,
+    "pokemon_id": 92,
+    "name_en": "Gastly",
+    "name_ko": "고오스",
+    "search": "gastly",
+    "types": [
+      "ghost",
+      "poison"
+    ]
+  },
+  {
+    "chapter": 10,
+    "step": 3,
+    "species_id": 769,
+    "pokemon_id": 769,
+    "name_en": "Sandygast",
+    "name_ko": "모래꿍",
+    "search": "sandygast",
+    "types": [
+      "ghost",
+      "ground"
+    ]
+  },
+  {
+    "chapter": 10,
+    "step": 4,
+    "species_id": 679,
+    "pokemon_id": 679,
+    "name_en": "Honedge",
+    "name_ko": "단칼빙",
+    "search": "honedge",
+    "types": [
+      "steel",
+      "ghost"
+    ]
+  },
+  {
+    "chapter": 11,
+    "step": 1,
+    "species_id": 860,
+    "pokemon_id": 860,
+    "name_en": "Morgrem",
+    "name_ko": "쏘겨모",
+    "search": "morgrem",
+    "types": [
+      "dark",
+      "fairy"
+    ]
+  },
+  {
+    "chapter": 11,
+    "step": 2,
+    "species_id": 757,
+    "pokemon_id": 757,
+    "name_en": "Salandit",
+    "name_ko": "야도뇽",
+    "search": "salandit",
+    "types": [
+      "poison",
+      "fire"
+    ]
+  },
+  {
+    "chapter": 11,
+    "step": 3,
+    "species_id": 769,
+    "pokemon_id": 769,
+    "name_en": "Sandygast",
+    "name_ko": "모래꿍",
+    "search": "sandygast",
+    "types": [
+      "ghost",
+      "ground"
+    ]
+  },
+  {
+    "chapter": 11,
+    "step": 4,
+    "species_id": 451,
+    "pokemon_id": 451,
+    "name_en": "Skorupi",
+    "name_ko": "스콜피",
+    "search": "skorupi",
+    "types": [
+      "poison",
+      "bug"
+    ]
+  },
+  {
+    "chapter": 12,
+    "step": 1,
+    "species_id": 198,
+    "pokemon_id": 198,
+    "name_en": "Murkrow",
+    "name_ko": "니로우",
+    "search": "murkrow",
+    "types": [
+      "dark",
+      "flying"
+    ]
+  },
+  {
+    "chapter": 12,
+    "step": 2,
+    "species_id": 434,
+    "pokemon_id": 434,
+    "name_en": "Stunky",
+    "name_ko": "스컹뿡",
+    "search": "stunky",
+    "types": [
+      "poison",
+      "dark"
+    ]
+  },
+  {
+    "chapter": 12,
+    "step": 3,
+    "species_id": 679,
+    "pokemon_id": 679,
+    "name_en": "Honedge",
+    "name_ko": "단칼빙",
+    "search": "honedge",
+    "types": [
+      "steel",
+      "ghost"
+    ]
+  },
+  {
+    "chapter": 12,
+    "step": 4,
+    "species_id": 624,
+    "pokemon_id": 624,
+    "name_en": "Pawniard",
+    "name_ko": "자망칼",
+    "search": "pawniard",
+    "types": [
+      "dark",
+      "steel"
+    ]
+  },
+  {
+    "chapter": 13,
+    "step": 1,
+    "species_id": 262,
+    "pokemon_id": 262,
+    "name_en": "Mightyena",
+    "name_ko": "그라에나",
+    "search": "mightyena",
+    "types": [
+      "dark"
+    ]
+  },
+  {
+    "chapter": 13,
+    "step": 2,
+    "species_id": 451,
+    "pokemon_id": 451,
+    "name_en": "Skorupi",
+    "name_ko": "스콜피",
+    "search": "skorupi",
+    "types": [
+      "poison",
+      "bug"
+    ]
+  },
+  {
+    "chapter": 13,
+    "step": 3,
+    "species_id": 425,
+    "pokemon_id": 425,
+    "name_en": "Drifloon",
+    "name_ko": "흔들풍손",
+    "search": "drifloon",
+    "types": [
+      "ghost",
+      "flying"
+    ]
+  },
+  {
+    "chapter": 13,
+    "step": 4,
+    "species_id": 552,
+    "pokemon_id": 552,
+    "name_en": "Krokorok",
+    "name_ko": "악비르",
+    "search": "krokorok",
+    "types": [
+      "ground",
+      "dark"
+    ]
+  },
+  {
+    "chapter": 14,
+    "step": 1,
+    "species_id": 634,
+    "pokemon_id": 634,
+    "name_en": "Zweilous",
+    "name_ko": "디헤드",
+    "search": "zweilous",
+    "types": [
+      "dark",
+      "dragon"
+    ]
+  },
+  {
+    "chapter": 14,
+    "step": 2,
+    "species_id": 969,
+    "pokemon_id": 969,
+    "name_en": "Glimmet",
+    "name_ko": "초롱순",
+    "search": "glimmet",
+    "types": [
+      "rock",
+      "poison"
+    ]
+  },
+  {
+    "chapter": 14,
+    "step": 3,
+    "species_id": 608,
+    "pokemon_id": 608,
+    "name_en": "Lampent",
+    "name_ko": "램프라",
+    "search": "lampent",
+    "types": [
+      "ghost",
+      "fire"
+    ]
+  },
+  {
+    "chapter": 14,
+    "step": 4,
+    "species_id": 629,
+    "pokemon_id": 629,
+    "name_en": "Vullaby",
+    "name_ko": "벌차이",
+    "search": "vullaby",
+    "types": [
+      "dark",
+      "flying"
+    ]
+  },
+  {
+    "chapter": 15,
+    "step": 1,
+    "species_id": 215,
+    "pokemon_id": 215,
+    "name_en": "Sneasel",
+    "name_ko": "포푸니",
+    "search": "sneasel",
+    "types": [
+      "dark",
+      "ice"
+    ]
+  },
+  {
+    "chapter": 15,
+    "step": 2,
+    "species_id": 30,
+    "pokemon_id": 30,
+    "name_en": "Nidorina",
+    "name_ko": "니드리나",
+    "search": "nidorina",
+    "types": [
+      "poison"
+    ]
+  },
+  {
+    "chapter": 15,
+    "step": 3,
+    "species_id": 302,
+    "pokemon_id": 302,
+    "name_en": "Sableye",
+    "name_ko": "깜까미",
+    "search": "sableye",
+    "types": [
+      "dark",
+      "ghost"
+    ]
+  },
+  {
+    "chapter": 15,
+    "step": 4,
+    "species_id": 70,
+    "pokemon_id": 70,
+    "name_en": "Weepinbell",
+    "name_ko": "우츠동",
+    "search": "weepinbell",
+    "types": [
+      "grass",
+      "poison"
+    ]
+  },
+  {
+    "chapter": 16,
+    "step": 1,
+    "species_id": 920,
+    "pokemon_id": 920,
+    "name_en": "Lokix",
+    "name_ko": "엑스레그",
+    "search": "lokix",
+    "types": [
+      "bug",
+      "dark"
+    ]
+  },
+  {
+    "chapter": 16,
+    "step": 2,
+    "species_id": 269,
+    "pokemon_id": 269,
+    "name_en": "Dustox",
+    "name_ko": "독케일",
+    "search": "dustox",
+    "types": [
+      "bug",
+      "poison"
+    ]
+  },
+  {
+    "chapter": 16,
+    "step": 3,
+    "species_id": 886,
+    "pokemon_id": 886,
+    "name_en": "Drakloak",
+    "name_ko": "드래런치",
+    "search": "drakloak",
+    "types": [
+      "dragon",
+      "ghost"
+    ]
+  },
+  {
+    "chapter": 16,
+    "step": 4,
+    "species_id": 2,
+    "pokemon_id": 2,
+    "name_en": "Ivysaur",
+    "name_ko": "이상해풀",
+    "search": "ivysaur",
+    "types": [
+      "grass",
+      "poison"
+    ]
+  },
+  {
+    "chapter": 17,
+    "step": 1,
+    "species_id": 828,
+    "pokemon_id": 828,
+    "name_en": "Thievul",
+    "name_ko": "폭슬라이",
+    "search": "thievul",
+    "types": [
+      "dark"
+    ]
+  },
+  {
+    "chapter": 17,
+    "step": 2,
+    "species_id": 15,
+    "pokemon_id": 15,
+    "name_en": "Beedrill",
+    "name_ko": "독침붕",
+    "search": "beedrill",
+    "types": [
+      "bug",
+      "poison"
+    ]
+  },
+  {
+    "chapter": 17,
+    "step": 3,
+    "species_id": 200,
+    "pokemon_id": 200,
+    "name_en": "Misdreavus",
+    "name_ko": "무우마",
+    "search": "misdreavus",
+    "types": [
+      "ghost"
+    ]
+  },
+  {
+    "chapter": 17,
+    "step": 4,
+    "species_id": 262,
+    "pokemon_id": 262,
+    "name_en": "Mightyena",
+    "name_ko": "그라에나",
+    "search": "mightyena",
+    "types": [
+      "dark"
+    ]
+  },
+  {
+    "chapter": 18,
+    "step": 1,
+    "species_id": 319,
+    "pokemon_id": 319,
+    "name_en": "Sharpedo",
+    "name_ko": "샤크니아",
+    "search": "sharpedo",
+    "types": [
+      "water",
+      "dark"
+    ]
+  },
+  {
+    "chapter": 18,
+    "step": 2,
+    "species_id": 168,
+    "pokemon_id": 168,
+    "name_en": "Ariados",
+    "name_ko": "아리아도스",
+    "search": "ariados",
+    "types": [
+      "bug",
+      "poison"
+    ]
+  },
+  {
+    "chapter": 18,
+    "step": 3,
+    "species_id": 479,
+    "pokemon_id": 479,
+    "name_en": "Rotom",
+    "name_ko": "로토무",
+    "search": "rotom",
+    "types": [
+      "electric",
+      "ghost"
+    ]
+  },
+  {
+    "chapter": 18,
+    "step": 4,
+    "species_id": 200,
+    "pokemon_id": 200,
+    "name_en": "Misdreavus",
+    "name_ko": "무우마",
+    "search": "misdreavus",
+    "types": [
+      "ghost"
+    ]
+  },
+  {
+    "chapter": 19,
+    "step": 1,
+    "species_id": 359,
+    "pokemon_id": 359,
+    "name_en": "Absol",
+    "name_ko": "앱솔",
+    "search": "absol",
+    "types": [
+      "dark"
+    ]
+  },
+  {
+    "chapter": 19,
+    "step": 2,
+    "species_id": 2,
+    "pokemon_id": 2,
+    "name_en": "Ivysaur",
+    "name_ko": "이상해풀",
+    "search": "ivysaur",
+    "types": [
+      "grass",
+      "poison"
+    ]
+  },
+  {
+    "chapter": 19,
+    "step": 3,
+    "species_id": 354,
+    "pokemon_id": 354,
+    "name_en": "Banette",
+    "name_ko": "다크펫",
+    "search": "banette",
+    "types": [
+      "ghost"
+    ]
+  },
+  {
+    "chapter": 19,
+    "step": 4,
+    "species_id": 680,
+    "pokemon_id": 680,
+    "name_en": "Doublade",
+    "name_ko": "쌍검킬",
+    "search": "doublade",
+    "types": [
+      "steel",
+      "ghost"
+    ]
+  },
+  {
+    "chapter": 20,
+    "step": 1,
+    "species_id": 332,
+    "pokemon_id": 332,
+    "name_en": "Cacturne",
+    "name_ko": "밤선인",
+    "search": "cacturne",
+    "types": [
+      "grass",
+      "dark"
+    ]
+  },
+  {
+    "chapter": 20,
+    "step": 2,
+    "species_id": 803,
+    "pokemon_id": 803,
+    "name_en": "Poipole",
+    "name_ko": "베베놈",
+    "search": "poipole",
+    "types": [
+      "poison"
+    ]
+  },
+  {
+    "chapter": 20,
+    "step": 3,
+    "species_id": 356,
+    "pokemon_id": 356,
+    "name_en": "Dusclops",
+    "name_ko": "미라몽",
+    "search": "dusclops",
+    "types": [
+      "ghost"
+    ]
+  },
+  {
+    "chapter": 20,
+    "step": 4,
+    "species_id": 354,
+    "pokemon_id": 354,
+    "name_en": "Banette",
+    "name_ko": "다크펫",
+    "search": "banette",
+    "types": [
+      "ghost"
+    ]
+  },
+  {
+    "chapter": 21,
+    "step": 1,
+    "species_id": 435,
+    "pokemon_id": 435,
+    "name_en": "Skuntank",
+    "name_ko": "스컹탱크",
+    "search": "skuntank",
+    "types": [
+      "poison",
+      "dark"
+    ]
+  },
+  {
+    "chapter": 21,
+    "step": 2,
+    "species_id": 24,
+    "pokemon_id": 24,
+    "name_en": "Arbok",
+    "name_ko": "아보크",
+    "search": "arbok",
+    "types": [
+      "poison"
+    ]
+  },
+  {
+    "chapter": 21,
+    "step": 3,
+    "species_id": 778,
+    "pokemon_id": 778,
+    "name_en": "Mimikyu",
+    "name_ko": "따라큐",
+    "search": "mimikyu",
+    "types": [
+      "ghost",
+      "fairy"
+    ]
+  },
+  {
+    "chapter": 21,
+    "step": 4,
+    "species_id": 319,
+    "pokemon_id": 319,
+    "name_en": "Sharpedo",
+    "name_ko": "샤크니아",
+    "search": "sharpedo",
+    "types": [
+      "water",
+      "dark"
+    ]
+  },
+  {
+    "chapter": 22,
+    "step": 1,
+    "species_id": 687,
+    "pokemon_id": 687,
+    "name_en": "Malamar",
+    "name_ko": "칼라마네로",
+    "search": "malamar",
+    "types": [
+      "dark",
+      "psychic"
+    ]
+  },
+  {
+    "chapter": 22,
+    "step": 2,
+    "species_id": 42,
+    "pokemon_id": 42,
+    "name_en": "Golbat",
+    "name_ko": "골뱃",
+    "search": "golbat",
+    "types": [
+      "poison",
+      "flying"
+    ]
+  },
+  {
+    "chapter": 22,
+    "step": 3,
+    "species_id": 770,
+    "pokemon_id": 770,
+    "name_en": "Palossand",
+    "name_ko": "모래성이당",
+    "search": "palossand",
+    "types": [
+      "ghost",
+      "ground"
+    ]
+  },
+  {
+    "chapter": 22,
+    "step": 4,
+    "species_id": 569,
+    "pokemon_id": 569,
+    "name_en": "Garbodor",
+    "name_ko": "더스트나",
+    "search": "garbodor",
+    "types": [
+      "poison"
+    ]
+  },
+  {
+    "chapter": 23,
+    "step": 1,
+    "species_id": 962,
+    "pokemon_id": 962,
+    "name_en": "Bombirdier",
+    "name_ko": "떨구새",
+    "search": "bombirdier",
+    "types": [
+      "flying",
+      "dark"
+    ]
+  },
+  {
+    "chapter": 23,
+    "step": 2,
+    "species_id": 591,
+    "pokemon_id": 591,
+    "name_en": "Amoonguss",
+    "name_ko": "뽀록나",
+    "search": "amoonguss",
+    "types": [
+      "grass",
+      "poison"
+    ]
+  },
+  {
+    "chapter": 23,
+    "step": 3,
+    "species_id": 947,
+    "pokemon_id": 947,
+    "name_en": "Brambleghast",
+    "name_ko": "공푸리",
+    "search": "brambleghast",
+    "types": [
+      "grass",
+      "ghost"
+    ]
+  },
+  {
+    "chapter": 23,
+    "step": 4,
+    "species_id": 593,
+    "pokemon_id": 593,
+    "name_en": "Jellicent",
+    "name_ko": "탱탱겔",
+    "search": "jellicent",
+    "types": [
+      "water",
+      "ghost"
+    ]
+  },
+  {
+    "chapter": 24,
+    "step": 1,
+    "species_id": 625,
+    "pokemon_id": 625,
+    "name_en": "Bisharp",
+    "name_ko": "절각참",
+    "search": "bisharp",
+    "types": [
+      "dark",
+      "steel"
+    ]
+  },
+  {
+    "chapter": 24,
+    "step": 2,
+    "species_id": 569,
+    "pokemon_id": 569,
+    "name_en": "Garbodor",
+    "name_ko": "더스트나",
+    "search": "garbodor",
+    "types": [
+      "poison"
+    ]
+  },
+  {
+    "chapter": 24,
+    "step": 3,
+    "species_id": 563,
+    "pokemon_id": 563,
+    "name_en": "Cofagrigus",
+    "name_ko": "데스니칸",
+    "search": "cofagrigus",
+    "types": [
+      "ghost"
+    ]
+  },
+  {
+    "chapter": 24,
+    "step": 4,
+    "species_id": 687,
+    "pokemon_id": 687,
+    "name_en": "Malamar",
+    "name_ko": "칼라마네로",
+    "search": "malamar",
+    "types": [
+      "dark",
+      "psychic"
+    ]
+  },
+  {
+    "chapter": 25,
+    "step": 1,
+    "species_id": 675,
+    "pokemon_id": 675,
+    "name_en": "Pangoro",
+    "name_ko": "부란다",
+    "search": "pangoro",
+    "types": [
+      "fighting",
+      "dark"
+    ]
+  },
+  {
+    "chapter": 25,
+    "step": 2,
+    "species_id": 758,
+    "pokemon_id": 758,
+    "name_en": "Salazzle",
+    "name_ko": "염뉴트",
+    "search": "salazzle",
+    "types": [
+      "poison",
+      "fire"
+    ]
+  },
+  {
+    "chapter": 25,
+    "step": 3,
+    "species_id": 867,
+    "pokemon_id": 867,
+    "name_en": "Runerigus",
+    "name_ko": "데스판",
+    "search": "runerigus",
+    "types": [
+      "ground",
+      "ghost"
+    ]
+  },
+  {
+    "chapter": 25,
+    "step": 4,
+    "species_id": 442,
+    "pokemon_id": 442,
+    "name_en": "Spiritomb",
+    "name_ko": "화강돌",
+    "search": "spiritomb",
+    "types": [
+      "ghost",
+      "dark"
+    ]
+  },
+  {
+    "chapter": 26,
+    "step": 1,
+    "species_id": 229,
+    "pokemon_id": 229,
+    "name_en": "Houndoom",
+    "name_ko": "헬가",
+    "search": "houndoom",
+    "types": [
+      "dark",
+      "fire"
+    ]
+  },
+  {
+    "chapter": 26,
+    "step": 2,
+    "species_id": 545,
+    "pokemon_id": 545,
+    "name_en": "Scolipede",
+    "name_ko": "펜드라",
+    "search": "scolipede",
+    "types": [
+      "bug",
+      "poison"
+    ]
+  },
+  {
+    "chapter": 26,
+    "step": 3,
+    "species_id": 442,
+    "pokemon_id": 442,
+    "name_en": "Spiritomb",
+    "name_ko": "화강돌",
+    "search": "spiritomb",
+    "types": [
+      "ghost",
+      "dark"
+    ]
+  },
+  {
+    "chapter": 26,
+    "step": 4,
+    "species_id": 45,
+    "pokemon_id": 45,
+    "name_en": "Vileplume",
+    "name_ko": "라플레시아",
+    "search": "vileplume",
+    "types": [
+      "grass",
+      "poison"
+    ]
+  },
+  {
+    "chapter": 27,
+    "step": 1,
+    "species_id": 430,
+    "pokemon_id": 430,
+    "name_en": "Honchkrow",
+    "name_ko": "돈크로우",
+    "search": "honchkrow",
+    "types": [
+      "dark",
+      "flying"
+    ]
+  },
+  {
+    "chapter": 27,
+    "step": 2,
+    "species_id": 45,
+    "pokemon_id": 45,
+    "name_en": "Vileplume",
+    "name_ko": "라플레시아",
+    "search": "vileplume",
+    "types": [
+      "grass",
+      "poison"
+    ]
+  },
+  {
+    "chapter": 27,
+    "step": 3,
+    "species_id": 972,
+    "pokemon_id": 972,
+    "name_en": "Houndstone",
+    "name_ko": "묘두기",
+    "search": "houndstone",
+    "types": [
+      "ghost"
+    ]
+  },
+  {
+    "chapter": 27,
+    "step": 4,
+    "species_id": 625,
+    "pokemon_id": 625,
+    "name_en": "Bisharp",
+    "name_ko": "절각참",
+    "search": "bisharp",
+    "types": [
+      "dark",
+      "steel"
+    ]
+  },
+  {
+    "chapter": 28,
+    "step": 1,
+    "species_id": 943,
+    "pokemon_id": 943,
+    "name_en": "Mabosstiff",
+    "name_ko": "마피티프",
+    "search": "mabosstiff",
+    "types": [
+      "dark"
+    ]
+  },
+  {
+    "chapter": 28,
+    "step": 2,
+    "species_id": 110,
+    "pokemon_id": 110,
+    "name_en": "Weezing",
+    "name_ko": "또도가스",
+    "search": "weezing",
+    "types": [
+      "poison"
+    ]
+  },
+  {
+    "chapter": 28,
+    "step": 3,
+    "species_id": 429,
+    "pokemon_id": 429,
+    "name_en": "Mismagius",
+    "name_ko": "무우마직",
+    "search": "mismagius",
+    "types": [
+      "ghost"
+    ]
+  },
+  {
+    "chapter": 28,
+    "step": 4,
+    "species_id": 675,
+    "pokemon_id": 675,
+    "name_en": "Pangoro",
+    "name_ko": "부란다",
+    "search": "pangoro",
+    "types": [
+      "fighting",
+      "dark"
+    ]
+  },
+  {
+    "chapter": 29,
+    "step": 1,
+    "species_id": 461,
+    "pokemon_id": 461,
+    "name_en": "Weavile",
+    "name_ko": "포푸니라",
+    "search": "weavile",
+    "types": [
+      "dark",
+      "ice"
+    ]
+  },
+  {
+    "chapter": 29,
+    "step": 2,
+    "species_id": 691,
+    "pokemon_id": 691,
+    "name_en": "Dragalge",
+    "name_ko": "드래캄",
+    "search": "dragalge",
+    "types": [
+      "poison",
+      "dragon"
+    ]
+  },
+  {
+    "chapter": 29,
+    "step": 3,
+    "species_id": 426,
+    "pokemon_id": 426,
+    "name_en": "Drifblim",
+    "name_ko": "둥실라이드",
+    "search": "drifblim",
+    "types": [
+      "ghost",
+      "flying"
+    ]
+  },
+  {
+    "chapter": 29,
+    "step": 4,
+    "species_id": 229,
+    "pokemon_id": 229,
+    "name_en": "Houndoom",
+    "name_ko": "헬가",
+    "search": "houndoom",
+    "types": [
+      "dark",
+      "fire"
+    ]
+  },
+  {
+    "chapter": 30,
+    "step": 1,
+    "species_id": 630,
+    "pokemon_id": 630,
+    "name_en": "Mandibuzz",
+    "name_ko": "버랜지나",
+    "search": "mandibuzz",
+    "types": [
+      "dark",
+      "flying"
+    ]
+  },
+  {
+    "chapter": 30,
+    "step": 2,
+    "species_id": 89,
+    "pokemon_id": 89,
+    "name_en": "Muk",
+    "name_ko": "질뻐기",
+    "search": "muk",
+    "types": [
+      "poison"
+    ]
+  },
+  {
+    "chapter": 30,
+    "step": 3,
+    "species_id": 681,
+    "pokemon_id": 681,
+    "name_en": "Aegislash",
+    "name_ko": "킬가르도",
+    "search": "aegislash",
+    "types": [
+      "steel",
+      "ghost"
+    ]
+  },
+  {
+    "chapter": 30,
+    "step": 4,
+    "species_id": 34,
+    "pokemon_id": 34,
+    "name_en": "Nidoking",
+    "name_ko": "니드킹",
+    "search": "nidoking",
+    "types": [
+      "poison",
+      "ground"
+    ]
+  },
+  {
+    "chapter": 31,
+    "step": 1,
+    "species_id": 904,
+    "pokemon_id": 904,
+    "name_en": "Overqwil",
+    "name_ko": "장침바루",
+    "search": "overqwil",
+    "types": [
+      "dark",
+      "poison"
+    ]
+  },
+  {
+    "chapter": 31,
+    "step": 2,
+    "species_id": 966,
+    "pokemon_id": 966,
+    "name_en": "Revavroom",
+    "name_ko": "부르르룸",
+    "search": "revavroom",
+    "types": [
+      "steel",
+      "poison"
+    ]
+  },
+  {
+    "chapter": 31,
+    "step": 3,
+    "species_id": 1013,
+    "pokemon_id": 1013,
+    "name_en": "Sinistcha",
+    "name_ko": "그우린차",
+    "search": "sinistcha",
+    "types": [
+      "grass",
+      "ghost"
+    ]
+  },
+  {
+    "chapter": 31,
+    "step": 4,
+    "species_id": 461,
+    "pokemon_id": 461,
+    "name_en": "Weavile",
+    "name_ko": "포푸니라",
+    "search": "weavile",
+    "types": [
+      "dark",
+      "ice"
+    ]
+  },
+  {
+    "chapter": 32,
+    "step": 1,
+    "species_id": 862,
+    "pokemon_id": 862,
+    "name_en": "Obstagoon",
+    "name_ko": "가로막구리",
+    "search": "obstagoon",
+    "types": [
+      "dark",
+      "normal"
+    ]
+  },
+  {
+    "chapter": 32,
+    "step": 2,
+    "species_id": 34,
+    "pokemon_id": 34,
+    "name_en": "Nidoking",
+    "name_ko": "니드킹",
+    "search": "nidoking",
+    "types": [
+      "poison",
+      "ground"
+    ]
+  },
+  {
+    "chapter": 32,
+    "step": 3,
+    "species_id": 864,
+    "pokemon_id": 864,
+    "name_en": "Cursola",
+    "name_ko": "산호르곤",
+    "search": "cursola",
+    "types": [
+      "ghost"
+    ]
+  },
+  {
+    "chapter": 32,
+    "step": 4,
+    "species_id": 903,
+    "pokemon_id": 903,
+    "name_en": "Sneasler",
+    "name_ko": "포푸니크",
+    "search": "sneasler",
+    "types": [
+      "fighting",
+      "poison"
+    ]
+  },
+  {
+    "chapter": 33,
+    "step": 1,
+    "species_id": 986,
+    "pokemon_id": 986,
+    "name_en": "Brute Bonnet",
+    "name_ko": "사나운버섯",
+    "search": "brute bonnet",
+    "types": [
+      "grass",
+      "dark"
+    ]
+  },
+  {
+    "chapter": 33,
+    "step": 2,
+    "species_id": 904,
+    "pokemon_id": 904,
+    "name_en": "Overqwil",
+    "name_ko": "장침바루",
+    "search": "overqwil",
+    "types": [
+      "dark",
+      "poison"
+    ]
+  },
+  {
+    "chapter": 33,
+    "step": 3,
+    "species_id": 902,
+    "pokemon_id": 902,
+    "name_en": "Basculegion",
+    "name_ko": "대쓰여너",
+    "search": "basculegion",
+    "types": [
+      "water",
+      "ghost"
+    ]
+  },
+  {
+    "chapter": 33,
+    "step": 4,
+    "species_id": 804,
+    "pokemon_id": 804,
+    "name_en": "Naganadel",
+    "name_ko": "아고용",
+    "search": "naganadel",
+    "types": [
+      "poison",
+      "dragon"
+    ]
+  }
+]

@@ -704,7 +704,7 @@ export const chapter6 = {
         {
           id: 'c6s5-teach',
           kind: 'teach',
-          instructionKo: '세 히어로가 합체해요! 먼저 fit을 만들어요.',
+          instructionKo: '히어로가 합체해요! 먼저 fit을 만들어요.',
           repeatAudio: ['fff', 'ihh', 'tuh', 'fit'],
         },
         {

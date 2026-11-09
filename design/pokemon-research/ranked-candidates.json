@@ -1,0 +1,2274 @@
+[
+  {
+    "rank": 1,
+    "source_dex": 658,
+    "name_ko": "개굴닌자",
+    "champion_percent": "16.99",
+    "win_percent": "75.65",
+    "species_id": 658,
+    "mapping_note": null,
+    "pokemon_id": 658,
+    "slug": "greninja",
+    "types": [
+      "water",
+      "dark"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 2,
+    "root_can_evolve": true,
+    "evolves_from": {
+      "name": "frogadier",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/657/"
+    },
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/658/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/658/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/339/"
+  },
+  {
+    "rank": 2,
+    "source_dex": 493,
+    "name_ko": "아르세우스",
+    "champion_percent": "10.82",
+    "win_percent": "72.17",
+    "species_id": 493,
+    "mapping_note": null,
+    "pokemon_id": 493,
+    "slug": "arceus",
+    "types": [
+      "normal"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": true,
+    "evolution_depth": 0,
+    "root_can_evolve": false,
+    "evolves_from": null,
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/493/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/493/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/254/"
+  },
+  {
+    "rank": 3,
+    "source_dex": 384,
+    "name_ko": "레쿠쟈",
+    "champion_percent": "8.55",
+    "win_percent": "72.07",
+    "species_id": 384,
+    "mapping_note": null,
+    "pokemon_id": 384,
+    "slug": "rayquaza",
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "default": true,
+    "legendary": true,
+    "mythical": false,
+    "evolution_depth": 0,
+    "root_can_evolve": false,
+    "evolves_from": null,
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/384.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/384/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/384/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/200/"
+  },
+  {
+    "rank": 4,
+    "source_dex": 888,
+    "name_ko": "자시안",
+    "champion_percent": "6.46",
+    "win_percent": "65.77",
+    "species_id": 888,
+    "mapping_note": null,
+    "pokemon_id": 888,
+    "slug": "zacian",
+    "types": [
+      "fairy"
+    ],
+    "default": true,
+    "legendary": true,
+    "mythical": false,
+    "evolution_depth": 0,
+    "root_can_evolve": false,
+    "evolves_from": null,
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/888.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/888/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/888/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/467/"
+  },
+  {
+    "rank": 5,
+    "source_dex": 25,
+    "name_ko": "피카츄",
+    "champion_percent": "6.09",
+    "win_percent": "64.65",
+    "species_id": 25,
+    "mapping_note": null,
+    "pokemon_id": 25,
+    "slug": "pikachu",
+    "types": [
+      "electric"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 1,
+    "root_can_evolve": true,
+    "evolves_from": {
+      "name": "pichu",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/172/"
+    },
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/25/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/25/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/10/"
+  },
+  {
+    "rank": 6,
+    "source_dex": 6,
+    "name_ko": "리자몽",
+    "champion_percent": "6.01",
+    "win_percent": "67.60",
+    "species_id": 6,
+    "mapping_note": null,
+    "pokemon_id": 6,
+    "slug": "charizard",
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 2,
+    "root_can_evolve": true,
+    "evolves_from": {
+      "name": "charmeleon",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/5/"
+    },
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/6/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/6/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/2/"
+  },
+  {
+    "rank": 7,
+    "source_dex": 448,
+    "name_ko": "루카리오",
+    "champion_percent": "5.98",
+    "win_percent": "68.84",
+    "species_id": 448,
+    "mapping_note": null,
+    "pokemon_id": 448,
+    "slug": "lucario",
+    "types": [
+      "fighting",
+      "steel"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 1,
+    "root_can_evolve": true,
+    "evolves_from": {
+      "name": "riolu",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/447/"
+    },
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/448/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/448/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/232/"
+  },
+  {
+    "rank": 8,
+    "source_dex": 643,
+    "name_ko": "레시라무",
+    "champion_percent": "5.80",
+    "win_percent": "68.44",
+    "species_id": 643,
+    "mapping_note": null,
+    "pokemon_id": 643,
+    "slug": "reshiram",
+    "types": [
+      "dragon",
+      "fire"
+    ],
+    "default": true,
+    "legendary": true,
+    "mythical": false,
+    "evolution_depth": 0,
+    "root_can_evolve": false,
+    "evolves_from": null,
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/643.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/643/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/643/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/330/"
+  },
+  {
+    "rank": 9,
+    "source_dex": 644,
+    "name_ko": "제크로무",
+    "champion_percent": "4.93",
+    "win_percent": "66.63",
+    "species_id": 644,
+    "mapping_note": null,
+    "pokemon_id": 644,
+    "slug": "zekrom",
+    "types": [
+      "dragon",
+      "electric"
+    ],
+    "default": true,
+    "legendary": true,
+    "mythical": false,
+    "evolution_depth": 0,
+    "root_can_evolve": false,
+    "evolves_from": null,
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/644.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/644/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/644/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/331/"
+  },
+  {
+    "rank": 10,
+    "source_dex": 150,
+    "name_ko": "뮤츠",
+    "champion_percent": "3.96",
+    "win_percent": "63.45",
+    "species_id": 150,
+    "mapping_note": null,
+    "pokemon_id": 150,
+    "slug": "mewtwo",
+    "types": [
+      "psychic"
+    ],
+    "default": true,
+    "legendary": true,
+    "mythical": false,
+    "evolution_depth": 0,
+    "root_can_evolve": false,
+    "evolves_from": null,
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/150/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/150/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/77/"
+  },
+  {
+    "rank": 11,
+    "source_dex": 151,
+    "name_ko": "뮤",
+    "champion_percent": "3.97",
+    "win_percent": "63.82",
+    "species_id": 151,
+    "mapping_note": null,
+    "pokemon_id": 151,
+    "slug": "mew",
+    "types": [
+      "psychic"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": true,
+    "evolution_depth": 0,
+    "root_can_evolve": false,
+    "evolves_from": null,
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/151.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/151/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/151/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/78/"
+  },
+  {
+    "rank": 12,
+    "source_dex": 491,
+    "name_ko": "다크라이",
+    "champion_percent": "3.74",
+    "win_percent": "64.73",
+    "species_id": 491,
+    "mapping_note": null,
+    "pokemon_id": 491,
+    "slug": "darkrai",
+    "types": [
+      "dark"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": true,
+    "evolution_depth": 0,
+    "root_can_evolve": false,
+    "evolves_from": null,
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/491/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/491/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/252/"
+  },
+  {
+    "rank": 13,
+    "source_dex": 700,
+    "name_ko": "님피아",
+    "champion_percent": "3.62",
+    "win_percent": "59.29",
+    "species_id": 700,
+    "mapping_note": null,
+    "pokemon_id": 700,
+    "slug": "sylveon",
+    "types": [
+      "fairy"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 1,
+    "root_can_evolve": true,
+    "evolves_from": {
+      "name": "eevee",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/133/"
+    },
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/700.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/700/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/700/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/67/"
+  },
+  {
+    "rank": 14,
+    "source_dex": 445,
+    "name_ko": "한카리아스",
+    "champion_percent": "3.43",
+    "win_percent": "63.68",
+    "species_id": 445,
+    "mapping_note": null,
+    "pokemon_id": 445,
+    "slug": "garchomp",
+    "types": [
+      "dragon",
+      "ground"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 2,
+    "root_can_evolve": true,
+    "evolves_from": {
+      "name": "gabite",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/444/"
+    },
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/445.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/445/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/445/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/230/"
+  },
+  {
+    "rank": 15,
+    "source_dex": 807,
+    "name_ko": "제라오라",
+    "champion_percent": "3.31",
+    "win_percent": "57.50",
+    "species_id": 807,
+    "mapping_note": null,
+    "pokemon_id": 807,
+    "slug": "zeraora",
+    "types": [
+      "electric"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": true,
+    "evolution_depth": 0,
+    "root_can_evolve": false,
+    "evolves_from": null,
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/807.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/807/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/807/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/427/"
+  },
+  {
+    "rank": 16,
+    "source_dex": 487,
+    "name_ko": "기라티나",
+    "champion_percent": "2.99",
+    "win_percent": "62.83",
+    "species_id": 487,
+    "mapping_note": null,
+    "pokemon_id": 487,
+    "slug": "giratina-altered",
+    "types": [
+      "ghost",
+      "dragon"
+    ],
+    "default": true,
+    "legendary": true,
+    "mythical": false,
+    "evolution_depth": 0,
+    "root_can_evolve": false,
+    "evolves_from": null,
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/487/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/487/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/248/"
+  },
+  {
+    "rank": 17,
+    "source_dex": 94,
+    "name_ko": "팬텀",
+    "champion_percent": "2.88",
+    "win_percent": "58.64",
+    "species_id": 94,
+    "mapping_note": null,
+    "pokemon_id": 94,
+    "slug": "gengar",
+    "types": [
+      "ghost",
+      "poison"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 2,
+    "root_can_evolve": true,
+    "evolves_from": {
+      "name": "haunter",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/93/"
+    },
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/94/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/94/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/40/"
+  },
+  {
+    "rank": 18,
+    "source_dex": 778,
+    "name_ko": "따라큐",
+    "champion_percent": "2.61",
+    "win_percent": "55.08",
+    "species_id": 778,
+    "mapping_note": null,
+    "pokemon_id": 778,
+    "slug": "mimikyu-disguised",
+    "types": [
+      "ghost",
+      "fairy"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 0,
+    "root_can_evolve": false,
+    "evolves_from": null,
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/778.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/778/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/778/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/404/"
+  },
+  {
+    "rank": 19,
+    "source_dex": 282,
+    "name_ko": "가디안",
+    "champion_percent": "2.57",
+    "win_percent": "56.96",
+    "species_id": 282,
+    "mapping_note": null,
+    "pokemon_id": 282,
+    "slug": "gardevoir",
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 2,
+    "root_can_evolve": true,
+    "evolves_from": {
+      "name": "kirlia",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/281/"
+    },
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/282.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/282/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/282/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/140/"
+  },
+  {
+    "rank": 20,
+    "source_dex": 745,
+    "name_ko": "루가루암",
+    "champion_percent": "2.33",
+    "win_percent": "55.01",
+    "species_id": 745,
+    "mapping_note": null,
+    "pokemon_id": 745,
+    "slug": "lycanroc-midday",
+    "types": [
+      "rock"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 1,
+    "root_can_evolve": true,
+    "evolves_from": {
+      "name": "rockruff",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/744/"
+    },
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/745.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/745/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/745/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/383/"
+  },
+  {
+    "rank": 21,
+    "source_dex": 143,
+    "name_ko": "잠만보",
+    "champion_percent": "2.16",
+    "win_percent": "53.29",
+    "species_id": 143,
+    "mapping_note": null,
+    "pokemon_id": 143,
+    "slug": "snorlax",
+    "types": [
+      "normal"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 1,
+    "root_can_evolve": true,
+    "evolves_from": {
+      "name": "munchlax",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/446/"
+    },
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/143/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/143/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/72/"
+  },
+  {
+    "rank": 22,
+    "source_dex": 722,
+    "name_ko": "나몰빼미",
+    "champion_percent": "2.09",
+    "win_percent": "49.15",
+    "species_id": 722,
+    "mapping_note": null,
+    "pokemon_id": 722,
+    "slug": "rowlet",
+    "types": [
+      "grass",
+      "flying"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 0,
+    "root_can_evolve": true,
+    "evolves_from": null,
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/722.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/722/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/722/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/374/"
+  },
+  {
+    "rank": 23,
+    "source_dex": 702,
+    "name_ko": "데덴네",
+    "champion_percent": "1.98",
+    "win_percent": "46.34",
+    "species_id": 702,
+    "mapping_note": null,
+    "pokemon_id": 702,
+    "slug": "dedenne",
+    "types": [
+      "electric",
+      "fairy"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 0,
+    "root_can_evolve": false,
+    "evolves_from": null,
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/702.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/702/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/702/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/360/"
+  },
+  {
+    "rank": 24,
+    "source_dex": 133,
+    "name_ko": "이브이",
+    "champion_percent": "1.98",
+    "win_percent": "54.11",
+    "species_id": 133,
+    "mapping_note": null,
+    "pokemon_id": 133,
+    "slug": "eevee",
+    "types": [
+      "normal"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 0,
+    "root_can_evolve": true,
+    "evolves_from": null,
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/133/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/133/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/67/"
+  },
+  {
+    "rank": 25,
+    "source_dex": 393,
+    "name_ko": "팽도리",
+    "champion_percent": "1.85",
+    "win_percent": "50.10",
+    "species_id": 393,
+    "mapping_note": null,
+    "pokemon_id": 393,
+    "slug": "piplup",
+    "types": [
+      "water"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 0,
+    "root_can_evolve": true,
+    "evolves_from": null,
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/393.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/393/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/393/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/205/"
+  },
+  {
+    "rank": 26,
+    "source_dex": 149,
+    "name_ko": "망나뇽",
+    "champion_percent": "1.80",
+    "win_percent": "58.09",
+    "species_id": 149,
+    "mapping_note": null,
+    "pokemon_id": 149,
+    "slug": "dragonite",
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 2,
+    "root_can_evolve": true,
+    "evolves_from": {
+      "name": "dragonair",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/148/"
+    },
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/149/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/149/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/76/"
+  },
+  {
+    "rank": 27,
+    "source_dex": 197,
+    "name_ko": "블래키",
+    "champion_percent": "1.79",
+    "win_percent": "55.08",
+    "species_id": 197,
+    "mapping_note": null,
+    "pokemon_id": 197,
+    "slug": "umbreon",
+    "types": [
+      "dark"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 1,
+    "root_can_evolve": true,
+    "evolves_from": {
+      "name": "eevee",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/133/"
+    },
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/197.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/197/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/197/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/67/"
+  },
+  {
+    "rank": 28,
+    "source_dex": 249,
+    "name_ko": "루기아",
+    "champion_percent": "1.77",
+    "win_percent": "61.17",
+    "species_id": 249,
+    "mapping_note": null,
+    "pokemon_id": 249,
+    "slug": "lugia",
+    "types": [
+      "psychic",
+      "flying"
+    ],
+    "default": true,
+    "legendary": true,
+    "mythical": false,
+    "evolution_depth": 0,
+    "root_can_evolve": false,
+    "evolves_from": null,
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/249.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/249/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/249/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/127/"
+  },
+  {
+    "rank": 29,
+    "source_dex": 7,
+    "name_ko": "꼬부기",
+    "champion_percent": "1.56",
+    "win_percent": "51.60",
+    "species_id": 7,
+    "mapping_note": null,
+    "pokemon_id": 7,
+    "slug": "squirtle",
+    "types": [
+      "water"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 0,
+    "root_can_evolve": true,
+    "evolves_from": null,
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/7/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/7/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/3/"
+  },
+  {
+    "rank": 30,
+    "source_dex": 392,
+    "name_ko": "초염몽",
+    "champion_percent": "1.53",
+    "win_percent": "49.30",
+    "species_id": 392,
+    "mapping_note": null,
+    "pokemon_id": 392,
+    "slug": "infernape",
+    "types": [
+      "fire",
+      "fighting"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 2,
+    "root_can_evolve": true,
+    "evolves_from": {
+      "name": "monferno",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/391/"
+    },
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/392.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/392/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/392/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/204/"
+  },
+  {
+    "rank": 31,
+    "source_dex": 385,
+    "name_ko": "지라치",
+    "champion_percent": "1.45",
+    "win_percent": "50.46",
+    "species_id": 385,
+    "mapping_note": null,
+    "pokemon_id": 385,
+    "slug": "jirachi",
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": true,
+    "evolution_depth": 0,
+    "root_can_evolve": false,
+    "evolves_from": null,
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/385.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/385/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/385/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/201/"
+  },
+  {
+    "rank": 32,
+    "source_dex": 872,
+    "name_ko": "누니머기",
+    "champion_percent": "1.40",
+    "win_percent": "36.05",
+    "species_id": 872,
+    "mapping_note": null,
+    "pokemon_id": 872,
+    "slug": "snom",
+    "types": [
+      "ice",
+      "bug"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 0,
+    "root_can_evolve": true,
+    "evolves_from": null,
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/872.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/872/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/872/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/455/"
+  },
+  {
+    "rank": 33,
+    "source_dex": 815,
+    "name_ko": "에이스번",
+    "champion_percent": "1.37",
+    "win_percent": "49.61",
+    "species_id": 815,
+    "mapping_note": null,
+    "pokemon_id": 815,
+    "slug": "cinderace",
+    "types": [
+      "fire"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 2,
+    "root_can_evolve": true,
+    "evolves_from": {
+      "name": "raboot",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/814/"
+    },
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/815.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/815/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/815/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/431/"
+  },
+  {
+    "rank": 34,
+    "source_dex": 730,
+    "name_ko": "누리레느",
+    "champion_percent": "1.36",
+    "win_percent": "45.87",
+    "species_id": 730,
+    "mapping_note": null,
+    "pokemon_id": 730,
+    "slug": "primarina",
+    "types": [
+      "water",
+      "fairy"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 2,
+    "root_can_evolve": true,
+    "evolves_from": {
+      "name": "brionne",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/729/"
+    },
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/730.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/730/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/730/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/376/"
+  },
+  {
+    "rank": 35,
+    "source_dex": 835,
+    "name_ko": "멍파치",
+    "champion_percent": "1.33",
+    "win_percent": "40.04",
+    "species_id": 835,
+    "mapping_note": null,
+    "pokemon_id": 835,
+    "slug": "yamper",
+    "types": [
+      "electric"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 0,
+    "root_can_evolve": true,
+    "evolves_from": null,
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/835.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/835/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/835/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/440/"
+  },
+  {
+    "rank": 36,
+    "source_dex": 494,
+    "name_ko": "비크티니",
+    "champion_percent": "1.25",
+    "win_percent": "48.84",
+    "species_id": 494,
+    "mapping_note": null,
+    "pokemon_id": 494,
+    "slug": "victini",
+    "types": [
+      "psychic",
+      "fire"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": true,
+    "evolution_depth": 0,
+    "root_can_evolve": false,
+    "evolves_from": null,
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/494.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/494/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/494/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/255/"
+  },
+  {
+    "rank": 37,
+    "source_dex": 571,
+    "name_ko": "조로아크",
+    "champion_percent": "1.21",
+    "win_percent": "54.50",
+    "species_id": 571,
+    "mapping_note": null,
+    "pokemon_id": 571,
+    "slug": "zoroark",
+    "types": [
+      "dark"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 1,
+    "root_can_evolve": true,
+    "evolves_from": {
+      "name": "zorua",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/570/"
+    },
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/571.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/571/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/571/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/291/"
+  },
+  {
+    "rank": 38,
+    "source_dex": 570,
+    "name_ko": "조로아",
+    "champion_percent": "1.21",
+    "win_percent": "48.33",
+    "species_id": 570,
+    "mapping_note": null,
+    "pokemon_id": 570,
+    "slug": "zorua",
+    "types": [
+      "dark"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 0,
+    "root_can_evolve": true,
+    "evolves_from": null,
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/570.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/570/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/570/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/291/"
+  },
+  {
+    "rank": 39,
+    "source_dex": 501,
+    "name_ko": "수댕이",
+    "champion_percent": "1.21",
+    "win_percent": "43.93",
+    "species_id": 501,
+    "mapping_note": null,
+    "pokemon_id": 501,
+    "slug": "oshawott",
+    "types": [
+      "water"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 0,
+    "root_can_evolve": true,
+    "evolves_from": null,
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/501.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/501/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/501/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/258/"
+  },
+  {
+    "rank": 40,
+    "source_dex": 887,
+    "name_ko": "드래펄트",
+    "champion_percent": "1.13",
+    "win_percent": "48.05",
+    "species_id": 887,
+    "mapping_note": null,
+    "pokemon_id": 887,
+    "slug": "dragapult",
+    "types": [
+      "dragon",
+      "ghost"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 2,
+    "root_can_evolve": true,
+    "evolves_from": {
+      "name": "drakloak",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/886/"
+    },
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/887.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/887/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/887/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/466/"
+  },
+  {
+    "rank": 41,
+    "source_dex": 869,
+    "name_ko": "마휘핑",
+    "champion_percent": "1.04",
+    "win_percent": "37.46",
+    "species_id": 869,
+    "mapping_note": null,
+    "pokemon_id": 869,
+    "slug": "alcremie",
+    "types": [
+      "fairy"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 1,
+    "root_can_evolve": true,
+    "evolves_from": {
+      "name": "milcery",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/868/"
+    },
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/869.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/869/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/869/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/452/"
+  },
+  {
+    "rank": 42,
+    "source_dex": 471,
+    "name_ko": "글레이시아",
+    "champion_percent": "1.01",
+    "win_percent": "45.66",
+    "species_id": 471,
+    "mapping_note": null,
+    "pokemon_id": 471,
+    "slug": "glaceon",
+    "types": [
+      "ice"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 1,
+    "root_can_evolve": true,
+    "evolves_from": {
+      "name": "eevee",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/133/"
+    },
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/471.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/471/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/471/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/67/"
+  },
+  {
+    "rank": 43,
+    "source_dex": 1,
+    "name_ko": "이상해씨",
+    "champion_percent": "1.00",
+    "win_percent": "47.07",
+    "species_id": 1,
+    "mapping_note": null,
+    "pokemon_id": 1,
+    "slug": "bulbasaur",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 0,
+    "root_can_evolve": true,
+    "evolves_from": null,
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/1/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/1/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/1/"
+  },
+  {
+    "rank": 44,
+    "source_dex": 258,
+    "name_ko": "물짱이",
+    "champion_percent": "0.95",
+    "win_percent": "41.63",
+    "species_id": 258,
+    "mapping_note": null,
+    "pokemon_id": 258,
+    "slug": "mudkip",
+    "types": [
+      "water"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 0,
+    "root_can_evolve": true,
+    "evolves_from": null,
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/258.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/258/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/258/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/132/"
+  },
+  {
+    "rank": 45,
+    "source_dex": 257,
+    "name_ko": "번치코",
+    "champion_percent": "0.83",
+    "win_percent": "50.19",
+    "species_id": 257,
+    "mapping_note": null,
+    "pokemon_id": 257,
+    "slug": "blaziken",
+    "types": [
+      "fire",
+      "fighting"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 2,
+    "root_can_evolve": true,
+    "evolves_from": {
+      "name": "combusken",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/256/"
+    },
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/257.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/257/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/257/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/131/"
+  },
+  {
+    "rank": 46,
+    "source_dex": 212,
+    "name_ko": "핫삼",
+    "champion_percent": "0.74",
+    "win_percent": "48.66",
+    "species_id": 212,
+    "mapping_note": null,
+    "pokemon_id": 212,
+    "slug": "scizor",
+    "types": [
+      "bug",
+      "steel"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 1,
+    "root_can_evolve": true,
+    "evolves_from": {
+      "name": "scyther",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/123/"
+    },
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/212.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/212/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/212/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/58/"
+  },
+  {
+    "rank": 47,
+    "source_dex": 245,
+    "name_ko": "스이쿤",
+    "champion_percent": "0.70",
+    "win_percent": "50.10",
+    "species_id": 245,
+    "mapping_note": null,
+    "pokemon_id": 245,
+    "slug": "suicune",
+    "types": [
+      "water"
+    ],
+    "default": true,
+    "legendary": true,
+    "mythical": false,
+    "evolution_depth": 0,
+    "root_can_evolve": false,
+    "evolves_from": null,
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/245.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/245/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/245/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/125/"
+  },
+  {
+    "rank": 48,
+    "source_dex": 724,
+    "name_ko": "모크나이퍼",
+    "champion_percent": "0.70",
+    "win_percent": "43.14",
+    "species_id": 724,
+    "mapping_note": null,
+    "pokemon_id": 724,
+    "slug": "decidueye",
+    "types": [
+      "grass",
+      "ghost"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 2,
+    "root_can_evolve": true,
+    "evolves_from": {
+      "name": "dartrix",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/723/"
+    },
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/724.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/724/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/724/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/374/"
+  },
+  {
+    "rank": 49,
+    "source_dex": 134,
+    "name_ko": "샤미드",
+    "champion_percent": "0.69",
+    "win_percent": "43.39",
+    "species_id": 134,
+    "mapping_note": null,
+    "pokemon_id": 134,
+    "slug": "vaporeon",
+    "types": [
+      "water"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 1,
+    "root_can_evolve": true,
+    "evolves_from": {
+      "name": "eevee",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/133/"
+    },
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/134/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/134/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/67/"
+  },
+  {
+    "rank": 50,
+    "source_dex": 376,
+    "name_ko": "메타그로스",
+    "champion_percent": "0.66",
+    "win_percent": "49.41",
+    "species_id": 376,
+    "mapping_note": null,
+    "pokemon_id": 376,
+    "slug": "metagross",
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 2,
+    "root_can_evolve": true,
+    "evolves_from": {
+      "name": "metang",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/375/"
+    },
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/376.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/376/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/376/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/192/"
+  },
+  {
+    "rank": 51,
+    "source_dex": 131,
+    "name_ko": "라프라스",
+    "champion_percent": "0.65",
+    "win_percent": "47.44",
+    "species_id": 131,
+    "mapping_note": null,
+    "pokemon_id": 131,
+    "slug": "lapras",
+    "types": [
+      "water",
+      "ice"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 0,
+    "root_can_evolve": false,
+    "evolves_from": null,
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/131/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/131/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/65/"
+  },
+  {
+    "rank": 52,
+    "source_dex": 635,
+    "name_ko": "삼삼드래",
+    "champion_percent": "0.65",
+    "win_percent": "46.17",
+    "species_id": 635,
+    "mapping_note": null,
+    "pokemon_id": 635,
+    "slug": "hydreigon",
+    "types": [
+      "dark",
+      "dragon"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 2,
+    "root_can_evolve": true,
+    "evolves_from": {
+      "name": "zweilous",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/634/"
+    },
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/635.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/635/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/635/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/323/"
+  },
+  {
+    "rank": 53,
+    "source_dex": 495,
+    "name_ko": "주리비얀",
+    "champion_percent": "0.61",
+    "win_percent": "35.19",
+    "species_id": 495,
+    "mapping_note": null,
+    "pokemon_id": 495,
+    "slug": "snivy",
+    "types": [
+      "grass"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 0,
+    "root_can_evolve": true,
+    "evolves_from": null,
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/495.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/495/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/495/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/256/"
+  },
+  {
+    "rank": 54,
+    "source_dex": 196,
+    "name_ko": "에브이",
+    "champion_percent": "0.59",
+    "win_percent": "43.18",
+    "species_id": 196,
+    "mapping_note": null,
+    "pokemon_id": 196,
+    "slug": "espeon",
+    "types": [
+      "psychic"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 1,
+    "root_can_evolve": true,
+    "evolves_from": {
+      "name": "eevee",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/133/"
+    },
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/196.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/196/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/196/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/67/"
+  },
+  {
+    "rank": 55,
+    "source_dex": 248,
+    "name_ko": "마기라스",
+    "champion_percent": "0.56",
+    "win_percent": "50.77",
+    "species_id": 248,
+    "mapping_note": null,
+    "pokemon_id": 248,
+    "slug": "tyranitar",
+    "types": [
+      "rock",
+      "dark"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 2,
+    "root_can_evolve": true,
+    "evolves_from": {
+      "name": "pupitar",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/247/"
+    },
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/248.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/248/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/248/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/126/"
+  },
+  {
+    "rank": 56,
+    "source_dex": 706,
+    "name_ko": "미끄래곤",
+    "champion_percent": "0.54",
+    "win_percent": "37.49",
+    "species_id": 706,
+    "mapping_note": null,
+    "pokemon_id": 706,
+    "slug": "goodra",
+    "types": [
+      "dragon"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 2,
+    "root_can_evolve": true,
+    "evolves_from": {
+      "name": "sliggoo",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/705/"
+    },
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/706.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/706/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/706/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/362/"
+  },
+  {
+    "rank": 57,
+    "source_dex": 497,
+    "name_ko": "샤로다",
+    "champion_percent": "0.52",
+    "win_percent": "39.52",
+    "species_id": 497,
+    "mapping_note": null,
+    "pokemon_id": 497,
+    "slug": "serperior",
+    "types": [
+      "grass"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 2,
+    "root_can_evolve": true,
+    "evolves_from": {
+      "name": "servine",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/496/"
+    },
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/497.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/497/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/497/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/256/"
+  },
+  {
+    "rank": 58,
+    "source_dex": 768,
+    "name_ko": "갑주무사",
+    "champion_percent": "0.52",
+    "win_percent": "33.08",
+    "species_id": 768,
+    "mapping_note": null,
+    "pokemon_id": 768,
+    "slug": "golisopod",
+    "types": [
+      "bug",
+      "water"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 1,
+    "root_can_evolve": true,
+    "evolves_from": {
+      "name": "wimpod",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/767/"
+    },
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/768.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/768/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/768/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/396/"
+  },
+  {
+    "rank": 59,
+    "source_dex": 681,
+    "name_ko": "샹델라",
+    "champion_percent": "0.51",
+    "win_percent": "36.51",
+    "species_id": 609,
+    "mapping_note": "Source number/name conflict; corrected by Korean species name",
+    "pokemon_id": 609,
+    "slug": "chandelure",
+    "types": [
+      "ghost",
+      "fire"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 2,
+    "root_can_evolve": true,
+    "evolves_from": {
+      "name": "lampent",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/608/"
+    },
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/609.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/609/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/609/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/308/"
+  },
+  {
+    "rank": 60,
+    "source_dex": 254,
+    "name_ko": "나무킹",
+    "champion_percent": "0.50",
+    "win_percent": "41.56",
+    "species_id": 254,
+    "mapping_note": null,
+    "pokemon_id": 254,
+    "slug": "sceptile",
+    "types": [
+      "grass"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 2,
+    "root_can_evolve": true,
+    "evolves_from": {
+      "name": "grovyle",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/253/"
+    },
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/254.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/254/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/254/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/130/"
+  },
+  {
+    "rank": 61,
+    "source_dex": 38,
+    "name_ko": "나인테일",
+    "champion_percent": "0.48",
+    "win_percent": "38.94",
+    "species_id": 38,
+    "mapping_note": null,
+    "pokemon_id": 38,
+    "slug": "ninetales",
+    "types": [
+      "fire"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 1,
+    "root_can_evolve": true,
+    "evolves_from": {
+      "name": "vulpix",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/37/"
+    },
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/38.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/38/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/38/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/15/"
+  },
+  {
+    "rank": 62,
+    "source_dex": 405,
+    "name_ko": "렌트라",
+    "champion_percent": "0.46",
+    "win_percent": "43.91",
+    "species_id": 405,
+    "mapping_note": null,
+    "pokemon_id": 405,
+    "slug": "luxray",
+    "types": [
+      "electric"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 2,
+    "root_can_evolve": true,
+    "evolves_from": {
+      "name": "luxio",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/404/"
+    },
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/405.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/405/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/405/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/209/"
+  },
+  {
+    "rank": 63,
+    "source_dex": 359,
+    "name_ko": "앱솔",
+    "champion_percent": "0.46",
+    "win_percent": "41.95",
+    "species_id": 359,
+    "mapping_note": null,
+    "pokemon_id": 359,
+    "slug": "absol",
+    "types": [
+      "dark"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 0,
+    "root_can_evolve": false,
+    "evolves_from": null,
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/359.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/359/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/359/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/185/"
+  },
+  {
+    "rank": 64,
+    "source_dex": 155,
+    "name_ko": "브케인",
+    "champion_percent": "0.46",
+    "win_percent": "39.64",
+    "species_id": 155,
+    "mapping_note": null,
+    "pokemon_id": 155,
+    "slug": "cyndaquil",
+    "types": [
+      "fire"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 0,
+    "root_can_evolve": true,
+    "evolves_from": null,
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/155.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/155/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/155/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/80/"
+  },
+  {
+    "rank": 65,
+    "source_dex": 9,
+    "name_ko": "거북왕",
+    "champion_percent": "0.45",
+    "win_percent": "46.72",
+    "species_id": 9,
+    "mapping_note": null,
+    "pokemon_id": 9,
+    "slug": "blastoise",
+    "types": [
+      "water"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 2,
+    "root_can_evolve": true,
+    "evolves_from": {
+      "name": "wartortle",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/8/"
+    },
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/9/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/9/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/3/"
+  },
+  {
+    "rank": 66,
+    "source_dex": 612,
+    "name_ko": "액스라이즈",
+    "champion_percent": "0.45",
+    "win_percent": "42.07",
+    "species_id": 612,
+    "mapping_note": null,
+    "pokemon_id": 612,
+    "slug": "haxorus",
+    "types": [
+      "dragon"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 2,
+    "root_can_evolve": true,
+    "evolves_from": {
+      "name": "fraxure",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/611/"
+    },
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/612.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/612/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/612/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/309/"
+  },
+  {
+    "rank": 67,
+    "source_dex": 727,
+    "name_ko": "어흥염",
+    "champion_percent": "0.43",
+    "win_percent": "39.72",
+    "species_id": 727,
+    "mapping_note": null,
+    "pokemon_id": 727,
+    "slug": "incineroar",
+    "types": [
+      "fire",
+      "dark"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 2,
+    "root_can_evolve": true,
+    "evolves_from": {
+      "name": "torracat",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/726/"
+    },
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/727.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/727/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/727/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/375/"
+  },
+  {
+    "rank": 68,
+    "source_dex": 181,
+    "name_ko": "전룡",
+    "champion_percent": "0.43",
+    "win_percent": "37.01",
+    "species_id": 181,
+    "mapping_note": null,
+    "pokemon_id": 181,
+    "slug": "ampharos",
+    "types": [
+      "electric"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 2,
+    "root_can_evolve": true,
+    "evolves_from": {
+      "name": "flaaffy",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/180/"
+    },
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/181.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/181/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/181/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/89/"
+  },
+  {
+    "rank": 69,
+    "source_dex": 350,
+    "name_ko": "밀로틱",
+    "champion_percent": "0.41",
+    "win_percent": "40.69",
+    "species_id": 350,
+    "mapping_note": null,
+    "pokemon_id": 350,
+    "slug": "milotic",
+    "types": [
+      "water"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 1,
+    "root_can_evolve": true,
+    "evolves_from": {
+      "name": "feebas",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/349/"
+    },
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/350.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/350/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/350/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/178/"
+  },
+  {
+    "rank": 70,
+    "source_dex": 849,
+    "name_ko": "스트린더",
+    "champion_percent": "0.41",
+    "win_percent": "29.08",
+    "species_id": 849,
+    "mapping_note": null,
+    "pokemon_id": 849,
+    "slug": "toxtricity-amped",
+    "types": [
+      "electric",
+      "poison"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 1,
+    "root_can_evolve": true,
+    "evolves_from": {
+      "name": "toxel",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/848/"
+    },
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/849.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/849/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/849/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/446/"
+  },
+  {
+    "rank": 71,
+    "source_dex": 373,
+    "name_ko": "보만다",
+    "champion_percent": "0.39",
+    "win_percent": "45.68",
+    "species_id": 373,
+    "mapping_note": null,
+    "pokemon_id": 373,
+    "slug": "salamence",
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 2,
+    "root_can_evolve": true,
+    "evolves_from": {
+      "name": "shelgon",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/372/"
+    },
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/373.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/373/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/373/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/191/"
+  },
+  {
+    "rank": 72,
+    "source_dex": 59,
+    "name_ko": "윈디",
+    "champion_percent": "0.39",
+    "win_percent": "40.75",
+    "species_id": 59,
+    "mapping_note": null,
+    "pokemon_id": 59,
+    "slug": "arcanine",
+    "types": [
+      "fire"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 1,
+    "root_can_evolve": true,
+    "evolves_from": {
+      "name": "growlithe",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/58/"
+    },
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/59/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/59/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/25/"
+  },
+  {
+    "rank": 73,
+    "source_dex": 823,
+    "name_ko": "아머까오",
+    "champion_percent": "0.39",
+    "win_percent": "37.65",
+    "species_id": 823,
+    "mapping_note": null,
+    "pokemon_id": 823,
+    "slug": "corviknight",
+    "types": [
+      "flying",
+      "steel"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 2,
+    "root_can_evolve": true,
+    "evolves_from": {
+      "name": "corvisquire",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/822/"
+    },
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/823.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/823/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/823/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/434/"
+  },
+  {
+    "rank": 74,
+    "source_dex": 547,
+    "name_ko": "엘풍",
+    "champion_percent": "0.39",
+    "win_percent": "31.70",
+    "species_id": 547,
+    "mapping_note": null,
+    "pokemon_id": 547,
+    "slug": "whimsicott",
+    "types": [
+      "grass",
+      "fairy"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 1,
+    "root_can_evolve": true,
+    "evolves_from": {
+      "name": "cottonee",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/546/"
+    },
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/547.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/547/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/547/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/278/"
+  },
+  {
+    "rank": 75,
+    "source_dex": 553,
+    "name_ko": "악비아르",
+    "champion_percent": "0.39",
+    "win_percent": "29.80",
+    "species_id": 553,
+    "mapping_note": null,
+    "pokemon_id": 553,
+    "slug": "krookodile",
+    "types": [
+      "ground",
+      "dark"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 2,
+    "root_can_evolve": true,
+    "evolves_from": {
+      "name": "krokorok",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/552/"
+    },
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/553.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/553/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/553/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/281/"
+  },
+  {
+    "rank": 76,
+    "source_dex": 395,
+    "name_ko": "엠페르트",
+    "champion_percent": "0.38",
+    "win_percent": "40.16",
+    "species_id": 395,
+    "mapping_note": null,
+    "pokemon_id": 395,
+    "slug": "empoleon",
+    "types": [
+      "water",
+      "steel"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 2,
+    "root_can_evolve": true,
+    "evolves_from": {
+      "name": "prinplup",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/394/"
+    },
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/395.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/395/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/395/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/205/"
+  },
+  {
+    "rank": 77,
+    "source_dex": 663,
+    "name_ko": "파이어로",
+    "champion_percent": "0.37",
+    "win_percent": "41.85",
+    "species_id": 663,
+    "mapping_note": null,
+    "pokemon_id": 663,
+    "slug": "talonflame",
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 2,
+    "root_can_evolve": true,
+    "evolves_from": {
+      "name": "fletchinder",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/662/"
+    },
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/663.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/663/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/663/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/341/"
+  },
+  {
+    "rank": 78,
+    "source_dex": 158,
+    "name_ko": "리아코",
+    "champion_percent": "0.37",
+    "win_percent": "34.30",
+    "species_id": 158,
+    "mapping_note": null,
+    "pokemon_id": 158,
+    "slug": "totodile",
+    "types": [
+      "water"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 0,
+    "root_can_evolve": true,
+    "evolves_from": null,
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/158.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/158/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/158/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/81/"
+  },
+  {
+    "rank": 79,
+    "source_dex": 715,
+    "name_ko": "음번",
+    "champion_percent": "0.35",
+    "win_percent": "40.12",
+    "species_id": 715,
+    "mapping_note": null,
+    "pokemon_id": 715,
+    "slug": "noivern",
+    "types": [
+      "flying",
+      "dragon"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 1,
+    "root_can_evolve": true,
+    "evolves_from": {
+      "name": "noibat",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/714/"
+    },
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/715.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/715/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/715/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/367/"
+  },
+  {
+    "rank": 80,
+    "source_dex": 681,
+    "name_ko": "킬가르도",
+    "champion_percent": "0.35",
+    "win_percent": "35.26",
+    "species_id": 681,
+    "mapping_note": null,
+    "pokemon_id": 681,
+    "slug": "aegislash-shield",
+    "types": [
+      "steel",
+      "ghost"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 2,
+    "root_can_evolve": true,
+    "evolves_from": {
+      "name": "doublade",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/680/"
+    },
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/681.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/681/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/681/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/349/"
+  },
+  {
+    "rank": 81,
+    "source_dex": 637,
+    "name_ko": "불카모스",
+    "champion_percent": "0.32",
+    "win_percent": "34.33",
+    "species_id": 637,
+    "mapping_note": null,
+    "pokemon_id": 637,
+    "slug": "volcarona",
+    "types": [
+      "bug",
+      "fire"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 1,
+    "root_can_evolve": true,
+    "evolves_from": {
+      "name": "larvesta",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/636/"
+    },
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/637.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/637/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/637/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/324/"
+  },
+  {
+    "rank": 82,
+    "source_dex": 157,
+    "name_ko": "블레이범",
+    "champion_percent": "0.30",
+    "win_percent": "37.80",
+    "species_id": 157,
+    "mapping_note": null,
+    "pokemon_id": 157,
+    "slug": "typhlosion",
+    "types": [
+      "fire"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 2,
+    "root_can_evolve": true,
+    "evolves_from": {
+      "name": "quilava",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/156/"
+    },
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/157.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/157/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/157/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/80/"
+  },
+  {
+    "rank": 83,
+    "source_dex": 330,
+    "name_ko": "플라이곤",
+    "champion_percent": "0.26",
+    "win_percent": "32.76",
+    "species_id": 330,
+    "mapping_note": null,
+    "pokemon_id": 330,
+    "slug": "flygon",
+    "types": [
+      "ground",
+      "dragon"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 2,
+    "root_can_evolve": true,
+    "evolves_from": {
+      "name": "vibrava",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/329/"
+    },
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/330.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/330/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/330/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/166/"
+  },
+  {
+    "rank": 84,
+    "source_dex": 260,
+    "name_ko": "대짱이",
+    "champion_percent": "0.22",
+    "win_percent": "35.12",
+    "species_id": 260,
+    "mapping_note": null,
+    "pokemon_id": 260,
+    "slug": "swampert",
+    "types": [
+      "water",
+      "ground"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 2,
+    "root_can_evolve": true,
+    "evolves_from": {
+      "name": "marshtomp",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/259/"
+    },
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/260.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/260/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/260/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/132/"
+  },
+  {
+    "rank": 85,
+    "source_dex": 304,
+    "name_ko": "가보리",
+    "champion_percent": "0.22",
+    "win_percent": "24.34",
+    "species_id": 304,
+    "mapping_note": null,
+    "pokemon_id": 304,
+    "slug": "aron",
+    "types": [
+      "steel",
+      "rock"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 0,
+    "root_can_evolve": true,
+    "evolves_from": null,
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/304.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/304/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/304/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/151/"
+  },
+  {
+    "rank": 86,
+    "source_dex": 545,
+    "name_ko": "펜드라",
+    "champion_percent": "0.15",
+    "win_percent": "17.90",
+    "species_id": 545,
+    "mapping_note": null,
+    "pokemon_id": 545,
+    "slug": "scolipede",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "default": true,
+    "legendary": false,
+    "mythical": false,
+    "evolution_depth": 2,
+    "root_can_evolve": true,
+    "evolves_from": {
+      "name": "whirlipede",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/544/"
+    },
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/545.png",
+    "pokemon_url": "https://pokeapi.co/api/v2/pokemon/545/",
+    "species_url": "https://pokeapi.co/api/v2/pokemon-species/545/",
+    "chain_url": "https://pokeapi.co/api/v2/evolution-chain/277/"
+  }
+]

@@ -1270,7 +1270,7 @@ export const chapter31 = {
         {
           "id": "c31s5-teach",
           "kind": "teach",
-          "instructionKo": "세 히어로가 합체해요! 먼저 TWIG을 만들어요.",
+          "instructionKo": "히어로가 합체해요! 먼저 TWIG을 만들어요.",
           "repeatAudio": [
             "tuh",
             "weh",

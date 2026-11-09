@@ -1,0 +1,1391 @@
+{
+  "status": "33 bosses selected; game integration pending",
+  "required_bosses": 33,
+  "remaining_candidates": 40,
+  "additional_exclusions_needed": 0,
+  "ordering": "reverse previously presented top50 order, with Gengar prepended; ascending BST",
+  "fixed_final_boss": {
+    "chapter": 33,
+    "stage": 5,
+    "species_id": 890,
+    "name_ko": "무한다이노"
+  },
+  "fixed_boss_species": [
+    94,
+    890
+  ],
+  "hero_reserved_species": [
+    491,
+    802,
+    892,
+    1000,
+    724,
+    727,
+    908,
+    3,
+    197,
+    937,
+    407
+  ],
+  "hero_pronunciation_review": [
+    {
+      "species_id": 491,
+      "name_en": "Darkrai",
+      "name_ko": "다크라이",
+      "status": "pronunciation evidence pending; no phonics assignment yet"
+    },
+    {
+      "species_id": 802,
+      "name_en": "Marshadow",
+      "name_ko": "마샤도",
+      "status": "pronunciation evidence pending; no phonics assignment yet"
+    },
+    {
+      "species_id": 892,
+      "name_en": "Urshifu",
+      "name_ko": "우라오스",
+      "status": "pronunciation evidence pending; no phonics assignment yet"
+    },
+    {
+      "species_id": 1000,
+      "name_en": "Gholdengo",
+      "name_ko": "타부자고",
+      "status": "pronunciation evidence pending; no phonics assignment yet"
+    },
+    {
+      "species_id": 724,
+      "name_en": "Decidueye",
+      "name_ko": "모크나이퍼",
+      "status": "pronunciation evidence pending; no phonics assignment yet"
+    },
+    {
+      "species_id": 727,
+      "name_en": "Incineroar",
+      "name_ko": "어흥염",
+      "status": "pronunciation evidence pending; no phonics assignment yet"
+    },
+    {
+      "species_id": 908,
+      "name_en": "Meowscarada",
+      "name_ko": "마스카나",
+      "status": "pronunciation evidence pending; no phonics assignment yet"
+    },
+    {
+      "species_id": 3,
+      "name_en": "Venusaur",
+      "name_ko": "이상해꽃",
+      "status": "pronunciation evidence pending; no phonics assignment yet"
+    },
+    {
+      "species_id": 197,
+      "name_en": "Umbreon",
+      "name_ko": "블래키",
+      "status": "pronunciation evidence pending; no phonics assignment yet"
+    },
+    {
+      "species_id": 937,
+      "name_en": "Ceruledge",
+      "name_ko": "파라블레이즈",
+      "status": "pronunciation evidence pending; no phonics assignment yet"
+    },
+    {
+      "species_id": 407,
+      "name_en": "Roserade",
+      "name_ko": "로즈레이드",
+      "status": "pronunciation evidence pending; no phonics assignment yet"
+    }
+  ],
+  "ordered_candidates": [
+    {
+      "species_id": 94,
+      "pokemon_id": 94,
+      "name_en": "Gengar",
+      "name_ko": "팬텀",
+      "search": "gengar",
+      "types": [
+        "ghost",
+        "poison"
+      ],
+      "bst": 500
+    },
+    {
+      "species_id": 73,
+      "pokemon_id": 73,
+      "name_en": "Tentacruel",
+      "name_ko": "독파리",
+      "search": "tentacruel",
+      "types": [
+        "water",
+        "poison"
+      ],
+      "stats": {
+        "1": 80,
+        "2": 70,
+        "3": 65,
+        "4": 80,
+        "5": 120,
+        "6": 100
+      },
+      "bst": 515
+    },
+    {
+      "species_id": 781,
+      "pokemon_id": 781,
+      "name_en": "Dhelmise",
+      "name_ko": "타타륜",
+      "search": "dhelmise",
+      "types": [
+        "ghost",
+        "grass"
+      ],
+      "stats": {
+        "1": 70,
+        "2": 131,
+        "3": 100,
+        "4": 86,
+        "5": 90,
+        "6": 40
+      },
+      "bst": 517
+    },
+    {
+      "species_id": 553,
+      "pokemon_id": 553,
+      "name_en": "Krookodile",
+      "name_ko": "악비아르",
+      "search": "krookodile",
+      "types": [
+        "ground",
+        "dark"
+      ],
+      "stats": {
+        "1": 95,
+        "2": 117,
+        "3": 80,
+        "4": 65,
+        "5": 70,
+        "6": 92
+      },
+      "bst": 519
+    },
+    {
+      "species_id": 862,
+      "pokemon_id": 862,
+      "name_en": "Obstagoon",
+      "name_ko": "가로막구리",
+      "search": "obstagoon",
+      "types": [
+        "dark",
+        "normal"
+      ],
+      "stats": {
+        "1": 93,
+        "2": 90,
+        "3": 101,
+        "4": 60,
+        "5": 81,
+        "6": 95
+      },
+      "bst": 520
+    },
+    {
+      "species_id": 609,
+      "pokemon_id": 609,
+      "name_en": "Chandelure",
+      "name_ko": "샹델라",
+      "search": "chandelure",
+      "types": [
+        "ghost",
+        "fire"
+      ],
+      "stats": {
+        "1": 60,
+        "2": 55,
+        "3": 90,
+        "4": 145,
+        "5": 90,
+        "6": 80
+      },
+      "bst": 520
+    },
+    {
+      "species_id": 970,
+      "pokemon_id": 970,
+      "name_en": "Glimmora",
+      "name_ko": "킬라플로르",
+      "search": "glimmora",
+      "types": [
+        "rock",
+        "poison"
+      ],
+      "stats": {
+        "1": 83,
+        "2": 55,
+        "3": 90,
+        "4": 130,
+        "5": 81,
+        "6": 86
+      },
+      "bst": 525
+    },
+    {
+      "species_id": 477,
+      "pokemon_id": 477,
+      "name_en": "Dusknoir",
+      "name_ko": "야느와르몽",
+      "search": "dusknoir",
+      "types": [
+        "ghost"
+      ],
+      "stats": {
+        "1": 45,
+        "2": 100,
+        "3": 135,
+        "4": 65,
+        "5": 135,
+        "6": 45
+      },
+      "bst": 525
+    },
+    {
+      "species_id": 911,
+      "pokemon_id": 911,
+      "name_en": "Skeledirge",
+      "name_ko": "라우드본",
+      "search": "skeledirge",
+      "types": [
+        "fire",
+        "ghost"
+      ],
+      "stats": {
+        "1": 104,
+        "2": 75,
+        "3": 100,
+        "4": 110,
+        "5": 75,
+        "6": 66
+      },
+      "bst": 530
+    },
+    {
+      "species_id": 902,
+      "pokemon_id": 902,
+      "name_en": "Basculegion",
+      "name_ko": "대쓰여너",
+      "search": "basculegion",
+      "types": [
+        "water",
+        "ghost"
+      ],
+      "stats": {
+        "1": 120,
+        "2": 112,
+        "3": 65,
+        "4": 80,
+        "5": 75,
+        "6": 78
+      },
+      "bst": 530
+    },
+    {
+      "species_id": 979,
+      "pokemon_id": 979,
+      "name_en": "Annihilape",
+      "name_ko": "저승갓숭",
+      "search": "annihilape",
+      "types": [
+        "fighting",
+        "ghost"
+      ],
+      "stats": {
+        "1": 110,
+        "2": 115,
+        "3": 80,
+        "4": 50,
+        "5": 90,
+        "6": 90
+      },
+      "bst": 535
+    },
+    {
+      "species_id": 169,
+      "pokemon_id": 169,
+      "name_en": "Crobat",
+      "name_ko": "크로뱃",
+      "search": "crobat",
+      "types": [
+        "poison",
+        "flying"
+      ],
+      "stats": {
+        "1": 85,
+        "2": 90,
+        "3": 80,
+        "4": 70,
+        "5": 80,
+        "6": 130
+      },
+      "bst": 535
+    },
+    {
+      "species_id": 804,
+      "pokemon_id": 804,
+      "name_en": "Naganadel",
+      "name_ko": "아고용",
+      "search": "naganadel",
+      "types": [
+        "poison",
+        "dragon"
+      ],
+      "stats": {
+        "1": 73,
+        "2": 73,
+        "3": 73,
+        "4": 127,
+        "5": 73,
+        "6": 121
+      },
+      "bst": 540
+    },
+    {
+      "species_id": 983,
+      "pokemon_id": 983,
+      "name_en": "Kingambit",
+      "name_ko": "대도각참",
+      "search": "kingambit",
+      "types": [
+        "dark",
+        "steel"
+      ],
+      "stats": {
+        "1": 100,
+        "2": 135,
+        "3": 120,
+        "4": 60,
+        "5": 85,
+        "6": 50
+      },
+      "bst": 550
+    },
+    {
+      "species_id": 1016,
+      "pokemon_id": 1016,
+      "name_en": "Fezandipiti",
+      "name_ko": "기로치",
+      "search": "fezandipiti",
+      "types": [
+        "poison",
+        "fairy"
+      ],
+      "stats": {
+        "1": 88,
+        "2": 91,
+        "3": 82,
+        "4": 70,
+        "5": 125,
+        "6": 99
+      },
+      "bst": 555
+    },
+    {
+      "species_id": 1015,
+      "pokemon_id": 1015,
+      "name_en": "Munkidori",
+      "name_ko": "이야후",
+      "search": "munkidori",
+      "types": [
+        "poison",
+        "psychic"
+      ],
+      "stats": {
+        "1": 88,
+        "2": 75,
+        "3": 66,
+        "4": 130,
+        "5": 90,
+        "6": 106
+      },
+      "bst": 555
+    },
+    {
+      "species_id": 1014,
+      "pokemon_id": 1014,
+      "name_en": "Okidogi",
+      "name_ko": "조타구",
+      "search": "okidogi",
+      "types": [
+        "poison",
+        "fighting"
+      ],
+      "stats": {
+        "1": 88,
+        "2": 128,
+        "3": 115,
+        "4": 58,
+        "5": 86,
+        "6": 80
+      },
+      "bst": 555
+    },
+    {
+      "species_id": 1004,
+      "pokemon_id": 1004,
+      "name_en": "Chi-Yu",
+      "name_ko": "위유이",
+      "search": "chi-yu",
+      "types": [
+        "dark",
+        "fire"
+      ],
+      "stats": {
+        "1": 55,
+        "2": 80,
+        "3": 80,
+        "4": 135,
+        "5": 120,
+        "6": 100
+      },
+      "bst": 570
+    },
+    {
+      "species_id": 1003,
+      "pokemon_id": 1003,
+      "name_en": "Ting-Lu",
+      "name_ko": "딩루",
+      "search": "ting-lu",
+      "types": [
+        "dark",
+        "ground"
+      ],
+      "stats": {
+        "1": 155,
+        "2": 110,
+        "3": 125,
+        "4": 55,
+        "5": 80,
+        "6": 45
+      },
+      "bst": 570
+    },
+    {
+      "species_id": 1002,
+      "pokemon_id": 1002,
+      "name_en": "Chien-Pao",
+      "name_ko": "파오젠",
+      "search": "chien-pao",
+      "types": [
+        "dark",
+        "ice"
+      ],
+      "stats": {
+        "1": 80,
+        "2": 120,
+        "3": 80,
+        "4": 90,
+        "5": 65,
+        "6": 135
+      },
+      "bst": 570
+    },
+    {
+      "species_id": 1001,
+      "pokemon_id": 1001,
+      "name_en": "Wo-Chien",
+      "name_ko": "총지엔",
+      "search": "wo-chien",
+      "types": [
+        "dark",
+        "grass"
+      ],
+      "stats": {
+        "1": 85,
+        "2": 85,
+        "3": 100,
+        "4": 95,
+        "5": 135,
+        "6": 70
+      },
+      "bst": 570
+    },
+    {
+      "species_id": 994,
+      "pokemon_id": 994,
+      "name_en": "Iron Moth",
+      "name_ko": "무쇠독나방",
+      "search": "iron moth",
+      "types": [
+        "fire",
+        "poison"
+      ],
+      "stats": {
+        "1": 80,
+        "2": 70,
+        "3": 60,
+        "4": 140,
+        "5": 110,
+        "6": 110
+      },
+      "bst": 570
+    },
+    {
+      "species_id": 993,
+      "pokemon_id": 993,
+      "name_en": "Iron Jugulis",
+      "name_ko": "무쇠머리",
+      "search": "iron jugulis",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "stats": {
+        "1": 94,
+        "2": 80,
+        "3": 86,
+        "4": 122,
+        "5": 80,
+        "6": 108
+      },
+      "bst": 570
+    },
+    {
+      "species_id": 987,
+      "pokemon_id": 987,
+      "name_en": "Flutter Mane",
+      "name_ko": "날개치는머리",
+      "search": "flutter mane",
+      "types": [
+        "ghost",
+        "fairy"
+      ],
+      "stats": {
+        "1": 55,
+        "2": 55,
+        "3": 55,
+        "4": 135,
+        "5": 135,
+        "6": 135
+      },
+      "bst": 570
+    },
+    {
+      "species_id": 986,
+      "pokemon_id": 986,
+      "name_en": "Brute Bonnet",
+      "name_ko": "사나운버섯",
+      "search": "brute bonnet",
+      "types": [
+        "grass",
+        "dark"
+      ],
+      "stats": {
+        "1": 111,
+        "2": 127,
+        "3": 99,
+        "4": 79,
+        "5": 99,
+        "6": 55
+      },
+      "bst": 570
+    },
+    {
+      "species_id": 806,
+      "pokemon_id": 806,
+      "name_en": "Blacephalon",
+      "name_ko": "두파팡",
+      "search": "blacephalon",
+      "types": [
+        "fire",
+        "ghost"
+      ],
+      "stats": {
+        "1": 53,
+        "2": 127,
+        "3": 53,
+        "4": 151,
+        "5": 79,
+        "6": 107
+      },
+      "bst": 570
+    },
+    {
+      "species_id": 799,
+      "pokemon_id": 799,
+      "name_en": "Guzzlord",
+      "name_ko": "악식킹",
+      "search": "guzzlord",
+      "types": [
+        "dark",
+        "dragon"
+      ],
+      "stats": {
+        "1": 223,
+        "2": 101,
+        "3": 53,
+        "4": 97,
+        "5": 53,
+        "6": 43
+      },
+      "bst": 570
+    },
+    {
+      "species_id": 793,
+      "pokemon_id": 793,
+      "name_en": "Nihilego",
+      "name_ko": "텅비드",
+      "search": "nihilego",
+      "types": [
+        "rock",
+        "poison"
+      ],
+      "stats": {
+        "1": 109,
+        "2": 53,
+        "3": 47,
+        "4": 127,
+        "5": 131,
+        "6": 103
+      },
+      "bst": 570
+    },
+    {
+      "species_id": 897,
+      "pokemon_id": 897,
+      "name_en": "Spectrier",
+      "name_ko": "레이스포스",
+      "search": "spectrier",
+      "types": [
+        "ghost"
+      ],
+      "stats": {
+        "1": 100,
+        "2": 65,
+        "3": 60,
+        "4": 145,
+        "5": 80,
+        "6": 130
+      },
+      "bst": 580
+    },
+    {
+      "species_id": 1005,
+      "pokemon_id": 1005,
+      "name_en": "Roaring Moon",
+      "name_ko": "고동치는달",
+      "search": "roaring moon",
+      "types": [
+        "dragon",
+        "dark"
+      ],
+      "stats": {
+        "1": 105,
+        "2": 139,
+        "3": 71,
+        "4": 55,
+        "5": 101,
+        "6": 119
+      },
+      "bst": 590
+    },
+    {
+      "species_id": 1025,
+      "pokemon_id": 1025,
+      "name_en": "Pecharunt",
+      "name_ko": "복숭악동",
+      "search": "pecharunt",
+      "types": [
+        "poison",
+        "ghost"
+      ],
+      "stats": {
+        "1": 88,
+        "2": 88,
+        "3": 160,
+        "4": 88,
+        "5": 88,
+        "6": 88
+      },
+      "bst": 600
+    },
+    {
+      "species_id": 893,
+      "pokemon_id": 893,
+      "name_en": "Zarude",
+      "name_ko": "자루도",
+      "search": "zarude",
+      "types": [
+        "dark",
+        "grass"
+      ],
+      "stats": {
+        "1": 105,
+        "2": 120,
+        "3": 105,
+        "4": 70,
+        "5": 95,
+        "6": 105
+      },
+      "bst": 600
+    },
+    {
+      "species_id": 887,
+      "pokemon_id": 887,
+      "name_en": "Dragapult",
+      "name_ko": "드래펄트",
+      "search": "dragapult",
+      "types": [
+        "dragon",
+        "ghost"
+      ],
+      "stats": {
+        "1": 88,
+        "2": 120,
+        "3": 75,
+        "4": 100,
+        "5": 75,
+        "6": 142
+      },
+      "bst": 600
+    },
+    {
+      "species_id": 720,
+      "pokemon_id": 720,
+      "name_en": "Hoopa",
+      "name_ko": "후파",
+      "search": "hoopa",
+      "types": [
+        "psychic",
+        "ghost"
+      ],
+      "stats": {
+        "1": 80,
+        "2": 110,
+        "3": 60,
+        "4": 150,
+        "5": 130,
+        "6": 70
+      },
+      "bst": 600
+    },
+    {
+      "species_id": 635,
+      "pokemon_id": 635,
+      "name_en": "Hydreigon",
+      "name_ko": "삼삼드래",
+      "search": "hydreigon",
+      "types": [
+        "dark",
+        "dragon"
+      ],
+      "stats": {
+        "1": 92,
+        "2": 105,
+        "3": 90,
+        "4": 125,
+        "5": 90,
+        "6": 98
+      },
+      "bst": 600
+    },
+    {
+      "species_id": 248,
+      "pokemon_id": 248,
+      "name_en": "Tyranitar",
+      "name_ko": "마기라스",
+      "search": "tyranitar",
+      "types": [
+        "rock",
+        "dark"
+      ],
+      "stats": {
+        "1": 100,
+        "2": 134,
+        "3": 110,
+        "4": 95,
+        "5": 100,
+        "6": 61
+      },
+      "bst": 600
+    },
+    {
+      "species_id": 792,
+      "pokemon_id": 792,
+      "name_en": "Lunala",
+      "name_ko": "루나아라",
+      "search": "lunala",
+      "types": [
+        "psychic",
+        "ghost"
+      ],
+      "stats": {
+        "1": 137,
+        "2": 113,
+        "3": 89,
+        "4": 137,
+        "5": 107,
+        "6": 97
+      },
+      "bst": 680
+    },
+    {
+      "species_id": 717,
+      "pokemon_id": 717,
+      "name_en": "Yveltal",
+      "name_ko": "이벨타르",
+      "search": "yveltal",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "stats": {
+        "1": 126,
+        "2": 131,
+        "3": 95,
+        "4": 131,
+        "5": 98,
+        "6": 99
+      },
+      "bst": 680
+    },
+    {
+      "species_id": 487,
+      "pokemon_id": 487,
+      "name_en": "Giratina",
+      "name_ko": "기라티나",
+      "search": "giratina",
+      "types": [
+        "ghost",
+        "dragon"
+      ],
+      "stats": {
+        "1": 150,
+        "2": 100,
+        "3": 120,
+        "4": 100,
+        "5": 120,
+        "6": 90
+      },
+      "bst": 680
+    },
+    {
+      "species_id": 890,
+      "pokemon_id": 890,
+      "name_en": "Eternatus",
+      "name_ko": "무한다이노",
+      "search": "eternatus",
+      "types": [
+        "poison",
+        "dragon"
+      ],
+      "stats": {
+        "1": 140,
+        "2": 85,
+        "3": 95,
+        "4": 145,
+        "5": 95,
+        "6": 130
+      },
+      "bst": 690
+    }
+  ],
+  "random_seed": 20261109,
+  "random_exclusions": [
+    {
+      "species_id": 804,
+      "name_ko": "아고용",
+      "bst": 540
+    },
+    {
+      "species_id": 862,
+      "name_ko": "가로막구리",
+      "bst": 520
+    },
+    {
+      "species_id": 887,
+      "name_ko": "드래펄트",
+      "bst": 600
+    },
+    {
+      "species_id": 1002,
+      "name_ko": "파오젠",
+      "bst": 570
+    },
+    {
+      "species_id": 902,
+      "name_ko": "대쓰여너",
+      "bst": 530
+    },
+    {
+      "species_id": 897,
+      "name_ko": "레이스포스",
+      "bst": 580
+    },
+    {
+      "species_id": 986,
+      "name_ko": "사나운버섯",
+      "bst": 570
+    }
+  ],
+  "assignments": [
+    {
+      "chapter": 1,
+      "world": 1,
+      "stage_id": "stage-5",
+      "species_id": 94,
+      "pokemon_id": 94,
+      "name_ko": "팬텀",
+      "name_en": "Gengar",
+      "types": [
+        "ghost",
+        "poison"
+      ],
+      "bst": 500
+    },
+    {
+      "chapter": 2,
+      "world": 1,
+      "stage_id": "c2-stage-5",
+      "species_id": 73,
+      "pokemon_id": 73,
+      "name_ko": "독파리",
+      "name_en": "Tentacruel",
+      "types": [
+        "water",
+        "poison"
+      ],
+      "bst": 515
+    },
+    {
+      "chapter": 3,
+      "world": 1,
+      "stage_id": "c3-stage-5",
+      "species_id": 781,
+      "pokemon_id": 781,
+      "name_ko": "타타륜",
+      "name_en": "Dhelmise",
+      "types": [
+        "ghost",
+        "grass"
+      ],
+      "bst": 517
+    },
+    {
+      "chapter": 4,
+      "world": 1,
+      "stage_id": "c4-stage-5",
+      "species_id": 553,
+      "pokemon_id": 553,
+      "name_ko": "악비아르",
+      "name_en": "Krookodile",
+      "types": [
+        "ground",
+        "dark"
+      ],
+      "bst": 519
+    },
+    {
+      "chapter": 5,
+      "world": 1,
+      "stage_id": "c5-stage-5",
+      "species_id": 609,
+      "pokemon_id": 609,
+      "name_ko": "샹델라",
+      "name_en": "Chandelure",
+      "types": [
+        "ghost",
+        "fire"
+      ],
+      "bst": 520
+    },
+    {
+      "chapter": 6,
+      "world": 1,
+      "stage_id": "c6-stage-5",
+      "species_id": 970,
+      "pokemon_id": 970,
+      "name_ko": "킬라플로르",
+      "name_en": "Glimmora",
+      "types": [
+        "rock",
+        "poison"
+      ],
+      "bst": 525
+    },
+    {
+      "chapter": 7,
+      "world": 1,
+      "stage_id": "c7-stage-5",
+      "species_id": 477,
+      "pokemon_id": 477,
+      "name_ko": "야느와르몽",
+      "name_en": "Dusknoir",
+      "types": [
+        "ghost"
+      ],
+      "bst": 525
+    },
+    {
+      "chapter": 8,
+      "world": 2,
+      "stage_id": "c8-stage-5",
+      "species_id": 911,
+      "pokemon_id": 911,
+      "name_ko": "라우드본",
+      "name_en": "Skeledirge",
+      "types": [
+        "fire",
+        "ghost"
+      ],
+      "bst": 530
+    },
+    {
+      "chapter": 9,
+      "world": 2,
+      "stage_id": "c9-stage-5",
+      "species_id": 979,
+      "pokemon_id": 979,
+      "name_ko": "저승갓숭",
+      "name_en": "Annihilape",
+      "types": [
+        "fighting",
+        "ghost"
+      ],
+      "bst": 535
+    },
+    {
+      "chapter": 10,
+      "world": 2,
+      "stage_id": "c10-stage-5",
+      "species_id": 169,
+      "pokemon_id": 169,
+      "name_ko": "크로뱃",
+      "name_en": "Crobat",
+      "types": [
+        "poison",
+        "flying"
+      ],
+      "bst": 535
+    },
+    {
+      "chapter": 11,
+      "world": 2,
+      "stage_id": "c11-stage-5",
+      "species_id": 983,
+      "pokemon_id": 983,
+      "name_ko": "대도각참",
+      "name_en": "Kingambit",
+      "types": [
+        "dark",
+        "steel"
+      ],
+      "bst": 550
+    },
+    {
+      "chapter": 12,
+      "world": 2,
+      "stage_id": "c12-stage-5",
+      "species_id": 1016,
+      "pokemon_id": 1016,
+      "name_ko": "기로치",
+      "name_en": "Fezandipiti",
+      "types": [
+        "poison",
+        "fairy"
+      ],
+      "bst": 555
+    },
+    {
+      "chapter": 13,
+      "world": 2,
+      "stage_id": "c13-stage-5",
+      "species_id": 1015,
+      "pokemon_id": 1015,
+      "name_ko": "이야후",
+      "name_en": "Munkidori",
+      "types": [
+        "poison",
+        "psychic"
+      ],
+      "bst": 555
+    },
+    {
+      "chapter": 14,
+      "world": 2,
+      "stage_id": "c14-stage-5",
+      "species_id": 1014,
+      "pokemon_id": 1014,
+      "name_ko": "조타구",
+      "name_en": "Okidogi",
+      "types": [
+        "poison",
+        "fighting"
+      ],
+      "bst": 555
+    },
+    {
+      "chapter": 15,
+      "world": 3,
+      "stage_id": "c15-stage-5",
+      "species_id": 1004,
+      "pokemon_id": 1004,
+      "name_ko": "위유이",
+      "name_en": "Chi-Yu",
+      "types": [
+        "dark",
+        "fire"
+      ],
+      "bst": 570
+    },
+    {
+      "chapter": 16,
+      "world": 3,
+      "stage_id": "c16-stage-5",
+      "species_id": 1003,
+      "pokemon_id": 1003,
+      "name_ko": "딩루",
+      "name_en": "Ting-Lu",
+      "types": [
+        "dark",
+        "ground"
+      ],
+      "bst": 570
+    },
+    {
+      "chapter": 17,
+      "world": 3,
+      "stage_id": "c17-stage-5",
+      "species_id": 1001,
+      "pokemon_id": 1001,
+      "name_ko": "총지엔",
+      "name_en": "Wo-Chien",
+      "types": [
+        "dark",
+        "grass"
+      ],
+      "bst": 570
+    },
+    {
+      "chapter": 18,
+      "world": 3,
+      "stage_id": "c18-stage-5",
+      "species_id": 994,
+      "pokemon_id": 994,
+      "name_ko": "무쇠독나방",
+      "name_en": "Iron Moth",
+      "types": [
+        "fire",
+        "poison"
+      ],
+      "bst": 570
+    },
+    {
+      "chapter": 19,
+      "world": 3,
+      "stage_id": "c19-stage-5",
+      "species_id": 993,
+      "pokemon_id": 993,
+      "name_ko": "무쇠머리",
+      "name_en": "Iron Jugulis",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "bst": 570
+    },
+    {
+      "chapter": 20,
+      "world": 3,
+      "stage_id": "c20-stage-5",
+      "species_id": 987,
+      "pokemon_id": 987,
+      "name_ko": "날개치는머리",
+      "name_en": "Flutter Mane",
+      "types": [
+        "ghost",
+        "fairy"
+      ],
+      "bst": 570
+    },
+    {
+      "chapter": 21,
+      "world": 3,
+      "stage_id": "c21-stage-5",
+      "species_id": 806,
+      "pokemon_id": 806,
+      "name_ko": "두파팡",
+      "name_en": "Blacephalon",
+      "types": [
+        "fire",
+        "ghost"
+      ],
+      "bst": 570
+    },
+    {
+      "chapter": 22,
+      "world": 4,
+      "stage_id": "c22-stage-5",
+      "species_id": 799,
+      "pokemon_id": 799,
+      "name_ko": "악식킹",
+      "name_en": "Guzzlord",
+      "types": [
+        "dark",
+        "dragon"
+      ],
+      "bst": 570
+    },
+    {
+      "chapter": 23,
+      "world": 4,
+      "stage_id": "c23-stage-5",
+      "species_id": 793,
+      "pokemon_id": 793,
+      "name_ko": "텅비드",
+      "name_en": "Nihilego",
+      "types": [
+        "rock",
+        "poison"
+      ],
+      "bst": 570
+    },
+    {
+      "chapter": 24,
+      "world": 4,
+      "stage_id": "c24-stage-5",
+      "species_id": 1005,
+      "pokemon_id": 1005,
+      "name_ko": "고동치는달",
+      "name_en": "Roaring Moon",
+      "types": [
+        "dragon",
+        "dark"
+      ],
+      "bst": 590
+    },
+    {
+      "chapter": 25,
+      "world": 4,
+      "stage_id": "c25-stage-5",
+      "species_id": 1025,
+      "pokemon_id": 1025,
+      "name_ko": "복숭악동",
+      "name_en": "Pecharunt",
+      "types": [
+        "poison",
+        "ghost"
+      ],
+      "bst": 600
+    },
+    {
+      "chapter": 26,
+      "world": 4,
+      "stage_id": "c26-stage-5",
+      "species_id": 893,
+      "pokemon_id": 893,
+      "name_ko": "자루도",
+      "name_en": "Zarude",
+      "types": [
+        "dark",
+        "grass"
+      ],
+      "bst": 600
+    },
+    {
+      "chapter": 27,
+      "world": 4,
+      "stage_id": "c27-stage-5",
+      "species_id": 720,
+      "pokemon_id": 720,
+      "name_ko": "후파",
+      "name_en": "Hoopa",
+      "types": [
+        "psychic",
+        "ghost"
+      ],
+      "bst": 600
+    },
+    {
+      "chapter": 28,
+      "world": 4,
+      "stage_id": "c28-stage-5",
+      "species_id": 635,
+      "pokemon_id": 635,
+      "name_ko": "삼삼드래",
+      "name_en": "Hydreigon",
+      "types": [
+        "dark",
+        "dragon"
+      ],
+      "bst": 600
+    },
+    {
+      "chapter": 29,
+      "world": 5,
+      "stage_id": "c29s5",
+      "species_id": 248,
+      "pokemon_id": 248,
+      "name_ko": "마기라스",
+      "name_en": "Tyranitar",
+      "types": [
+        "rock",
+        "dark"
+      ],
+      "bst": 600
+    },
+    {
+      "chapter": 30,
+      "world": 5,
+      "stage_id": "c30s5",
+      "species_id": 792,
+      "pokemon_id": 792,
+      "name_ko": "루나아라",
+      "name_en": "Lunala",
+      "types": [
+        "psychic",
+        "ghost"
+      ],
+      "bst": 680
+    },
+    {
+      "chapter": 31,
+      "world": 5,
+      "stage_id": "c31s5",
+      "species_id": 717,
+      "pokemon_id": 717,
+      "name_ko": "이벨타르",
+      "name_en": "Yveltal",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "bst": 680
+    },
+    {
+      "chapter": 32,
+      "world": 5,
+      "stage_id": "c32s5",
+      "species_id": 487,
+      "pokemon_id": 487,
+      "name_ko": "기라티나",
+      "name_en": "Giratina",
+      "types": [
+        "ghost",
+        "dragon"
+      ],
+      "bst": 680
+    },
+    {
+      "chapter": 33,
+      "world": 5,
+      "stage_id": "c33s5",
+      "species_id": 890,
+      "pokemon_id": 890,
+      "name_ko": "무한다이노",
+      "name_en": "Eternatus",
+      "types": [
+        "poison",
+        "dragon"
+      ],
+      "bst": 690
+    }
+  ]
+}

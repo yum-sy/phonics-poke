@@ -1,0 +1,7163 @@
+[
+  {
+    "id": 1,
+    "name": "Bulbasaur",
+    "pronunciation": "BUL-ba-sore",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 2,
+    "name": "Ivysaur",
+    "pronunciation": "EYE-vee-sore",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 3,
+    "name": "Venusaur",
+    "pronunciation": "VEE-nuh-sore",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 4,
+    "name": "Charmander",
+    "pronunciation": "CHAR-man-der",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 5,
+    "name": "Charmeleon",
+    "pronunciation": "char-MEE-lee-un",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 6,
+    "name": "Charizard",
+    "pronunciation": "CHAR-iz-ard",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 7,
+    "name": "Squirtle",
+    "pronunciation": "SKWIR-tul",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 8,
+    "name": "Wartortle",
+    "pronunciation": "WOR-TORE-tul",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 9,
+    "name": "Blastoise",
+    "pronunciation": "BLAS-toyce",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 10,
+    "name": "Caterpie",
+    "pronunciation": "CAT-ur-pee",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 11,
+    "name": "Metapod",
+    "pronunciation": "MET-uh-pod",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 12,
+    "name": "Butterfree",
+    "pronunciation": "BUT-er-free",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 13,
+    "name": "Weedle",
+    "pronunciation": "WEE-dull",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 14,
+    "name": "Kakuna",
+    "pronunciation": "kah-KOO-na",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 15,
+    "name": "Beedrill",
+    "pronunciation": "BEE-dril",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 16,
+    "name": "Pidgey",
+    "pronunciation": "PIDG-ee",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 17,
+    "name": "Pidgeotto",
+    "pronunciation": "PIDG-ee-OH-toe",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 18,
+    "name": "Pidgeot",
+    "pronunciation": "PIDG-ee-ott",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 19,
+    "name": "Rattata",
+    "pronunciation": "RA-TAT-ta",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 20,
+    "name": "Raticate",
+    "pronunciation": "RAT-ih-kate",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 21,
+    "name": "Spearow",
+    "pronunciation": "SPEER-oh",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 22,
+    "name": "Fearow",
+    "pronunciation": "FEER-oh",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 23,
+    "name": "Ekans",
+    "pronunciation": "ECK-kins",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 24,
+    "name": "Arbok",
+    "pronunciation": "ARE-bock",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 25,
+    "name": "Pikachu",
+    "pronunciation": "PEE-ka-choo",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 26,
+    "name": "Raichu",
+    "pronunciation": "RYE-choo",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 27,
+    "name": "Sandshrew",
+    "pronunciation": "SAND-shroo",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 28,
+    "name": "Sandslash",
+    "pronunciation": "SAND-slash",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 30,
+    "name": "Nidorina",
+    "pronunciation": "NEE-do-REE-na",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 31,
+    "name": "Nidoqueen",
+    "pronunciation": "NEE-do-kween",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 33,
+    "name": "Nidorino",
+    "pronunciation": "NEE-do-REE-no",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 34,
+    "name": "Nidoking",
+    "pronunciation": "NEE-do-king",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 35,
+    "name": "Clefairy",
+    "pronunciation": "kleh-FAIR-ee",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 36,
+    "name": "Clefable",
+    "pronunciation": "kleh-FAY-bull",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 37,
+    "name": "Vulpix",
+    "pronunciation": "VULL-picks",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 38,
+    "name": "Ninetales",
+    "pronunciation": "NINE-tails",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 39,
+    "name": "Jigglypuff",
+    "pronunciation": "JIG-lee-puff",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 40,
+    "name": "Wigglytuff",
+    "pronunciation": "WIG-lee-tuff",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 41,
+    "name": "Zubat",
+    "pronunciation": "ZOO-bat",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 42,
+    "name": "Golbat",
+    "pronunciation": "GOHL-bat",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 43,
+    "name": "Oddish",
+    "pronunciation": "ODD-ish",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 44,
+    "name": "Gloom",
+    "pronunciation": "GLOOM",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 45,
+    "name": "Vileplume",
+    "pronunciation": "VILE-ploom",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 46,
+    "name": "Paras",
+    "pronunciation": "PAIR-us",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 47,
+    "name": "Parasect",
+    "pronunciation": "PARA-sekt",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 48,
+    "name": "Venonat",
+    "pronunciation": "VEH-no-nat",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 49,
+    "name": "Venomoth",
+    "pronunciation": "VEH-no-moth",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 50,
+    "name": "Diglett",
+    "pronunciation": "DIG-let",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 51,
+    "name": "Dugtrio",
+    "pronunciation": "DUG-TREE-oh",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 52,
+    "name": "Meowth",
+    "pronunciation": "mee-OWTH",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 53,
+    "name": "Persian",
+    "pronunciation": "PER-zhun",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 54,
+    "name": "Psyduck",
+    "pronunciation": "SY-duck",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 55,
+    "name": "Golduck",
+    "pronunciation": "GOL-duck",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 56,
+    "name": "Mankey",
+    "pronunciation": "MANG-key",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 57,
+    "name": "Primeape",
+    "pronunciation": "PRIME-ape",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 58,
+    "name": "Growlithe",
+    "pronunciation": "GROWL-lith",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 59,
+    "name": "Arcanine",
+    "pronunciation": "ARE-ka-nine",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 60,
+    "name": "Poliwag",
+    "pronunciation": "PAUL-lee-wgg",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 61,
+    "name": "Poliwhirl",
+    "pronunciation": "PAUL-lee-wirl",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 62,
+    "name": "Poliwrath",
+    "pronunciation": "PAUL-lee-rath",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 63,
+    "name": "Abra",
+    "pronunciation": "AB-ra",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 64,
+    "name": "Kadabra",
+    "pronunciation": "kuh-DAB-ra",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 65,
+    "name": "Alakazam",
+    "pronunciation": "AL-a-kuh-ZAM",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 66,
+    "name": "Machop",
+    "pronunciation": "muh-CHOP",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 67,
+    "name": "Machoke",
+    "pronunciation": "muh-CHOKE",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 68,
+    "name": "Machamp",
+    "pronunciation": "muh-CHAMP",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 69,
+    "name": "Bellsprout",
+    "pronunciation": "BELL-sprout",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 70,
+    "name": "Weepinbell",
+    "pronunciation": "WEE-pin-bell",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 71,
+    "name": "Victreebel",
+    "pronunciation": "VICK-tree-bell",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 72,
+    "name": "Tentacool",
+    "pronunciation": "TEN-ta-cool",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 73,
+    "name": "Tentacruel",
+    "pronunciation": "TEN-ta-crool",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 74,
+    "name": "Geodude",
+    "pronunciation": "JEE-oh-dude",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 75,
+    "name": "Graveler",
+    "pronunciation": "GRAV-el-ler",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 76,
+    "name": "Golem",
+    "pronunciation": "GO-lum",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 77,
+    "name": "Ponyta",
+    "pronunciation": "POH-nee-tah",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 78,
+    "name": "Rapidash",
+    "pronunciation": "RAP-id-dash",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 79,
+    "name": "Slowpoke",
+    "pronunciation": "SLOW-poke",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 80,
+    "name": "Slowbro",
+    "pronunciation": "SLOW-bro",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 81,
+    "name": "Magnemite",
+    "pronunciation": "MAG-ne-mite",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 82,
+    "name": "Magneton",
+    "pronunciation": "MAG-ne-ton",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 83,
+    "name": "Farfetch'd",
+    "pronunciation": "FAR-fetched",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 84,
+    "name": "Doduo",
+    "pronunciation": "doe-DOO-oh",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 85,
+    "name": "Dodrio",
+    "pronunciation": "doe-DREE-oh",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 86,
+    "name": "Seel",
+    "pronunciation": "SEEL",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 87,
+    "name": "Dewgong",
+    "pronunciation": "DOO-gong",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 88,
+    "name": "Grimer",
+    "pronunciation": "GRY-mur",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 89,
+    "name": "Muk",
+    "pronunciation": "MUCK",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 90,
+    "name": "Shellder",
+    "pronunciation": "SHELL-der",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 91,
+    "name": "Cloyster",
+    "pronunciation": "CLOY-stur",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 92,
+    "name": "Gastly",
+    "pronunciation": "GAST-lee",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 93,
+    "name": "Haunter",
+    "pronunciation": "HAUNT-ur",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 94,
+    "name": "Gengar",
+    "pronunciation": "GHEN-gar",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 95,
+    "name": "Onix",
+    "pronunciation": "ON-icks",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 96,
+    "name": "Drowzee",
+    "pronunciation": "DROW-zee",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 97,
+    "name": "Hypno",
+    "pronunciation": "HIP-no",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 98,
+    "name": "Krabby",
+    "pronunciation": "KRAB-ee",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 99,
+    "name": "Kingler",
+    "pronunciation": "KING-lur",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 100,
+    "name": "Voltorb",
+    "pronunciation": "VOLT-orb",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 101,
+    "name": "Electrode",
+    "pronunciation": "ee-LECK-trode",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 102,
+    "name": "Exeggcute",
+    "pronunciation": "ECKS-egg-cute",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 103,
+    "name": "Exeggutor",
+    "pronunciation": "ecks-EGG-u-tore",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 104,
+    "name": "Cubone",
+    "pronunciation": "CUE-bone",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 105,
+    "name": "Marowak",
+    "pronunciation": "MARE-oh-wack",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 106,
+    "name": "Hitmonlee",
+    "pronunciation": "HIT-mon-LEE",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 107,
+    "name": "Hitmonchan",
+    "pronunciation": "HIT-mon-CHAN",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 108,
+    "name": "Lickitung",
+    "pronunciation": "LICK-it-tung",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 109,
+    "name": "Koffing",
+    "pronunciation": "KOFF-ing",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 110,
+    "name": "Weezing",
+    "pronunciation": "WEEZ-ing",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 111,
+    "name": "Rhyhorn",
+    "pronunciation": "RYE-horn",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 112,
+    "name": "Rhydon",
+    "pronunciation": "RYE-don",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 113,
+    "name": "Chansey",
+    "pronunciation": "CHAN-see",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 114,
+    "name": "Tangela",
+    "pronunciation": "TANG-ghel-a",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 115,
+    "name": "Kangaskhan",
+    "pronunciation": "KANG-gas-con",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 116,
+    "name": "Horsea",
+    "pronunciation": "HOR-SEE",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 117,
+    "name": "Seadra",
+    "pronunciation": "SEE-dra",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 118,
+    "name": "Goldeen",
+    "pronunciation": "GOL-deen",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 119,
+    "name": "Seaking",
+    "pronunciation": "SEE-king",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 120,
+    "name": "Staryu",
+    "pronunciation": "STAR-you",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 121,
+    "name": "Starmie",
+    "pronunciation": "STAR-mee",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 122,
+    "name": "Mr. Mime",
+    "pronunciation": "MIS-ter-MIME",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 123,
+    "name": "Scyther",
+    "pronunciation": "SY-thur",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 124,
+    "name": "Jynx",
+    "pronunciation": "JINX",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 125,
+    "name": "Electabuzz",
+    "pronunciation": "eh-LECK-ta-buzz",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 126,
+    "name": "Magmar",
+    "pronunciation": "MAG-marr",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 127,
+    "name": "Pinsir",
+    "pronunciation": "PIN-sir",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 128,
+    "name": "Tauros",
+    "pronunciation": "TORE-ros",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 129,
+    "name": "Magikarp",
+    "pronunciation": "MADGE-eh-karp",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 130,
+    "name": "Gyarados",
+    "pronunciation": "GARE-uh-dos",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 131,
+    "name": "Lapras",
+    "pronunciation": "LAP-rus",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 132,
+    "name": "Ditto",
+    "pronunciation": "DIT-toe",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 133,
+    "name": "Eevee",
+    "pronunciation": "EE-vee",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 134,
+    "name": "Vaporeon",
+    "pronunciation": "vay-POUR-ree-on",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 135,
+    "name": "Jolteon",
+    "pronunciation": "JOL-tee-on",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 136,
+    "name": "Flareon",
+    "pronunciation": "FLAIR-ee-on",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 137,
+    "name": "Porygon",
+    "pronunciation": "PORE-ee-gon",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 138,
+    "name": "Omanyte",
+    "pronunciation": "AH-man-ite",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 139,
+    "name": "Omastar",
+    "pronunciation": "AH-mah-star",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 140,
+    "name": "Kabuto",
+    "pronunciation": "ka-BOO-toe",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 141,
+    "name": "Kabutops",
+    "pronunciation": "KA-boo-tops",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 142,
+    "name": "Aerodactyl",
+    "pronunciation": "AIR-row-DACK-tull",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 143,
+    "name": "Snorlax",
+    "pronunciation": "SNOR-lacks",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 144,
+    "name": "Articuno",
+    "pronunciation": "ART-tick-COO-no",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 145,
+    "name": "Zapdos",
+    "pronunciation": "ZAP-dose",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 146,
+    "name": "Moltres",
+    "pronunciation": "MOHL-trace",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 147,
+    "name": "Dratini",
+    "pronunciation": "dra-TEE-nee",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 148,
+    "name": "Dragonair",
+    "pronunciation": "DRAG-gon-AIR",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 149,
+    "name": "Dragonite",
+    "pronunciation": "DRAG-gon-ite",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 150,
+    "name": "Mewtwo",
+    "pronunciation": "MUE-TOO",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 151,
+    "name": "Mew",
+    "pronunciation": "MUE",
+    "generation": 1,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen1pokemon.shtml"
+  },
+  {
+    "id": 152,
+    "name": "Chikorita",
+    "pronunciation": "CHICK-oh-REE-ta",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 153,
+    "name": "Bayleef",
+    "pronunciation": "BAY-leaf",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 154,
+    "name": "Meganium",
+    "pronunciation": "meg-GAY-nee-um",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 155,
+    "name": "Cyndaquil",
+    "pronunciation": "SIN-da-kwill",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 156,
+    "name": "Quilava",
+    "pronunciation": "kwi-LAH-va",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 157,
+    "name": "Typhlosion",
+    "pronunciation": "tie-FLOW-zhun",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 158,
+    "name": "Totodile",
+    "pronunciation": "TOE-toe-dyle",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 159,
+    "name": "Croconaw",
+    "pronunciation": "CROCK-oh-naw",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 160,
+    "name": "Feraligatr",
+    "pronunciation": "fer-AL-ee-gay-tur",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 161,
+    "name": "Sentret",
+    "pronunciation": "SEN-tret",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 162,
+    "name": "Furret",
+    "pronunciation": "FUR-ret",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 163,
+    "name": "Hoothoot",
+    "pronunciation": "HOOT-HOOT",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 164,
+    "name": "Noctowl",
+    "pronunciation": "NAHK-towl",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 165,
+    "name": "Ledyba",
+    "pronunciation": "LEH-dee-bah",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 166,
+    "name": "Ledian",
+    "pronunciation": "LEH-dee-an",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 167,
+    "name": "Spinarak",
+    "pronunciation": "SPIN-uh-rack",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 168,
+    "name": "Ariados",
+    "pronunciation": "AIR-ree-uh-dose",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 169,
+    "name": "Crobat",
+    "pronunciation": "CROW-bat",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 170,
+    "name": "Chinchou",
+    "pronunciation": "CHIN-chow",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 171,
+    "name": "Lanturn",
+    "pronunciation": "LAN-turn",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 172,
+    "name": "Pichu",
+    "pronunciation": "PEE-choo",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 173,
+    "name": "Cleffa",
+    "pronunciation": "CLEFF-uh",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 174,
+    "name": "Igglybuff",
+    "pronunciation": "IG-lee-buff",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 175,
+    "name": "Togepi",
+    "pronunciation": "TOE-ghep-pee",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 176,
+    "name": "Togetic",
+    "pronunciation": "TOE-ghet-tic",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 177,
+    "name": "Natu",
+    "pronunciation": "NAH-too",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 178,
+    "name": "Xatu",
+    "pronunciation": "ZAH-too",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 179,
+    "name": "Mareep",
+    "pronunciation": "mah-REEP",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 180,
+    "name": "Flaaffy",
+    "pronunciation": "FLAF-fee",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 181,
+    "name": "Ampharos",
+    "pronunciation": "AMF-fah-rahs",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 182,
+    "name": "Bellossom",
+    "pronunciation": "bell-LAHS-um",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 183,
+    "name": "Marill",
+    "pronunciation": "MARE-rull",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 184,
+    "name": "Azumarill",
+    "pronunciation": "ah-ZU-mare-rill",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 185,
+    "name": "Sudowoodo",
+    "pronunciation": "SOO-doe-WOO-doe",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 186,
+    "name": "Politoed",
+    "pronunciation": "PAUL-lee-TOED",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 187,
+    "name": "Hoppip",
+    "pronunciation": "HOP-pip",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 188,
+    "name": "Skiploom",
+    "pronunciation": "SKIP-loom",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 189,
+    "name": "Jumpluff",
+    "pronunciation": "JUM-pluff",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 190,
+    "name": "Aipom",
+    "pronunciation": "AY-pom",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 191,
+    "name": "Sunkern",
+    "pronunciation": "SUN-kurn",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 192,
+    "name": "Sunflora",
+    "pronunciation": "SUN-FLOR-uh",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 193,
+    "name": "Yanma",
+    "pronunciation": "YAN-ma",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 194,
+    "name": "Wooper",
+    "pronunciation": "WOOP-pur",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 195,
+    "name": "Quagsire",
+    "pronunciation": "KWAG-sire",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 196,
+    "name": "Espeon",
+    "pronunciation": "ESS-pee-on",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 197,
+    "name": "Umbreon",
+    "pronunciation": "UM-bree-on",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 198,
+    "name": "Murkrow",
+    "pronunciation": "MUR-crow",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 199,
+    "name": "Slowking",
+    "pronunciation": "SLOW-king",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 200,
+    "name": "Misdreavus",
+    "pronunciation": "mis-DREE-vuss",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 201,
+    "name": "Unown",
+    "pronunciation": "un-KNOWN",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 202,
+    "name": "Wobbuffet",
+    "pronunciation": "WAH-buf-fett",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 203,
+    "name": "Girafarig",
+    "pronunciation": "jir-RAF-uh-rig",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 204,
+    "name": "Pineco",
+    "pronunciation": "PINE-co",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 205,
+    "name": "Forretress",
+    "pronunciation": "FOR-it-tress",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 206,
+    "name": "Dunsparce",
+    "pronunciation": "DUN-sparce",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 207,
+    "name": "Gligar",
+    "pronunciation": "GLY-gar",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 208,
+    "name": "Steelix",
+    "pronunciation": "STEE-licks",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 209,
+    "name": "Snubbull",
+    "pronunciation": "SNUB-bull",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 210,
+    "name": "Granbull",
+    "pronunciation": "GRAN-bull",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 211,
+    "name": "Qwilfish",
+    "pronunciation": "KWILL-fish",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 212,
+    "name": "Scizor",
+    "pronunciation": "SIH-zor",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 213,
+    "name": "Shuckle",
+    "pronunciation": "SHUCK-kull",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 214,
+    "name": "Heracross",
+    "pronunciation": "HAIR-uh-cross",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 215,
+    "name": "Sneasel",
+    "pronunciation": "SNEE-zul",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 216,
+    "name": "Teddiursa",
+    "pronunciation": "TED-dee-UR-sa",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 217,
+    "name": "Ursaring",
+    "pronunciation": "UR-sa-ring",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 218,
+    "name": "Slugma",
+    "pronunciation": "SLUG-ma",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 219,
+    "name": "Magcargo",
+    "pronunciation": "mag-CAR-go",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 220,
+    "name": "Swinub",
+    "pronunciation": "SWY-nub",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 221,
+    "name": "Piloswine",
+    "pronunciation": "PILE-oh-swine",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 222,
+    "name": "Corsola",
+    "pronunciation": "COR-soh-la",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 223,
+    "name": "Remoraid",
+    "pronunciation": "REM-oh-raid",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 224,
+    "name": "Octillery",
+    "pronunciation": "ock-TILL-er-ree",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 225,
+    "name": "Delibird",
+    "pronunciation": "DELL-ee-bird",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 226,
+    "name": "Mantine",
+    "pronunciation": "MAN-teen",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 227,
+    "name": "Skarmory",
+    "pronunciation": "SKAR-more-ree",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 228,
+    "name": "Houndour",
+    "pronunciation": "HOWN-dowr",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 229,
+    "name": "Houndoom",
+    "pronunciation": "HOWN-doom",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 230,
+    "name": "Kingdra",
+    "pronunciation": "KING-dra",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 231,
+    "name": "Phanpy",
+    "pronunciation": "FAN-pee",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 232,
+    "name": "Donphan",
+    "pronunciation": "DON-fan",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 233,
+    "name": "Porygon2",
+    "pronunciation": "POUR-ree-gon TWO",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 234,
+    "name": "Stantler",
+    "pronunciation": "STAN-tler",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 235,
+    "name": "Smeargle",
+    "pronunciation": "SMEAR-gull",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 236,
+    "name": "Tyrogue",
+    "pronunciation": "tie-ROHG",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 237,
+    "name": "Hitmontop",
+    "pronunciation": "HIT-mon-top",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 238,
+    "name": "Smoochum",
+    "pronunciation": "SMOO-chum",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 239,
+    "name": "Elekid",
+    "pronunciation": "EL-eh-kid",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 240,
+    "name": "Magby",
+    "pronunciation": "MAG-bee",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 241,
+    "name": "Miltank",
+    "pronunciation": "MILL-tank",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 242,
+    "name": "Blissey",
+    "pronunciation": "BLISS-sey",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 243,
+    "name": "Raikou",
+    "pronunciation": "RYE-coh",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 244,
+    "name": "Entei",
+    "pronunciation": "EN-tay",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 245,
+    "name": "Suicune",
+    "pronunciation": "SWEE-koon",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 246,
+    "name": "Larvitar",
+    "pronunciation": "LAR-vuh-tar",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 247,
+    "name": "Pupitar",
+    "pronunciation": "PUE-puh-tar",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 248,
+    "name": "Tyranitar",
+    "pronunciation": "tie-RAN-uh-tar",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 249,
+    "name": "Lugia",
+    "pronunciation": "LOO-gee-uh",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 250,
+    "name": "Ho-Oh",
+    "pronunciation": "HOE-OH",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 251,
+    "name": "Celebi",
+    "pronunciation": "SEL-ih-bee",
+    "generation": 2,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen2pokemon.shtml"
+  },
+  {
+    "id": 252,
+    "name": "Treecko",
+    "pronunciation": "TREE-ko",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 253,
+    "name": "Grovyle",
+    "pronunciation": "GROW-vile",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 254,
+    "name": "Sceptile",
+    "pronunciation": "SEP-tile",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 255,
+    "name": "Torchic",
+    "pronunciation": "TOR-chick",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 256,
+    "name": "Combusken",
+    "pronunciation": "com-BUS-ken",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 257,
+    "name": "Blaziken",
+    "pronunciation": "BLAZE-uh-ken",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 258,
+    "name": "Mudkip",
+    "pronunciation": "MUD-kip",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 259,
+    "name": "Marshtomp",
+    "pronunciation": "MARSH-stomp",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 260,
+    "name": "Swampert",
+    "pronunciation": "SWAM-pert",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 261,
+    "name": "Poochyena",
+    "pronunciation": "POO-chee-EN-nah",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 262,
+    "name": "Mightyena",
+    "pronunciation": "MY-tee-EN-nah",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 263,
+    "name": "Zigzagoon",
+    "pronunciation": "ZIG-zag-GOON",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 264,
+    "name": "Linoone",
+    "pronunciation": "line-NOON",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 265,
+    "name": "Wurmple",
+    "pronunciation": "WERM-pull",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 266,
+    "name": "Silcoon",
+    "pronunciation": "sill-COON",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 267,
+    "name": "Beautifly",
+    "pronunciation": "BUE-tee-fly",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 268,
+    "name": "Cascoon",
+    "pronunciation": "CAS-koon",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 269,
+    "name": "Dustox",
+    "pronunciation": "DUS-tocks",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 270,
+    "name": "Lotad",
+    "pronunciation": "LOW-tad",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 271,
+    "name": "Lombre",
+    "pronunciation": "LOM-brey",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 272,
+    "name": "Ludicolo",
+    "pronunciation": "LOO-dee-KO-low",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 273,
+    "name": "Seedot",
+    "pronunciation": "SEE-dot",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 274,
+    "name": "Nuzleaf",
+    "pronunciation": "NUHZ-leef",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 275,
+    "name": "Shiftry",
+    "pronunciation": "SHIFF-tree",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 276,
+    "name": "Taillow",
+    "pronunciation": "TAY-low",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 277,
+    "name": "Swellow",
+    "pronunciation": "SWELL-low",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 278,
+    "name": "Wingull",
+    "pronunciation": "WING-gull",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 279,
+    "name": "Pelipper",
+    "pronunciation": "PEL-ip-purr",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 280,
+    "name": "Ralts",
+    "pronunciation": "RALTS",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 281,
+    "name": "Kirlia",
+    "pronunciation": "KERL-lee-ah",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 282,
+    "name": "Gardevoir",
+    "pronunciation": "GAR-deh-VWAR",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 283,
+    "name": "Surskit",
+    "pronunciation": "SUR-skit",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 284,
+    "name": "Masquerain",
+    "pronunciation": "mas-ker-RAIN",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 285,
+    "name": "Shroomish",
+    "pronunciation": "SHROOM-ish",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 286,
+    "name": "Breloom",
+    "pronunciation": "brell-LOOM",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 287,
+    "name": "Slakoth",
+    "pronunciation": "SLACK-oth",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 288,
+    "name": "Vigoroth",
+    "pronunciation": "VIG-er-roth",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 289,
+    "name": "Slaking",
+    "pronunciation": "SLACK-ing",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 290,
+    "name": "Nincada",
+    "pronunciation": "nin-KAH-da",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 291,
+    "name": "Ninjask",
+    "pronunciation": "NIN-jask",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 292,
+    "name": "Shedinja",
+    "pronunciation": "sheh-DIN-ja",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 293,
+    "name": "Whismur",
+    "pronunciation": "WHIS-mur",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 294,
+    "name": "Loudred",
+    "pronunciation": "LOUD-red",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 295,
+    "name": "Exploud",
+    "pronunciation": "ecks-PLOWD",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 296,
+    "name": "Makuhita",
+    "pronunciation": "MAK-oo-HEE-ta",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 297,
+    "name": "Hariyama",
+    "pronunciation": "HAR-ee-YAH-mah",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 298,
+    "name": "Azurill",
+    "pronunciation": "uh-ZOO-rill",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 299,
+    "name": "Nosepass",
+    "pronunciation": "NOSE-pass",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 300,
+    "name": "Skitty",
+    "pronunciation": "SKIT-tee",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 301,
+    "name": "Delcatty",
+    "pronunciation": "dell-CAT-tee",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 302,
+    "name": "Sableye",
+    "pronunciation": "SAY-bull-eye",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 303,
+    "name": "Mawile",
+    "pronunciation": "MAW-while",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 304,
+    "name": "Aron",
+    "pronunciation": "AIR-ron",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 305,
+    "name": "Lairon",
+    "pronunciation": "LAIR-ron",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 306,
+    "name": "Aggron",
+    "pronunciation": "AGG-ron",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 307,
+    "name": "Meditite",
+    "pronunciation": "MED-uh-tite",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 308,
+    "name": "Medicham",
+    "pronunciation": "MED-uh-cham",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 309,
+    "name": "Electrike",
+    "pronunciation": "eh-LEK-trike",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 310,
+    "name": "Manectric",
+    "pronunciation": "mane-EK-trick",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 311,
+    "name": "Plusle",
+    "pronunciation": "PLUS-ull",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 312,
+    "name": "Minun",
+    "pronunciation": "MY-nun",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 313,
+    "name": "Volbeat",
+    "pronunciation": "VOLL-beat",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 314,
+    "name": "Illumise",
+    "pronunciation": "EE-loo-MEE-zay",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 315,
+    "name": "Roselia",
+    "pronunciation": "roh-ZEH-lee-uh",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 316,
+    "name": "Gulpin",
+    "pronunciation": "GULL-pin",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 317,
+    "name": "Swalot",
+    "pronunciation": "SWAH-lot",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 318,
+    "name": "Carvanha",
+    "pronunciation": "car-VAH-na",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 319,
+    "name": "Sharpedo",
+    "pronunciation": "shar-PEE-do",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 320,
+    "name": "Wailmer",
+    "pronunciation": "WAIL-murr",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 321,
+    "name": "Wailord",
+    "pronunciation": "WAIL-ord",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 322,
+    "name": "Numel",
+    "pronunciation": "NUM-mull",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 323,
+    "name": "Camerupt",
+    "pronunciation": "CAM-err-rupt",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 324,
+    "name": "Torkoal",
+    "pronunciation": "TOR-coal",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 325,
+    "name": "Spoink",
+    "pronunciation": "SPOINK",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 326,
+    "name": "Grumpig",
+    "pronunciation": "GRUM-pig",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 327,
+    "name": "Spinda",
+    "pronunciation": "SPIN-dah",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 328,
+    "name": "Trapinch",
+    "pronunciation": "TRAP-inch",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 329,
+    "name": "Vibrava",
+    "pronunciation": "VY-BRAH-va",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 330,
+    "name": "Flygon",
+    "pronunciation": "FLY-gon",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 331,
+    "name": "Cacnea",
+    "pronunciation": "CACK-nee-uh",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 332,
+    "name": "Cacturne",
+    "pronunciation": "CACK-turn",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 333,
+    "name": "Swablu",
+    "pronunciation": "swah-BLUE",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 334,
+    "name": "Altaria",
+    "pronunciation": "ahl-TAR-ee-uh",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 335,
+    "name": "Zangoose",
+    "pronunciation": "ZANG-goose",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 336,
+    "name": "Seviper",
+    "pronunciation": "seh-VY-per",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 337,
+    "name": "Lunatone",
+    "pronunciation": "LOO-nuh-tone",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 338,
+    "name": "Solrock",
+    "pronunciation": "SOLE-rock",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 339,
+    "name": "Barboach",
+    "pronunciation": "bar-BOACH",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 340,
+    "name": "Whiscash",
+    "pronunciation": "WISS-cash",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 341,
+    "name": "Corphish",
+    "pronunciation": "COR-fish",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 342,
+    "name": "Crawdaunt",
+    "pronunciation": "CRAW-daunt",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 343,
+    "name": "Baltoy",
+    "pronunciation": "BAL-toy",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 344,
+    "name": "Claydol",
+    "pronunciation": "CLAY-doll",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 345,
+    "name": "Lileep",
+    "pronunciation": "lil-LEEP",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 346,
+    "name": "Cradily",
+    "pronunciation": "cray-DILLY",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 347,
+    "name": "Anorith",
+    "pronunciation": "AN-no-rith",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 348,
+    "name": "Armaldo",
+    "pronunciation": "ar-MAL-do",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 349,
+    "name": "Feebas",
+    "pronunciation": "FEE-bass",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 350,
+    "name": "Milotic",
+    "pronunciation": "MY-low-tic",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 351,
+    "name": "Castform",
+    "pronunciation": "CAST-form",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 352,
+    "name": "Kecleon",
+    "pronunciation": "KEH-clee-on",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 353,
+    "name": "Shuppet",
+    "pronunciation": "SHUP-pett",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 354,
+    "name": "Banette",
+    "pronunciation": "bane-NETT",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 355,
+    "name": "Duskull",
+    "pronunciation": "DUS-kull",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 356,
+    "name": "Dusclops",
+    "pronunciation": "DUS-klops",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 357,
+    "name": "Tropius",
+    "pronunciation": "TROP-ee-us",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 358,
+    "name": "Chimecho",
+    "pronunciation": "chime-ECK-ko",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 359,
+    "name": "Absol",
+    "pronunciation": "AB-sahl",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 360,
+    "name": "Wynaut",
+    "pronunciation": "WHY-not",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 361,
+    "name": "Snorunt",
+    "pronunciation": "SNOW-runt",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 362,
+    "name": "Glalie",
+    "pronunciation": "GLAY-lee",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 363,
+    "name": "Spheal",
+    "pronunciation": "SFEEL",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 364,
+    "name": "Sealeo",
+    "pronunciation": "SEEL-ee-oh",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 365,
+    "name": "Walrein",
+    "pronunciation": "WAL-rain",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 366,
+    "name": "Clamperl",
+    "pronunciation": "CLAM-perl",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 367,
+    "name": "Huntail",
+    "pronunciation": "HUN-tail",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 368,
+    "name": "Gorebyss",
+    "pronunciation": "GORE-a-biss",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 369,
+    "name": "Relicanth",
+    "pronunciation": "REL-uh-canth",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 370,
+    "name": "Luvdisc",
+    "pronunciation": "LOVE-disk",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 371,
+    "name": "Bagon",
+    "pronunciation": "BAY-gon",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 372,
+    "name": "Shelgon",
+    "pronunciation": "SHELL-gon",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 373,
+    "name": "Salamence",
+    "pronunciation": "SAL-uh-mence",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 374,
+    "name": "Beldum",
+    "pronunciation": "BELL-dum",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 375,
+    "name": "Metang",
+    "pronunciation": "met-TANG",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 376,
+    "name": "Metagross",
+    "pronunciation": "MET-uh-gross",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 377,
+    "name": "Regirock",
+    "pronunciation": "REDGE-ee-rock",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 378,
+    "name": "Regice",
+    "pronunciation": "REDGE-ice",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 379,
+    "name": "Registeel",
+    "pronunciation": "REDGE-ee-steel",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 380,
+    "name": "Latias",
+    "pronunciation": "LAT-ee-ahs",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 381,
+    "name": "Latios",
+    "pronunciation": "LAT-ee-ose",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 382,
+    "name": "Kyogre",
+    "pronunciation": "kai-OH-gurr",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 383,
+    "name": "Groudon",
+    "pronunciation": "GRAU-DON",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 384,
+    "name": "Rayquaza",
+    "pronunciation": "ray-KWAY-zuh",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 385,
+    "name": "Jirachi",
+    "pronunciation": "jir-AH-chi",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 386,
+    "name": "Deoxys",
+    "pronunciation": "dee-OCKS-iss",
+    "generation": 3,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen3pokemon.shtml"
+  },
+  {
+    "id": 387,
+    "name": "Turtwig",
+    "pronunciation": "TUR-twig",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 388,
+    "name": "Grotle",
+    "pronunciation": "GRAH-tul",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 389,
+    "name": "Torterra",
+    "pronunciation": "tor-TER-ra",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 390,
+    "name": "Chimchar",
+    "pronunciation": "CHIM-char",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 391,
+    "name": "Monferno",
+    "pronunciation": "mon-FUR-no",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 392,
+    "name": "Infernape",
+    "pronunciation": "in-FUR-nape",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 393,
+    "name": "Piplup",
+    "pronunciation": "PIP-lup",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 394,
+    "name": "Prinplup",
+    "pronunciation": "PRIN-plup",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 395,
+    "name": "Empoleon",
+    "pronunciation": "em-POH-lee-on",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 396,
+    "name": "Starly",
+    "pronunciation": "STAR-lee",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 397,
+    "name": "Staravia",
+    "pronunciation": "star-EY-vee-a",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 398,
+    "name": "Staraptor",
+    "pronunciation": "star-RAP-tor",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 399,
+    "name": "Bidoof",
+    "pronunciation": "BEE-doof",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 400,
+    "name": "Bibarel",
+    "pronunciation": "bee-BER-rel",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 401,
+    "name": "Kricketot",
+    "pronunciation": "KRICK-eh-tot",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 402,
+    "name": "Kricketune",
+    "pronunciation": "KRICK-eh-toon",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 403,
+    "name": "Shinx",
+    "pronunciation": "SHINKS",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 404,
+    "name": "Luxio",
+    "pronunciation": "LUCKS-ee-oh",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 405,
+    "name": "Luxray",
+    "pronunciation": "LUCKS-ray",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 406,
+    "name": "Budew",
+    "pronunciation": "buh-DOO",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 407,
+    "name": "Roserade",
+    "pronunciation": "ROSE-raid",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 408,
+    "name": "Cranidos",
+    "pronunciation": "CRANE-ee-dose",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 409,
+    "name": "Rampardos",
+    "pronunciation": "ram-PAR-dose",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 410,
+    "name": "Shieldon",
+    "pronunciation": "SHEEL-don",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 411,
+    "name": "Bastiodon",
+    "pronunciation": "BAS-tee-oh-DON",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 412,
+    "name": "Burmy",
+    "pronunciation": "BURR-mee",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 413,
+    "name": "Wormadam",
+    "pronunciation": "WUR-muh-dam",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 414,
+    "name": "Mothim",
+    "pronunciation": "MOTH-im",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 415,
+    "name": "Combee",
+    "pronunciation": "COMB-bee",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 416,
+    "name": "Vespiquen",
+    "pronunciation": "VES-pih-kwen",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 417,
+    "name": "Pachirisu",
+    "pronunciation": "patch-ee-REE-sue",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 418,
+    "name": "Buizel",
+    "pronunciation": "BWEE-zul",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 419,
+    "name": "Floatzel",
+    "pronunciation": "FLOAT-zul",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 420,
+    "name": "Cherubi",
+    "pronunciation": "chuh-ROO-bee",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 421,
+    "name": "Cherrim",
+    "pronunciation": "chuh-RIM",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 422,
+    "name": "Shellos",
+    "pronunciation": "SHELL-loss",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 423,
+    "name": "Gastrodon",
+    "pronunciation": "GAS-stroh-don",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 424,
+    "name": "Ambipom",
+    "pronunciation": "AM-bee-pom",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 425,
+    "name": "Drifloon",
+    "pronunciation": "DRIFF-loon",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 426,
+    "name": "Drifblim",
+    "pronunciation": "DRIFF-blim",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 427,
+    "name": "Buneary",
+    "pronunciation": "buh-NEAR-ee",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 428,
+    "name": "Lopunny",
+    "pronunciation": "LAH-pun-nee",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 429,
+    "name": "Mismagius",
+    "pronunciation": "miss-MAG-ee-us",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 430,
+    "name": "Honchkrow",
+    "pronunciation": "HONCH-krow",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 431,
+    "name": "Glameow",
+    "pronunciation": "GLAM-meow",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 432,
+    "name": "Purugly",
+    "pronunciation": "pur-UGG-lee",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 433,
+    "name": "Chingling",
+    "pronunciation": "CHING-ling",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 434,
+    "name": "Stunky",
+    "pronunciation": "STUNK-ee",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 435,
+    "name": "Skuntank",
+    "pronunciation": "SKUN-tank",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 436,
+    "name": "Bronzor",
+    "pronunciation": "BRAWN-zor",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 437,
+    "name": "Bronzong",
+    "pronunciation": "brawn-ZONG",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 438,
+    "name": "Bonsly",
+    "pronunciation": "BON-slye",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 439,
+    "name": "Mime Jr.",
+    "pronunciation": "mime-JOO-nyur",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 440,
+    "name": "Happiny",
+    "pronunciation": "hap-PEE-nee",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 441,
+    "name": "Chatot",
+    "pronunciation": "CHAT-tot",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 442,
+    "name": "Spiritomb",
+    "pronunciation": "SPIR-it-tomb",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 443,
+    "name": "Gible",
+    "pronunciation": "GIB-bull",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 444,
+    "name": "Gabite",
+    "pronunciation": "gab-BITE",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 445,
+    "name": "Garchomp",
+    "pronunciation": "GAR-chomp",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 446,
+    "name": "Munchlax",
+    "pronunciation": "MUNCH-lax",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 447,
+    "name": "Riolu",
+    "pronunciation": "ree-OH-loo",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 448,
+    "name": "Lucario",
+    "pronunciation": "loo-CAR-ee-oh",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 449,
+    "name": "Hippopotas",
+    "pronunciation": "HIP-poh-puh-toss",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 450,
+    "name": "Hippowdon",
+    "pronunciation": "hip-POW-don",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 451,
+    "name": "Skorupi",
+    "pronunciation": "skor-ROOP-ee",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 452,
+    "name": "Drapion",
+    "pronunciation": "DRAP-ee-on",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 453,
+    "name": "Croagunk",
+    "pronunciation": "CROW-gunk",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 454,
+    "name": "Toxicroak",
+    "pronunciation": "TOX-uh-croak",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 455,
+    "name": "Carnivine",
+    "pronunciation": "CAR-neh-vine",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 456,
+    "name": "Finneon",
+    "pronunciation": "FINN-ee-on",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 457,
+    "name": "Lumineon",
+    "pronunciation": "loo-MIN-ee-on",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 458,
+    "name": "Mantyke",
+    "pronunciation": "MAN-tike",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 459,
+    "name": "Snover",
+    "pronunciation": "SNOW-vur",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 460,
+    "name": "Abomasnow",
+    "pronunciation": "ah-BOM-ah-snow",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 461,
+    "name": "Weavile",
+    "pronunciation": "WEE-vile",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 462,
+    "name": "Magnezone",
+    "pronunciation": "MAG-nuh-zone",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 463,
+    "name": "Lickilicky",
+    "pronunciation": "LICK-ee-LICK-ee",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 464,
+    "name": "Rhyperior",
+    "pronunciation": "rye-PEER-ee-or",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 465,
+    "name": "Tangrowth",
+    "pronunciation": "TANG-growth",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 466,
+    "name": "Electivire",
+    "pronunciation": "el-LECT-uh-vire",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 467,
+    "name": "Magmortar",
+    "pronunciation": "mag-MORT-ur",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 468,
+    "name": "Togekiss",
+    "pronunciation": "TOE-geh-kiss",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 469,
+    "name": "Yanmega",
+    "pronunciation": "yan-MEG-ah",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 470,
+    "name": "Leafeon",
+    "pronunciation": "LEAF-ee-on",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 471,
+    "name": "Glaceon",
+    "pronunciation": "GLAY-cee-on",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 472,
+    "name": "Gliscor",
+    "pronunciation": "GLY-score",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 473,
+    "name": "Mamoswine",
+    "pronunciation": "MAM-oh-swine",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 474,
+    "name": "Porygon-Z",
+    "pronunciation": "PORE-ee-gon ZEE",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 475,
+    "name": "Gallade",
+    "pronunciation": "guh-LADE",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 476,
+    "name": "Probopass",
+    "pronunciation": "PRO-bow-pass",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 477,
+    "name": "Dusknoir",
+    "pronunciation": "DUSK-nwar",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 478,
+    "name": "Froslass",
+    "pronunciation": "FROS-lass",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 479,
+    "name": "Rotom",
+    "pronunciation": "ROW-tom",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 480,
+    "name": "Uxie",
+    "pronunciation": "YOOK-zee",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 481,
+    "name": "Mesprit",
+    "pronunciation": "MESS-sprit",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 482,
+    "name": "Azelf",
+    "pronunciation": "AZ-zelf",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 483,
+    "name": "Dialga",
+    "pronunciation": "dee-AWL-gah",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 484,
+    "name": "Palkia",
+    "pronunciation": "PALL-kee-ah",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 485,
+    "name": "Heatran",
+    "pronunciation": "HEET-tran",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 486,
+    "name": "Regigigas",
+    "pronunciation": "rej-jee-GIG-us",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 487,
+    "name": "Giratina",
+    "pronunciation": "geer-ah-TEE-nuh",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 488,
+    "name": "Cresselia",
+    "pronunciation": "creh-SELL-ee-ah",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 489,
+    "name": "Phione",
+    "pronunciation": "fee-OH-nay",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 490,
+    "name": "Manaphy",
+    "pronunciation": "MAN-ah-fee",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 491,
+    "name": "Darkrai",
+    "pronunciation": "DARK-rye",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 492,
+    "name": "Shaymin",
+    "pronunciation": "SHAY-min",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 493,
+    "name": "Arceus",
+    "pronunciation": "ARK-ee-us",
+    "generation": 4,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen4pokemon.shtml"
+  },
+  {
+    "id": 494,
+    "name": "Victini",
+    "pronunciation": "vik-TEE-nee",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 495,
+    "name": "Snivy",
+    "pronunciation": "SNY-vee",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 496,
+    "name": "Servine",
+    "pronunciation": "SUR-vine",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 497,
+    "name": "Serperior",
+    "pronunciation": "sur-PEER-ee-ur",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 498,
+    "name": "Tepig",
+    "pronunciation": "TEH-pig",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 499,
+    "name": "Pignite",
+    "pronunciation": "pig-NYTE",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 500,
+    "name": "Emboar",
+    "pronunciation": "EHM-bohr",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 501,
+    "name": "Oshawott",
+    "pronunciation": "AH-shah-wot",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 502,
+    "name": "Dewott",
+    "pronunciation": "DOO-wot",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 503,
+    "name": "Samurott",
+    "pronunciation": "SAM-uh-rot",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 504,
+    "name": "Patrat",
+    "pronunciation": "pat-RAT",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 505,
+    "name": "Watchog",
+    "pronunciation": "WAH-chawg",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 506,
+    "name": "Lillipup",
+    "pronunciation": "LIL-ee-pup",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 507,
+    "name": "Herdier",
+    "pronunciation": "HERD-ee-er",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 508,
+    "name": "Stoutland",
+    "pronunciation": "STOWT-lund",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 509,
+    "name": "Purrloin",
+    "pronunciation": "PUR-loyn",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 510,
+    "name": "Liepard",
+    "pronunciation": "LY-purd",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 511,
+    "name": "Pansage",
+    "pronunciation": "PAN-sayj",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 512,
+    "name": "Simisage",
+    "pronunciation": "SIH-mee-sayj",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 513,
+    "name": "Pansear",
+    "pronunciation": "PAN-seer",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 514,
+    "name": "Simisear",
+    "pronunciation": "SIH-mee-seer",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 515,
+    "name": "Panpour",
+    "pronunciation": "PAN-por",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 516,
+    "name": "Simipour",
+    "pronunciation": "SIH-mee-por",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 517,
+    "name": "Munna",
+    "pronunciation": "MOON-nuh",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 518,
+    "name": "Musharna",
+    "pronunciation": "MOO-SHAHR-nuh",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 519,
+    "name": "Pidove",
+    "pronunciation": "pih-DUV",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 520,
+    "name": "Tranquill",
+    "pronunciation": "TRAN-kwil",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 521,
+    "name": "Unfezant",
+    "pronunciation": "un-FEZ-ent",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 522,
+    "name": "Blitzle",
+    "pronunciation": "BLIT-zul",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 523,
+    "name": "Zebstrika",
+    "pronunciation": "zehb-STRY-kuh",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 524,
+    "name": "Roggenrola",
+    "pronunciation": "rah-gen-ROH-lah",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 525,
+    "name": "Boldore",
+    "pronunciation": "BOHL-dohr",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 526,
+    "name": "Gigalith",
+    "pronunciation": "GIH-gah-lith",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 527,
+    "name": "Woobat",
+    "pronunciation": "WOO-bat",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 528,
+    "name": "Swoobat",
+    "pronunciation": "SWOO-bat",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 529,
+    "name": "Drilbur",
+    "pronunciation": "DRIL-bur",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 530,
+    "name": "Excadrill",
+    "pronunciation": "EKS-kuh-dril",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 531,
+    "name": "Audino",
+    "pronunciation": "AW-dih-noh",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 532,
+    "name": "Timburr",
+    "pronunciation": "TIM-bur",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 533,
+    "name": "Gurdurr",
+    "pronunciation": "GUR-dur",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 534,
+    "name": "Conkeldurr",
+    "pronunciation": "kon-KELL-dur",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 535,
+    "name": "Tympole",
+    "pronunciation": "TIM-pohl",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 536,
+    "name": "Palpitoad",
+    "pronunciation": "PAL-pih-tohd",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 537,
+    "name": "Seismitoad",
+    "pronunciation": "SYZ-mih-tohd",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 538,
+    "name": "Throh",
+    "pronunciation": "THROH",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 539,
+    "name": "Sawk",
+    "pronunciation": "SAWK",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 540,
+    "name": "Sewaddle",
+    "pronunciation": "seh-WAH-dul",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 541,
+    "name": "Swadloon",
+    "pronunciation": "SWAHD-loon",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 542,
+    "name": "Leavanny",
+    "pronunciation": "lee-VAN-nee",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 543,
+    "name": "Venipede",
+    "pronunciation": "VEHN-ih-peed",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 544,
+    "name": "Whirlipede",
+    "pronunciation": "WHIR-lih-peed",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 545,
+    "name": "Scolipede",
+    "pronunciation": "SKOH-lih-peed",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 546,
+    "name": "Cottonee",
+    "pronunciation": "KAHT-ton-ee",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 547,
+    "name": "Whimsicott",
+    "pronunciation": "WHIM-sih-kot",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 548,
+    "name": "Petilil",
+    "pronunciation": "PEH-tuh-LIL",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 549,
+    "name": "Lilligant",
+    "pronunciation": "LIL-lih-gunt",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 550,
+    "name": "Basculin",
+    "pronunciation": "BASS-kyoo-lin",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 551,
+    "name": "Sandile",
+    "pronunciation": "SAN-dyle",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 552,
+    "name": "Krokorok",
+    "pronunciation": "KRAHK-oh-rahk",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 553,
+    "name": "Krookodile",
+    "pronunciation": "KROOK-oh-dyle",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 554,
+    "name": "Darumaka",
+    "pronunciation": "dah-roo-MAH-kuh",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 555,
+    "name": "Darmanitan",
+    "pronunciation": "DAR-MAN-ih-tan",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 556,
+    "name": "Maractus",
+    "pronunciation": "mah-RAK-tus",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 557,
+    "name": "Dwebble",
+    "pronunciation": "DWEHB-bul",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 558,
+    "name": "Crustle",
+    "pronunciation": "KRUS-tul",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 559,
+    "name": "Scraggy",
+    "pronunciation": "SKRAG-ee",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 560,
+    "name": "Scrafty",
+    "pronunciation": "SKRAF-tee",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 561,
+    "name": "Sigilyph",
+    "pronunciation": "SIH-jih-liff",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 562,
+    "name": "Yamask",
+    "pronunciation": "YAH-mask",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 563,
+    "name": "Cofagrigus",
+    "pronunciation": "kof-uh-GREE-guss",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 564,
+    "name": "Tirtouga",
+    "pronunciation": "teer-TOO-gah",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 565,
+    "name": "Carracosta",
+    "pronunciation": "care-a-KOSS-tah",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 566,
+    "name": "Archen",
+    "pronunciation": "AR-ken",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 567,
+    "name": "Archeops",
+    "pronunciation": "AR-kee-ops",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 568,
+    "name": "Trubbish",
+    "pronunciation": "TRUB-bish",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 569,
+    "name": "Garbodor",
+    "pronunciation": "gar-BOH-dur",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 570,
+    "name": "Zorua",
+    "pronunciation": "ZORE-oo-ah",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 571,
+    "name": "Zoroark",
+    "pronunciation": "ZORE-oh-ark",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 572,
+    "name": "Minccino",
+    "pronunciation": "min-CHEE-noh",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 573,
+    "name": "Cinccino",
+    "pronunciation": "chin-CHEE-noh",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 574,
+    "name": "Gothita",
+    "pronunciation": "GAH-THEE-tah",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 575,
+    "name": "Gothorita",
+    "pronunciation": "GAH-thoh-REE-tah",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 576,
+    "name": "Gothitelle",
+    "pronunciation": "GAH-thih-tell",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 577,
+    "name": "Solosis",
+    "pronunciation": "soh-LOH-sis",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 578,
+    "name": "Duosion",
+    "pronunciation": "doo-OH-zhun",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 579,
+    "name": "Reuniclus",
+    "pronunciation": "ree-yoo-NEE-klus",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 580,
+    "name": "Ducklett",
+    "pronunciation": "DUK-lit",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 581,
+    "name": "Swanna",
+    "pronunciation": "SWAH-nuh",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 582,
+    "name": "Vanillite",
+    "pronunciation": "vuh-NIHL-lyte",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 583,
+    "name": "Vanillish",
+    "pronunciation": "vuh-NIHL-lish",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 584,
+    "name": "Vanilluxe",
+    "pronunciation": "vuh-NIHL-lux",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 585,
+    "name": "Deerling",
+    "pronunciation": "DEER-ling",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 586,
+    "name": "Sawsbuck",
+    "pronunciation": "SAWZ-buk",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 587,
+    "name": "Emolga",
+    "pronunciation": "ee-MAHL-guh",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 588,
+    "name": "Karrablast",
+    "pronunciation": "KAIR-ruh-blast",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 589,
+    "name": "Escavalier",
+    "pronunciation": "ess-KAV-a-LEER",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 590,
+    "name": "Foongus",
+    "pronunciation": "FOON-gus",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 591,
+    "name": "Amoonguss",
+    "pronunciation": "uh-MOON-gus",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 592,
+    "name": "Frillish",
+    "pronunciation": "FRIL-lish",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 593,
+    "name": "Jellicent",
+    "pronunciation": "JEL-ih-sent",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 594,
+    "name": "Alomomola",
+    "pronunciation": "uh-LOH-muh-MOH-luh",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 595,
+    "name": "Joltik",
+    "pronunciation": "JOHL-tik",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 596,
+    "name": "Galvantula",
+    "pronunciation": "gal-VAN-choo-luh",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 597,
+    "name": "Ferroseed",
+    "pronunciation": "fer-AH-seed",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 598,
+    "name": "Ferrothorn",
+    "pronunciation": "fer-AH-thorn",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 599,
+    "name": "Klink",
+    "pronunciation": "KLEENK",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 600,
+    "name": "Klang",
+    "pronunciation": "KLANG",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 601,
+    "name": "Klinklang",
+    "pronunciation": "KLEENK-klang",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 602,
+    "name": "Tynamo",
+    "pronunciation": "TIE-nah-moh",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 603,
+    "name": "Eelektrik",
+    "pronunciation": "ee-LEK-trik",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 604,
+    "name": "Eelektross",
+    "pronunciation": "ee-LEK-trahs",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 605,
+    "name": "Elgyem",
+    "pronunciation": "ELL-jee-ehm",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 606,
+    "name": "Beheeyem",
+    "pronunciation": "BEE-hee-ehm",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 607,
+    "name": "Litwick",
+    "pronunciation": "LIT-wik",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 608,
+    "name": "Lampent",
+    "pronunciation": "LAM-pent",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 609,
+    "name": "Chandelure",
+    "pronunciation": "shan-duh-LOOR",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 610,
+    "name": "Axew",
+    "pronunciation": "AKS-yoo",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 611,
+    "name": "Fraxure",
+    "pronunciation": "FRAK-shur",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 612,
+    "name": "Haxorus",
+    "pronunciation": "HAK-soar-us",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 613,
+    "name": "Cubchoo",
+    "pronunciation": "cub-CHOO",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 614,
+    "name": "Beartic",
+    "pronunciation": "BAIR-tick",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 615,
+    "name": "Cryogonal",
+    "pronunciation": "kry-AH-guh-nul",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 616,
+    "name": "Shelmet",
+    "pronunciation": "SHELL-meht",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 617,
+    "name": "Accelgor",
+    "pronunciation": "ak-SELL-gohr",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 618,
+    "name": "Stunfisk",
+    "pronunciation": "STUN-fisk",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 619,
+    "name": "Mienfoo",
+    "pronunciation": "MEEN-FOO",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 620,
+    "name": "Mienshao",
+    "pronunciation": "MEEN-SHAU",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 621,
+    "name": "Druddigon",
+    "pronunciation": "DRUD-dig-guhn",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 622,
+    "name": "Golett",
+    "pronunciation": "GO-let",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 623,
+    "name": "Golurk",
+    "pronunciation": "GO-lurk",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 624,
+    "name": "Pawniard",
+    "pronunciation": "PAWN-yard",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 625,
+    "name": "Bisharp",
+    "pronunciation": "BIH-sharp",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 626,
+    "name": "Bouffalant",
+    "pronunciation": "BOO-fuh-lahnt",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 627,
+    "name": "Rufflet",
+    "pronunciation": "RUF-lit",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 628,
+    "name": "Braviary",
+    "pronunciation": "BRAY-vee-air-ee",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 629,
+    "name": "Vullaby",
+    "pronunciation": "VUL-luh-bye",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 630,
+    "name": "Mandibuzz",
+    "pronunciation": "MAN-dih-buzz",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 631,
+    "name": "Heatmor",
+    "pronunciation": "HEET-mohr",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 632,
+    "name": "Durant",
+    "pronunciation": "dur-ANT",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 633,
+    "name": "Deino",
+    "pronunciation": "DY-noh",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 634,
+    "name": "Zweilous",
+    "pronunciation": "ZVY-lus",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 635,
+    "name": "Hydreigon",
+    "pronunciation": "hy-DRY-guhn",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 636,
+    "name": "Larvesta",
+    "pronunciation": "lar-VESS-tah",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 637,
+    "name": "Volcarona",
+    "pronunciation": "vol-kah-ROH-nah",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 638,
+    "name": "Cobalion",
+    "pronunciation": "koh-BAY-lee-un",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 639,
+    "name": "Terrakion",
+    "pronunciation": "tur-RAK-ee-un",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 640,
+    "name": "Virizion",
+    "pronunciation": "vih-RYE-zee-un",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 641,
+    "name": "Tornadus",
+    "pronunciation": "tohr-NAY-dus",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 642,
+    "name": "Thundurus",
+    "pronunciation": "THUN-duh-rus",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 643,
+    "name": "Reshiram",
+    "pronunciation": "RESH-i-ram",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 644,
+    "name": "Zekrom",
+    "pronunciation": "ZECK-rahm",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 645,
+    "name": "Landorus",
+    "pronunciation": "LAN-duh-rus",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 646,
+    "name": "Kyurem",
+    "pronunciation": "KYOOR-rem",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 647,
+    "name": "Keldeo",
+    "pronunciation": "KELL-dee-oh",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 648,
+    "name": "Meloetta",
+    "pronunciation": "mell-oh-ET-tuh",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 649,
+    "name": "Genesect",
+    "pronunciation": "JEN-uh-sekt",
+    "generation": 5,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen5pokemon.shtml"
+  },
+  {
+    "id": 650,
+    "name": "Chespin",
+    "pronunciation": "CHESS-pin",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 651,
+    "name": "Quilladin",
+    "pronunciation": "QUILL-uh-din",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 652,
+    "name": "Chesnaught",
+    "pronunciation": "CHESS-nawt",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 653,
+    "name": "Fennekin",
+    "pronunciation": "FEN-ik-in",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 654,
+    "name": "Braixen",
+    "pronunciation": "BRAKE-sen",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 655,
+    "name": "Delphox",
+    "pronunciation": "DELL-fox",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 656,
+    "name": "Froakie",
+    "pronunciation": "FRO-kee",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 657,
+    "name": "Frogadier",
+    "pronunciation": "FROG-uh-deer",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 658,
+    "name": "Greninja",
+    "pronunciation": "greh-NIN-jah",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 659,
+    "name": "Bunnelby",
+    "pronunciation": "BUN-ell-bee",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 660,
+    "name": "Diggersby",
+    "pronunciation": "DIH-gurz-bee",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 661,
+    "name": "Fletchling",
+    "pronunciation": "FLETCH-ling",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 662,
+    "name": "Fletchinder",
+    "pronunciation": "FLETCH-in-der",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 663,
+    "name": "Talonflame",
+    "pronunciation": "TAL-un-flame",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 664,
+    "name": "Scatterbug",
+    "pronunciation": "SCAT-ter-BUG",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 665,
+    "name": "Spewpa",
+    "pronunciation": "SPEW-puh",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 666,
+    "name": "Vivillon",
+    "pronunciation": "VIH-vee-yon",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 667,
+    "name": "Litleo",
+    "pronunciation": "LIT-lee-oh",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 668,
+    "name": "Pyroar",
+    "pronunciation": "PIE-roar",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 669,
+    "name": "Flabébé",
+    "pronunciation": "flah-BAY-BAY",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 670,
+    "name": "Floette",
+    "pronunciation": "floh-ET",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 671,
+    "name": "Florges",
+    "pronunciation": "FLORE-jess",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 672,
+    "name": "Skiddo",
+    "pronunciation": "skid-OO",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 673,
+    "name": "Gogoat",
+    "pronunciation": "GO-goat",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 674,
+    "name": "Pancham",
+    "pronunciation": "PAN-chum",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 675,
+    "name": "Pangoro",
+    "pronunciation": "PAN-go-roh",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 676,
+    "name": "Furfrou",
+    "pronunciation": "FUR-froo",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 677,
+    "name": "Espurr",
+    "pronunciation": "ESS-purr",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 678,
+    "name": "Meowstic",
+    "pronunciation": "MYOW-stik",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 679,
+    "name": "Honedge",
+    "pronunciation": "HONE-ej",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 680,
+    "name": "Doublade",
+    "pronunciation": "DUH-blade",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 681,
+    "name": "Aegislash",
+    "pronunciation": "EE-jih-SLASH",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 682,
+    "name": "Spritzee",
+    "pronunciation": "SPRIT-zee",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 683,
+    "name": "Aromatisse",
+    "pronunciation": "uh-ROME-uh-teece",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 684,
+    "name": "Swirlix",
+    "pronunciation": "SWUR-licks",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 685,
+    "name": "Slurpuff",
+    "pronunciation": "SLUR-puff",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 686,
+    "name": "Inkay",
+    "pronunciation": "IN-kay",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 687,
+    "name": "Malamar",
+    "pronunciation": "MAL-uh-MAR",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 688,
+    "name": "Binacle",
+    "pronunciation": "BY-nuh-kull",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 689,
+    "name": "Barbaracle",
+    "pronunciation": "bar-BARE-uh-kull",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 690,
+    "name": "Skrelp",
+    "pronunciation": "SKRELP",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 691,
+    "name": "Dragalge",
+    "pronunciation": "druh-GAL-jee",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 692,
+    "name": "Clauncher",
+    "pronunciation": "CLAWN-chur",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 693,
+    "name": "Clawitzer",
+    "pronunciation": "CLOW-wit-zur",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 694,
+    "name": "Helioptile",
+    "pronunciation": "hee-lee-AHP-tile",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 695,
+    "name": "Heliolisk",
+    "pronunciation": "HEE-lee-oh-lisk",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 696,
+    "name": "Tyrunt",
+    "pronunciation": "TIE-runt",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 697,
+    "name": "Tyrantrum",
+    "pronunciation": "tie-RAN-trum",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 698,
+    "name": "Amaura",
+    "pronunciation": "ah-MORE-uh",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 699,
+    "name": "Aurorus",
+    "pronunciation": "ah-ROAR-us",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 700,
+    "name": "Sylveon",
+    "pronunciation": "SIL-vee-on",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 701,
+    "name": "Hawlucha",
+    "pronunciation": "haw-LOO-cha",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 702,
+    "name": "Dedenne",
+    "pronunciation": "deh-DEN-nay",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 703,
+    "name": "Carbink",
+    "pronunciation": "CAR-bink",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 704,
+    "name": "Goomy",
+    "pronunciation": "GOO-mee",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 705,
+    "name": "Sliggoo",
+    "pronunciation": "SLIH-goo",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 706,
+    "name": "Goodra",
+    "pronunciation": "GOO-druh",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 707,
+    "name": "Klefki",
+    "pronunciation": "KLEF-key",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 708,
+    "name": "Phantump",
+    "pronunciation": "FAN-tump",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 709,
+    "name": "Trevenant",
+    "pronunciation": "TREV-uh-nunt",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 710,
+    "name": "Pumpkaboo",
+    "pronunciation": "PUMP-kuh-boo",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 711,
+    "name": "Gourgeist",
+    "pronunciation": "GORE-guyst",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 712,
+    "name": "Bergmite",
+    "pronunciation": "BERG-mite",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 713,
+    "name": "Avalugg",
+    "pronunciation": "AV-uh-lug",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 714,
+    "name": "Noibat",
+    "pronunciation": "NOY-bat",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 715,
+    "name": "Noivern",
+    "pronunciation": "NOY-vurn",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 716,
+    "name": "Xerneas",
+    "pronunciation": "ZURR-nee-us",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 717,
+    "name": "Yveltal",
+    "pronunciation": "ee-VELL-tall",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 718,
+    "name": "Zygarde",
+    "pronunciation": "ZY-gard",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 719,
+    "name": "Diancie",
+    "pronunciation": "die-AHN-see",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 720,
+    "name": "Hoopa",
+    "pronunciation": "HOO-puh",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 721,
+    "name": "Volcanion",
+    "pronunciation": "vol-KAY-nee-un",
+    "generation": 6,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen6pokemon.shtml"
+  },
+  {
+    "id": 722,
+    "name": "Rowlet",
+    "pronunciation": "ROW-let",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 723,
+    "name": "Dartrix",
+    "pronunciation": "DAR-trix",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 724,
+    "name": "Decidueye",
+    "pronunciation": "deh-SIH-joo-eye",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 725,
+    "name": "Litten",
+    "pronunciation": "LIT-n",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 726,
+    "name": "Torracat",
+    "pronunciation": "TOR-ruh-cat",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 727,
+    "name": "Incineroar",
+    "pronunciation": "in-SIN-uh-roar",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 728,
+    "name": "Popplio",
+    "pronunciation": "POP-lee-oh",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 729,
+    "name": "Brionne",
+    "pronunciation": "bree-AHN",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 730,
+    "name": "Primarina",
+    "pronunciation": "PREE-muh-REE-nuh",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 731,
+    "name": "Pikipek",
+    "pronunciation": "PICK-kee-peck",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 732,
+    "name": "Trumbeak",
+    "pronunciation": "TRUM-beak",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 733,
+    "name": "Toucannon",
+    "pronunciation": "too-CAN-nun",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 734,
+    "name": "Yungoos",
+    "pronunciation": "YUNG-goose",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 735,
+    "name": "Gumshoos",
+    "pronunciation": "GUM-shooss",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 736,
+    "name": "Grubbin",
+    "pronunciation": "GRUB-bin",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 737,
+    "name": "Charjabug",
+    "pronunciation": "CHAR-juh-bug",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 738,
+    "name": "Vikavolt",
+    "pronunciation": "VIE-kuh-volt",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 739,
+    "name": "Crabrawler",
+    "pronunciation": "crab-BRAW-ler",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 740,
+    "name": "Crabominable",
+    "pronunciation": "crab-BAH-min-uh-bull",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 741,
+    "name": "Oricorio",
+    "pronunciation": "or-ih-KOR-ee-oh",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 742,
+    "name": "Cutiefly",
+    "pronunciation": "KYOO-tee-fly",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 743,
+    "name": "Ribombee",
+    "pronunciation": "rih-BOMB-bee",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 744,
+    "name": "Rockruff",
+    "pronunciation": "ROCK-ruff",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 745,
+    "name": "Lycanroc",
+    "pronunciation": "LIE-can-rock",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 746,
+    "name": "Wishiwashi",
+    "pronunciation": "WISH-ee-WASH-ee",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 747,
+    "name": "Mareanie",
+    "pronunciation": "muh-REE-nee",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 748,
+    "name": "Toxapex",
+    "pronunciation": "TOX-uh-pex",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 749,
+    "name": "Mudbray",
+    "pronunciation": "MUD-bray",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 750,
+    "name": "Mudsdale",
+    "pronunciation": "MUDZ-dale",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 751,
+    "name": "Dewpider",
+    "pronunciation": "DOO-pih-der",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 752,
+    "name": "Araquanid",
+    "pronunciation": "uh-RACK-wuh-nid",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 753,
+    "name": "Fomantis",
+    "pronunciation": "fo-MAN-tis",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 754,
+    "name": "Lurantis",
+    "pronunciation": "loor-RAN-tis",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 755,
+    "name": "Morelull",
+    "pronunciation": "MORE-eh-lull",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 756,
+    "name": "Shiinotic",
+    "pronunciation": "shee-NAH-tick",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 757,
+    "name": "Salandit",
+    "pronunciation": "suh-LAN-dit",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 758,
+    "name": "Salazzle",
+    "pronunciation": "suh-LAZ-zuhl",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 759,
+    "name": "Stufful",
+    "pronunciation": "STUFF-fuhl",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 760,
+    "name": "Bewear",
+    "pronunciation": "beh-WARE",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 761,
+    "name": "Bounsweet",
+    "pronunciation": "BOWN-sweet",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 762,
+    "name": "Steenee",
+    "pronunciation": "STEE-nee",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 763,
+    "name": "Tsareena",
+    "pronunciation": "zar-EE-nuh",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 764,
+    "name": "Comfey",
+    "pronunciation": "KUM-fay",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 765,
+    "name": "Oranguru",
+    "pronunciation": "or-RANG-goo-roo",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 766,
+    "name": "Passimian",
+    "pronunciation": "pass-SIM-ee-uhn",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 767,
+    "name": "Wimpod",
+    "pronunciation": "WIM-pod",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 768,
+    "name": "Golisopod",
+    "pronunciation": "go-LIE-suh-pod",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 769,
+    "name": "Sandygast",
+    "pronunciation": "SAN-dee-GAST",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 770,
+    "name": "Palossand",
+    "pronunciation": "PAL-uh-sand",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 771,
+    "name": "Pyukumuku",
+    "pronunciation": "PYOO-koo-MOO-koo",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 772,
+    "name": "Type: Null",
+    "pronunciation": "Type Null",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 773,
+    "name": "Silvally",
+    "pronunciation": "sill-VAL-lie",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 774,
+    "name": "Minior",
+    "pronunciation": "MIN-ee-or",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 775,
+    "name": "Komala",
+    "pronunciation": "koh-MAH-luh",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 776,
+    "name": "Turtonator",
+    "pronunciation": "TURT-nay-ter",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 777,
+    "name": "Togedemaru",
+    "pronunciation": "TOH-geh-deh-MAH-roo",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 778,
+    "name": "Mimikyu",
+    "pronunciation": "MEE-mee-kyoo",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 779,
+    "name": "Bruxish",
+    "pronunciation": "BRUCK-sish",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 780,
+    "name": "Drampa",
+    "pronunciation": "DRAM-puh",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 781,
+    "name": "Dhelmise",
+    "pronunciation": "dell-MIZE",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 782,
+    "name": "Jangmo-o",
+    "pronunciation": "JANG-MOH-oh",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 783,
+    "name": "Hakamo-o",
+    "pronunciation": "HAH-kah-MOH-oh",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 784,
+    "name": "Kommo-o",
+    "pronunciation": "koh-MOH-oh",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 785,
+    "name": "Tapu Koko",
+    "pronunciation": "TAH-poo-KO-ko",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 786,
+    "name": "Tapu Lele",
+    "pronunciation": "TAH-poo-LEH-leh",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 787,
+    "name": "Tapu Bulu",
+    "pronunciation": "TAH-poo-BOO-loo",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 788,
+    "name": "Tapu Fini",
+    "pronunciation": "TAH-poo-FEE-nee",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 789,
+    "name": "Cosmog",
+    "pronunciation": "KOZ-mog",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 790,
+    "name": "Cosmoem",
+    "pronunciation": "KOZ-mo-em",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 791,
+    "name": "Solgaleo",
+    "pronunciation": "SOUL-gah-LAY-oh",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 792,
+    "name": "Lunala",
+    "pronunciation": "loo-NAH-luh",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 793,
+    "name": "Nihilego",
+    "pronunciation": "NIE-uh-LEE-go",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 794,
+    "name": "Buzzwole",
+    "pronunciation": "BUZZ-wole",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 795,
+    "name": "Pheromosa",
+    "pronunciation": "fair-uh-MO-suh",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 796,
+    "name": "Xurkitree",
+    "pronunciation": "ZURK-ih-tree",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 797,
+    "name": "Celesteela",
+    "pronunciation": "sell-uh-STEEL-uh",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 798,
+    "name": "Kartana",
+    "pronunciation": "kar-TAH-nuh",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 799,
+    "name": "Guzzlord",
+    "pronunciation": "GUZZ-lord",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 800,
+    "name": "Necrozma",
+    "pronunciation": "neh-KROHZ-muh",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 801,
+    "name": "Magearna",
+    "pronunciation": "muh-GEER-nuh",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 802,
+    "name": "Marshadow",
+    "pronunciation": "mar-SHAD-oh",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 803,
+    "name": "Poipole",
+    "pronunciation": "POY-pull",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 804,
+    "name": "Naganadel",
+    "pronunciation": "NAW-guh-NAW-duhl",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 805,
+    "name": "Stakataka",
+    "pronunciation": "STACK-uh-TACK-uh",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 806,
+    "name": "Blacephalon",
+    "pronunciation": "blass-SEF-uh-lawn",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 807,
+    "name": "Zeraora",
+    "pronunciation": "ZEH-rah-OH-rah",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 808,
+    "name": "Meltan",
+    "pronunciation": "MEL-tan",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 809,
+    "name": "Melmetal",
+    "pronunciation": "MEL-metal",
+    "generation": 7,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen7pokemon.shtml"
+  },
+  {
+    "id": 810,
+    "name": "Grookey",
+    "pronunciation": "GROO-kee",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 811,
+    "name": "Thwackey",
+    "pronunciation": "THWAK-ee",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 812,
+    "name": "Rillaboom",
+    "pronunciation": "RIL-uh-boom",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 813,
+    "name": "Scorbunny",
+    "pronunciation": "SKOHR-buh-nee",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 814,
+    "name": "Raboot",
+    "pronunciation": "RAB-boot",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 815,
+    "name": "Cinderace",
+    "pronunciation": "SIN-deh-race",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 816,
+    "name": "Sobble",
+    "pronunciation": "SAH-bull",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 817,
+    "name": "Drizzile",
+    "pronunciation": "DRIZ-zyle",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 818,
+    "name": "Inteleon",
+    "pronunciation": "in-TELL-ee-un",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 819,
+    "name": "Skwovet",
+    "pronunciation": "SKWUH-vet",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 820,
+    "name": "Greedent",
+    "pronunciation": "GREE-dent",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 821,
+    "name": "Rookidee",
+    "pronunciation": "ROOK-ih-dee",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 822,
+    "name": "Corvisquire",
+    "pronunciation": "KOR-vih-skwyre",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 823,
+    "name": "Corviknight",
+    "pronunciation": "KOR-vih-nyte",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 824,
+    "name": "Blipbug",
+    "pronunciation": "BLIP-bug",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 825,
+    "name": "Dottler",
+    "pronunciation": "DOT-ler",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 826,
+    "name": "Orbeetle",
+    "pronunciation": "OR-BEE-del",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 827,
+    "name": "Nickit",
+    "pronunciation": "NICK-it",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 828,
+    "name": "Thievul",
+    "pronunciation": "THEEV-ull",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 829,
+    "name": "Gossifleur",
+    "pronunciation": "GAH-sih-fluhr",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 830,
+    "name": "Eldegoss",
+    "pronunciation": "EL-duh-gahs",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 831,
+    "name": "Wooloo",
+    "pronunciation": "WOO-loo",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 832,
+    "name": "Dubwool",
+    "pronunciation": "DUB-wool",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 833,
+    "name": "Chewtle",
+    "pronunciation": "CHOO-tull",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 834,
+    "name": "Drednaw",
+    "pronunciation": "DRED-naw",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 835,
+    "name": "Yamper",
+    "pronunciation": "YAM-per",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 836,
+    "name": "Boltund",
+    "pronunciation": "BOHL-tund",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 837,
+    "name": "Rolycoly",
+    "pronunciation": "ROH-lee-KOH-lee",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 838,
+    "name": "Carkol",
+    "pronunciation": "KAR-kohl",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 839,
+    "name": "Coalossal",
+    "pronunciation": "koh-LAHS-ull",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 840,
+    "name": "Applin",
+    "pronunciation": "AP-lin",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 841,
+    "name": "Flapple",
+    "pronunciation": "FLAP-puhl",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 842,
+    "name": "Appletun",
+    "pronunciation": "AP-pell-tun",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 843,
+    "name": "Silicobra",
+    "pronunciation": "sih-lih-KOH-bruh",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 844,
+    "name": "Sandaconda",
+    "pronunciation": "san-duh-KAHN-duh",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 845,
+    "name": "Cramorant",
+    "pronunciation": "KRAM-uh-rent",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 846,
+    "name": "Arrokuda",
+    "pronunciation": "AIR-oh-KOO-duh",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 847,
+    "name": "Barraskewda",
+    "pronunciation": "BAIR-uh-SKYOO-duh",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 848,
+    "name": "Toxel",
+    "pronunciation": "TAHKS-ull",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 849,
+    "name": "Toxtricity",
+    "pronunciation": "tahks-TRIS-ih-tee",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 850,
+    "name": "Sizzlipede",
+    "pronunciation": "SIZ-lih-peed",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 851,
+    "name": "Centiskorch",
+    "pronunciation": "SEN-tih-scorch",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 852,
+    "name": "Clobbopus",
+    "pronunciation": "KLAH-buh-puss",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 853,
+    "name": "Grapploct",
+    "pronunciation": "GRAB-lahct",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 854,
+    "name": "Sinistea",
+    "pronunciation": "SIH-nis-tee",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 855,
+    "name": "Polteageist",
+    "pronunciation": "POHL-tee-guyst",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 856,
+    "name": "Hatenna",
+    "pronunciation": "hat-EN-nuh",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 857,
+    "name": "Hattrem",
+    "pronunciation": "HAT-trum",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 858,
+    "name": "Hatterene",
+    "pronunciation": "HAT-eh-reen",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 859,
+    "name": "Impidimp",
+    "pronunciation": "IMP-ih-dimp",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 860,
+    "name": "Morgrem",
+    "pronunciation": "MOHR-grehm",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 861,
+    "name": "Grimmsnarl",
+    "pronunciation": "GRIM-snarl",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 862,
+    "name": "Obstagoon",
+    "pronunciation": "AHB-stuh-goon",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 863,
+    "name": "Perrserker",
+    "pronunciation": "purr-ZURR-kurr",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 864,
+    "name": "Cursola",
+    "pronunciation": "KURR-suh-luh",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 865,
+    "name": "Sirfetch'd",
+    "pronunciation": "sir-fetcht",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 866,
+    "name": "Mr. Rime",
+    "pronunciation": "MIS-ter-RYME",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 867,
+    "name": "Runerigus",
+    "pronunciation": "ROON-uh-REE-gus",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 868,
+    "name": "Milcery",
+    "pronunciation": "MIHL-suh-ree",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 869,
+    "name": "Alcremie",
+    "pronunciation": "AL-kruh-mee",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 870,
+    "name": "Falinks",
+    "pronunciation": "FAY-links",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 871,
+    "name": "Pincurchin",
+    "pronunciation": "PIN-kur-chin",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 872,
+    "name": "Snom",
+    "pronunciation": "snahm",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 873,
+    "name": "Frosmoth",
+    "pronunciation": "FRAHS-mahth",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 874,
+    "name": "Stonjourner",
+    "pronunciation": "STONE-jer-ner",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 875,
+    "name": "Eiscue",
+    "pronunciation": "ICE-kyoo",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 876,
+    "name": "Indeedee",
+    "pronunciation": "in-DEE-dee",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 877,
+    "name": "Morpeko",
+    "pronunciation": "mohr-PEH-koh",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 878,
+    "name": "Cufant",
+    "pronunciation": "KYOO-funt",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 879,
+    "name": "Copperajah",
+    "pronunciation": "KAH-peh-RAH-zhah",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 880,
+    "name": "Dracozolt",
+    "pronunciation": "DRAK-oh-zohlt",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 881,
+    "name": "Arctozolt",
+    "pronunciation": "ARK-toh-zohlt",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 882,
+    "name": "Dracovish",
+    "pronunciation": "DRAK-oh-vish",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 883,
+    "name": "Arctovish",
+    "pronunciation": "ARK-toh-vish",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 884,
+    "name": "Duraludon",
+    "pronunciation": "duh-RAL-uh-dahn",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 885,
+    "name": "Dreepy",
+    "pronunciation": "DREE-pee",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 886,
+    "name": "Drakloak",
+    "pronunciation": "DRAK-klohkk",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 887,
+    "name": "Dragapult",
+    "pronunciation": "DRAG-uh-pult",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 888,
+    "name": "Zacian",
+    "pronunciation": "ZAH-shee-uhn",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 889,
+    "name": "Zamazenta",
+    "pronunciation": "ZAH-mah-ZEN-tuh",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 890,
+    "name": "Eternatus",
+    "pronunciation": "ee-TURR-nuh-tuss",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 891,
+    "name": "Kubfu",
+    "pronunciation": "cub-FOO",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 892,
+    "name": "Urshifu",
+    "pronunciation": "UR-she-foo",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 893,
+    "name": "Zarude",
+    "pronunciation": "zah-ROOD",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 894,
+    "name": "Regieleki",
+    "pronunciation": "REDGE-ee-eh-leck-ee",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 895,
+    "name": "Regidrago",
+    "pronunciation": "REDGE-ee-DRAH-go",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 896,
+    "name": "Glastrier",
+    "pronunciation": "GLASS-tree-uh",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 897,
+    "name": "Spectrier",
+    "pronunciation": "SPEC-tree-uh",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 898,
+    "name": "Calyrex",
+    "pronunciation": "CAL-eh-rex",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 899,
+    "name": "Wyrdeer",
+    "pronunciation": "wee-uh-deer",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 900,
+    "name": "Kleavor",
+    "pronunciation": "klee-VOR",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 901,
+    "name": "Ursaluna",
+    "pronunciation": "UR-sa-LOO-nuh",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 902,
+    "name": "Basculegion",
+    "pronunciation": "BASS-kyoo-lee-jyon",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 903,
+    "name": "Sneasler",
+    "pronunciation": "SNEE-zlurh",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 904,
+    "name": "Overqwil",
+    "pronunciation": "Oh-ver-quill",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 905,
+    "name": "Enamorus",
+    "pronunciation": "en-am-orus",
+    "generation": 8,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen8pokemon.shtml"
+  },
+  {
+    "id": 906,
+    "name": "Sprigatito",
+    "pronunciation": "SPRIG-uh-TEE-toh",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 907,
+    "name": "Floragato",
+    "pronunciation": "FLOR-uh-GAH-toh",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 908,
+    "name": "Meowscarada",
+    "pronunciation": "MEOW-skah-RAH-da",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 909,
+    "name": "Fuecoco",
+    "pronunciation": "fwey-KO-ko",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 910,
+    "name": "Crocalor",
+    "pronunciation": "KROCK-uh-lor",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 911,
+    "name": "Skeledirge",
+    "pronunciation": "SKEL-uh-durj",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 912,
+    "name": "Quaxly",
+    "pronunciation": "KWACKS-lee",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 913,
+    "name": "Quaxwell",
+    "pronunciation": "KWACKS-well",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 914,
+    "name": "Quaquaval",
+    "pronunciation": "KWACK-wuh-vul",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 915,
+    "name": "Lechonk",
+    "pronunciation": "leh-CHAHNK",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 916,
+    "name": "Oinkologne",
+    "pronunciation": "OIN-koh-lohn",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 917,
+    "name": "Tarountula",
+    "pronunciation": "tuh-ROWN-chuh-luh",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 918,
+    "name": "Spidops",
+    "pronunciation": "SPY-dops",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 919,
+    "name": "Nymble",
+    "pronunciation": "NIHM-bull",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 920,
+    "name": "Lokix",
+    "pronunciation": "low-kicks",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 921,
+    "name": "Pawmi",
+    "pronunciation": "PAW-mi",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 922,
+    "name": "Pawmo",
+    "pronunciation": "PAW-mo",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 923,
+    "name": "Pawmot",
+    "pronunciation": "PAW-met",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 924,
+    "name": "Tandemaus",
+    "pronunciation": "TAN-duh-mouse",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 925,
+    "name": "Maushold",
+    "pronunciation": "MOUSE-hold",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 926,
+    "name": "Fidough",
+    "pronunciation": "FEYE-doh",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 927,
+    "name": "Dachsbun",
+    "pronunciation": "DAHKS-buhn",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 928,
+    "name": "Smoliv",
+    "pronunciation": "SMAH-liv",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 929,
+    "name": "Dolliv",
+    "pronunciation": "DAH-liv",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 930,
+    "name": "Arboliva",
+    "pronunciation": "ar-bowl-EE-vuh",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 931,
+    "name": "Squawkabilly",
+    "pronunciation": "SKWAHK-uh-BIHL-ee",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 932,
+    "name": "Nacli",
+    "pronunciation": "NAK-lee",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 933,
+    "name": "Naclstack",
+    "pronunciation": "NAK-ull-stack",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 934,
+    "name": "Garganacl",
+    "pronunciation": "GAHR-gah-NAK-ull",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 935,
+    "name": "Charcadet",
+    "pronunciation": "CHAR-kuh-deht",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 936,
+    "name": "Armarouge",
+    "pronunciation": "ARM-uh-roozh",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 937,
+    "name": "Ceruledge",
+    "pronunciation": "suh-ROOL-ehj",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 938,
+    "name": "Tadbulb",
+    "pronunciation": "TAD-bulb",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 939,
+    "name": "Bellibolt",
+    "pronunciation": "BELL-ee-bolt",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 940,
+    "name": "Wattrel",
+    "pronunciation": "WAHT-rel",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 941,
+    "name": "Kilowattrel",
+    "pronunciation": "KIH-loh-WAHT-rel",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 942,
+    "name": "Maschiff",
+    "pronunciation": "MAS-sheff",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 943,
+    "name": "Mabosstiff",
+    "pronunciation": "mah-BAWS-tif",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 944,
+    "name": "Shroodle",
+    "pronunciation": "SHROO-dul",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 945,
+    "name": "Grafaiai",
+    "pronunciation": "gruh-FEYE-eye",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 946,
+    "name": "Bramblin",
+    "pronunciation": "BRAM-bah-lihn",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 947,
+    "name": "Brambleghast",
+    "pronunciation": "BRAM-bull-gast",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 948,
+    "name": "Toedscool",
+    "pronunciation": "TOHDS-cool",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 949,
+    "name": "Toedscruel",
+    "pronunciation": "TOHDS-croo-ull",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 950,
+    "name": "Klawf",
+    "pronunciation": "KLAWF",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 951,
+    "name": "Capsakid",
+    "pronunciation": "KAP-suh-KID",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 952,
+    "name": "Scovillain",
+    "pronunciation": "SKOH-vil-lun",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 953,
+    "name": "Rellor",
+    "pronunciation": "RELL-lor",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 954,
+    "name": "Rabsca",
+    "pronunciation": "RABB-skah",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 955,
+    "name": "Flittle",
+    "pronunciation": "FLIT-ull",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 956,
+    "name": "Espathra",
+    "pronunciation": "ess-PATH-ruh",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 957,
+    "name": "Tinkatink",
+    "pronunciation": "TIHNK-uh-tihnk",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 958,
+    "name": "Tinkatuff",
+    "pronunciation": "TIHNK-uh-tuhf",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 959,
+    "name": "Tinkaton",
+    "pronunciation": "TIHNK-uh-tuhn",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 960,
+    "name": "Wiglett",
+    "pronunciation": "WIG-let",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 961,
+    "name": "Wugtrio",
+    "pronunciation": "WUHG-TREE-oh",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 962,
+    "name": "Bombirdier",
+    "pronunciation": "BAHM-burr-deer",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 963,
+    "name": "Finizen",
+    "pronunciation": "FIN-uh-zin",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 964,
+    "name": "Palafin",
+    "pronunciation": "PAL-uh-fin",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 965,
+    "name": "Varoom",
+    "pronunciation": "vuh-ROOM",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 966,
+    "name": "Revavroom",
+    "pronunciation": "REV-uh-VROOM",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 967,
+    "name": "Cyclizar",
+    "pronunciation": "SYE-clih-zahr",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 968,
+    "name": "Orthworm",
+    "pronunciation": "ORTH-werm",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 969,
+    "name": "Glimmet",
+    "pronunciation": "GLIHM-miht",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 970,
+    "name": "Glimmora",
+    "pronunciation": "glihm-MOR-uh",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 971,
+    "name": "Greavard",
+    "pronunciation": "GREE-verd",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 972,
+    "name": "Houndstone",
+    "pronunciation": "HOUND-stone",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 973,
+    "name": "Flamigo",
+    "pronunciation": "fluh-MEE-goh",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 974,
+    "name": "Cetoddle",
+    "pronunciation": "sih-TAH-dul",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 975,
+    "name": "Cetitan",
+    "pronunciation": "sih-TYE-tun",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 976,
+    "name": "Veluza",
+    "pronunciation": "veh-LOOZ-uh",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 977,
+    "name": "Dondozo",
+    "pronunciation": "DAHN-DOH-zoh",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 978,
+    "name": "Tatsugiri",
+    "pronunciation": "TAHT-soo-gee-ree",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 979,
+    "name": "Annihilape",
+    "pronunciation": "uh-NYE-uh-layp",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 980,
+    "name": "Clodsire",
+    "pronunciation": "KLAWD-seye-er",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 981,
+    "name": "Farigiraf",
+    "pronunciation": "fuh-RIG-uh-raff",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 982,
+    "name": "Dudunsparce",
+    "pronunciation": "duh-DUHN-sparse",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 983,
+    "name": "Kingambit",
+    "pronunciation": "kihn-GAM-bit",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 984,
+    "name": "Great Tusk",
+    "pronunciation": "GREAT-TUSK",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 985,
+    "name": "Scream Tail",
+    "pronunciation": "SCREAM-tail",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 986,
+    "name": "Brute Bonnet",
+    "pronunciation": "BRUTE-BAW-net",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 987,
+    "name": "Flutter Mane",
+    "pronunciation": "FLUH-ter-mane",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 988,
+    "name": "Slither Wing",
+    "pronunciation": "SLIH-ther-wing",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 989,
+    "name": "Sandy Shocks",
+    "pronunciation": "SAN-dee-shox",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 990,
+    "name": "Iron Treads",
+    "pronunciation": "EYE-ern-TREDS",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 991,
+    "name": "Iron Bundle",
+    "pronunciation": "EYE-ern-BUN-del",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 992,
+    "name": "Iron Hands",
+    "pronunciation": "EYE-ern-HANDS",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 993,
+    "name": "Iron Jugulis",
+    "pronunciation": "EYE-ern-JUH-gyoo-lihs",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 994,
+    "name": "Iron Moth",
+    "pronunciation": "EYE-ern-MAHTH",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 995,
+    "name": "Iron Thorns",
+    "pronunciation": "EYE-ern-THORNS",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 996,
+    "name": "Frigibax",
+    "pronunciation": "FRI-juh-baks",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 997,
+    "name": "Arctibax",
+    "pronunciation": "ARK-tuh-baks",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 998,
+    "name": "Baxcalibur",
+    "pronunciation": "bak-SKA-leh-burr",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 999,
+    "name": "Gimmighoul",
+    "pronunciation": "GIH-mee-ghoul",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 1000,
+    "name": "Gholdengo",
+    "pronunciation": "GHOL-den-goh",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 1001,
+    "name": "Wo-Chien",
+    "pronunciation": "WOH-chyehn",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 1002,
+    "name": "Chien-Pao",
+    "pronunciation": "CHYEHN-pow",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 1003,
+    "name": "Ting-Lu",
+    "pronunciation": "TIHNG-loo",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 1004,
+    "name": "Chi-Yu",
+    "pronunciation": "CHEE-yoo",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 1005,
+    "name": "Roaring Moon",
+    "pronunciation": "ROAR-ing-moon",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 1006,
+    "name": "Iron Valiant",
+    "pronunciation": "EYE-ern-VAL-ee-ent",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 1007,
+    "name": "Koraidon",
+    "pronunciation": "koh-RAI-dahn",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 1008,
+    "name": "Miraidon",
+    "pronunciation": "meer-RAI-dahn",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 1009,
+    "name": "Walking Wake",
+    "pronunciation": "WAL-king WAYK",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 1010,
+    "name": "Iron Leaves",
+    "pronunciation": "EYE-ern LEEVS",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 1011,
+    "name": "Dipplin",
+    "pronunciation": "DIHP-lihn",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 1012,
+    "name": "Poltchageist",
+    "pronunciation": "POHL-chuh-guyst",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 1013,
+    "name": "Sinistcha",
+    "pronunciation": "SIH-nihs-chah",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 1014,
+    "name": "Okidogi",
+    "pronunciation": "OH-kee-DOH-gee",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 1015,
+    "name": "Munkidori",
+    "pronunciation": "MUHN-kee-DOR-ee",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 1016,
+    "name": "Fezandipiti",
+    "pronunciation": "feh-zun-DIHP-ih-dee",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 1017,
+    "name": "Ogerpon",
+    "pronunciation": "OH-gur-pahn",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 1018,
+    "name": "Archaludon",
+    "pronunciation": "ahrch-AL-uh-dahn",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 1019,
+    "name": "Hydrapple",
+    "pronunciation": "hy-DRA-pel",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 1020,
+    "name": "Gouging Fire",
+    "pronunciation": "GOW-jing FEYE-ur",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 1021,
+    "name": "Raging Bolt",
+    "pronunciation": "RAY-jing BOLT",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 1022,
+    "name": "Iron Boulder",
+    "pronunciation": "EYE-ern BOHL-dur",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 1023,
+    "name": "Iron Crown",
+    "pronunciation": "EYE-ern KROWN",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 1024,
+    "name": "Terapagos",
+    "pronunciation": "tehr-AH-puh-gohs",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  },
+  {
+    "id": 1025,
+    "name": "Pecharunt",
+    "pronunciation": "PEH-chuh-ruhnt",
+    "generation": 9,
+    "url": "https://www.serebii.net/pokemon/pronunciation/gen9pokemon.shtml"
+  }
+]

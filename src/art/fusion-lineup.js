@@ -8,7 +8,7 @@ export function fusionLineup(stages) {
     if (stage.chapterBoss || !stage.hero || seen.has(stage.hero.art)) return false
     seen.add(stage.hero.art)
     return true
-  }).slice(0, 3)
+  }).slice(0, 4)
 }
 
 // Learning order remains the original sound order, independent of the team.
@@ -20,6 +20,6 @@ export function fusionSounds(stages) {
     if (seen.has(key)) return false
     seen.add(key)
     return true
-  }).slice(0, 3).map(stage => heroEmblem(stage.hero))
+  }).slice(0, 4).map(stage => heroEmblem(stage.hero))
     .filter(sound => sound && sound !== '★')
 }

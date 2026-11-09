@@ -500,7 +500,7 @@ export const chapter14 = {
           words: [{ text: 'H', say: 'huh' }, { text: 'ER', say: 'erh' }, 'her'],
         },
       ],
-      recapKo: '이제 AR, ER을 모두 알아요! 두 히어로가 힘을 합쳐요!',
+      recapKo: '이제 AR, ER을 모두 알아요! 히어로들이 합체할 준비를 해요!',
       recapAudio: {
         ko: '이 글자는 이런 소리를 내요. 이제 두 소리를 모두 배웠어요.',
         en: ['her', 'fern'],
@@ -672,7 +672,7 @@ export const chapter14 = {
         {
           id: 'c14s5-teach',
           kind: 'teach',
-          instructionKo: '두 히어로가 합체해요! 먼저 car를 만들어요.',
+          instructionKo: '히어로가 합체해요! 먼저 car를 만들어요.',
           repeatAudio: ['kuh', 'arh', 'car'],
         },
         {

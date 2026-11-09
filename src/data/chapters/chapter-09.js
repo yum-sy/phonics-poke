@@ -666,7 +666,7 @@ export const chapter9 = {
         {
           id: 'c9s5-teach',
           kind: 'teach',
-          instructionKo: '세 히어로가 합체해요! 먼저 zip을 만들어요.',
+          instructionKo: '히어로가 합체해요! 먼저 zip을 만들어요.',
           repeatAudio: ['zze', 'ihh', 'puh', 'zip'],
         },
         {
