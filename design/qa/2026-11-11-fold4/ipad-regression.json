@@ -1,0 +1,2136 @@
+{
+  "standalone": false,
+  "base": "http://127.0.0.1:5175",
+  "generatedAt": "2026-11-11T14:10:48.542Z",
+  "cases": [
+    {
+      "name": "portrait-world",
+      "hud": "NOSCROLL shot=world on=[screen chapter-select-screen |-] chapter=5 vp=834x1194 svh=1194 tb=0 ovfY=0 ovfX=0 gap=25px(2.1%)@y0",
+      "images": [
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/254.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/245.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/730.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/282.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/6.png",
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "dom": {
+        "viewport": [
+          834,
+          1194
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 1194,
+          "height": 1194
+        },
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "left": 20,
+          "right": 20
+        },
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    },
+    {
+      "name": "portrait-chapters",
+      "hud": "NOSCROLL shot=chapters on=[screen chapter-select-screen |-] chapter=7 vp=834x1194 svh=1194 tb=0 ovfY=0 ovfX=0 gap=16px(1.3%)@y0",
+      "images": [
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/94.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/73.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/781.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/553.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/609.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/970.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/477.png",
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "dom": {
+        "viewport": [
+          834,
+          1194
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 1194,
+          "height": 1194
+        },
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "left": 20,
+          "right": 20
+        },
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    },
+    {
+      "name": "portrait-map4",
+      "hud": "NOSCROLL shot=map4 on=[screen map-screen |-] stage=5 vp=834x1194 svh=1194 tb=0 ovfY=0 ovfX=0 gap=28px(2.4%)@y396",
+      "images": [
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/553.png",
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "dom": {
+        "viewport": [
+          834,
+          1194
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 1194,
+          "height": 1194
+        },
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "left": 20,
+          "right": 20
+        },
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    },
+    {
+      "name": "portrait-battle1",
+      "hud": "NOSCROLL shot=battle1 on=[screen stage-screen|beat teach-beat] empty vp=834x1194 svh=1194 tb=0 ovfY=0 ovfX=0 gap=40px(3.4%)@y1154 bgap=36px(4.2%)@y441/col860",
+      "images": [
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/13.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/86.png",
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "dom": {
+        "viewport": [
+          834,
+          1194
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 1194,
+          "height": 1194
+        },
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "left": 20,
+          "right": 20
+        },
+        "topbar": 16,
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "state": "studying",
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    },
+    {
+      "name": "portrait-boss1",
+      "hud": "NOSCROLL shot=boss1 on=[screen stage-screen|beat teach-beat] mini=4 vp=834x1194 svh=1194 tb=0 ovfY=0 ovfX=0 gap=134px(11.2%)@y1060 bgap=209px(24.3%)@y478/col860",
+      "images": [
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/94.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/254.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/816.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/86.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/63.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/175.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/254.gif",
+          "width": 100,
+          "height": 93
+        }
+      ],
+      "dom": {
+        "viewport": [
+          834,
+          1194
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 1194,
+          "height": 1194
+        },
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "left": 20,
+          "right": 20
+        },
+        "topbar": 16,
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "state": "studying",
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    },
+    {
+      "name": "portrait-boss1after",
+      "hud": "NOSCROLL shot=boss1after on=[screen stage-screen|beat teach-beat] beat-equation=1 vp=834x1194 svh=1194 tb=0 ovfY=0 ovfX=0 gap=79px(6.6%)@y1115 bgap=75px(8.7%)@y929/col860",
+      "images": [
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/94.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/254.png",
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "dom": {
+        "viewport": [
+          834,
+          1194
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 1194,
+          "height": 1194
+        },
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "left": 20,
+          "right": 20
+        },
+        "topbar": 16,
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "state": "studying",
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    },
+    {
+      "name": "portrait-reward33",
+      "hud": "NOSCROLL shot=reward33 on=[screen reward-screen|-] empty vp=834x1194 svh=1194 tb=0 ovfY=0 ovfX=0 gap=21px(1.8%)@y1173",
+      "images": [
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/658.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/890.png",
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "dom": {
+        "viewport": [
+          834,
+          1194
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 1194,
+          "height": 1194
+        },
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "left": 20,
+          "right": 20
+        },
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    },
+    {
+      "name": "portrait-long3",
+      "hud": "NOSCROLL shot=long3 on=[screen stage-screen|beat choose-beat] option=3 vp=834x1194 svh=1194 tb=0 ovfY=0 ovfX=0 gap=69px(5.8%)@y954 bgap=69px(8.1%)@y954/col860",
+      "images": [
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/590.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/197.png",
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "dom": {
+        "viewport": [
+          834,
+          1194
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 1194,
+          "height": 1194
+        },
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "left": 20,
+          "right": 20
+        },
+        "topbar": 16,
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "state": "studying",
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    },
+    {
+      "name": "portrait-lang6c",
+      "hud": "NOSCROLL shot=lang6c on=[screen stage-screen|beat choose-beat] option=3 vp=834x1194 svh=1194 tb=0 ovfY=0 ovfX=0 gap=26px(2.2%)@y1041 bgap=26px(3.0%)@y1041/col860",
+      "images": [
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/590.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/725.png",
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "dom": {
+        "viewport": [
+          834,
+          1194
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 1194,
+          "height": 1194
+        },
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "left": 20,
+          "right": 20
+        },
+        "topbar": 16,
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "state": "studying",
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    },
+    {
+      "name": "portrait-lang6t",
+      "hud": "NOSCROLL shot=lang6t on=[screen stage-screen|beat teach-beat] empty vp=834x1194 svh=1194 tb=0 ovfY=0 ovfX=0 gap=32px(2.6%)@y1162 bgap=28px(3.2%)@y879/col860",
+      "images": [
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/590.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/725.png",
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "dom": {
+        "viewport": [
+          834,
+          1194
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 1194,
+          "height": 1194
+        },
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "left": 20,
+          "right": 20
+        },
+        "topbar": 16,
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "state": "studying",
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    },
+    {
+      "name": "landscape-world",
+      "hud": "NOSCROLL shot=world on=[screen chapter-select-screen |-] chapter=5 vp=1194x834 svh=834 tb=0 ovfY=0 ovfX=0 gap=16px(1.9%)@y818",
+      "images": [
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/254.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/245.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/730.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/282.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/6.png",
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "dom": {
+        "viewport": [
+          1194,
+          834
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 834,
+          "height": 834
+        },
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "left": 24,
+          "right": 24
+        },
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    },
+    {
+      "name": "landscape-chapters",
+      "hud": "NOSCROLL shot=chapters on=[screen chapter-select-screen |-] chapter=7 vp=1194x834 svh=834 tb=0 ovfY=0 ovfX=0 gap=16px(1.9%)@y0",
+      "images": [
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/94.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/73.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/781.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/553.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/609.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/970.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/477.png",
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "dom": {
+        "viewport": [
+          1194,
+          834
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 834,
+          "height": 834
+        },
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "left": 24,
+          "right": 24
+        },
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    },
+    {
+      "name": "landscape-map4",
+      "hud": "NOSCROLL shot=map4 on=[screen map-screen |-] stage=5 vp=1194x834 svh=834 tb=0 ovfY=0 ovfX=0 gap=40px(4.7%)@y347",
+      "images": [
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/553.png",
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "dom": {
+        "viewport": [
+          1194,
+          834
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 834,
+          "height": 834
+        },
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "left": 24,
+          "right": 24
+        },
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    },
+    {
+      "name": "landscape-battle1",
+      "hud": "NOSCROLL shot=battle1 on=[screen stage-screen|beat teach-beat] empty vp=1194x834 svh=834 tb=0 ovfY=0 ovfX=0 gap=16px(1.9%)@y0 bgap=51px(6.3%)@y132/col802",
+      "images": [
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/13.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/86.png",
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "dom": {
+        "viewport": [
+          1194,
+          834
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 834,
+          "height": 834
+        },
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "left": 24,
+          "right": 24
+        },
+        "topbar": 16,
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "state": "studying",
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    },
+    {
+      "name": "landscape-boss1",
+      "hud": "NOSCROLL shot=boss1 on=[screen stage-screen|beat teach-beat] mini=4 vp=1194x834 svh=834 tb=0 ovfY=0 ovfX=0 gap=16px(1.9%)@y0 bgap=196px(24.4%)@y169/col802",
+      "images": [
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/94.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/254.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/816.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/86.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/63.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/175.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/254.gif",
+          "width": 100,
+          "height": 93
+        }
+      ],
+      "dom": {
+        "viewport": [
+          1194,
+          834
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 834,
+          "height": 834
+        },
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "left": 24,
+          "right": 24
+        },
+        "topbar": 16,
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "state": "studying",
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    },
+    {
+      "name": "landscape-boss1after",
+      "hud": "NOSCROLL shot=boss1after on=[screen stage-screen|beat teach-beat] beat-equation=1 vp=1194x834 svh=834 tb=0 ovfY=0 ovfX=0 gap=16px(1.9%)@y0 bgap=95px(11.8%)@y545/col802",
+      "images": [
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/94.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/254.png",
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "dom": {
+        "viewport": [
+          1194,
+          834
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 834,
+          "height": 834
+        },
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "left": 24,
+          "right": 24
+        },
+        "topbar": 16,
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "state": "studying",
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    },
+    {
+      "name": "landscape-reward33",
+      "hud": "NOSCROLL shot=reward33 on=[screen reward-screen|-] empty vp=1194x834 svh=834 tb=0 ovfY=0 ovfX=0 gap=17px(2.0%)@y817",
+      "images": [
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/658.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/890.png",
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "dom": {
+        "viewport": [
+          1194,
+          834
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 834,
+          "height": 834
+        },
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "left": 24,
+          "right": 24
+        },
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    },
+    {
+      "name": "landscape-long3",
+      "hud": "NOSCROLL shot=long3 on=[screen stage-screen|beat choose-beat] option=3 vp=1194x834 svh=834 tb=0 ovfY=0 ovfX=0 gap=16px(1.9%)@y0 bgap=52px(6.5%)@y642/col802",
+      "images": [
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/590.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/197.png",
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "dom": {
+        "viewport": [
+          1194,
+          834
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 834,
+          "height": 834
+        },
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "left": 24,
+          "right": 24
+        },
+        "topbar": 16,
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "state": "studying",
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    },
+    {
+      "name": "landscape-lang6c",
+      "hud": "NOSCROLL shot=lang6c on=[screen stage-screen|beat choose-beat] option=3 vp=1194x834 svh=834 tb=0 ovfY=0 ovfX=0 gap=16px(1.9%)@y0 bgap=24px(3.0%)@y698/col802",
+      "images": [
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/590.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/725.png",
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "dom": {
+        "viewport": [
+          1194,
+          834
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 834,
+          "height": 834
+        },
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "left": 24,
+          "right": 24
+        },
+        "topbar": 16,
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "state": "studying",
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    },
+    {
+      "name": "landscape-lang6t",
+      "hud": "NOSCROLL shot=lang6t on=[screen stage-screen|beat teach-beat] empty vp=1194x834 svh=834 tb=0 ovfY=0 ovfX=0 gap=16px(1.9%)@y0 bgap=43px(5.4%)@y169/col802",
+      "images": [
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/590.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/725.png",
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "dom": {
+        "viewport": [
+          1194,
+          834
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 834,
+          "height": 834
+        },
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "left": 24,
+          "right": 24
+        },
+        "topbar": 16,
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "state": "studying",
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    },
+    {
+      "name": "portrait-safe-world",
+      "hud": "NOSCROLL shot=world on=[screen chapter-select-screen |-] chapter=5 vp=834x1194 svh=1194 tb=0 ovfY=0 ovfX=0 gap=49px(4.1%)@y0",
+      "images": [
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/254.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/245.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/730.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/282.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/6.png",
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "dom": {
+        "viewport": [
+          834,
+          1194
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 1194,
+          "height": 1194
+        },
+        "padding": {
+          "top": 40,
+          "bottom": 36,
+          "left": 20,
+          "right": 20
+        },
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    },
+    {
+      "name": "portrait-safe-chapters",
+      "hud": "NOSCROLL shot=chapters on=[screen chapter-select-screen |-] chapter=7 vp=834x1194 svh=1194 tb=0 ovfY=0 ovfX=0 gap=40px(3.4%)@y0",
+      "images": [
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/94.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/73.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/781.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/553.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/609.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/970.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/477.png",
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "dom": {
+        "viewport": [
+          834,
+          1194
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 1194,
+          "height": 1194
+        },
+        "padding": {
+          "top": 40,
+          "bottom": 36,
+          "left": 20,
+          "right": 20
+        },
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    },
+    {
+      "name": "portrait-safe-map4",
+      "hud": "NOSCROLL shot=map4 on=[screen map-screen |-] stage=5 vp=834x1194 svh=1194 tb=0 ovfY=0 ovfX=0 gap=40px(3.4%)@y0",
+      "images": [
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/553.png",
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "dom": {
+        "viewport": [
+          834,
+          1194
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 1194,
+          "height": 1194
+        },
+        "padding": {
+          "top": 40,
+          "bottom": 36,
+          "left": 20,
+          "right": 20
+        },
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    },
+    {
+      "name": "portrait-safe-battle1",
+      "hud": "NOSCROLL shot=battle1 on=[screen stage-screen|beat teach-beat] empty vp=834x1194 svh=1194 tb=0 ovfY=0 ovfX=0 gap=53px(4.4%)@y1141 bgap=29px(3.6%)@y855/col816",
+      "images": [
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/13.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/86.png",
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "dom": {
+        "viewport": [
+          834,
+          1194
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 1194,
+          "height": 1194
+        },
+        "padding": {
+          "top": 40,
+          "bottom": 36,
+          "left": 20,
+          "right": 20
+        },
+        "topbar": 40,
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "state": "studying",
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    },
+    {
+      "name": "portrait-safe-boss1",
+      "hud": "NOSCROLL shot=boss1 on=[screen stage-screen|beat teach-beat] mini=4 vp=834x1194 svh=1194 tb=0 ovfY=0 ovfX=0 gap=139px(11.7%)@y1055 bgap=194px(23.8%)@y494/col816",
+      "images": [
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/94.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/254.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/816.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/86.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/63.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/175.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/254.gif",
+          "width": 100,
+          "height": 93
+        }
+      ],
+      "dom": {
+        "viewport": [
+          834,
+          1194
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 1194,
+          "height": 1194
+        },
+        "padding": {
+          "top": 40,
+          "bottom": 36,
+          "left": 20,
+          "right": 20
+        },
+        "topbar": 40,
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "state": "studying",
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    },
+    {
+      "name": "portrait-safe-boss1after",
+      "hud": "NOSCROLL shot=boss1after on=[screen stage-screen|beat teach-beat] beat-equation=1 vp=834x1194 svh=1194 tb=0 ovfY=0 ovfX=0 gap=90px(7.5%)@y1104 bgap=66px(8.1%)@y927/col816",
+      "images": [
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/94.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/254.png",
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "dom": {
+        "viewport": [
+          834,
+          1194
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 1194,
+          "height": 1194
+        },
+        "padding": {
+          "top": 40,
+          "bottom": 36,
+          "left": 20,
+          "right": 20
+        },
+        "topbar": 40,
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "state": "studying",
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    },
+    {
+      "name": "portrait-safe-reward33",
+      "hud": "NOSCROLL shot=reward33 on=[screen reward-screen|-] empty vp=834x1194 svh=1194 tb=0 ovfY=0 ovfX=0 gap=41px(3.5%)@y0",
+      "images": [
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/658.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/890.png",
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "dom": {
+        "viewport": [
+          834,
+          1194
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 1194,
+          "height": 1194
+        },
+        "padding": {
+          "top": 40,
+          "bottom": 36,
+          "left": 20,
+          "right": 20
+        },
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    },
+    {
+      "name": "portrait-safe-long3",
+      "hud": "NOSCROLL shot=long3 on=[screen stage-screen|beat choose-beat] option=3 vp=834x1194 svh=1194 tb=0 ovfY=0 ovfX=0 gap=68px(5.7%)@y1126 bgap=58px(7.2%)@y956/col816",
+      "images": [
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/590.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/197.png",
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "dom": {
+        "viewport": [
+          834,
+          1194
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 1194,
+          "height": 1194
+        },
+        "padding": {
+          "top": 40,
+          "bottom": 36,
+          "left": 20,
+          "right": 20
+        },
+        "topbar": 40,
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "state": "studying",
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    },
+    {
+      "name": "portrait-safe-lang6c",
+      "hud": "NOSCROLL shot=lang6c on=[screen stage-screen|beat choose-beat] option=3 vp=834x1194 svh=1194 tb=0 ovfY=0 ovfX=0 gap=40px(3.4%)@y0 bgap=26px(3.2%)@y1021/col816",
+      "images": [
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/590.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/725.png",
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "dom": {
+        "viewport": [
+          834,
+          1194
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 1194,
+          "height": 1194
+        },
+        "padding": {
+          "top": 40,
+          "bottom": 36,
+          "left": 20,
+          "right": 20
+        },
+        "topbar": 40,
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "state": "studying",
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    },
+    {
+      "name": "portrait-safe-lang6t",
+      "hud": "NOSCROLL shot=lang6t on=[screen stage-screen|beat teach-beat] empty vp=834x1194 svh=1194 tb=0 ovfY=0 ovfX=0 gap=44px(3.7%)@y1150 bgap=20px(2.5%)@y505/col816",
+      "images": [
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/590.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/725.png",
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "dom": {
+        "viewport": [
+          834,
+          1194
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 1194,
+          "height": 1194
+        },
+        "padding": {
+          "top": 40,
+          "bottom": 36,
+          "left": 20,
+          "right": 20
+        },
+        "topbar": 40,
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "state": "studying",
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    },
+    {
+      "name": "landscape-safe-world",
+      "hud": "NOSCROLL shot=world on=[screen chapter-select-screen |-] chapter=5 vp=1194x834 svh=834 tb=0 ovfY=0 ovfX=0 gap=38px(4.6%)@y0",
+      "images": [
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/254.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/245.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/730.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/282.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/6.png",
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "dom": {
+        "viewport": [
+          1194,
+          834
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 834,
+          "height": 834
+        },
+        "padding": {
+          "top": 40,
+          "bottom": 36,
+          "left": 24,
+          "right": 24
+        },
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    },
+    {
+      "name": "landscape-safe-chapters",
+      "hud": "NOSCROLL shot=chapters on=[screen chapter-select-screen |-] chapter=7 vp=1194x834 svh=834 tb=0 ovfY=0 ovfX=0 gap=40px(4.8%)@y0",
+      "images": [
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/94.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/73.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/781.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/553.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/609.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/970.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/477.png",
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "dom": {
+        "viewport": [
+          1194,
+          834
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 834,
+          "height": 834
+        },
+        "padding": {
+          "top": 40,
+          "bottom": 36,
+          "left": 24,
+          "right": 24
+        },
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    },
+    {
+      "name": "landscape-safe-map4",
+      "hud": "NOSCROLL shot=map4 on=[screen map-screen |-] stage=5 vp=1194x834 svh=834 tb=0 ovfY=0 ovfX=0 gap=47px(5.6%)@y787",
+      "images": [
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/553.png",
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "dom": {
+        "viewport": [
+          1194,
+          834
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 834,
+          "height": 834
+        },
+        "padding": {
+          "top": 40,
+          "bottom": 36,
+          "left": 24,
+          "right": 24
+        },
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    },
+    {
+      "name": "landscape-safe-battle1",
+      "hud": "NOSCROLL shot=battle1 on=[screen stage-screen|beat teach-beat] empty vp=1194x834 svh=834 tb=0 ovfY=0 ovfX=0 gap=40px(4.8%)@y0 bgap=43px(5.7%)@y248/col758",
+      "images": [
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/13.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/86.png",
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "dom": {
+        "viewport": [
+          1194,
+          834
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 834,
+          "height": 834
+        },
+        "padding": {
+          "top": 40,
+          "bottom": 36,
+          "left": 24,
+          "right": 24
+        },
+        "topbar": 40,
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "state": "studying",
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    },
+    {
+      "name": "landscape-safe-boss1",
+      "hud": "NOSCROLL shot=boss1 on=[screen stage-screen|beat teach-beat] mini=4 vp=1194x834 svh=834 tb=0 ovfY=0 ovfX=0 gap=40px(4.8%)@y0 bgap=181px(23.9%)@y186/col758",
+      "images": [
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/94.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/254.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/816.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/86.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/63.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/175.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/254.gif",
+          "width": 100,
+          "height": 93
+        }
+      ],
+      "dom": {
+        "viewport": [
+          1194,
+          834
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 834,
+          "height": 834
+        },
+        "padding": {
+          "top": 40,
+          "bottom": 36,
+          "left": 24,
+          "right": 24
+        },
+        "topbar": 40,
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "state": "studying",
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    },
+    {
+      "name": "landscape-safe-boss1after",
+      "hud": "NOSCROLL shot=boss1after on=[screen stage-screen|beat teach-beat] beat-equation=1 vp=1194x834 svh=834 tb=0 ovfY=0 ovfX=0 gap=40px(4.8%)@y0 bgap=86px(11.3%)@y542/col758",
+      "images": [
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/94.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/254.png",
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "dom": {
+        "viewport": [
+          1194,
+          834
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 834,
+          "height": 834
+        },
+        "padding": {
+          "top": 40,
+          "bottom": 36,
+          "left": 24,
+          "right": 24
+        },
+        "topbar": 40,
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "state": "studying",
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    },
+    {
+      "name": "landscape-safe-reward33",
+      "hud": "NOSCROLL shot=reward33 on=[screen reward-screen|-] empty vp=1194x834 svh=834 tb=0 ovfY=0 ovfX=0 gap=41px(4.9%)@y0",
+      "images": [
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/658.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/890.png",
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "dom": {
+        "viewport": [
+          1194,
+          834
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 834,
+          "height": 834
+        },
+        "padding": {
+          "top": 40,
+          "bottom": 36,
+          "left": 24,
+          "right": 24
+        },
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    },
+    {
+      "name": "landscape-safe-long3",
+      "hud": "NOSCROLL shot=long3 on=[screen stage-screen|beat choose-beat] option=3 vp=1194x834 svh=834 tb=0 ovfY=0 ovfX=0 gap=40px(4.8%)@y0 bgap=41px(5.4%)@y644/col758",
+      "images": [
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/590.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/197.png",
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "dom": {
+        "viewport": [
+          1194,
+          834
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 834,
+          "height": 834
+        },
+        "padding": {
+          "top": 40,
+          "bottom": 36,
+          "left": 24,
+          "right": 24
+        },
+        "topbar": 40,
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "state": "studying",
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    },
+    {
+      "name": "landscape-safe-lang6c",
+      "hud": "NOSCROLL shot=lang6c on=[screen stage-screen|beat choose-beat] option=3 vp=1194x834 svh=834 tb=0 ovfY=0 ovfX=0 gap=40px(4.8%)@y0 bgap=24px(3.2%)@y678/col758",
+      "images": [
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/590.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/725.png",
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "dom": {
+        "viewport": [
+          1194,
+          834
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 834,
+          "height": 834
+        },
+        "padding": {
+          "top": 40,
+          "bottom": 36,
+          "left": 24,
+          "right": 24
+        },
+        "topbar": 40,
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "state": "studying",
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    },
+    {
+      "name": "landscape-safe-lang6t",
+      "hud": "NOSCROLL shot=lang6t on=[screen stage-screen|beat teach-beat] empty vp=1194x834 svh=834 tb=0 ovfY=0 ovfX=0 gap=40px(4.8%)@y0 bgap=36px(4.7%)@y278/col758",
+      "images": [
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/590.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/725.png",
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "dom": {
+        "viewport": [
+          1194,
+          834
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 834,
+          "height": 834
+        },
+        "padding": {
+          "top": 40,
+          "bottom": 36,
+          "left": 24,
+          "right": 24
+        },
+        "topbar": 40,
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "state": "studying",
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    }
+  ],
+  "failures": []
+}

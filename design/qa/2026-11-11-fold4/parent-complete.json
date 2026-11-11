@@ -1,0 +1,864 @@
+{
+  "standalone": true,
+  "base": "http://localhost:5175",
+  "generatedAt": "2026-11-11T14:13:04.287Z",
+  "cases": [
+    {
+      "name": "fold-p-world",
+      "hud": "NOSCROLL shot=world on=[screen chapter-select-screen parent-progress-editor|-] chapter=5 vp=691x829 svh=829 tb=365 ovfY=0 ovfX=0 gap=40px(4.8%)@y789",
+      "images": [
+        {
+          "url": "http://localhost:5175/art/pokemon/254.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://localhost:5175/art/pokemon/245.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://localhost:5175/art/pokemon/730.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://localhost:5175/art/pokemon/282.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://localhost:5175/art/pokemon/6.png",
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "dom": {
+        "viewport": [
+          691,
+          829
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 829,
+          "height": 829
+        },
+        "padding": {
+          "top": 40,
+          "bottom": 40,
+          "left": 16,
+          "right": 16
+        },
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    },
+    {
+      "name": "fold-p-chapters",
+      "hud": "NOSCROLL shot=chapters on=[screen chapter-select-screen parent-progress-editor|-] chapter=7 vp=691x829 svh=829 tb=365 ovfY=0 ovfX=0 gap=48px(5.8%)@y781",
+      "images": [
+        {
+          "url": "http://localhost:5175/art/pokemon/94.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://localhost:5175/art/pokemon/73.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://localhost:5175/art/pokemon/781.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://localhost:5175/art/pokemon/553.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://localhost:5175/art/pokemon/609.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://localhost:5175/art/pokemon/970.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://localhost:5175/art/pokemon/477.png",
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "dom": {
+        "viewport": [
+          691,
+          829
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 829,
+          "height": 829
+        },
+        "padding": {
+          "top": 40,
+          "bottom": 40,
+          "left": 16,
+          "right": 16
+        },
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    },
+    {
+      "name": "fold-p-map1",
+      "hud": "NOSCROLL shot=map1 on=[screen map-screen parent-progress-editor|-] stage=5 vp=691x829 svh=829 tb=365 ovfY=0 ovfX=0 gap=133px(16.0%)@y696",
+      "images": [
+        {
+          "url": "http://localhost:5175/art/pokemon/94.png",
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "dom": {
+        "viewport": [
+          691,
+          829
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 829,
+          "height": 829
+        },
+        "padding": {
+          "top": 40,
+          "bottom": 40,
+          "left": 16,
+          "right": 16
+        },
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    },
+    {
+      "name": "fold-p-map4",
+      "hud": "NOSCROLL shot=map4 on=[screen map-screen parent-progress-editor|-] stage=5 vp=691x829 svh=829 tb=365 ovfY=0 ovfX=0 gap=133px(16.0%)@y696",
+      "images": [
+        {
+          "url": "http://localhost:5175/art/pokemon/553.png",
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "dom": {
+        "viewport": [
+          691,
+          829
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 829,
+          "height": 829
+        },
+        "padding": {
+          "top": 40,
+          "bottom": 40,
+          "left": 16,
+          "right": 16
+        },
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    },
+    {
+      "name": "fold-l-world",
+      "hud": "NOSCROLL shot=world on=[screen chapter-select-screen parent-progress-editor|-] chapter=5 vp=829x691 svh=691 tb=143 ovfY=0 ovfX=0 gap=40px(5.8%)@y651",
+      "images": [
+        {
+          "url": "http://localhost:5175/art/pokemon/254.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://localhost:5175/art/pokemon/245.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://localhost:5175/art/pokemon/730.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://localhost:5175/art/pokemon/282.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://localhost:5175/art/pokemon/6.png",
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "dom": {
+        "viewport": [
+          829,
+          691
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 691,
+          "height": 691
+        },
+        "padding": {
+          "top": 40,
+          "bottom": 40,
+          "left": 16,
+          "right": 16
+        },
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    },
+    {
+      "name": "fold-l-chapters",
+      "hud": "NOSCROLL shot=chapters on=[screen chapter-select-screen parent-progress-editor|-] chapter=7 vp=829x691 svh=691 tb=143 ovfY=0 ovfX=0 gap=48px(6.9%)@y643",
+      "images": [
+        {
+          "url": "http://localhost:5175/art/pokemon/94.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://localhost:5175/art/pokemon/73.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://localhost:5175/art/pokemon/781.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://localhost:5175/art/pokemon/553.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://localhost:5175/art/pokemon/609.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://localhost:5175/art/pokemon/970.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://localhost:5175/art/pokemon/477.png",
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "dom": {
+        "viewport": [
+          829,
+          691
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 691,
+          "height": 691
+        },
+        "padding": {
+          "top": 40,
+          "bottom": 40,
+          "left": 16,
+          "right": 16
+        },
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    },
+    {
+      "name": "fold-l-map1",
+      "hud": "NOSCROLL shot=map1 on=[screen map-screen parent-progress-editor|-] stage=5 vp=829x691 svh=691 tb=143 ovfY=0 ovfX=0 gap=100px(14.5%)@y591",
+      "images": [
+        {
+          "url": "http://localhost:5175/art/pokemon/94.png",
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "dom": {
+        "viewport": [
+          829,
+          691
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 691,
+          "height": 691
+        },
+        "padding": {
+          "top": 40,
+          "bottom": 40,
+          "left": 16,
+          "right": 16
+        },
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    },
+    {
+      "name": "fold-l-map4",
+      "hud": "NOSCROLL shot=map4 on=[screen map-screen parent-progress-editor|-] stage=5 vp=829x691 svh=691 tb=143 ovfY=0 ovfX=0 gap=100px(14.5%)@y591",
+      "images": [
+        {
+          "url": "http://localhost:5175/art/pokemon/553.png",
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "dom": {
+        "viewport": [
+          829,
+          691
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 691,
+          "height": 691
+        },
+        "padding": {
+          "top": 40,
+          "bottom": 40,
+          "left": 16,
+          "right": 16
+        },
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    },
+    {
+      "name": "dense-p-world",
+      "hud": "NOSCROLL shot=world on=[screen chapter-select-screen parent-progress-editor|-] chapter=5 vp=604x725 svh=725 tb=469 ovfY=0 ovfX=0 gap=40px(5.5%)@y685",
+      "images": [
+        {
+          "url": "http://localhost:5175/art/pokemon/254.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://localhost:5175/art/pokemon/245.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://localhost:5175/art/pokemon/730.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://localhost:5175/art/pokemon/282.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://localhost:5175/art/pokemon/6.png",
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "dom": {
+        "viewport": [
+          604,
+          725
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 725,
+          "height": 725
+        },
+        "padding": {
+          "top": 40,
+          "bottom": 40,
+          "left": 16,
+          "right": 16
+        },
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    },
+    {
+      "name": "dense-p-chapters",
+      "hud": "NOSCROLL shot=chapters on=[screen chapter-select-screen parent-progress-editor|-] chapter=7 vp=604x725 svh=725 tb=469 ovfY=0 ovfX=0 gap=48px(6.6%)@y677",
+      "images": [
+        {
+          "url": "http://localhost:5175/art/pokemon/94.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://localhost:5175/art/pokemon/73.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://localhost:5175/art/pokemon/781.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://localhost:5175/art/pokemon/553.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://localhost:5175/art/pokemon/609.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://localhost:5175/art/pokemon/970.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://localhost:5175/art/pokemon/477.png",
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "dom": {
+        "viewport": [
+          604,
+          725
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 725,
+          "height": 725
+        },
+        "padding": {
+          "top": 40,
+          "bottom": 40,
+          "left": 16,
+          "right": 16
+        },
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    },
+    {
+      "name": "dense-p-map1",
+      "hud": "NOSCROLL shot=map1 on=[screen map-screen parent-progress-editor|-] stage=5 vp=604x725 svh=725 tb=469 ovfY=0 ovfX=0 gap=108px(14.9%)@y617",
+      "images": [
+        {
+          "url": "http://localhost:5175/art/pokemon/94.png",
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "dom": {
+        "viewport": [
+          604,
+          725
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 725,
+          "height": 725
+        },
+        "padding": {
+          "top": 40,
+          "bottom": 40,
+          "left": 16,
+          "right": 16
+        },
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    },
+    {
+      "name": "dense-p-map4",
+      "hud": "NOSCROLL shot=map4 on=[screen map-screen parent-progress-editor|-] stage=5 vp=604x725 svh=725 tb=469 ovfY=0 ovfX=0 gap=108px(14.9%)@y617",
+      "images": [
+        {
+          "url": "http://localhost:5175/art/pokemon/553.png",
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "dom": {
+        "viewport": [
+          604,
+          725
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 725,
+          "height": 725
+        },
+        "padding": {
+          "top": 40,
+          "bottom": 40,
+          "left": 16,
+          "right": 16
+        },
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    },
+    {
+      "name": "dense-l-world",
+      "hud": "NOSCROLL shot=world on=[screen chapter-select-screen parent-progress-editor|-] chapter=5 vp=725x604 svh=604 tb=230 ovfY=0 ovfX=0 gap=40px(6.6%)@y564",
+      "images": [
+        {
+          "url": "http://localhost:5175/art/pokemon/254.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://localhost:5175/art/pokemon/245.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://localhost:5175/art/pokemon/730.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://localhost:5175/art/pokemon/282.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://localhost:5175/art/pokemon/6.png",
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "dom": {
+        "viewport": [
+          725,
+          604
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 604,
+          "height": 604
+        },
+        "padding": {
+          "top": 40,
+          "bottom": 40,
+          "left": 16,
+          "right": 16
+        },
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    },
+    {
+      "name": "dense-l-chapters",
+      "hud": "NOSCROLL shot=chapters on=[screen chapter-select-screen parent-progress-editor|-] chapter=7 vp=725x604 svh=604 tb=230 ovfY=0 ovfX=0 gap=48px(7.9%)@y556",
+      "images": [
+        {
+          "url": "http://localhost:5175/art/pokemon/94.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://localhost:5175/art/pokemon/73.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://localhost:5175/art/pokemon/781.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://localhost:5175/art/pokemon/553.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://localhost:5175/art/pokemon/609.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://localhost:5175/art/pokemon/970.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://localhost:5175/art/pokemon/477.png",
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "dom": {
+        "viewport": [
+          725,
+          604
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 604,
+          "height": 604
+        },
+        "padding": {
+          "top": 40,
+          "bottom": 40,
+          "left": 16,
+          "right": 16
+        },
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    },
+    {
+      "name": "dense-l-map1",
+      "hud": "NOSCROLL shot=map1 on=[screen map-screen parent-progress-editor|-] stage=5 vp=725x604 svh=604 tb=230 ovfY=0 ovfX=0 gap=79px(13.1%)@y525",
+      "images": [
+        {
+          "url": "http://localhost:5175/art/pokemon/94.png",
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "dom": {
+        "viewport": [
+          725,
+          604
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 604,
+          "height": 604
+        },
+        "padding": {
+          "top": 40,
+          "bottom": 40,
+          "left": 16,
+          "right": 16
+        },
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    },
+    {
+      "name": "dense-l-map4",
+      "hud": "NOSCROLL shot=map4 on=[screen map-screen parent-progress-editor|-] stage=5 vp=725x604 svh=604 tb=230 ovfY=0 ovfX=0 gap=79px(13.1%)@y525",
+      "images": [
+        {
+          "url": "http://localhost:5175/art/pokemon/553.png",
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "dom": {
+        "viewport": [
+          725,
+          604
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 604,
+          "height": 604
+        },
+        "padding": {
+          "top": 40,
+          "bottom": 40,
+          "left": 16,
+          "right": 16
+        },
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    }
+  ],
+  "failures": []
+}
