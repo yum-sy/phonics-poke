@@ -2,7 +2,7 @@
 import assert from 'node:assert/strict'
 import { chapters, worlds } from '../src/data/chapters/index.js'
 
-const KEY = 'carbot-phonics-progress-v1'
+const KEY = 'phonics-poke-progress-v1'
 const storage = () => {
   const values = new Map()
   return { getItem: key => values.get(key) ?? null, setItem: (key, value) => values.set(key, String(value)), removeItem: key => values.delete(key) }
@@ -12,7 +12,7 @@ async function fresh(value = null, parent = false) {
   globalThis.localStorage = storage()
   globalThis.sessionStorage = storage()
   if (value) localStorage.setItem(KEY, JSON.stringify(value))
-  if (parent) sessionStorage.setItem('phonics-hero-parent-access-v1', '1')
+  if (parent) sessionStorage.setItem('phonics-poke-parent-access-v1', '1')
   return import(`../src/state.js?progress-case=${++serial}`)
 }
 const snapshot = state => JSON.parse(JSON.stringify(state.progress))
