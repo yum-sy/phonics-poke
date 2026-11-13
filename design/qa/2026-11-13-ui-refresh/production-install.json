@@ -1,0 +1,83 @@
+{
+  "base": "http://127.0.0.1:4195/phonics-poke",
+  "generatedAt": "2026-11-13T08:34:03.256Z",
+  "cases": [
+    {
+      "name": "standalone-manifest-start-scope-orientation-icons",
+      "passed": true,
+      "href": "http://127.0.0.1:4195/phonics-poke/manifest.webmanifest",
+      "manifest": {
+        "name": "Phonics Poke",
+        "short_name": "Phonics Poke",
+        "start_url": "./",
+        "scope": "./",
+        "display": "standalone",
+        "orientation": "any",
+        "background_color": "#c4dce6",
+        "theme_color": "#c4dce6",
+        "icons": [
+          {
+            "src": "icons/lucario-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any"
+          },
+          {
+            "src": "icons/lucario-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+          }
+        ]
+      },
+      "icons": [
+        {
+          "sizes": "192x192",
+          "width": 192,
+          "height": 192
+        },
+        {
+          "sizes": "512x512",
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "viewport": "width=device-width, initial-scale=1.0, viewport-fit=cover, user-scalable=no",
+      "start": "http://127.0.0.1:4195/phonics-poke/",
+      "scope": "http://127.0.0.1:4195/phonics-poke/"
+    },
+    {
+      "name": "catalog-691x829",
+      "passed": true,
+      "chapters": 33,
+      "cards": 165,
+      "safeTop": 24,
+      "safeBottom": 24
+    },
+    {
+      "name": "catalog-829x691",
+      "passed": true,
+      "chapters": 33,
+      "cards": 165,
+      "safeTop": 24,
+      "safeBottom": 24
+    },
+    {
+      "name": "catalog-604x725",
+      "passed": true,
+      "chapters": 33,
+      "cards": 165,
+      "safeTop": 24,
+      "safeBottom": 24
+    },
+    {
+      "name": "catalog-725x604",
+      "passed": true,
+      "chapters": 33,
+      "cards": 165,
+      "safeTop": 24,
+      "safeBottom": 24
+    }
+  ],
+  "failures": []
+}

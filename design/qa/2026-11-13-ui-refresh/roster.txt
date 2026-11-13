@@ -1,0 +1,1 @@
+PASS 165 stages, four-member fusion, 33 idle GIFs, disjoint roles, preserved sounds/language ranks; 1151 audio files unchanged
