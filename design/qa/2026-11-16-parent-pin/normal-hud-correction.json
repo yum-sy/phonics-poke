@@ -1,0 +1,79 @@
+{
+  "standalone": true,
+  "base": "http://127.0.0.1:5175",
+  "generatedAt": "2026-11-16T12:31:50.467Z",
+  "cases": [
+    {
+      "name": "fold-p-chapters",
+      "hud": "NOSCROLL shot=chapters on=[screen chapter-select-screen |-] chapter=7 vp=604x725 svh=725 tb=469 ovfY=0 ovfX=0 gap=40px(5.5%)@y0",
+      "images": [
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/94.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/73.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/781.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/553.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/609.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/970.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "url": "http://127.0.0.1:5175/art/pokemon/477.png",
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "dom": {
+        "viewport": [
+          604,
+          725
+        ],
+        "families": [],
+        "legacy": 0
+      },
+      "consoleErrors": [],
+      "networkFailures": [],
+      "bounds": {
+        "screen": {
+          "top": 0,
+          "bottom": 725,
+          "height": 725
+        },
+        "padding": {
+          "top": 40,
+          "bottom": 40,
+          "left": 16,
+          "right": 16
+        },
+        "locked": []
+      },
+      "motion": {
+        "reduced": false,
+        "activeBattleAnimations": 0,
+        "badges": 0
+      },
+      "passed": true
+    }
+  ],
+  "failures": []
+}
